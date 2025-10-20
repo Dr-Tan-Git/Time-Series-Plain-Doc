@@ -1,0 +1,285 @@
+Privacy Amendment Bill
+Government Bill
+
+292—3
+
+As reported from the committee of the whole House
+
+Key to symbols used
+text inserted
+text deleted
+Hover your cursor over an amendment for information about that amendment. Download the PDF version to see this information in a form that can be printed out.
+Hon Paul Goldsmith
+
+Privacy Amendment Bill
+Government Bill
+
+292—3
+
+Contents
+Key	
+1	Title	
+2	Commencement	
+3	Principal Act	
+Part 1
+Substantive amendments to principal Act
+4	Section 22 amended (Information privacy principles)	
+5	Section 25 amended (IPPs 1 to 4 do not apply to personal information collected before 1 July 1993)	
+6	New section 25A inserted (IPP 3A does not apply to personal information collected before 1 June 2025 1 May 2026)	
+25A	IPP 3A does not apply to personal information collected before 1 June 2025 1 May 2026	
+7	Section 27 amended (Restricted application of IPPs to personal information collected or held for personal or domestic affairs)	
+8	Section 28 replaced (IPPs 2, 3, and 4(b) do not apply to personal information collected by intelligence and security agencies)	
+28	IPPs 2, 3, 3A, and 4(b) do not apply to collection of personal information by intelligence and security agencies	
+9	Schedule 1 amended	
+9A	Amendment to Policing Act 2008	
+9B	Section 57 amended (Application of Privacy Act 2020 to assessment for suitability of employment)	
+Part 2
+Other amendments to principal Act
+10	Section 18 amended (Other functions of Commissioner)	
+11	Section 22 amended (Information privacy principles)	
+Collection of personal information from individual concerned
+12	Section 44 amended (Responding to IPP 6 request)	
+13	Section 49 amended (Protection, etc, of individual as reason for refusing access to personal information)	
+14	Section 63 amended (Decision on request to correct personal information)	
+Schedule
+New Part 2 inserted into Schedule 1
+Legislative history	
+The Parliament of New Zealand enacts as follows:
+
+1Title
+
+This Act is the Privacy Amendment Act 2023.
+2Commencement
+(1)
+
+Part 1 comes into force on 1 June 2025 1 May 2026.
+(2)
+
+Part 2 comes into force on the day after Royal assent.
+3Principal Act
+
+This Act amends the Privacy Act 2020.
+Part 1
+Substantive amendments to principal Act
+4Section 22 amended (Information privacy principles)
+
+In section 22, after information privacy principle 3, insert:
+Information privacy principle 3A
+Collection of personal information other than from individual concerned
+(1)	
+If an agency collects personal information about an individual other than from the individual concerned, the agency must take any steps that are, in the circumstances, reasonable to ensure that the individual concerned is aware of—
+(a)	
+the fact that the information has been collected; and
+(b)	
+the purpose for which the information has been collected; and
+(c)	
+the intended recipients of the information; and
+(d)	
+the name and address of—
+(i)	
+the agency that has collected the information; and
+(ii)	
+the agency that is holding the information; and
+(e)	
+if the collection of the information is authorised or required by or under the law, the particular law by or under which the collection of the information is authorised or required; and
+(f)	
+the rights of access to, and correction of, information provided by the IPPs.
+(2)	
+The steps referred to in subclause (1) must be taken as soon as is reasonably practicable after the information has been collected (unless taken sooner).
+(3)	
+An agency is not required to take the steps referred to in subclause (1) in relation to the collection of personal information if the individual concerned has previously been made aware by any means of all of the matters specified in subclause (1) in relation to the agency’s collection of the information.
+Example relating to IPP 3A(3)
+An agency (A) has collected personal information from the individual concerned. A has disclosed the information to another agency (B). B, after collecting the information, is not required to comply with subclause (1) if A, when complying with IPP 3, notified the individual concerned that the information would be disclosed to B and of the matters in subclause (1) in relation to B’s collection of the information.
+(4)	
+It is not necessary for an agency to comply with subclause (1) if the agency believes, on reasonable grounds,—
+(a)	
+that non-compliance would not prejudice the interests of the individual concerned; or
+(b)	
+that the information is publicly available information; or
+(c)	
+that non-compliance is necessary—
+(i)	
+to avoid prejudice to the maintenance of the law by any public sector agency, including prejudice to the prevention, detection, investigation, prosecution, and punishment of offences; or
+(ii)	
+for the enforcement of a law that imposes a pecuniary penalty; or
+(iii)	
+for the protection of public revenue; or
+(iv)	
+for the conduct of proceedings before any court or tribunal (being proceedings that have been commenced or are reasonably in contemplation); or
+(d)	
+that compliance would prejudice the purposes of the collection; or
+(e)	
+that compliance is not reasonably practicable in the circumstances of the particular case; or
+(h)	
+that compliance would cause a serious threat to—
+(i)	
+public health or safety; or
+(ii)	
+the health or safety of another individual; or
+Example relating to IPP 3A(4)﻿(h)﻿(i)
+An agency (C) has collected from another agency personal information about an individual who has a contagious disease. C needs to take immediate action to contain the spread of the disease. C would not have to comply with subclause (1) if C believes on reasonable grounds that the delay caused by compliance would cause a serious threat to public health or safety.
+(i)	
+that the information—
+(i)	
+will not be used in a form in which the individual concerned is identified; or
+(ii)	
+will be used for statistical or research purposes and will not be published in a form that could reasonably be expected to identify the individual concerned.
+(5)	
+It is not necessary for an agency to comply with subclause (1) if—
+(a)
+the agency collects personal information for the purpose of determining whether the information is of enduring value for general public interest and should be archived for public reference, study, or exhibition; and
+(b)
+compliance is likely to seriously impair the agency’s achievement of the purpose in paragraph (a).
+(6)	
+It is not necessary for an agency to comply with subclause (1) if compliance would be likely to prejudice—
+(a)	
+the security or defence of New Zealand, the Cook Islands, Niue, Tokelau, or the Ross Dependency; or
+(b)	
+the international relations of the Government of New Zealand, the Cook Islands, or Niue; or
+(c)	
+the relations between any of the Governments of—
+(i)
+New Zealand; or
+(ii)
+the Cook Islands; or
+(iii)
+Niue; or
+(d)	
+the entrusting of information to the Government of New Zealand on a basis of confidence by—
+(i)
+the Government of any other country or any agency of the Government of any other country; or
+(ii)
+any international organisation.
+(7)	
+It is not necessary for an agency to comply with subclause (1) if compliance would—
+(a)
+disclose a trade secret; or
+(b)
+be likely to unreasonably prejudice the commercial position of—
+(i)
+the person who supplied the information; or
+(ii)
+the individual concerned.
+5Section 25 amended (IPPs 1 to 4 do not apply to personal information collected before 1 July 1993)
+(1)
+
+In the heading to section 25, replace “IPPs 1 to 4” with “IPPs 1, 2, 3, and 4”.
+(2)
+
+In section 25, replace “IPPs 1 to 4” with “IPPs 1, 2, 3, and 4”.
+6New section 25A inserted (IPP 3A does not apply to personal information collected before 1 June 2025 1 May 2026)
+
+After section 25, insert:
+25AIPP 3A does not apply to personal information collected before 1 June 2025 1 May 2026
+
+IPP 3A does not apply to personal information collected before 1 June 2025 1 May 2026.
+7Section 27 amended (Restricted application of IPPs to personal information collected or held for personal or domestic affairs)
+
+In section 27(1), replace “1 to 3” with “1 to 3A”.
+8Section 28 replaced (IPPs 2, 3, and 4(b) do not apply to personal information collected by intelligence and security agencies)
+
+Replace section 28 with:
+28IPPs 2, 3, 3A, and 4(b) do not apply to collection of personal information by intelligence and security agencies
+
+IPPs 2, 3, 3A, and 4(b) do not apply to the collection of personal information by an intelligence and security agency.
+9Schedule 1 amended
+
+In Schedule 1,—
+(a)
+insert the Part set out in the Schedule of this Act as the last Part; and
+(b)
+make all necessary consequential amendments.
+9AAmendment to Policing Act 2008
+
+Section 9B amends the Policing Act 2008.
+9BSection 57 amended (Application of Privacy Act 2020 to assessment for suitability of employment)
+
+In section 57, after “3,”, insert “3A,”.
+Part 2
+Other amendments to principal Act
+10Section 18 amended (Other functions of Commissioner)
+
+After section 18(2), insert:
+(3)
+
+For the purpose of providing advice to the responsible Minister under subclause (2), the Commissioner may assess the privacy laws of a particular country on an individual basis or on the basis of the country being a member of a bloc of countries however described (for example, the specified country being a member of the European Economic Area and therefore subject to the General Data Protection Regulation).
+11Section 22 amended (Information privacy principles)
+
+In section 22, information privacy principle 3, replace the heading above subclause (1) with:
+Collection of personal information from individual concerned
+12Section 44 amended (Responding to IPP 6 request)
+
+In section 44(1), replace “If an agency does not transfer an IPP 6 request under section 43,” with “If an agency receives an IPP 6 request and section 43 does not apply,”.
+13Section 49 amended (Protection, etc, of individual as reason for refusing access to personal information)
+(1)
+
+Replace section 49(1)﻿(c) with:
+(c)
+the disclosure of the information would be contrary to the interests of—
+(i)
+the individual concerned who is under the age of 16 years; or
+(ii)
+another individual to whom the information relates who is under the age of 16 years; or
+(2)
+
+Replace section 49(1)﻿(d) with:
+(d)
+the disclosure of the information would be likely to prejudice the safe custody or the rehabilitation of—
+(i)
+the individual concerned who has been convicted of an offence or is or has been detained in custody; or
+(ii)
+another individual to whom the information relates who has been convicted of an offence or is or has been detained in custody.
+14Section 63 amended (Decision on request to correct personal information)
+
+In section 63(1), replace “As soon as is reasonably practicable after receiving a request under IPP 7(1), and in any case not later than 20 working days after receiving the request, an agency must— ” with “If an agency receives a correction request under IPP 7(1) and section 62 does not apply, the agency must, as soon as is reasonably practicable after receiving the request and in any case not later than 20 working days after receiving the request,— ”.
+Schedule
+New Part 2 inserted into Schedule 1
+s 9
+
+Part 2
+Provisions relating to Privacy Amendment Act 2023
+16Interpretation
+
+In this Part,—
+approved information sharing agreement means an information sharing agreement—
+(a)
+entered into under—
+(i)
+Part 9A of the Privacy Act 1993; or
+(ii)
+subpart 1 of Part 7 of this Act; and
+(b)
+approved by an Order in Council
+commencement date means the date on which this Part comes into force
+information matching agreement means an information matching agreement entered into under—
+(a)
+Part 10 of the Privacy Act 1993; or
+(b)
+subpart 4 of Part 7 of this Act.
+17Approved information sharing agreements
+
+IPP 3A does not apply to any personal information collected before, on, or after the commencement date under an approved information sharing agreement that was in force immediately before the commencement date.
+18Information matching agreements
+
+IPP 3A does not apply to any personal information collected before, on, or after the commencement date under an information matching agreement that was in force immediately before the commencement date.
+Legislative history
+6 September 2023
+
+Introduction (Bill 292–1)
+
+2 May 2024
+
+First reading and referral to Justice Committee
+
+25 October 2024
+
+Reported from Justice Committee (Bill 292–2)
+
+18 February 2025
+
+Second reading
+
+27 March 2025
+
+Committee of the whole House (Bill 292–3)
+

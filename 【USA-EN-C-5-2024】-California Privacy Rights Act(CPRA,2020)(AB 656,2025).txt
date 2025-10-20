@@ -1,0 +1,48 @@
+AB-656 Account cancellation.(2025-2026)
+Date Published: 10/09/2025 10:00 AM
+
+Assembly Bill No. 656
+
+ CHAPTER 464
+
+An act to add Title 25 (commencing with Section 3273.90) to Part 4 of Division 3 of the Civil Code, relating to social media platforms.
+
+[ Approved by Governor  October 08, 2025. Filed with Secretary of State  October 08, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+AB 656, Schiavo. Account cancellation.
+Existing law generally regulates social media platforms, including by requiring a social media company to post terms of service for each social media platform owned or operated by the company in a manner reasonably designed to inform all users of the social media platform of the existence and contents of the terms of service, as prescribed.
+Existing law, the California Consumer Privacy Act of 2018 (CCPA), grants a consumer various rights with respect to personal information that is collected or sold by a business, including the right to request that a business delete personal information about the consumer that the business has collected from the consumer, as specified. Existing law, the California Privacy Rights Act of 2020, an initiative measure approved by the voters as Proposition 24 at the November 3, 2020, statewide general election, amended, added to, and reenacted the CCPA.
+This bill would require a social media platform to provide a clear and conspicuous button that enables the user to delete their account and provide the user with the necessary steps to delete the user’s account and personal information if the user clicks on that button, in accordance with specified procedures. The bill would prohibit a social media platform from obstructing or interfering with a user’s ability to delete their account, as specified. The bill would provide that a user’s request to delete an account constitutes a request to delete the consumer’s personal information under the CCPA.
+Digest Key
+Vote: MAJORITY   Appropriation: NO   Fiscal Committee: NO   Local Program: NO  
+Bill Text
+The people of the State of California do enact as follows:
+
+SECTION 1. The Legislature finds and declares all of the following:
+(a) Research demonstrates that adolescent individuals are at greater risk of developing addictive disorders.
+(b) Further, excessive use of digital and social media has a documented connection to increases in suicide-related outcomes in teenagers and children, such as suicidal ideation, plans, and attempts.
+(c) According to the University of Chicago, “[f]irst, account deletion options vary considerably across platforms and the language used to describe these options is not always clear. Most platforms offer account deletion on desktop browsers but not all allow account deletion from mobile apps or browsers. Second, we found evidence of several dark patterns present in the account deletion interfaces and platform policies. Third, most participants had tried to delete at least one social media account, yet over one-third of deletion attempts were never completed.”
+(d) Adolescents seeking to terminate an account that has become a source of addiction should be able to terminate their account without obstruction.
+(e) For all of these reasons, the Legislature declares it necessary in order to preserve the peace, welfare, and lives of its residents to ensure a minimum level of customer service when users wish to delete their accounts.
+SEC. 2. Title 25 (commencing with Section 3273.90) is added to Part 4 of Division 3 of the Civil Code, to read:
+TITLE 25. Social Media Platforms Endangering Californians
+
+3273.90. As used in this title:
+(a) “Clearly and conspicuously” or “clear and conspicuous” has the same meaning as defined in Section 17601 of the Business and Professions Code.
+(b) “Dark pattern” has the same meaning as defined in subdivision (l) of Section 1798.140.
+(c) “Personal information” has the same meaning as defined in subdivision (v) of Section 1798.140 and any regulations promulgated thereunder.
+(d) “Social media platform” means a social media platform, as defined in Section 22675 of the Business and Professions Code, that generates more than one hundred million dollars ($100,000,000) per year in gross revenues.
+
+3273.91. (a) A social media platform shall provide a clear and conspicuous button that enables the user to delete their account that meets both of the following:
+(1) Is clearly and conspicuously placed as an immediately visible option in the social media platform’s settings menu with the words “Delete Account.”
+(2) The settings menu containing the button is accessible in the application, on a browser, or on any other format that a user can use to access the social media platform.
+(b) (1) If a user clicks on the button required by subdivision (a), the social media platform shall, when the button is clicked, provide a user with the steps necessary to complete an account deletion request, which shall include deletion of the user’s personal information.
+(2) If the social media platform seeks verification of the request to delete the account, that verification shall be done in a cost-effective and easy-to-use manner when the request in paragraph (1) is submitted through preestablished two-factor authentication, email, text message, telephone call, or message.
+(c) A social media platform shall not obstruct or interfere with a user’s ability to delete their account, including, but not limited to, by using dark patterns.
+(d) A request submitted pursuant to subdivision (b) shall constitute a request to delete the user’s personal information pursuant to Section 1798.105 and shall be processed in accordance with the requirements of the California Consumer Privacy Act of 2018 (Title 1.81.5 (commencing with Section 1798.100)).
+(e) A user login to an account for which a request under subdivision (b) has been submitted shall not, by itself, revoke that request.
+
+SEC. 3. (a) The provisions of this act are severable. If any provision of this act or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+(b) Any waiver of this act shall be void and unenforceable as contrary to public policy.

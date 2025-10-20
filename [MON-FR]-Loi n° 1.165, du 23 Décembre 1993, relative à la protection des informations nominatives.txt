@@ -1,0 +1,213 @@
+Loi n° 1.165 du 23 décembre 1993 réglementant les traitements d'informations nominatives.
+
+RAINIER III
+PAR LA GRACE DE DIEU
+PRINCE SOUVERAIN DE MONACO
+
+Avons sanctionné et sanctionnons la loi dont la teneur suit, que le Conseil National a adoptée dans sa séance du 13 décembre 1993.
+
+CHAPITRE 1er
+Des traitements automatisés d'informations nominatives
+
+Section 1
+De l'objet des traitements
+
+ARTICLE PREMIER
+Les traitements automatisés d'informations nominatives ne doivent pas porter atteinte aux libertés et droits fondamentaux consacrés par le Titre III de la Constitution.
+L'information nominative est celle qui permet d'identifier une personne physique déterminée ou déterminable.
+Le traitement automatisé est l'ensemble des opérations réalisées par des moyens automatiques. Celles-ci portent soit sur la collecte, l'enregistrement, l'élaboration, la modification, la conservation ou la destruction d'informations, soit sur l'exploitation de fichiers ou base de données, notamment les interconnexions ou rapprochements, les consultations ou communications d'informations.
+
+Section II
+De la commission de contrôle des informations nominatives
+
+ART. 2.
+Il est institué auprès du Ministre d'État une commission de contrôle des informations nominatives qui est chargée, dans les conditions déterminées par la loi :
+1°) de recevoir la déclaration de mise en œuvre de traitements par des personnes physiques ou des personnes morales de droit privé prévue à l'article 6 ou de donner, conformément à l'article 7, son avis lorsque des traitements doivent être mis en œuvre par des personnes morales de droit public;
+2°) d'établir et de tenir à jour le répertoire des traitements automatisés visé à l'article 10;
+3°) de faire contrôler le fonctionnement des traitements automatisés et de signaler les irrégularités relevées ;
+4°) d'instruire les pétitions formulées auprès du Ministre d'État et de lui présenter des propositions ;
+5°) de proposer les dispositions à édicter afin de fixer soit des mesures générales propres à assurer le contrôle et la sécurité des traitements, soit des mesures spéciales ou circonstancielles y compris, à titre exceptionnel, la destruction des supports d'information;
+6°) de faire tous rapports sur l'application des dispositions de la présente loi et des textes pris pour son application.
+
+ART. 3.
+Toute personne dont les droits conférés par la présente loi ou les textes pris pour son application ont été méconnus, ou celle ayant des raisons de présumer que ces droits ont été méconnus, peut saisir, par lettre recommandée avec demande d'avis de réception postal, le président de la commission de contrôle des informations nominatives, aux fins de mise en œuvre des mesures prévues au chapitre III.
+
+ART. 4.
+La commission est composée de trois membres titulaires et de trois membres suppléants proposés, en raison de leur compétence, comme suit :
+1°) un membre titulaire et un membre suppléant, par le Conseil National;
+2°) un membre titulaire et un membre suppléant, par le Conseil d'État ;
+3°) un membre titulaire et un membre suppléant, par le Ministre d'État.
+Les propositions sont faites hors des Conseils concernés et selon des modalités fixées par ordonnance souveraine.
+
+ART. 5.
+Les membres de la commission de contrôle des informations nominatives sont nommés pour des périodes de trois ans, par une ordonnance souveraine qui, parmi les membres titulaires, désigne le président. Ils peuvent être renouvelés dans leurs fonctions.
+Les règles de fonctionnement de la commission sont fixées par ordonnance souveraine.
+Les membres de la commission ainsi que toute personne dont elle s'assure le concours sont tenus au secret professionnel dans les conditions prévues à l'article 308 du Code pénal. Ils sont, en outre, liés par l'obligation de discrétion pour tout ce qui concerne les faits et informations dont ils ont connaissance dans l'exercice de leurs fonctions.
+
+Section III
+De la mise en œuvre des traitements
+
+ART. 6.
+Les personnes physiques ou morales de droit privé peuvent mettre en œuvre des traitements automatisés d'informations nominatives après avoir souscrit une déclaration auprès du président de la commission de contrôle des informations nominatives qui en délivre récépissé. L'accomplissement des formalités déclaratives permet la mise en œuvre du traitement sans exonérer le déclarant de sa responsabilité.
+Peuvent, toutefois, être édictées, par arrêté ministériel pris après avis motivé de la commission de contrôle des informations nominatives, les normes fixant les caractéristiques auxquelles doivent répondre les catégories déterminées de traitements ne comportant manifestement pas d'atteinte aux libertés et droits fondamentaux. Ces traitements peuvent être mis en œuvre sur déclaration simplifiée de conformité.
+
+ART. 7.
+La mise en œuvre de traitements par des personnes morales de droit public est décidée par les autorités compétentes après avis motivé de la commission de contrôle des informations nominatives.
+Si l'avis de la commission est défavorable, l'autorité compétente ne peut mettre en œuvre le traitement qu'après y avoir été autorisée par arrêté ministériel motivé.
+Avant le 1er avril de chaque année, les personnes morales de droit public autres que l'État communiquent une liste des traitements qu'elles mettent en œuvre au Ministre d'État. La liste générale des traitements mis en œuvre par ces personnes, à l'exception de ceux visés au dernier alinéa de l'article 10, est publiée par arrêté ministériel.
+
+ART. 8.
+La déclaration prévue au premier alinéa de l'article 6 et la demande d'avis prévue à l'article 7 doivent, pour être recevables, comporter :
+1°) l'identité du signataire et, lorsqu'il y a lieu, celle de la personne pour le compte de laquelle le traitement est mis en œuvre ;
+2°) les caractéristiques, la finalité et, s'il y a lieu, la dénomination du traitement;
+3°) la dénomination du service ou l'identité des personnes chargées de sa mise en œuvre et les mesures prises pour permettre l'exercice du droit d'accès aux informations;
+4°) les catégories de personnes qui, en raison de leurs fonctions, ont accès aux informations;
+5°) les informations, objet du traitement, leur origine, la durée de leur conservation, et les catégories de destinataires habilités à en recevoir communication;
+6°) les rapprochements, interconnexions ou toutes autres formes de mise en relation des informations ainsi que leur cession à des tiers;
+7°) les mesures prises pour assurer la sécurité du traitement et des informations et la garantie des secrets protégés par la loi;
+8°) la mention, lorsqu'il y a lieu, que le traitement est destiné à la communication d'informations à l'étranger, même dans le cas où il s'effectue à partir d'opérations antérieurement réalisées hors de Monaco.
+
+ART. 9.
+Toute modification intervenant dans l'un des éléments énoncés à l'article précédent doit faire l'objet, selon le cas, d'une déclaration ou d'une demande d'avis.
+La commission de contrôle des informations nominatives est avisée de la suppression du traitement.
+Sauf dispositions législatives contraires, les informations ne doivent pas être conservées sous une forme nominative au-delà de la durée prévue à la demande d'avis ou à la déclaration. Le Ministre d'État, après avis motivé de la commission, peut toutefois :
+- fixer un délai de conservation plus bref que celui prévu à la déclaration ou à la demande d'avis ;
+- autoriser la conservation au-delà de la durée prévue à la déclaration ou à la demande d'avis.
+
+Section IV
+Du répertoire des traitements
+
+ART. 10.
+Le répertoire des traitements comporte :
+1°) la date de déclaration ou de demande d'avis relative à la mise en œuvre d'un traitement;
+2°) les mentions portées dans la déclaration ou sur la demande;
+3°) la date de délivrance du récépissé de la déclaration ou la date de l'avis ;
+4°) les dates et les libellés des modifications apportées aux mentions visées au chiffre 2° ci-dessus ;
+5°) la date de suppression du traitement ;
+6°) celle, lorsqu'il y a lieu, de la radiation de l'inscription.
+Le répertoire peut être consulté par les personnes intéressées dans les conditions fixées à la section II du chapitre II.
+Les traitements automatisés intéressant la sécurité publique ne sont pas inscrits au répertoire.
+
+CHAPITRE II
+Des informations nominatives
+
+Section I
+De la collecte, de l'enregistrement et de l'utilisation des informations
+
+ART. 11.
+Nul ne peut procéder à des opérations de collecte, d'enregistrement ou d'utilisation d'informations nominatives à caractère médical ou concernant des infractions, des condamnations ou des mesures de sûreté.
+Toutefois, peuvent procéder à de telles opérations, dans le cadre exclusif des missions qui leur sont légalement conférées :
+1°) les autorités judiciaires et les autorités administratives pour ce qui est des informations nominatives concernant des infractions, des condamnations ou des mesures de sûreté ;
+2°) les autorités sanitaires, les établissements de soins, les organismes de prévention médicale et de prévoyance sociale ainsi que les médecins, pour leurs besoins professionnels, pour ce qui est des informations à caractère médical.
+
+ART. 12.
+La collecte, l'enregistrement et l'utilisation d'informations qui feraient apparaître des opinions ou des appartenances politiques, raciales, religieuses, philosophiques ou syndicales sont prohibés, sauf acceptation écrite et expresse de la personne intéressée. Celle-ci peut, à tout moment, revenir sur cette acceptation et solliciter de l'auteur ou de l'utilisateur du traitement la destruction ou l'effacement des informations la concernant.
+L'interdiction n'est toutefois pas applicable, lorsqu'un motif d'intérêt public le justifie, aux traitements visés à l'article 7, dont la mise en œuvre est autorisée par le Ministre d'État après avis motivé de la commission de contrôle des informations nominatives.
+L'interdiction n'est également pas applicable lorsque ces opérations concernent les membres d'une institution ecclésiale ou d'un groupement à caractère politique, religieux, philosophique, humanitaire ou syndical, dans le cadre de l'objet statutaire ou social de l'institution ou du groupement et pour les besoins de son fonctionnement.
+
+ART. 13.
+Toute personne physique ou morale a le droit :
+1°) de s'opposer, pour des raisons légitimes, à ce que des informations la concernant ou relatives à ses membres fassent l'objet d'un traitement, sauf le cas où celui-ci est mis en œuvre soit par des personnes morales de droit public, soit par des organismes de droit privé investis d'une mission d'intérêt général portés sur une liste établie par arrêté ministériel ;
+2°) d'accéder, dans les conditions prévues à la section II, aux informations visées au chiffre 1° et d'obtenir qu'elles soient modifiées, s'il y a lieu.
+Sauf dispositions législatives contraires, l'ascendant, le descendant jusqu'au second degré, ou le conjoint survivant d'une personne décédée, peut, s'il justifie d'un intérêt, exercer les droits prévus au présent article, pour ce qui est des informations concernant cette personne.
+Les dispositions du présent article ne sont pas applicables aux traitements visés au dernier alinéa de l'article 10.
+
+ART. 14.
+Les personnes auprès de qui des informations nominatives sont recueillies doivent être averties :
+1°) de leurs droits d'opposition et d'accès aux traitements et aux informations nominatives;
+2°) du caractère obligatoire ou facultatif des réponses;
+3°) des conséquences à leur égard du défaut de réponse;
+4°) de l'identité des destinataires de l'information.
+Lorsqu'il est procédé par voie de questionnaire, celui-ci doit comporter ces mêmes indications.
+Les dispositions du présent article ne sont pas applicables aux traitements visés au dernier alinéa de l'article 10 ainsi qu'à la collecte des informations nécessaires à la constatation des infractions et à la mise en œuvre des poursuites conséquentes.
+
+Section II
+De l'accès aux informations
+
+ART. 15.
+La personne qui a accès aux informations nominatives peut, sous réserve de justifier de son identité :
+1°) prendre connaissance, sans frais, du répertoire des traitements et interroger par écrit les personnes qui y sont inscrites, en vue de savoir si les traitements automatisés comportent des informations la concernant;
+2°) obtenir communication de ces informations sous une forme écrite, non codée et conforme au contenu des enregistrements en contrepartie du paiement d'une somme forfaitaire, variable selon les catégories de traitement et dont les montants sont fixés par arrêté ministériel pris après avis de la commission de contrôle des informations nominatives; sauf dispositions législatives contraires, les informations à caractère médical ne peuvent cependant être communiquées qu'au médecin désigné à cet effet par la personne intéressée.
+Il doit être procédé à la communication dans le mois suivant la réception de la demande. Toutefois, le président de la commission de contrôle des informations nominatives peut, après avis favorable de celle-ci, accorder des délais de réponse ou dispenser de répondre à des demandes abusives par leur nombre, leur caractère répétitif ou systématique, la personne intéressée dûment avisée.
+
+ART. 16.
+La personne intéressée peut exiger que soient rectifiées, complétées, clarifiées, mises à jour ou supprimées les informations la concernant lorsqu'elles se sont révélées inexactes, incomplètes, équivoques, périmées ou si leur collecte, leur enregistrement, leur communication ou leur conservation est prohibé.
+Sur sa demande, copie de l'enregistrement de l'information modifiée lui est délivrée sans frais; la somme payée lors de la demande de communication lui est remboursée.
+S'il y a eu communication à des destinataires, l'information modifiée ou sa suppression doit leur être notifiée, sauf dispense accordée par le président de la commission de contrôle des informations nominatives.
+
+Section III
+De la conservation, de la correction ou de la suppression des informations
+
+ART. 17.
+Toute personne physique ou morale qui met en œuvre des traitements automatisés d'informations nominatives est tenue de prendre les mesures propres à :
+1°) préserver la sécurité des informations pour empêcher que celles-ci soient déformées, endommagées ou communiquées à d'autres personnes que les destinataires indiqués dans la déclaration ou dans la demande d'avis ou dans les modifications des mentions primitives;
+2°) corriger d'office les informations qui sont erronées ou supprimer celles qui auraient été obtenues par des moyens frauduleux, déloyaux ou illicites ;
+3°) supprimer la forme nominative des informations à l'expiration du délai de conservation fixé dans la déclaration ou dans la demande d'avis ou à l'expiration de la période fixée par le Ministre d'État, conformément à l'article 9.
+
+CHAPITRE III
+Du contrôle de la mise en œuvre des traitements
+
+ART. 18.
+La commission de contrôle des informations nominatives fait procéder aux investigations nécessaires au contrôle de la mise en œuvre de la présente loi et des textes pris pour son application par des personnes habilitées, commissionnées et assermentées à cet effet, nommées par le Ministre d'État sur proposition de la commission et soumises aux obligations prévues au dernier alinéa de l'article 5.
+Ces personnes doivent être munies d'une lettre de mission du président de la commission de contrôle des informations nominatives précisant expressément le nom et l'adresse de la personne physique ou morale concernée, ainsi que l'objet de la mission, pour accéder aux locaux de celle-ci, pour procéder à toutes opérations de vérification nécessaires, pour consulter tout traitement, pour demander communication ou copie de tout document professionnel et pour recueillir auprès de toute personne compétente les renseignements utiles à leur mission.
+La visite de locaux et les opérations de vérification sur place ne peuvent avoir lieu qu'entre six et vingt-et-une heure et en presence de l'occupant des lieux, du propriétaire ou de l'utilisateur du traitement ou, à défaut, d'un officier de police judiciaire requis à cet effet.
+A l'issue de la visite et des opérations de vérification sur place, un compte-rendu est établi par les personnes habilitées. Un exemplaire est remis à l'occupant des lieux, au propriétaire ou à l'utilisateur du traitement ainsi qu'au Ministre d'État.
+
+ART. 19.
+Lorsque des irrégularités sont relevées à l'encontre de personnes physiques ou de personnes morales de droit privé, le président de la commission des informations nominatives saisit le Ministre d'État pour que la personne responsable soit mise en demeure de mettre fin aux irrégularités ou d'en supprimer les effets.
+Si la mise en demeure est restée infructueuse au terme du délai qu'elle a imparti, le président du tribunal de première instance, saisi par le Ministre d'État et statuant comme en matière de référé, ordonne toutes mesures propres à faire cesser les irrégularités ou à en supprimer les effets, sans préjudice des sanctions pénales encourues. La décision peut être assortie d'une astreinte.
+
+ART. 20.
+Lorsque des irrégularités sont observées dans la mise en œuvre de traitements par des services dépendant d'une personne morale de droit public, le Ministre d'État, également saisi par le président de la commission de contrôle des informations nominatives, prend toutes mesures pour qu'il soit mis fin aux irrégularités constatées ou que leurs effets soient supprimés.
+En ce qui concerne les services autres que ceux relevant du Ministre d'État, celui-demande aux organes d'administration compétents de prendre, aux mêmes fins, les mesures nécessaires, Au cas où celles-ci ne seraient pas prises, le Ministre d'État peut d'office les faire prendre.
+
+CHAPITRE IV
+Des pénalités
+
+ART. 21.
+Sont punis d'un emprisonnement d'un mois à six mois et de l'amende prévue au chiffre 3 de l'article 26 du Code pénal ou de l'une de ces deux peines seulement :
+1°) la personne physique ou les représentants statutaires d'une personne morale de droit privé qui mettent ou tentent de mettre en œuvre un traitement automatisé d'informations nominatives ou qui poursuivent ou tentent de poursuivre la mise en œuvre de ce traitement sans avoir effectué l'une des déclarations prévues à l'article 6;
+2°) ceux qui, sauf les dérogations prévues par la loi, s'abstiennent volontairement de communiquer à une personne intéressée les informations nominatives la concernant, de modifier ou de supprimer celles de ces informations qui se sont révélées inexactes, incomplètes, équivoques ou collectées en violation de la loi;
+3°) ceux qui par suite d'imprudences ou de négligences ne préservent pas ou ne font pas préserver la sécurité des informations nominatives ou divulguent ou laissent divulguer des informations ayant pour effet de porter atteinte à la réputation d'une personne ou à sa vie privée et familiale;
+4°) ceux qui conservent sciemment des informations nominatives au-delà du délai indiqué dans la déclaration ou dans la demande d'avis ou du délai fixé par le Ministre d'État.
+
+ART. 22.
+Sont punis d'un emprisonnement de trois mois à un an et de l'amende prévue au chiffre 4 de l'article 26 du Code pénal ou de l'une de ces deux peines seulement :
+1°) la personne physique ou les représentants statutaires d'une personne morale de droit privé qui, sauf les dérogations prévues par la loi, collectent ou font collecter, enregistrent ou font enregistrer, conservent ou font conserver, utilisent ou font utiliser des informations nominatives réservées à certaines autorités, établissements, organismes et personnes physiques ou des informations susceptibles de faire apparaître des opinions ou des appartenances politiques, raciales, religieuses, philosophiques ou syndicales;
+2°) ceux qui collectent ou font collecter des informations nominatives en employant ou en faisant employer des moyens frauduleux, déloyaux ou illicites;
+3°) ceux qui volontairement empêchent ou entravent les investigations opérées pour l'application de la loi ou ne fournissent pas les renseignements ou documents demandés:
+4°) ceux qui sciemment communiquent ou font communiquer des renseignements ou documents inexacts soit aux personnes intéressées soit à celles chargées d'effectuer les investigations nécessaires;
+5°) ceux qui s'abstiennent de déférer aux mises en demeure à eux adressées ou de prendre les mesures spéciales prescrites pour assurer le contrôle et la sécurité des traitements automatisés;
+6°) ceux qui collectent ou font collecter, enregistrent ou font enregistrer, conservent ou font conserver, utilisent ou font utiliser des informations nominatives en dépit de l'opposition de la personne concernée;
+7°) ceux qui, à l'exception des autorités compétentes, sciemment collectent ou font collecter, enregistrent ou font enregistrer, conservent ou font conserver, utilisent ou font utiliser des informations nominatives concernant des condamnations ou des mesures de sûreté ;
+8°) ceux qui sciemment communiquent à des personnes non qualifiées pour les recevoir des informations dont la divulgation peut porter atteinte à la réputation d'une personne physique ou à sa vie privée et familiale;
+9°) ceux qui sciemment utilisent ou font utiliser des informations nominatives pour un but autre que celui mentionné dans la déclaration.
+
+ART. 23.
+Toute condamnation prononcée en application des deux articles précédents entraîne, de plein droit, la cessation des effets de déclaration et la radiation du répertoire des traitements automatisés.
+Le tribunal peut, en outre, décider la confiscation et la destruction, sans indemnité, des supports des informations nominatives incriminées et interdire la réinscription au répertoire pendant un délai qui ne peut excéder trois ans ni être inférieur à six mois.
+Il peut également ordonner que la personne morale de droit privé soit tenue, solidairement avec son représentant statutaire, au paiement de l'amende prononcée à l'encontre de ce dernier.
+
+CHAPITRE V
+Dispositions diverses
+
+ART. 24.
+Les dispositions de la présente loi sont applicables même si les traitements automatisés d'informations nominatives mis en œuvre à Monaco sont uniquement destinés à être utilisés à l'étranger.
+Lorsque les traitements mis en œuvre à l'étranger sont accessibles à Monaco par des moyens automatiques, leurs utilisateurs dans la Principauté sont soumis, sous les peines prévues, aux dispositions de la présente loi, à l'exception de celles des sections III et IV du chapitre premier.
+
+ART. 25.
+Les dispositions du chapitre II sont applicables, en ce qui concerne la collecte, l'utilisation, la conservation et l'accès aux informations nominatives, aux fichiers non automatisés ou mécanographiques autres que ceux intéressant la sécurité publique ou dont l'usage relève de l'exercice du droit à la vie privée et familiale.
+
+ART. 26.
+Les personnes physiques ainsi que les personnes morales de droit public ou de droit privé qui, au jour de la publication de la présente loi, ont déjà mis en œuvre des traitements d'informations nominatives, doivent se conformer aux dispositions de celle-ci dans les neuf mois suivant la publication de l'ordonnance souveraine prise pour son application. A défaut, les peines prévues au chapitre IV sont applicables.
+
+La présente loi est promulguée et sera exécutée comme loi de l'État.
+
+Fait en Notre Palais à Monaco, le vingt-trois décembre mil neuf cent quatre-vingt-treize.
+
+RAINIER.
+
+Par le Prince,
+Le Secrétaire d'État :
+J.-C. MARQUET.
+

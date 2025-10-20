@@ -1,0 +1,518 @@
+Hamburgisches Datenschutzgesetz
+(HmbDSG)
+Vom 18. Mai 2018*)
+Zum 07.10.2025 aktuellste verfügbare Fassung der Gesamtausgabe
+Stand: 	letzte berücksichtigte Änderung: zuletzt geändert durch Gesetz vom 29. November 2024 (HmbGVBl. S. 615)
+Fußnoten
+
+*)
+    Verkündet als Artikel 1 des Gesetzes zur Anpassung des Hamburgischen Datenschutzgesetzes sowie weiterer Vorschriften an die Verordnung (EU) 2016/679 vom 18. Mai 2018 (HmbGVBl. S. 145)
+
+zur Einzelansicht Hamburgisches Datenschutzgesetz (HmbDSG) vom 18. Mai 2018
+
+Titel	Gültig ab
+Hamburgisches Datenschutzgesetz (HmbDSG) vom 18. Mai 2018	25.05.2018
+Inhaltsverzeichnis	25.05.2018
+Erster Abschnitt - Allgemeine Vorschriften	25.05.2018
+§ 1 - Zweck	25.05.2018
+§ 2 - Anwendungsbereich	25.05.2018
+§ 3 - Datengeheimnis	25.05.2018
+Zweiter Abschnitt - Grundsätze der Verarbeitung personenbezogener Daten	25.05.2018
+§ 4 - Zulässigkeit der Verarbeitung personenbezogener Daten	25.05.2018
+§ 5 - Erhebung personenbezogener Daten	25.05.2018
+§ 6 - Zweckbindung	25.05.2018
+§ 7 - Automatisierte Verfahren und Gemeinsame Dateien	25.05.2018
+§ 8 - Verantwortung bei der Offenlegung personenbezogener Daten	25.05.2018
+Dritter Abschnitt - Besondere Verarbeitungssituationen	25.05.2018
+§ 9 - Videoüberwachung	25.05.2018
+§ 10 - Verarbeitung von Beschäftigtendaten	25.05.2018
+§ 11 - Datenverarbeitung zum Zwecke wissenschaftlicher und historischer Forschung sowie Statistik	25.05.2018
+§ 12 - Datenverarbeitung zu künstlerischen Zwecken	25.05.2018
+Vierter Abschnitt - Besondere Bestimmungen für Verarbeitungen im Rahmen von nicht in den Anwendungsbereich der Verordnung (EU) 2016/679 fallenden Tätigkeiten	25.05.2018
+§ 13 - Öffentliche Auszeichnungen und Ehrungen	25.05.2018
+§ 14 - Begnadigungsverfahren	25.05.2018
+Fünfter Abschnitt - Rechte der Betroffenen	25.05.2018
+§ 15 - Beschränkung der Informationspflicht	25.05.2018
+§ 16 - Beschränkung des Auskunftsrechts	25.05.2018
+§ 17 - Beschränkung der Löschungspflicht	25.05.2018
+§ 18 - Beschränkung der Benachrichtigungspflicht	25.05.2018
+Sechster Abschnitt - Die beziehungsweise der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit	25.05.2018
+§ 19 - Zuständigkeit	03.12.2024
+§ 20 - Ernennungsvoraussetzungen	25.05.2018
+§ 21 - Rechtsstellung	25.05.2018
+§ 22 - Besondere Pflichten	25.05.2018
+§ 23 - Tätigkeit nach Beendigung des Amtsverhältnisses	25.05.2018
+§ 24 - Befugnisse und Rechte	25.05.2018
+§ 25 - Verwaltungsgebühren	03.12.2024
+Siebenter Abschnitt - Strafvorschriften, Ordnungswidrigkeiten	25.05.2018
+§ 26 - Strafvorschrift	25.05.2018
+§ 27 - Ordnungswidrigkeiten	25.05.2018
+Inhaltsübersicht
+Erster Abschnitt
+Allgemeine Vorschriften
+§ 1	Zweck
+§ 2	Anwendungsbereich
+§ 3	Datengeheimnis
+Zweiter Abschnitt
+Grundsätze der Verarbeitung personenbezogener Daten
+§ 4	Zulässigkeit der Verarbeitung personenbezogener Daten
+§ 5	Erhebung personenbezogener Daten
+§ 6	Zweckbindung
+§ 7	Automatisierte Verfahren und Gemeinsame Dateien
+§ 8 	Verantwortung bei der Offenlegung personenbezogener Daten
+Dritter Abschnitt
+Besondere Verarbeitungssituationen
+§ 9	Videoüberwachung
+§ 10	Verarbeitung von Beschäftigtendaten
+§ 11	Datenverarbeitung zum Zwecke wissenschaftlicher und historischer Forschung sowie Statistik
+§ 12	Datenverarbeitung zu künstlerischen Zwecken
+Vierter Abschnitt
+Besondere Bestimmungen für Verarbeitungen im Rahmen
+von nicht in den Anwendungsbereich der Verordnung (EU)
+2016/679 fallenden Tätigkeiten
+§ 13	Öffentliche Auszeichnungen und Ehrungen
+§ 14	Begnadigungsverfahren
+Fünfter Abschnitt
+Rechte der Betroffenen
+§ 15	Beschränkung der Informationspflicht
+§ 16	Beschränkung des Auskunftsrechts
+§ 17	Beschränkung der Löschungspflicht
+§ 18	Beschränkung der Benachrichtigungspflicht
+Sechster Abschnitt
+Die beziehungsweise der Hamburgische Beauftragte für
+Datenschutz und Informationsfreiheit
+§ 19	Zuständigkeit
+§ 20	Ernennungsvoraussetzungen
+§ 21	Rechtsstellung
+§ 22	Besondere Pflichten
+§ 23	Tätigkeit nach Beendigung des Amtsverhältnisses
+§ 24	Befugnisse und Rechte
+§ 25	Verwaltungsgebühren
+Siebenter Abschnitt
+Strafvorschriften, Ordnungswidrigkeiten
+§ 26	Strafvorschriften
+§ 27	Ordnungswidrigkeiten
+
+
+Erster Abschnitt
+Allgemeine Vorschriften
+§ 1
+Zweck
+
+Dieses Gesetz trifft die zur Durchführung der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. EU Nr. L 119 S. 1, L 314 S. 72) ergänzenden Regelungen. Darüber hinaus regelt dieses Gesetz für im Einzelnen bezeichnete Situationen die Verarbeitung personenbezogener Daten, die nicht in den Anwendungsbereich der Verordnung (EU) 2016/679 fallen.
+
+
+§ 2
+Anwendungsbereich
+
+(1) Dieses Gesetz gilt für die Verarbeitung personenbezogener Daten durch folgende Stellen und Einrichtungen der Freien und Hansestadt Hamburg (öffentliche Stellen):
+
+1.
+
+    Behörden,
+2.
+
+    den Rechnungshof,
+3.
+
+    die Bürgerschaft, die Gerichte und die Behörden der Staatsanwaltschaft, soweit sie Verwaltungsaufgaben wahrnehmen,
+4.
+
+    die der Aufsicht der Freien und Hansestadt Hamburg unterstehenden juristischen Personen des öffentlichen Rechts und deren öffentlich-rechtlich organisierte Einrichtungen,
+5.
+
+    Stellen, soweit sie als Beliehene hoheitliche Aufgaben wahrnehmen,
+6.
+
+    sonstige öffentlich-rechtlich organisierte Stellen oder Einrichtungen.
+
+(2) Für juristische Personen, Gesellschaften und andere Vereinigungen von Personen des privaten Rechts, an denen die Freie und Hansestadt Hamburg oder eine ihrer Aufsicht unterstehende juristische Person des öffentlichen Rechts beteiligt ist, gelten die Vorschriften der Verordnung (EU) 2016/679 sowie des Bundesdatenschutzgesetzes vom 30. Juni 2017 (BGBl. I S. 2097) über nicht-öffentliche Stellen in ihrer jeweils geltenden Fassung.
+
+(3) Soweit öffentliche Stellen im Sinne des Absatzes 1 als Unternehmen am Wettbewerb teilnehmen, sind auf diese unbeschadet anderer Rechtsgrundlagen die Vorschriften der Verordnung (EU) 2016/679 sowie des Bundesdatenschutzgesetzes über nicht-öffentliche Stellen in ihrer jeweils geltenden Fassung anzuwenden.
+
+(4) Dieses Gesetz gilt nicht für öffentliche Stellen, soweit deren Tätigkeit der Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates (ABl. EU Nr. L 119 S. 89) unterfällt.
+
+(5) Die Bürgerschaft, ihre Mitglieder, ihre Gremien, die Fraktionen und Gruppen sowie deren Verwaltungen unterliegen nicht den Bestimmungen dieses Gesetzes, soweit sie zur Wahrnehmung parlamentarischer Aufgaben personenbezogene Daten verarbeiten und dabei die von der Bürgerschaft zu erlassende Datenschutzordnung anzuwenden haben.
+
+(6) Fällt die Verarbeitung personenbezogener Daten durch die in Absatz 1 bezeichneten öffentlichen Stellen nicht in den Anwendungsbereich der Verordnung (EU) 2016/679, sind ihre Vorschriften entsprechend anzuwenden, es sei denn, dieses Gesetz oder andere spezielle Rechtsvorschriften enthalten abweichende Regelungen.
+
+
+§ 3
+Datengeheimnis
+
+(1) Denjenigen Personen, die bei den in § 2 Absatz 1 genannten öffentlichen Stellen oder ihren auftragnehmenden Stellen dienstlichen Zugang zu personenbezogenen Daten haben, ist es untersagt, personenbezogene Daten unbefugt zu einem anderen als dem zur jeweiligen Aufgabenerfüllung gehörenden Zweck zu verarbeiten, insbesondere bekannt zu geben oder zugänglich zu machen. Dieses Verbot besteht auch nach Beendigung der Tätigkeit fort.
+
+(2) Die Datenschutzbeauftragten nach Artikel 37 bis 39 der Verordnung (EU) 2016/679 der in § 2 Absatz 1 genannten öffentlichen Stellen sind, auch nach Beendigung ihrer Tätigkeit, zur Verschwiegenheit über die Identität Betroffener und Beschäftigter, die sich an sie gewandt haben, sowie über Umstände, die Rückschlüsse auf diese Personen zulassen, verpflichtet.
+
+
+Zweiter Abschnitt
+Grundsätze der Verarbeitung personenbezogener Daten
+§ 4
+Zulässigkeit der Verarbeitung personenbezogener Daten
+
+Die Verarbeitung personenbezogener Daten durch eine der in § 2 Absatz 1 genannten öffentlichen Stellen ist zulässig, wenn sie zur Erfüllung der in der Zuständigkeit des Verantwortlichen liegenden Aufgabe oder in Ausübung öffentlicher Gewalt, die dem Verantwortlichen übertragen wurde, erforderlich ist.
+
+
+§ 5
+Erhebung personenbezogener Daten
+
+(1) Bei nicht-öffentlichen Dritten sollen personenbezogene Daten nur unter den in § 6 Absatz 2 genannten Voraussetzungen erhoben werden.
+
+(2) Werden personenbezogene Daten bei Dritten erhoben, sind diese auf Verlangen über den Erhebungszweck zu unterrichten, soweit dadurch schutzwürdige Interessen der betroffenen Person nicht beeinträchtigt werden. Werden die Daten auf Grund einer Rechtsvorschrift erhoben, die zur Auskunft verpflichtet, ist auf die Auskunftspflicht, sonst auf die Freiwilligkeit der Angaben hinzuweisen.
+
+
+§ 6
+Zweckbindung
+
+(1) Vom Zweck einer Verarbeitung personenbezogener Daten einschließlich solcher im Sinne von Artikel 9 der Verordnung (EU) 2016/679 erfasst ist auch die Verarbeitung zur Wahrnehmung von Aufsichts- und Kontrollbefugnissen, zur Rechnungsprüfung, zur Durchführung von Organisationsuntersuchungen sowie zu Zwecken der Datensicherung, Datenschutzkontrolle oder zur Sicherstellung eines ordnungsgemäßen Betriebs einer Datenverarbeitungsanlage. Dies gilt auch für die Verarbeitung personenbezogener Daten zu Aus- und Fortbildungszwecken, soweit nicht berechtigte Interessen der betroffenen Person an der Geheimhaltung der Daten offensichtlich überwiegen.
+
+(2) Eine Verarbeitung personenbezogener Daten zu anderen als den ursprünglichen Zwecken ist zulässig, wenn
+
+1.
+
+    dies zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer Gefahr für die öffentliche Sicherheit, die Verteidigung oder die nationale Sicherheit erforderlich ist,
+2.
+
+    dies zur Abwehr einer schwerwiegenden Beeinträchtigung der Rechte einer anderen Person erforderlich ist,
+3.
+
+    sie zur Verfolgung von Straftaten oder Ordnungswidrigkeiten, zur Vollstreckung oder zum Vollzug von Strafen oder von Maßnahmen im Sinne des § 11 Absatz 1 Nummer 8 des Strafgesetzbuches oder von Erziehungsmaßregeln oder Zuchtmitteln im Sinne des Jugendgerichtsgesetzes oder zur Erledigung eines gerichtlichen Auskunftsersuchens erforderlich sind und gesetzliche Regelungen nicht entgegenstehen,
+4.
+
+    dies erforderlich ist, um Angaben der betroffenen Person zu überprüfen, weil tatsächliche Anhaltspunkte für deren Unrichtigkeit bestehen,
+5.
+
+    bei Teilnahme am Privatrechtsverkehr oder zur Durchsetzung öffentlich-rechtlicher Forderungen ein rechtliches Interesse an der Kenntnis der zu verarbeitenden Daten vorliegt und kein Grund zu der Annahme besteht, dass das schutzwürdige Interesse der betroffenen Personen an der Geheimhaltung überwiegt,
+6.
+
+    offensichtlich ist, dass sie im Interesse der betroffenen Person liegt und diese in Kenntnis des anderen Zwecks ihre Einwilligung erteilen würde,
+7.
+
+    die Daten unmittelbar aus allgemein zugänglichen Quellen entnommen werden durften oder entnommen werden dürfen oder die Daten verarbeitende Stelle sie veröffentlichen dürfte, es sei denn, dass schutzwürdige Interessen der betroffenen Personen offensichtlich entgegenstehen,
+8.
+
+    sie der Bearbeitung von Eingaben, parlamentarischen Anfragen oder Aktenvorlageersuchen der Bürgerschaft dient und überwiegende schutzwürdige Interessen der betroffenen Personen nicht entgegenstehen,
+9.
+
+    es zur Durchführung wissenschaftlicher oder historischer Forschung oder Statistik erforderlich ist, das Interesse an der Durchführung des Forschungs- oder Statistikvorhabens das Interesse der Betroffenen an dem Ausschluss der Zweckänderung erheblich überwiegt und der Forschungs- oder Statistikzweck auf andere Weise nicht oder nur mit unverhältnismäßigem Aufwand erreicht werden kann.
+
+(3) Unterliegen die personenbezogenen Daten einem Berufsgeheimnis und sind sie der Daten verarbeitenden Stelle von der zur Verschwiegenheit verpflichteten Person in Ausübung ihrer Berufspflicht übermittelt worden, findet Absatz 2 keine Anwendung.
+
+(4) Sind mit personenbezogenen Daten weitere Daten der betroffenen Person oder Dritter derart verbunden, dass ihre Trennung nach erforderlichen und nicht erforderlichen Daten nicht oder nur mit unverhältnismäßigem Aufwand möglich ist, so sind auch die Kenntnisnahme, die Weitergabe innerhalb des Verantwortlichen und die Übermittlung der Daten, die nicht zur Erfüllung der jeweiligen Aufgabe erforderlich sind, zulässig, soweit nicht schutzwürdige Belange der betroffenen Person oder Dritter überwiegen. Die nicht erforderlichen Daten unterliegen insoweit einem Verarbeitungsverbot.
+
+
+§ 7
+Automatisierte Verfahren und Gemeinsame Dateien
+
+Die Einrichtung eines automatisierten Abrufverfahrens oder einer gemeinsamen automatisierten Datei, in oder aus der mehrere Daten verarbeitende Stellen personenbezogene Daten verarbeiten, ist zulässig, soweit dies unter Berücksichtigung der Rechte und Freiheiten der betroffenen Personen und der Aufgaben der beteiligten Stellen angemessen ist und durch technische und organisatorische Maßnahmen Risiken für die Rechte und Freiheiten der betroffenen Personen vermieden werden können.
+
+
+§ 8
+Verantwortung bei der Offenlegung personenbezogener Daten
+
+(1) Die Verantwortung für die Rechtmäßigkeit einer Offenlegung personenbezogener Daten durch deren Übermittlung, Verbreitung oder eine sonstige Form der Bereitstellung trägt die offenlegende Stelle.
+
+(2) Erfolgt eine Offenlegung personenbezogener Daten durch deren Übermittlung, Verbreitung oder eine sonstige Form der Bereitstellung auf Grund eines Ersuchens einer öffentlichen Stelle, trägt diese die Verantwortung für die Einhaltung des Datenschutzes. Die offenlegende Stelle prüft nur, ob das Ersuchen im Rahmen der Aufgaben der Empfängerin oder des Empfängers liegt, es sei denn, dass im Einzelfall Anlass zur Prüfung der Rechtmäßigkeit der Datenverarbeitung besteht. Die ersuchende Stelle hat in dem Ersuchen die für diese Prüfung erforderlichen Angaben zu machen.
+
+(3) Bei Nutzung eines automatisierten Abrufverfahrens trägt die abrufende Stelle die Verantwortung für die Rechtmäßigkeit des Abrufes.
+
+
+Dritter Abschnitt
+Besondere Verarbeitungssituationen
+§ 9
+Videoüberwachung
+
+(1) Die Beobachtung öffentlich zugänglicher Bereiche mit optisch-elektronischen Einrichtungen (Videobeobachtung) ist nur zulässig, soweit und solange sie
+
+1.
+
+    zur Aufgabenerfüllung öffentlicher Stellen oder
+2.
+
+    zur Wahrnehmung des Hausrechts
+
+erforderlich ist und keine Anhaltspunkte bestehen, dass schutzwürdige Interessen der Betroffenen überwiegen. Die Beobachtung nicht-öffentlich zugänglicher Bereiche ist über die in Satz 1 genannten Voraussetzungen hinaus nur zulässig, soweit und solange dies zur Abwehr von Gefahren für Leib, Leben oder Freiheit einer Person oder für bedeutende Sach- oder Vermögenswerte erforderlich ist.
+
+(2) Die Speicherung (Videoaufzeichnung) oder Verwendung der nach Absatz 1 erhobenen Daten ist zulässig, soweit und solange sie zum Erreichen des verfolgten Zwecks erforderlich ist und keine Anhaltspunkte bestehen, dass schutzwürdige Interessen der Betroffenen überwiegen. Eine Verarbeitung zu einem anderen Zweck ist nur zulässig, wenn dies zur Verfolgung von Straftaten oder zur Abwehr von Gefahren für Leib, Leben oder Freiheit einer Person oder für bedeutende Sach- oder Vermögenswerte erforderlich ist.
+
+(3) Videobeobachtung und Videoaufzeichnung sowie die verantwortliche Stelle sind zum frühestmöglichen Zeitpunkt durch geeignete Maßnahmen erkennbar zu machen.
+
+
+§ 10
+Verarbeitung von Beschäftigtendaten
+
+(1) Die in § 2 Absatz 1 genannten öffentlichen Stellen dürfen personenbezogene Daten einschließlich Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ihrer Bewerberinnen und Bewerber, Beschäftigten, früheren Beschäftigten und von deren Hinterbliebenen nur verarbeiten, soweit dies eine Rechtsvorschrift, ein Tarifvertrag, eine allgemeine Regelung der obersten Dienstbehörde, die mit den Spitzenorganisationen der zuständigen Gewerkschaften und Berufsverbände beziehungsweise mit den Berufsverbänden der Richterinnen und Richter verbindlich vereinbart worden ist, oder eine Dienstvereinbarung vorsieht. Soweit derartige Regelungen nicht bestehen, gelten ergänzend zur Verordnung (EU) 2016/679 die Absätze 2 bis 7.
+
+(2) Die in § 2 Absatz 1 genannten öffentlichen Stellen dürfen, soweit die nachfolgenden Absätze keine besonderen Regelungen enthalten, personenbezogene Daten einschließlich Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 der in Absatz 1 genannten Personen nur verarbeiten, soweit dies zur Eingehung, Durchführung, Beendigung oder Abwicklung des Beschäftigungsverhältnisses oder zur Durchführung organisatorischer, personeller oder sozialer Maßnahmen, insbesondere auch zu Zwecken der Personalplanung oder des Personaleinsatzes, erforderlich ist.
+
+(3) §§ 85 bis 92 des Hamburgischen Beamtengesetzes (HmbBG) vom 15. Dezember 2009 (HmbGVBl. S. 405), zuletzt geändert am 4. April 2017 (HmbGVBl. S. 99), in der jeweils geltenden Fassung sind auf diejenigen in Absatz 1 genannten Personen entsprechend anzuwenden, die nicht in den Anwendungsbereich dieser Vorschriften fallen.
+
+(4) Eine Übermittlung der Daten von Beschäftigten an Stellen außerhalb des öffentlichen Bereichs ist nur zulässig, soweit
+
+1.
+
+    die Stelle, der die Daten übermittelt werden sollen, ein überwiegendes rechtliches Interesse darlegt,
+2.
+
+    Art oder Zielsetzung der Aufgaben, die der oder dem Beschäftigten übertragen sind, die Übermittlung erfordert
+
+    oder
+3.
+
+    offensichtlich ist, dass die Übermittlung im Interesse der betroffenen Person liegt, und keine Anhaltspunkte vorliegen, dass diese in Kenntnis des Übermittlungszweckes ihre Einwilligung nicht erteilen würde.
+
+Die Übermittlung an eine künftige Dienstherrin oder Arbeitgeberin oder einen künftigen Dienstherrn oder Arbeitgeber ist nur mit Einwilligung der betroffenen Person zulässig, es sei denn, dass eine Abordnung oder Versetzung vorbereitet wird, die der Zustimmung der oder des Beschäftigten nicht bedarf. Absatz 3 in Verbindung mit § 89 HmbBG bleibt unberührt.
+
+(5) Verlangt eine in § 2 Absatz 1 genannte öffentliche Stelle medizinische oder psychologische Untersuchungen oder Tests (Untersuchungen), so hat sie Anlass und Zweck der Untersuchung anzugeben sowie erforderlichenfalls auf die der betroffenen Person obliegenden Aufgaben hinzuweisen. Sie darf von der untersuchenden Stelle nur die Mitteilung der Untersuchungsergebnisse sowie derjenigen festgestellten Risikofaktoren verlangen, deren Kenntnis für ihre Entscheidung in personellen Angelegenheiten der betroffenen Person erforderlich ist; darüber hinaus gehende Daten darf sie nur verlangen, soweit auch deren Kenntnis für ihre Entscheidung erforderlich ist. Führt eine in § 2 Absatz 1 genannte öffentliche Stelle die Untersuchungen durch, so gilt für die Weitergabe der erhobenen Daten Satz 2 entsprechend. Im Übrigen ist eine Weiterverarbeitung der bei den Untersuchungen erhobenen Daten ohne Einwilligung der betroffenen Person nur zu dem Zweck zulässig, zu dem sie erhoben worden sind.
+
+(6) Personenbezogene Daten, die vor der Eingehung eines Beschäftigungsverhältnisses erhoben wurden, sind unverzüglich zu löschen, sobald feststeht, dass ein Beschäftigungsverhältnis nicht zustande kommt. Dies gilt nicht, soweit überwiegende berechtigte Interessen der Daten verarbeitenden Stelle der Löschung entgegenstehen oder die betroffene Person in die weitere Speicherung einwilligt. Nach Beendigung eines Beschäftigungsverhältnisses sind personenbezogene Daten zu löschen, soweit diese Daten nicht mehr benötigt werden, es sei denn, dass Rechtsvorschriften entgegenstehen.
+
+(7) Soweit Daten der Beschäftigten im Rahmen der Durchführung der technischen und organisatorischen Maßnahmen nach Artikel 32 der Verordnung (EU) 2016/679 verarbeitet werden, dürfen sie nicht zu Zwecken der Verhaltens- oder Leistungskontrolle genutzt werden.
+
+(8) § 11 bleibt unberührt.
+
+
+§ 11
+Datenverarbeitung zum Zwecke wissenschaftlicher
+und historischer Forschung sowie Statistik
+
+(1) Die in § 2 Absatz 1 genannten Stellen dürfen für bestimmte Vorhaben personenbezogene Daten einschließlich Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ohne Einwilligung für wissenschaftliche oder historische Forschungszwecke verarbeiten, soweit schutzwürdige Interessen der betroffenen Personen wegen der Art der Daten, wegen ihrer Offenkundigkeit oder wegen der Art der Verwendung nicht beeinträchtigt werden. Einer Einwilligung bedarf es auch nicht, wenn das öffentliche Interesse an der Durchführung des Forschungsvorhabens die schutzwürdigen Belange der betroffenen Person erheblich überwiegt und der Zweck der Forschung nicht auf andere Weise erreicht werden kann oder erheblich beeinträchtigt würde. Die an die in Satz 1 genannten Stellen übermittelten personenbezogenen Daten dürfen nur mit Einwilligung der betroffenen Personen weiter übermittelt oder für einen anderen als den ursprünglichen Zweck verarbeitet werden.
+
+(2) Personenbezogene Daten einschließlich Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 sind, soweit und sobald der Forschungs- oder Statistikzweck dies zulässt, dergestalt zu verändern, dass die Einzelangaben über persönliche oder sachliche Verhältnisse nicht mehr einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können (Anonymisierung), es sei denn, berechtigte Interessen der betroffenen Person stehen dem entgegen. Anderenfalls sind sie sobald möglich zu pseudonymisieren (Artikel 4 Nummer 5 der Verordnung (EU) 2016/679). Merkmale, mit denen Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können, dürfen mit den Einzelangaben nur zusammengeführt werden, soweit der Forschungs- oder Statistikzweck oder die berechtigten Interessen der betroffenen Person dies erfordern. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
+
+(3) Die wissenschaftliche oder historische Forschung oder Statistik betreibenden öffentlichen Stellen dürfen personenbezogene Daten nur veröffentlichen, wenn
+
+1.
+
+    die betroffene Person eingewilligt hat oder
+2.
+
+    dies für die Darstellung von Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist.
+
+(4) An Dritte oder Stellen, die den Vorschriften dieses Gesetzes nicht unterliegen, dürfen personenbezogene Daten nur übermittelt werden, wenn diese sich verpflichten, die Bestimmungen der Absätze 2 und 3 einzuhalten.
+
+(5) Das Recht auf Auskunft nach Artikel 15 der Verordnung (EU) 2016/679, auf Berichtigung nach Artikel 16 der Verordnung (EU) 2016/679, auf Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU) 2016/679 und auf Widerspruch nach Artikel 21 der Verordnung (EU) 2016/679 bestehen nicht, soweit die Wahrnehmung dieser Rechte die Verwirklichung des wissenschaftlichen oder historischen Forschungszwecks oder des Statistikzwecks voraussichtlich unmöglich machen oder ernsthaft beeinträchtigen würde.
+
+
+§ 12
+Datenverarbeitung zu künstlerischen Zwecken
+
+(1) Soweit personenbezogene Daten zu künstlerischen Zwecken verarbeitet werden, gelten von den Kapiteln II bis VII sowie IX der Verordnung (EU) 2016/679 nur Artikel 5 Absatz 1 Buchstaben b und f sowie die Artikel 24, 32 und 33.
+
+(2) Führt die Verarbeitung personenbezogener Daten gemäß Absatz 1 zur Verbreitung von Gegendarstellungen der betroffenen Person oder zu Verpflichtungserklärungen, Gerichtsentscheidungen über die Unterlassung der Verbreitung oder über den Widerruf des Inhalts der Daten, so sind diese Gegendarstellungen, Verpflichtungserklärungen, Gerichtsentscheidungen und Widerrufe zu den gespeicherten Daten zu nehmen und dort für dieselbe Zeitdauer aufzubewahren, wie die Daten selbst sowie bei einer Offenlegung der Daten gemeinsam offenzulegen.
+
+(3) Die Absätze 1 und 2 gelten auch für nicht-öffentliche Stellen.
+
+
+Vierter Abschnitt
+Besondere Bestimmungen für Verarbeitungen im Rahmen von nicht
+in den Anwendungsbereich der Verordnung (EU) 2016/679 fallenden Tätigkeiten
+§ 13
+Öffentliche Auszeichnungen und Ehrungen
+
+(1) Zur Vorbereitung öffentlicher Auszeichnungen und Ehrungen dürfen die zuständigen Stellen die dazu erforderlichen Daten einschließlich Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 auch ohne Kenntnis der betroffenen Person verarbeiten. Auf Anforderung der in Satz 1 genannten Stellen dürfen andere öffentliche Stellen die zur Vorbereitung der Auszeichnung oder Ehrung erforderlichen Daten übermitteln.
+
+(2) Eine Verarbeitung dieser personenbezogenen Daten für andere Zwecke ist nur mit Einwilligung der betroffenen Person zulässig.
+
+(3) Die Absätze 1 und 2 finden keine Anwendung, wenn der Daten verarbeitenden Stelle bekannt ist, dass die betroffene Person ihrer öffentlichen Auszeichnung oder Ehrung oder der mit ihr verbundenen Datenverarbeitung widersprochen hat.
+
+(4) Es besteht weder eine Informationspflicht noch eine Auskunftspflicht des Verantwortlichen.
+
+
+§ 14
+Begnadigungsverfahren
+
+In Begnadigungsverfahren ist die Verarbeitung personenbezogener Daten einschließlich Daten im Sinne von Artikel 9 Absatz 1 und Artikel 10 der Verordnung (EU) 2016/679 zulässig, soweit sie zur Ausübung des Gnadenrechts durch die zuständigen Stellen erforderlich ist. Entsprechend anzuwenden sind nur Artikel 5 bis 7 sowie Kapitel IV mit Ausnahme von Artikel 33 der Verordnung (EU) 2016/679.
+
+
+Fünfter Abschnitt
+Rechte der Betroffenen
+§ 15
+Beschränkung der Informationspflicht
+
+(1) Eine Information gemäß Artikel 13 oder 14 der Verordnung (EU) 2016/679 erfolgt nicht, soweit und solange
+
+1.
+
+    die Information die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde,
+2.
+
+    die Tatsache der Verarbeitung nach einer Rechtsvorschrift oder wegen der Rechte und Freiheiten anderer Personen geheim zu halten ist,
+3.
+
+    dies zur Verfolgung von Straftaten und Ordnungswidrigkeiten erforderlich ist,
+4.
+
+    dies die Geltendmachung, Ausübung oder Verteidigung rechtlicher Ansprüche beeinträchtigen würde und die Interessen des Verantwortlichen an der Nichterteilung der Information die Interessen der betroffenen Person überwiegen oder
+5.
+
+    eine Weiterverarbeitung analog gespeicherter Daten vorgenommen wird, bei der sich der Verantwortliche durch die Weiterverarbeitung unmittelbar an die betroffene Person wendet, der Zweck mit dem ursprünglichen Erhebungszweck gemäß der Verordnung (EU) 2016/679 vereinbar ist, die Kommunikation mit der betroffenen Person nicht in digitaler Form erfolgt und das Interesse der betroffenen Person an der Informationserteilung nach den Umständen des Einzelfalls, insbesondere den Zusammenhang, in dem die Daten erhoben wurden, als gering anzusehen ist.
+
+(2) Bezieht sich die Informationserteilung auf die Übermittlung personenbezogener Daten an Behörden und Stellen der Staatsanwaltschaft, der Polizei, der Landesfinanzbehörden, soweit diese personenbezogene Daten in Erfüllung ihrer gesetzlichen Aufgaben im Anwendungsbereich der Abgabenordnung zur Überwachung und Prüfung speichern, der Behörden des Verfassungsschutzes, des Bundesnachrichtendienstes, des Militärischen Abschirmdienstes und, soweit die Sicherheit des Bundes berührt wird, anderen Behörden des Bundesministeriums der Verteidigung, ist mit diesen zuvor Einvernehmen herzustellen.
+
+(3) Wird nach Absatz 1 Nummern 1 bis 3 und 5 oder Absatz 2 von einer Information der betroffenen Person abgesehen, hat der Verantwortliche die Gründe hierfür zu dokumentieren.
+
+
+§ 16
+Beschränkung des Auskunftsrechts
+
+(1) Anträge auf Auskunftserteilung nach Artikel 15 der Verordnung (EU) 2016/679 können abgelehnt werden, soweit und solange
+
+1.
+
+    die Auskunft die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde,
+2.
+
+    die Auskunft dazu führen würde, dass Sachverhalte, die nach einer Rechtsvorschrift oder wegen der Rechte und Freiheiten anderer Personen geheim zu halten sind, aufgedeckt werden, oder
+3.
+
+    dies zur Verfolgung von Straftaten und Ordnungswidrigkeiten erforderlich ist.
+
+(2) Die Ablehnung einer Auskunft bedarf keiner Begründung, soweit durch die Begründung der Zweck der Ablehnung gefährdet würde. In diesem Fall sind die wesentlichen Gründe für die Entscheidung zu dokumentieren. Wird der betroffenen Person keine Auskunft erteilt, so ist sie darauf hinzuweisen, dass sie sich an die Hamburgische Beauftragte beziehungsweise den Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit wenden kann. Auf ihr Verlangen ist der oder dem Beauftragten für Datenschutz und Informationsfreiheit die Auskunft zu erteilen, soweit nicht die jeweils zuständige Behörde im Einzelfall feststellt, dass dadurch die Sicherheit des Bundes oder eines Landes gefährdet würde.
+
+(3) Bezieht sich die Auskunft auf die Herkunft personenbezogener Daten von Behörden des Verfassungsschutzes, der Staatsanwaltschaft und der Polizei, von Landesfinanzbehörden, soweit diese personenbezogene Daten in Erfüllung ihrer gesetzlichen Aufgaben im Anwendungsbereich der Abgabenordnung zur Überwachung und Prüfung speichern, sowie vom Bundesnachrichtendienst, Militärischen Abschirmdienst und, soweit die Sicherheit des Bundes berührt wird, von anderen Behörden des Bundesministeriums der Verteidigung, ist mit diesen zuvor Einvernehmen herzustellen. Gleiches gilt, soweit sich die Auskunft auf die Übermittlung personenbezogener Daten an diese Behörden bezieht.
+
+
+§ 17
+Beschränkung der Löschungspflicht
+
+Ergänzend zu Artikel 18 Absatz 1 Buchstaben b und c der Verordnung (EU) 2016/679 gilt Artikel 17 Absatz 1 der Verordnung (EU) 2016/679 nicht, soweit und solange der Verantwortliche Grund zu der Annahme hat, dass durch eine Löschung personenbezogener Daten schutzwürdige Interessen der betroffenen Person beeinträchtigt werden. In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung gemäß Artikel 18 der Verordnung (EU) 2016/679. Der Verantwortliche benachrichtigt die betroffene Person über die Einschränkung der Verarbeitung.
+
+
+§ 18
+Beschränkung der Benachrichtigungspflicht
+
+(1) Der Verantwortliche kann von der Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person gemäß Artikel 34 der Verordnung (EU) 2016/679 absehen, soweit und solange die Benachrichtigung
+
+1.
+
+    die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde, oder
+2.
+
+    zur Verfolgung von Straftaten oder Ordnungswidrigkeiten erforderlich ist, oder
+3.
+
+    dazu führen würde, dass Sachverhalte, personenbezogene Daten oder die Tatsache ihrer Verarbeitung, die nach einer Rechtsvorschrift oder wegen der Rechte und Freiheiten anderer Personen geheim zu halten sind, aufgedeckt würden, oder
+4.
+
+    die Funktionsfähigkeit von Datenverarbeitungssystemen einer öffentlichen Stelle gefährden würde.
+
+(2) Wenn nach Absatz 1 von einer Benachrichtigung abgesehen wird, ist die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit zu informieren.
+
+
+Sechster Abschnitt
+Die beziehungsweise der Hamburgische Beauftragte
+für Datenschutz und Informationsfreiheit
+§ 19
+Zuständigkeit
+
+(1) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit ist Aufsichtsbehörde im Sinne des Artikels 51 Absatz 1 der Verordnung (EU) 2016/679.
+
+(2) Die oder der Beauftragte für Datenschutz und Informationsfreiheit überwacht bei den in § 2 Absatz 1 genannten öffentlichen Stellen und bei anderen Stellen, soweit sie sich auf Grund gesetzlicher Vorschriften ihrer beziehungsweise seiner Überwachung unterworfen haben, die Einhaltung der Vorschriften über den Datenschutz. Sie oder er ist zudem zuständige Aufsichtsbehörde nach § 40 des Bundesdatenschutzgesetzes für die Datenverarbeitung nicht-öffentlicher Stellen.
+
+(3) Die Bürgerschaft und der Rechnungshof unterliegen der Überwachung durch die Hamburgische Beauftragte beziehungsweise den Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit nur, soweit sie in Verwaltungsangelegenheiten tätig werden. Beim Rechnungshof überwacht die beziehungsweise der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit darüber hinaus, ob die erforderlichen technischen und organisatorischen Maßnahmen nach Artikel 32 der Verordnung (EU) 2016/679 getroffen und eingehalten werden.
+
+(4) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit ist im Rahmen der ihr oder ihm durch Artikel 57 der Verordnung (EU) 2016/679 sowie dieses Gesetzes zugewiesenen Aufgaben zuständig für die Verfolgung und Ahndung von Ordnungswidrigkeiten.
+
+(5) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit ist zuständig für die Akkreditierung von Zertifizierungsstellen gemäß Artikel 43 der Verordnung (EU) 2016/679.
+
+(6) Für die Aufsicht über die Verarbeitung personenbezogener Daten im Rahmen der Verwaltung landesrechtlich geregelter Steuern ist die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit zuständig, soweit die Datenverarbeitung auf bundesgesetzlich geregelten Besteuerungsgrundlagen oder auf bundeseinheitlichen Festlegungen beruht.
+
+(7) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit ist Aufsichtsbehörde im Sinne des § 113 Satz 1 des Medienstaatsvertrages vom 14. April bis 28. April 2020 (HmbGVBl. S. 434), zuletzt geändert am 27. Februar und 7. März 2024 (HmbGVBl. S. 162), in der jeweils geltenden Fassung und zuständige Aufsichtsbehörde für digitale Dienste im Sinne des § 1 Absatz 1 Nummer 8 zweiter Halbsatz des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (TDDDG) vom 23. Juni 2021 (BGBl. 2021 I S. 1982, 2022 I S. 1045), zuletzt geändert am 12. Juli 2024 (BGBl. I Nr. 234 S. 1, 19), in der jeweils geltenden Fassung. Im Hinblick auf die Befugnisse der oder des Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit im Rahmen ihrer oder seiner Aufsichtstätigkeit über die Einhaltung der Bestimmungen nach dem Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz findet Artikel 58 der Verordnung (EU) 2016/679 entsprechende Anwendung. Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit ist Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung vom 19. Februar 1987 (BGBl. I S. 603), zuletzt geändert am 12. Juli 2024 (BGBl. I Nr. 234 S. 1, 6), in der jeweils geltenden Fassung in den Fällen des § 28 Absatz 1 Nummern 10 bis 13 TDDDG. Die Zuständigkeit nach § 28 Absatz 3 Nummer 2 TDDDG bleibt unberührt.
+
+
+§ 20
+Ernennungsvoraussetzungen
+
+Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit muss die Befähigung zum Richteramt oder für die Laufbahn Allgemeine Dienste in der Laufbahngruppe 2 mit Zugang zum zweiten Einstiegsamt haben und die zur Erfüllung ihrer beziehungsweise seiner Aufgaben erforderliche Fachkunde besitzen.
+
+
+§ 211)
+Rechtsstellung
+
+(1) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit steht in einem öffentlich-rechtlichen Amtsverhältnis zur Freien und Hansestadt Hamburg, in das sie beziehungsweise er gemäß Artikel 60a Absatz 3 der Verfassung der Freien und Hansestadt Hamburg berufen wird.
+
+(2) Das Amtsverhältnis beginnt mit der Aushändigung der Ernennungsurkunde durch die Präsidentin oder den Präsidenten der Bürgerschaft. Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit leistet vor der Präsidentin oder dem Präsidenten der Bürgerschaft folgenden Eid: „Ich schwöre, das Grundgesetz für die Bundesrepublik Deutschland, die Verfassung der Freien und Hansestadt Hamburg und alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen, so wahr mir Gott helfe.“ Der Eid kann auch ohne religiöse Beteuerungsformel geleistet werden.
+
+(3) Das Amtsverhältnis endet mit Ablauf der Amtszeit oder durch Entlassung. Die Entlassung wird mit der Zustellung der Entlassungsurkunde wirksam.
+
+(4) Für den Fall ihrer oder seiner Verhinderung bestimmt die beziehungsweise der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit eine Beamtin oder einen Beamten ihrer beziehungsweise seiner Behörde zur Vertreterin oder zum Vertreter. Die Vertretungsbefugnis besteht nach dem Ende der Amtszeit der oder des Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit bis zur Ernennung einer Amtsnachfolgerin oder eines Amtsnachfolgers fort.
+
+(5) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit erhält Fürsorge und Schutz wie eine Beamtin oder ein Beamter der Besoldungsgruppe B 4 des Hamburgischen Besoldungsgesetzes vom 26. Januar 2010 (HmbGVBl. S. 23), zuletzt geändert am 18. Juli 2017 (HmbGVBl. S. 214), in der jeweils geltenden Fassung, im Beamtenverhältnis auf Zeit, insbesondere Besoldung, Versorgung, Erholungsurlaub und Beihilfe im Krankheitsfall. Die Inanspruchnahme von Urlaub hat sie oder er ihrer oder seiner Vertretung anzuzeigen.
+
+(6) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit unterliegt der Rechnungsprüfung durch den Rechnungshof nur, soweit ihre oder seine Unabhängigkeit nicht beeinträchtigt wird.
+Fußnoten
+
+1)
+
+    [Red. Anm.: Gemäß Artikel 7 Absatz 2 des Gesetzes vom 18. Mai 2018 (HmbGVBl. S. 145) gilt die oder der zum Zeitpunkt des Inkrafttretens dieses Gesetzes im Amt befindliche Hamburgische Beauftragte für Datenschutz und Informationsfreiheit als nach Artikel 60a der Verfassung der Freien und Hansestadt Hamburg in ein Amt nach § 21 dieses Gesetzes berufen. Ihre oder seine statusrechtliche Stellung bleibt unberührt. Die laufende Amtszeit gilt als nach § 21 dieses Gesetzes begonnen.]
+
+
+§ 22
+Besondere Pflichten
+
+(1) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit darf neben ihrem beziehungsweise seinem Amt kein anderes besoldetes Amt ausüben. Sie oder er darf keine entgeltlichen oder unentgeltlichen Tätigkeiten ausüben, die mit ihrem beziehungsweise seinem Amt nicht vereinbar sind. § 10 Absätze 1 bis 3 und § 11 Absatz 1 des Senatsgesetzes vom 18. Februar 1971 (HmbGVBl. S. 23), zuletzt geändert am 12. November 2014 (HmbGVBl. S. 484), in der jeweils geltenden Fassung gelten entsprechend. Sie oder er darf kein Gewerbe und keinen Beruf ausüben, gegen Entgelt keine außergerichtlichen Gutachten abgeben und weder der Leitung oder dem Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens noch einer Regierung oder einer gesetzgebenden Körperschaft eines Landes oder des Bundes angehören. Sie oder er hat der Präsidentin oder dem Präsidenten der Bürgerschaft Mitteilung über Geschenke zu machen, die sie beziehungsweise er in Bezug auf das Amt erhält; diese oder dieser entscheidet dann über die Verwendung der Geschenke.
+
+(2) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit ist, auch nach Beendigung ihres oder seines Amtsverhältnisses, verpflichtet, über die ihr beziehungsweise ihm amtlich bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr oder für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Sie oder er entscheidet nach pflichtgemäßem Ermessen, ob und inwieweit sie beziehungsweise er über solche Angelegenheiten vor Gericht oder außergerichtlich aussagt oder Erklärungen abgibt; wenn sie oder er nicht mehr im Amt ist, ist die Genehmigung der oder des amtierenden Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit erforderlich. Sagt sie oder er als Zeugin oder Zeuge aus und betrifft die Aussage Vorgänge, die dem Kernbereich exekutiver Eigenverantwortung des Senats zuzurechnen sind oder sein könnten, darf sie beziehungsweise er nur im Benehmen mit dem Senat aussagen.
+
+
+§ 23
+Tätigkeit nach Beendigung des Amtsverhältnisses
+
+(1) Die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit sieht für die Dauer von zwei Jahren nach Beendigung der Amtszeit von allen mit den Aufgaben des früheren Amtes nicht zu vereinbarenden Handlungen und entgeltlichen Tätigkeiten ab.
+
+(2) Ehemalige Hamburgische Beauftragte für Datenschutz und Informationsfreiheit haben der oder dem amtierenden Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit die Aufnahme einer Erwerbstätigkeit oder sonstigen ständigen Beschäftigung außerhalb des öffentlichen Dienstes, öffentlicher Unternehmen, öffentlich-rechtlicher Körperschaften, Anstalten und Stiftungen schriftlich anzuzeigen. Die Anzeigepflicht besteht für einen Zeitraum von zwei Jahren nach Beendigung des Amtsverhältnisses.
+
+(3) Die oder der amtierende Hamburgische Beauftragte für Datenschutz und Informationsfreiheit soll die Erwerbstätigkeit oder sonstige ständige Beschäftigung untersagen, soweit sie mit dem Amt der oder des Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit nicht zu vereinbaren ist. Die Untersagung ist innerhalb von vierzehn Tagen nach Eingang der Anzeige nach Absatz 1 und für einen bestimmten Zeitraum auszusprechen. Das Verbot endet spätestens mit Ablauf von zwei Jahren nach Beendigung des Amtsverhältnisses.
+
+(4) Bei freiberuflichen Tätigkeiten sind die entsprechenden Regelungen in den Berufsordnungen zur Vermeidung von Interessenkollisionen zu beachten; sie gehen dieser Regelung vor.
+
+
+§ 24
+Befugnisse und Rechte
+
+(1) Zusätzlich zu den Befugnissen aus Artikel 58 der Verordnung (EU) 2016/679 ist die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit zur Erfüllung ihrer oder seiner Aufgaben befugt, jederzeit Zugang zu Diensträumen zu erhalten. Diese Befugnis kann die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit auf ihre oder seine Mitarbeiterinnen und Mitarbeiter übertragen.
+
+(2) Ergänzend zu Artikel 59 der Verordnung (EU) 2016/679 hat die oder der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit die Befugnis, die Öffentlichkeit im Rahmen ihrer oder seiner Zuständigkeit zu informieren.
+
+(3) Die Befugnis Geldbußen zu verhängen, steht der oder dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit gegenüber Behörden und öffentlichen Stellen mit Ausnahme der in § 2 Absatz 3 genannten Stellen nicht zu.
+
+
+§ 25
+Verwaltungsgebühren
+
+(1) Für Amtshandlungen, die der Kontrolle nicht-öffentlicher Stellen durch die Aufsichtsbehörde nach § 40 des Bundesdatenschutzgesetzes, § 113 Satz 1 des Medienstaatsvertrages und § 1 Absatz 1 Nummer 8 zweiter Halbsatz TDDDG dienen, werden Gebühren, Zinsen und Auslagen erhoben. Der Senat wird ermächtigt, die gebührenpflichtigen Tatbestände und die Gebührensätze im Einvernehmen mit der oder dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit durch Rechtsverordnung festzulegen.
+
+(2) Zur Zahlung der Gebühren, Zinsen und Auslagen ist die kontrollierte Stelle verpflichtet. Wird die Kontrolle weder von der Aufsichtsbehörde noch von der oder dem Datenschutzbeauftragten der kontrollierten Stelle veranlasst, gilt dies jedoch nur, wenn Mängel festgestellt werden.
+
+(3) In den Fällen des Artikels 57 Absatz 4 der Verordnung (EU) 2016/679 kann die beziehungsweise der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit Anfragenden eine Gebühr von bis zu 1000 Euro auferlegen.
+
+
+Siebenter Abschnitt
+Strafvorschriften, Ordnungswidrigkeiten
+§ 26
+Strafvorschrift
+
+(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer gegen Entgelt oder in der Absicht, sich oder eine andere beziehungsweise einen anderen zu bereichern oder eine andere beziehungsweise einen anderen zu schädigen, personenbezogene Daten, die nicht offenkundig sind, unbefugt nach Artikel 4 Nummer 2 der Verordnung (EU) 2016/679 verarbeitet oder durch Vortäuschung falscher Tatsachen an sich oder eine andere beziehungsweise einen anderen übermitteln lässt.
+
+(2) Der Versuch ist strafbar.
+
+(3) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind die betroffene Person, der Verantwortliche und die beziehungsweise der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit.
+
+(4) Die Absätze 1 bis 3 finden nur Anwendung, soweit die Tat nicht nach anderen Vorschriften mit Strafe bedroht ist.
+
+
+§ 27
+Ordnungswidrigkeiten
+
+(1) Ordnungswidrig handelt, wer personenbezogene Daten, die nicht offenkundig sind,
+
+1.
+
+    unbefugt verarbeitet, oder
+2.
+
+    durch Vortäuschung falscher Tatsachen an sich oder eine andere Person übermitteln lässt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+

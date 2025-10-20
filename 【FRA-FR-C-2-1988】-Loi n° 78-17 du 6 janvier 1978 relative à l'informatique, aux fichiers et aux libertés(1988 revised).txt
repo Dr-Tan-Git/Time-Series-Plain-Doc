@@ -1,0 +1,461 @@
+Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+
+Dernière mise à jour des données de ce texte : 02 juillet 2025
+
+    Chapitre Ier : Principes et définitions (Articles 1 à 5)
+    Chapitre II : La Commission nationale de l'informatique et des libertés (Articles 6 à 13)
+    LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTES (Article 12)
+    Chapitre III : Formalités préalables à la mise en oeuvre des traitements automatisés. (Articles 14 à 18)
+    Chapitre IV : Collecte, enregistrement et conservation des informations nominatives. (Articles 25 à 31)
+    Chapitre V : Exercice du droit d'accès. (Articles 34 à 40)
+    Chapitre VI : Dispositions pénales. (Articles 42 à 44)
+    Chapitre VII : Dispositions diverses. (Articles 45 à 48)
+
+L'Assemblée nationale et le Sénat ont adopté.
+
+Le Président de la République promulgue la loi dont la teneur suit :
+
+Chapitre Ier : Principes et définitions (Articles 1 à 5)
+Article 1
+
+L'informatique doit être au service de chaque citoyen. Son développement doit s'opérer dans le cadre de la coopération internationale. Elle ne doit porter atteinte ni à l'identité humaine, ni aux droits de l'homme, ni à la vie privée, ni aux libertés individuelles ou publiques.
+
+Article 2
+
+Aucune décision de justice impliquant une appréciation sur un comportement humain ne peut avoir pour fondement un traitement automatisé d'informations donnant une définition du profil ou de la personnalité de l'intéressé.
+
+Aucune décision administrative ou privée impliquant une appréciation sur un comportement humain ne peut avoir pour seul fondement un traitement automatisé d'informations donnant une définition du profil ou de la personnalité de l'intéressé.
+
+Article 3
+
+Toute personne a le droit de connaître et de contester les informations et les raisonnements utilisés dans les traitements automatisés dont les résultats lui sont opposés.
+
+Article 4
+
+Sont réputées nominatives au sens de la présente loi les informations qui permettent, sous quelque forme que ce soit, directement ou non, l'identification des personnes physiques auxquelles elles s'appliquent, que le traitement soit effectué par une personne physique ou par une personne morale.
+
+Article 5
+
+Est dénommé traitement automatisé d'informations nominatives au sens de la présente loi tout ensemble d'opérations réalisées par des moyens automatiques, relatif à la collecte, l'enregistrement, l'élaboration, la modification, la conservation et la destruction d'informations nominatives ainsi que tout ensemble d'opérations de même nature se rapportant à l'exploitation de fichiers ou bases de données et notamment les interconnexions ou rapprochements, consultations ou communications d'informations nominatives.
+
+Chapitre II : La Commission nationale de l'informatique et des libertés (Articles 6 à 13)
+Article 6
+
+Une Commission nationale de l'informatique et des libertés est instituée. Elle est chargée de veiller au respect des dispositions de la présente loi, notamment en informant toutes les personnes concernées de leurs droits et obligations, en se concertant avec elles et en contrôlant les applications de l'informatique aux traitements des informations nominatives. La commission dispose à cet effet d'un pouvoir réglementaire, dans les cas prévus par la présente loi.
+
+Article 7
+
+Les crédits nécessaires à la commission nationale pour l'accomplissement de sa mission sont inscrits au budget du ministère de la justice. Les dispositions de la loi du 10 août 1922 relative au contrôle financier ne sont pas applicables à leur gestion. Les comptes de la commission sont présentés au contrôle de la Cour des comptes.
+
+Toutefois, les frais entraînés par l'accomplissement de certaines des formalités visées aux articles 15, 16, 17 et 24 de la présente loi peuvent donner lieu à la perception des redevances.
+
+Article 8
+
+La Commission nationale de l'informatique et des libertés est une autorité administrative indépendante.
+
+Elle est composée de dix-sept membres nommés pour cinq ans ou pour la durée de leur mandat :
+
+- deux députés et deux sénateurs élus, respectivement par l'Assemblée nationale et par le Sénat ;
+
+- deux membres du Conseil économique et social, élus par cette assemblée ;
+
+- deux membres ou anciens membres du Conseil d'Etat, dont l'un d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale du Conseil d'Etat ;
+
+- deux membres ou anciens membres de la Cour de cassation, dont l'un d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale de la Cour de cassation ;
+
+- deux membres ou anciens membres de la Cour des comptes, dont l'un d'un grade au moins égal à celui de conseiller-maître, élus par l'assemblée générale de la Cour des comptes ;
+
+- deux personnes qualifiées pour leur connaissance des applications de l'informatique, nommées par décret sur proposition respectivement du président de l'Assemblée nationale et du président du Sénat ;
+
+- trois personnalités désignées en raison de leur autorité et de leur compétence par décret en Conseil des ministres.
+
+La commission élit en son sein, pour cinq ans, un président et deux vice-présidents.
+
+La commission établit son règlement intérieur.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Si, en cours de mandat, le président ou un membre de la commission cesse d'exercer ses fonctions, le mandat de son successeur est limité à la période restant à courir.
+
+La qualité de membre de la commission est incompatible :
+
+- avec celle de membre du Gouvernement ;
+
+- avec l'exercice de fonctions ou la détention de participation dans les entreprises concourant à la fabrication de matériel utilisé en informatique ou en télécommunication ou à la fourniture de services en informatique ou en télécommunication.
+
+La commission apprécie dans chaque cas les incompatibilités qu'elle peut opposer à ses membres.
+
+Sauf démission, il ne peut être mis fin aux fonctions de membre qu'en cas d'empêchement constaté par la commission dans les conditions qu'elle définit.
+
+Article 9
+
+Un commissaire du Gouvernement, désigné par le Premier ministre, siège auprès de la commission.
+
+Il peut, dans les dix jours d'une délibération, provoquer une seconde délibération.
+
+Article 10
+
+La commission dispose de services qui sont dirigés par le président ou, sur délégation, par un vice-président et placés sous son autorité.
+
+La commission peut charger le président ou le vice-président délégué d'exercer ses attributions en ce qui concerne l'application des articles 16, 17 et 21 (4°, 5° et 6°).
+
+Les agents de la commission nationale sont nommés par le président ou le vice-président délégué.
+
+Article 11
+
+La commission peut demander aux premiers présidents de cour d'appel ou aux présidents de tribunaux administratifs de déléguer un magistrat de leur ressort, éventuellement assisté d'experts, pour des missions d'investigation et de contrôle effectuées sous sa direction.
+
+Article 13
+
+Dans l'exercice de leurs attributions, les membres de la Commission nationale de l'informatique et des libertés ne reçoivent d'instruction d'aucune autorité.
+
+Les informaticiens appelés, soit à donner les renseignements à la commission, soit à témoigner devant elle, sont déliés en tant que de besoin de leur obligation de discrétion.
+
+LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTES (Article 12)
+Article 12
+
+Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions prévues à l'article 75 du code pénal et, sous réserve de ce qui est nécessaire à l'établissement du rapport annuel prévu ci-après, à l'article 378 du code pénal.
+
+Chapitre III : Formalités préalables à la mise en oeuvre des traitements automatisés. (Articles 14 à 18)
+Article 14
+
+La Commission nationale de l'informatique et des libertés veille à ce que les traitements automatisés, publics ou privés, d'informations nominatives, soient effectués conformément aux dispositions de la présente loi.
+
+Article 19
+
+La demande d'avis ou la déclaration doit préciser :
+
+- la personne qui présente la demande et celle qui a pouvoir de décider la création du traitement ou, si elle réside à l'étranger, son représentant en France ;
+
+- les caractéristiques, la finalité et, s'il y a lieu, la dénomination du traitement ;
+
+- le service ou les services chargés de mettre en oeuvre celui-ci ;
+
+- le service auprès duquel s'exerce le droit d'accès défini au chapitre V ci-dessous ainsi que les mesures prises pour faciliter l'exercice de ce droit ;
+
+- les catégories de personnes qui, à raison de leurs fonctions ou pour les besoins du service, ont directement accès aux informations enregistrées ;
+
+- les informations nominatives traitées, leur origine et la durée de leur conservation ainsi que leurs destinataires ou catégories de destinataires habilités à recevoir communication de ces informations ;
+
+- les rapprochements, interconnexions ou toute autre forme de mise en relation de ces informations ainsi que leur cession à des tiers ;
+
+- les dispositions prises pour assurer la sécurité des traitements et des informations et la garantie des secrets protégés par la loi ;
+
+- si le traitement est destiné à l'expédition d'informations nominatives entre le territoire français et l'étranger, sous quelque forme que ce soit, y compris lorsqu'il est l'objet d'opérations partiellement effectuées sur le territoire français à partir d'opérations antérieurement réalisées hors de France.
+
+Toute modification aux mentions énumérées ci-dessus, ou toute suppression de traitement, est portée à la connaissance de la commission.
+
+Peuvent ne pas comporter certaines des mentions énumérées ci-dessus les demandes d'avis relatives aux traitements automatisés d'informations nominatives intéressant la sûreté de l'Etat, la défense et la sécurité publique.
+
+Article 20
+
+L'acte réglementaire prévu pour les traitements régis par l'article 15 ci-dessus précise notamment :
+
+- la dénomination et la finalité du traitement ;
+
+- le service auprès duquel s'exerce le droit d'accès défini au chapitre V ci-dessous ;
+
+- les catégories d'informations nominatives enregistrées ainsi que les destinataires ou catégories de destinataires habilités à recevoir communication de ces informations.
+
+Des décrets en Conseil d'Etat peuvent disposer que les actes réglementaires relatifs à certains traitements intéressant la sûreté de l'Etat, la défense et la sécurité publique ne seront pas publiés.
+
+Article 21
+
+Pour l'exercice de sa mission de contrôle, la commission :
+
+1° Prend des décisions individuelles ou réglementaires dans les cas prévus par la présente loi ;
+
+2° Peut, par décision particulière, charger un ou plusieurs de ses membres ou de ses agents, assistés, le cas échéant, d'experts, de procéder, à l'égard de tout traitement, à des vérifications sur place et de se faire communiquer tous renseignements et documents utiles à sa mission ;
+
+3° Edicte, le cas échéant, des règlements types en vue d'assurer la sécurité des systèmes ; en cas de circonstances exceptionnelles, elle peut prescrire des mesures de sécurité pouvant aller jusqu'à la destruction des supports d'informations ;
+
+4° Adresse aux intéressés des avertissements et dénonce au parquet les infractions dont elle a connaissance, conformément à l'article 40 du code de procédure pénale ;
+
+5° Veille à ce que les modalités de mise en oeuvre du droit d'accès et de rectification indiquées dans les actes et déclarations prévus aux articles 15 et 16 n'entravent pas le libre exercice de ce droit ;
+
+6° Reçoit les réclamations, pétitions et plaintes ;
+
+7° Se tient informée des activités industrielles et de services qui concourent à la mise en oeuvre de l'informatique.
+
+Les ministres, autorités publiques, dirigeants d'entreprises, publiques ou privées, responsables de groupements divers et plus généralement les détenteurs ou utilisateurs de fichiers nominatifs ne peuvent s'opposer à l'action de la commission ou de ses membres pour quelque motif que ce soit et doivent au contraire prendre toutes mesures utiles afin de faciliter sa tâche.
+
+Article 22
+
+La commission met à la disposition du public la liste des traitements qui précise pour chacun d'eux :
+
+- la loi ou l'acte réglementaire décidant de sa création ou la date de sa déclaration ;
+
+- sa dénomination et sa finalité ;
+
+- le service auprès duquel est exercé le droit d'accès prévu au chapitre V ci-dessous ;
+
+- les catégories d'informations nominatives enregistrées ainsi que les destinataires ou catégories de destinataires habilités à recevoir communication de ces informations.
+
+Sont tenus à la disposition du public, dans les conditions fixées par décret, les décisions, avis ou recommandations de la commission dont la connaissance est utile à l'application ou à l'interprétation de la présente loi.
+
+Article 23
+
+La commission présente chaque année au Président de la République et au Parlement un rapport rendant compte de l'exécution de sa mission. Ce rapport est publié.
+
+Ce rapport décrira notamment les procédures et méthodes de travail suivies par la commission et contiendra en annexe toutes informations sur l'organisation de la commission et de ses services, propres à faciliter les relations du public avec celle-ci.
+
+Article 24
+
+Sur proposition ou après avis de la commission, la transmission entre le territoire français et l'étranger, sous quelque forme que ce soit, d'informations nominatives faisant l'objet de traitements automatisés régis par l'article 16 ci-dessus peut être soumise à autorisation préalable ou réglementée selon des modalités fixées par décret en Conseil d'Etat, en vue d'assurer le respect des principes posés par la présente loi.
+
+Article 15
+
+Hormis les cas où ils doivent être autorisés par la loi, les traitements automatisés d'informations nominatives opérés pour le compte de l'Etat, d'un établissement public ou d'une collectivité territoriale, ou d'une personne morale de droit privé gérant un service public, sont décidés par un acte réglementaire pris après avis motivé de la Commission nationale de l'informatique et des libertés.
+
+Si l'avis de la commission est défavorable, il ne peut être passé outre que par un décret pris sur avis conforme du Conseil d'Etat ou, s'agissant d'une collectivité territoriale, en vertu d'une décision de son organe délibérant approuvée par décret pris sur avis conforme du Conseil d'Etat.
+
+Si, au terme d'un délai de deux mois renouvelable une seule fois sur décision du président, l'avis de la commission n'est pas notifié, il est réputé favorable.
+
+Article 16
+
+Les traitements automatisés d'informations nominatives effectués pour le compte de personnes autres que celles qui sont soumises aux dispositions de l'article 15 doivent, préalablement à leur mise en oeuvre, faire l'objet d'une déclaration, auprès de la Commission nationale de l'informatique et des libertés.
+
+Cette déclaration comporte l'engagement que le traitement satisfait aux exigences de la loi.
+
+Dès qu'il a reçu le récépissé délivré sans délai par la commission, le demandeur peut mettre en oeuvre le traitement. Il n'est exonéré d'aucune de ses responsabilités.
+
+Article 17
+
+Pour les catégories les plus courantes de traitements à caractère public ou privé, qui ne comportent manifestement pas d'atteinte à la vie privée ou aux libertés, la commission nationale de l'informatique et des libertés établit et publie des normes simplifiées inspirées des caractéristiques mentionnées à l'article 19.
+
+Pour les traitements répondant à ces normes, seule une déclaration simplifiée de conformité à l'une de ces normes est déposée auprès de la commission. Sauf décision particulière de celle-ci, le récépissé de déclaration est délivré sans délai. Dès réception de ce récépissé, le demandeur peut mettre en oeuvre le traitement. Il n'est exonéré d'aucune de ses responsabilités.
+
+Article 18
+
+L'utilisation du répertoire national d'identification des personnes physiques en vue d'effectuer des traitements nominatifs est autorisée par décret en Conseil d'Etat pris après avis de la commission.
+
+Chapitre IV : Collecte, enregistrement et conservation des informations nominatives. (Articles 25 à 31)
+Article 25
+
+La collecte de données opérée par tout moyen frauduleux, déloyal ou illicite est interdite.
+
+Article 26
+
+Toute personne physique a le droit de s'opposer, pour des raisons légitimes, à ce que des informations nominatives la concernant fassent l'objet d'un traitement.
+
+Ce droit ne s'applique pas aux traitements limitativement désignés dans l'acte réglementaire prévu à l'article 15.
+
+Article 27
+
+Les personnes auprès desquelles sont recueillies des informations nominatives doivent être informées :
+
+- du caractère obligatoire ou facultatif des réponses ;
+
+- des conséquences à leur égard d'un défaut de réponse ;
+
+- des personnes physiques ou morales destinataires des informations ;
+
+- de l'existence d'un droit d'accès et de rectification.
+
+Lorsque de telles informations sont recueillies par voie de questionnaires, ceux-ci doivent porter mention de ces prescriptions.
+
+Ces dispositions ne s'appliquent pas à la collecte des informations nécessaires à la constatation des infractions.
+
+Article 28
+
+Sauf dispositions législatives contraires, les informations ne doivent pas être conservées sous une forme nominative au-delà de la durée prévue à la demande d'avis ou à la déclaration, à moins que leur conservation ne soit autorisée par la commission.
+
+Article 29
+
+Toute personne ordonnant ou effectuant un traitement d'informations nominatives s'engage de ce fait, vis-à-vis des personnes concernées, à prendre toutes précautions utiles afin de préserver la sécurité des informations et notamment d'empêcher qu'elles ne soient déformées, endommagées ou communiquées à des tiers non autorisés.
+
+Article 30
+
+Sauf dispositions législatives contraires, les juridictions et autorités publiques agissant dans le cadre de leurs attributions légales ainsi que, sur avis conforme de la commission nationale, les personnes morales gérant un service public peuvent seules procéder au traitement automatisé des informations nominatives concernant les infractions, condamnations ou mesures de sûreté.
+
+Jusqu'à la mise en oeuvre du fichier des conducteurs prévu par la loi n° 70-539 du 24 juin 1970, les entreprises d'assurances sont autorisées, sous le contrôle de la commission, à traiter elles-mêmes les informations mentionnées à l'article 5 de ladite loi et concernant les personnes visées au dernier alinéa dudit article.
+
+Article 32 (abrogé)
+
+Abrogé par Loi n°88-227 du 11 mars 1988 - art. 13 () JORF 12 mars 1988
+
+L'accès du fichier électoral est ouvert dans des conditions identiques aux candidats et aux partis politiques sous le contrôle des commissions de progagande électorale.
+
+Article 33
+
+Les dispositions des articles 24, 30 et 31 ne s'appliquent pas aux informations nominatives traitées par les organismes de la presse écrite ou audiovisuelle dans le cadre des lois qui les régissent et dans les cas où leur application aurait pour effet de limiter l'exercice de la liberté d'expression.
+
+Article 31
+
+Il est interdit de mettre ou conserver en mémoire informatisée, sauf accord exprès de l'intéressé, des données nominatives qui, directement ou indirectement, font apparaître les origines raciales ou les opinions politiques, philosophiques ou religieuses ou les appartenances syndicales des personnes.
+
+Toutefois, les églises ou les groupements à caractère religieux, philosophique, politique ou syndical peuvent tenir registre de leurs membres ou de leurs correspondants sous forme automatisée. Aucun contrôle ne peut être exercé, de ce chef, à leur encontre.
+
+Pour des motifs d'intérêt public, il peut aussi être fait exception à l'interdiction ci-dessus sur proposition ou avis conforme de la commission par décret en Conseil d'Etat.
+
+Chapitre V : Exercice du droit d'accès. (Articles 34 à 40)
+Article 34
+
+Toute personne justifiant de son identité a le droit d'interroger les services ou organismes chargés de mettre en oeuvre les traitements automatisés dont la liste est accessible au public en application de l'article 22 ci-dessus en vue de savoir si ces traitements portent sur des informations nominatives la concernant et, le cas échéant, d'en obtenir communication.
+
+Article 35
+
+Le titulaire du droit d'accès peut obtenir communication des informations le concernant. La communication, en langage clair, doit être conforme au contenu des enregistrements.
+
+Une copie est délivrée au titulaire du droit d'accès qui en fait la demande contre perception d'une redevance forfaitaire variable selon la catégorie de traitement dont le montant est fixé par décision de la commission et homologué par arrêté du ministre de l'économie et des finances.
+
+Toutefois, la commission saisie contradictoirement par le responsable du fichier peut lui accorder :
+
+- des délais de réponse ;
+
+- l'autorisation de ne pas tenir compte de certaines demandes manifestement abusives par leur nombre, leur caractère répétitif ou systématique.
+
+Lorsqu'il y a lieu de craindre la dissimulation ou la disparition des informations mentionnées au premier alinéa du présent article, et même avant l'exercice d'un recours juridictionnel, il peut être demandé au juge compétent que soient ordonnées toutes mesures de nature à éviter cette dissimulation ou cette disparition.
+
+Article 36
+
+Le titulaire du droit d'accès peut exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations le concernant qui sont inexactes, incomplètes, équivoques, périmées ou dont la collecte, ou l'utilisation, la communication ou la conservation est interdite.
+
+Lorsque l'intéressé en fait la demande, le service ou organisme concerné doit délivrer sans frais copie de l'enregistrement modifié.
+
+En cas de contestation, la charge de la preuve incombe au service auprès duquel est exercé le droit d'accès sauf lorsqu'il est établi que les informations contestées ont été communiquées par la personne concernée ou avec son accord.
+
+Lorsque le titulaire du droit d'accès obtient une modification de l'enregistrement, la redevance versée en application de l'article 35 est remboursée.
+
+Article 37
+
+Un fichier nominatif doit être complété ou corrigé même d'office lorsque l'organisme qui le tient acquiert connaissance de l'inexactitude ou du caractère incomplet d'une information nominative contenue dans ce fichier.
+
+Article 38
+
+Si une information a été transmise à un tiers, sa rectification ou son annulation doit être notifiée à ce tiers, sauf dispense accordée par la commission.
+
+Article 39
+
+En ce qui concerne les traitements intéressant la sûreté de l'Etat, la défense et la sécurité publique, la demande est adressée à la commission qui désigne l'un de ses membres appartenant ou ayant appartenu au Conseil d'Etat, à la Cour de cassation ou à la Cour des comptes pour mener toutes investigations utiles et faire procéder aux modifications nécessaires. Celui-ci peut se faire assister d'un agent de la commission.
+
+Il est notifié au requérant qu'il a été procédé aux vérifications.
+
+Article 40
+
+Lorsque l'exercice du droit d'accès s'applique à des informations à caractère médical, celles-ci ne peuvent être communiquées à l'intéressé que par l'intermédiaire d'un médecin qu'il désigne à cet effet.
+
+Chapitre VI : Dispositions pénales. (Articles 42 à 44)
+Article 42
+
+Sera puni d'un emprisonnement d'un an à cinq ans et d'une amende de 20.000 francs à 2.000.000 de francs, ou de l'une de ces deux peines seulement, quiconque aura enregistré ou fait enregistrer, conservé ou fait conserver des informations nominatives en violation des dispositions des articles 25, 26 et 28 à 31.
+
+En outre, le tribunal pourra ordonner l'insertion du jugement, intégralement ou par extraits, dans un ou plusieurs journaux, et son affichage dans les conditions qu'il déterminera, aux frais du condamné.
+
+Article 41
+
+Sera puni d'un emprisonnement de six mois à trois ans et d'une amende de 2.000 à 200.000 francs, ou de l'une de ces deux peines seulement, quiconque aura procédé ou fait procéder à des traitements automatisés d'informations nominatives, sans qu'aient été publiés les actes réglementaires prévus à l'article 15 ou faites les déclarations prévues à l'article 16 ci-dessus.
+
+En outre, le tribunal pourra ordonner l'insertion du jugement intégralement ou par extraits, dans un ou plusieurs journaux, et son affichage dans les conditions qu'il déterminera, aux frais du condamné.
+
+Article 43
+
+Sera puni d'un emprisonnement de deux à six mois et d'une amende de 2.000 à 20.000 francs, ou de l'une de ces deux peines seulement, quiconque ayant recueilli, à l'occasion de leur enregistrement, de leur classement, de leur transmission ou de toute autre forme de traitement, des informations nominatives dont la divulgation aurait pour effet de porter atteinte à la réputation ou à la considération de la personne ou à l'intimité de la vie privée, aura, sans l'autorisation de l'intéressé, sciemment porté ces informations à la connaissance d'une personne qui n'a pas qualité pour les recevoir en vertu des dispositions de la présente loi ou d'autres dispositions législatives.
+
+Sera puni d'une amende de 2.000 à 20.000 francs quiconque aura, par imprudence ou négligence, divulgué ou laissé divulguer des informations de la nature de celles mentionnées à l'alinéa précédent.
+
+Article 44
+
+Abrogé par Loi n°92-1336 du 16 décembre 1992 - art. 261 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+Sera puni d'un emprisonnement d'un an à cinq ans et d'une amende de 20.000 à 2.000.000 de francs quiconque, étant détenteur d'informations nominatives à l'occasion de leur enregistrement, de leur classement, de leur transmission ou de toute autre forme de traitement, les aura détournées de leur finalité telle qu'elle est définie dans l'acte réglementaire prévu à l'article 15 ci-dessus, ou dans les déclarations faites en application des articles 16 et 17 ou par une disposition législative.
+
+Chapitre VII : Dispositions diverses. (Articles 45 à 48)
+Article 45
+
+Les dispositions des articles 25, 27, 29, 30, 31, 32 et 33 relatifs à la collecte, l'enregistrement et la conservation des informations nominatives sont applicables aux fichiers non automatisés ou mécanographiques autres que ceux dont l'usage relève du strict exercice du droit à la vie privée.
+
+Le premier alinéa de l'article 26 est applicable aux mêmes fichiers, à l'exception des fichiers publics désignés par un acte réglementaire.
+
+Toute personne justifiant de son identité a le droit d'interroger les services ou organismes qui détiennent des fichiers mentionnés au premier alinéa du présent article en vue de savoir si ces fichiers contiennent des informations nominatives le concernant. Le titulaire du droit d'accès a le droit d'obtenir communication de ces informations ; il peut exiger qu'il soit fait application des trois premiers alinéas de l'article 36 de la présente loi relatifs au droit de rectification. Les dispositions des articles 37, 38, 39 et 40 sont également applicables. Un décret en Conseil d'Etat fixe les conditions d'exercice du droit d'accès et de rectification ; ce décret peut prévoir la perception de redevances pour la délivrance de copies des informations communiquées.
+
+Le Gouvernement, sur proposition de la Commission nationale de l'informatique et des libertés, peut décider, par décret en Conseil d'Etat, que les autres dispositions de la présente loi peuvent, en totalité ou en partie, s'appliquer à un fichier ou à des catégories de fichiers non automatisés ou mécanographiques qui présentent, soit par eux-mêmes, soit par la combinaison de leur emploi avec celui d'un fichier informatisé, des dangers quant à la protection des libertés.
+
+Article 46
+
+Des décrets en Conseil d'Etat fixeront les modalités d'application de la présente loi. Ils devront être pris dans un délai de six mois à compter de sa promulgation.
+
+Ces décrets détermineront les délais dans lesquels les dispositions de la présente loi entreront en vigueur. Ces délais ne pourront excéder deux ans à compter de la promulgation de ladite loi.
+
+Article 47
+
+La présente loi est applicable à Mayotte et aux territoires d'outre-mer.
+
+Article 48
+
+A titre transitoire, les traitements régis par l'article 15 ci-dessus, et déjà créés, ne sont soumis qu'à une déclaration auprès de la Commission nationale de l'informatique et des libertés dans les conditions prévues aux articles 16 et 17.
+
+La commission peut toutefois, par décision spéciale, faire application des dispositions de l'article 15 et fixer le délai au terme duquel l'acte réglementant le traitement doit être pris.
+
+A l'expiration d'un délai de deux ans à compter de la promulgation de la présente loi, tous les traitements régis par l'article 15 devront répondre aux prescriptions de cet article.
+
+Le président de la République : VALERY GISCARD D'ESTAING.
+
+Le premier ministre : RAYMOND BARRE.
+
+Le garde des sceaux, ministre de la justice : ALAIN PEYREFITTE.
+
+Le ministre de l'intérieur : CHRISTIAN BONNET.
+
+Le ministre de la défense : YVON BOURGES.
+
+Le ministre délégué à l'économie et aux finances : ROBERT BOULIN.
+
+Le ministre de l'équipement et de l'aménagement du territoire :
+
+FERNAND ICART.
+
+Le ministre de l'éducation : RENE HABY.
+
+Le ministre de l'industrie, du commerce et de l'artisanat :
+
+RENE MONORY.
+
+Le ministre du travail : CHRISTIAN BEULLAC.
+
+Le ministre de la santé et de la sécurité sociale : SIMONE VEIL.
+
+Travaux préparatoires. Assemblée nationale :
+
+Projet de loi (n° 2516 et propositions de loi (n° 1004 et 3092) ;
+
+Rapport de M. Foyer, au nom de la commission des lois (n° 3125) ;
+
+Discussion les 4 et 5 octobre 1977 ;
+
+Adoption le 5 octobre 1977. Sénat :
+
+Projet de loi, adopté par l'Assemblée nationale, n° 5 (1977-1978) ;
+
+Rapport de M. Jacques Thyraud, au nom de la commission des lois, n° 72 (1977-1978) ;
+
+Discussion et adoption le 17 novembre 1977. Assemblée nationale :
+
+Projet de loi, modifié par le Sénat (n° 3226) ;
+
+Rapport de M. Foyer, au nom de la commission des lois (n° 3352) ;
+
+Discussion et adoption le 16 décembre 1977. Sénat :
+
+Projet de loi, modifié par l'Assemblée nationale, n° 195 (1977-1978) ;
+
+Rapport de M. Jacques Thyraud, au nom de la commission des lois, n° 199 (1977-1978) ;
+
+Discussion et adoption le 19 décembre 1977. Assemblée nationale :
+
+Rapport de M. Foyer, au nom de la commission mixte paritaire (n° 3432) ;
+
+Discussion et adoption le 21 décembre 1977. Sénat :
+
+Rapport de M. Thyraud, au nom de la commission mixte paritaire, n° 232 (1977-1978) ;
+
+Discussion et rejet le 21 décembre 1977. Assemblée nationale :
+
+Projet de loi, modifié par le Sénat (n° 3384) ;
+
+Discussion et adoption le 21 décembre 1977. Sénat :
+
+Projet de loi, adopté par l'Assemblée nationale, n° 240 (1977-1978) ;
+
+Discussion et adoption le 21 décembre 1977.
+

@@ -1,0 +1,457 @@
+ACT ON PROMOTION OF INFORMATION AND COMMUNICATIONS NETWORK UTILIZATION AND INFORMATION PROTECTION
+
+
+
+Wholly Amended by Act No. 6360, Jan. 16, 2001
+
+
+
+CHAPTER Ⅰ GENERAL PROVISIONS
+
+Article 1 (Purpose)
+The purpose of this Act is to promote the utilization of information and communications networks, to protect the personal information of people utilizing information and communications services, and to build an environment in which people can utilize safely and healthily the information and communications networks with the aim of serving to improve the people’s lives and enhance the public welfare.
+
+Article 2 (Definitions)
+(1) The definitions of terms used in this Act shall be as follows:
+1. The term “information and communications networks” means the information and communications system under which telecommunications facilities and equipment as prescribed in subparagraph 2 of Article 2 of the Framework Act on Telecommunications are utilized or the telecommunications facilities and equipment, computers and the technology of using computers are utilized together to gather, process, store, search, transmit and receive information;
+2. The term “information and communications services” means the telecommunications services as prescribed in subparagraph 7 of Article 2 of the Framework Act on Telecommunications and the provision of information or the intermediation of the provision of information utilizing the telecommunications services;
+3. The term “providers of information and communications services” means the operators of telecommunications as prescribed in Article 2 (1) 1 of the Telecommunications Business Act and other persons who provide information or intermediate the provision of information for the purpose of earning profits utilizing the services rendered by the providers of telecommunications services;
+4. The term “users” means the persons who utilize the information and communications services rendered by the providers of information and communications services;
+5. The term “digital document” means the standardized data in the form of document in which information is electronically compiled, sent or received, or stored by equipment, including computers, etc., that are capable of doing the information processing; and
+6. The term “personal information” means the information pertaining to any individual who is alive, which contains the code, letter, voice, sound and image, etc. that make it possible to identify such individual by his name and resident registration number, etc. (including the information which, if not by itself, makes it possible to identify any specific individual if combined with other information).
+(2) The definitions of the terms used in this Act, with the exception of what is prescribed in paragraph (1), shall be governed by the Framework Act on informatization Promotion.
+
+Article 3 (Duties of Providers of Information and Communications Services and Users)
+(1) Any provider of information and communications services shall protect the personal information of users and work to protect the rights and interests of such users and to enhance their information utilization capability by rendering the information and communications services in a safe and healthy manner.
+(2) Every user shall endeavor to help a healthy information society take hold.
+(3) The Government may assist the organization of the providers of information and communications services and the organization of users in carrying out their activities designed to protect the personal information and juveniles from the abuse of information and communications networks.
+
+Article 4 (Policy for Promotion of Utilization of Information and Communications Networks and Information Protection, etc.)
+(1) The Minister of Information and Communication shall formulate a policy to lay the foundation for building an information society through the facilitation of the utilization and the secure management and operation of information and communications networks, and the protection of personal information of users (hereinafter referred to as the “promotion of the utilization of information and communications networks and the protection of information, etc.”).
+(2) The policy referred to in paragraph (1) shall contain the matters falling under each of the following subparagraphs:
+1. The development and dissemination of technologies related to the information and communications networks;
+2. The standardization of the information and communications networks;
+3. The revitalization of the utilization of the information and communications networks including the development of information contents and the utilization services of the information and communications networks under Article 11;
+4. The facilitation of joint activities of information through the utilization of the information and communications networks;
+5. The revitalization of the utilization of the Internet;
+6. The protection of personal information that is collected, processed, stored and utilized by utilizing the information and communications networks;
+7. The protection of juveniles in the information and communications networks;
+8. The enhancement of safety and reliability of the information and communications networks; and
+9. Other matters necessary to promote the utilization of the information and communications networks and protect information, etc.
+(3) In shaping the policy referred to in paragraph (1), the Minister of Information and Communication shall endeavor for the linkage of such policy with the basic plan for promoting informationization as prescribed in Article 5 of the Framework Act on Informatization Promotion.
+
+Article 5 (Relation with Other Acts)
+The promotion of the utilization of information and communications networks and the protection of information, etc. shall be governed by this Act except as specially provided for in other Acts.
+
+CHAPTER Ⅱ PROMOTION OF UTILIZATION OF INFORMATION AND COMMUNICATIONS NETWORKS
+
+Article 6 (Promotion of Technology Development)
+(1) The Minister of Information and Communication may have the relevant research institutes implement projects aimed for research and development, technical cooperation, technology transfer or technical guidance services, etc. with the aim of efficiently promoting the development of technologies and equipment related to information and communications networks under the conditions as prescribed by the Presidential Decree.
+(2) The Government may financially support the costs, in whole or in part, required by the research institutes to undertake the research and development projects, etc. referred to in paragraph (1).
+(3) Necessary matters concerning the payment and management, etc. of the costs as prescribed in paragraph (2) shall be determined by the Presidential Decree.
+
+Article 7 (Management and Dissemination of Information Pertaining to Technologies, etc.)
+(1) The Minister of Information and Communication shall systematically and collectively manage the information pertaining to technologies and equipment related to information and communications networks (hereafter in this Article referred to as “information pertaining to technologies, etc.”).
+(2) The Minister of Information and Communication may, when he deems it necessary to manage systematically and collectively the information pertaining to technologies, etc., request the administrative agencies, national and public research institutes, etc. concerned to furnish materials related to the information pertaining to technologies, etc. In this case, the heads of such institutions shall, upon receiving the request, comply with such request unless the special grounds exist that make it impossible for them to do so.
+(3) The Minister of Information and Communication shall implement an information dissemination project aimed at making the information pertaining to technologies, etc. quickly and conveniently accessible to the public.
+(4) Necessary matters concerning the scope of technologies and equipment related to information and communications networks subject to the dissemination referred to in paragraph (3) shall be determined by the Presidential Decree.
+
+Article 8 (Standardization and Certification of Information and Communications Networks)
+(1) The Minister of Information and Communication shall set standards for information and communications networks and publish such standards to facilitate the utilization of the information and communications networks. He may also urge any provider of the information and communications services or any person who manufactures or supplies goods related to the information and communications networks to adopt the standards: Provided, That the matters for which the Korea Industrial Standards are set in accordance with Article 10 of the Industrial Standardization Act shall be governed by the Korea Industrial Standards.
+(2) Any person who manufactures and supplies goods related to information and communications, which are in conformity with the standards published under paragraph (1), may obtain a certification from an authorized certification institution designated in accordance with Article 9 (1) and put a label showing the conformity of the goods with the standards on such goods.
+(3) In the case of the proviso of paragraph (1), any certification of the Korea Industrial Standards, if awarded under Articles 11 through 13 of the Industrial Standardization Act, shall be deemed awarded in accordance with paragraph (2).
+(4) Any person who is not awarded a certification under paragraph (2) shall be prohibited from putting any label or similar one showing the conformity of his goods with the standards on such goods and from selling any goods bearing such similar label or from displaying such goods for the purpose of selling them.
+(5) Necessary matters concerning the subject of, method of, procedures, etc. for the standardization referred to in paragraph (1) shall be determined by the Ministerial Decree of Information and Communication.
+
+Article 9 (Designation of Authorized Certification Institution)
+(1) The Minister of Information and Communication may designate any institution (hereinafter referred to as an “authorized certification institution”) certifying that goods related to information and communications networks, which are manufactured and supplied by any person, are in conformity with the standards published under the main sentence of Article 8 (1).
+(2) In the event that any authorized certification institution falls under any of the following subparagraphs, the Minister of Information and Communication may cancel his designation of such authorized certification institution or order the business of such authorized certification institution suspended for a fixed period of not more than 6 months: Provided, That if the authorized certification institution falls under subparagraph 1, its designation shall be cancelled:
+1. When it gets itself designated in a fraudulent and other manner;
+2. When it has suspended its certification business for not less than one year without any justifiable grounds; and
+3. When it falls short of the designation standards under paragraph (3).
+(3) Necessary matters concerning the standards and procedures for designating any authorized certification institution and cancelling any designation, and the standards for suspending business, etc. under paragraphs (1) and (2) shall be set by the Ministerial Decree of Information and Communication.
+
+Article 10 (Assistance for Development of Information Contents)
+The Government may provide financial and technical assistance, etc. to any person who develops information contents that are distributed through information and communications networks to bolster the national competitiveness and to enhance the public interest.
+
+Article 11 (Development Facilitation of Applied Services of Information and Communications Networks)
+(1) In the event that any State organ, local government, or public institution develops and operates any applied services to conduct efficiently, automatize, and sophisticate their business affairs through the utilization of information and communications networks (hereinafter referred to as the “applied services of information and communications networks”), the Government may provide financial and technical assistance as well as other necessary support to such institution.
+(2) The Government may provide financial and technical assistance as well as other necessary support to the private sector to facilitate the development of the applied services of information and communications networks by the sector and take the measures of the following subparagraphs to train technical manpower necessary to develop such applied services:
+1. Support for Internet education conducted at schools of various levels and other educational institutions;
+2. Expansion of education on the Internet for the people;
+3. Assistance in projects implemented to train the technical manpower engaged in the information and communications networks;
+4. Establishment of and support for institutions specializing in training the technical manpower engaged in the information and communications networks;
+5. Development of educational programs for utilizing the information and communications networks and support for their dissemination;
+6. Establishment of the technical qualification system related to the information and communications networks and support for the supply and demand of the technical manpower specializing in the information and communications networks; and
+7. Other matters necessary to train the technical manpower engaged in the information and communications networks.
+
+Article 12 (Building of System for Jointly Utilizing Information)
+(1) The Government may encourage the interoperability of information and communications networks, the standardization of such networks and the building of a system under which information is jointly utilized to efficiently utilize the information and communications networks.
+(2) To any person who builds a system for the joint utilization of information as prescribed in paragraph (1), the Government may provide necessary support including financial and technical assistance.
+(3) Necessary matters concerning the encouragement and support under paragraphs (1) and (2) shall be prescribed by the Presidential Decree.
+
+Article 13 (Projects for Promoting Utilization of Information and Communications Networks)
+(1) The Minister of Information and Communication may implement projects designed to facilitate the efficient utilization and dissemination of related technologies, equipment, and applied services with the aim of facilitating the utilization of information and communications networks in the public sector, region, industry, life, and social welfare, etc. and bringing an end to the information gap under the conditions as prescribed by the Presidential Decree.
+(2) The Government may provide necessary support, including financial and technical assistance, to persons participating in the projects referred to in paragraph (1).
+
+Article 14 (Proliferation of Internet)
+The Government shall induce the efficient utilization of Internet facilities of both the public and private sectors to proliferate the utilization of the Internet, expand the foundation for utilizing the Internet and conducting Internet-related education and publicity and work out and implement measures to bring an end to the Internet utilization gap by region, gender and age.
+
+Article 15 (Quality Improvement of Internet Services)
+(1) The Minister of Information and Communication shall work out measures to protect the rights and interests of persons using the Internet services, upgrade the quality of the Internet services and ensure the stable rendering of such services.
+(2) The Minister of Information and Communication may, if he deems it necessary to implement the measures referred to in paragraph (1), set and publish standards for measuring and assessing the quality of Internet services after hearing opinions of the organization of the providers of information and communications services and the organization of users, etc.
+(3) Any provider of information and communications services may assess the current quality of Internet services on his own according to the standards set and published under paragraph (2) and make the outcome thereof known to users.
+
+Article 16 (Expansion of Internet IP Addresses, etc.)
+The Minister of Information and Communication shall take measures to expand IP addresses, including domain names, etc., which are the basis for utilizing the Internet and make it possible for Internet users to utilize such IP addresses fairly and appropriately. In this case, he shall hear opinions of the organization of the providers of the information and communications services and the organization of users to reflect their opinions in the measures.
+
+Article 17 (Dispute over Internet Domain Names)
+The Minister of Information and Communication shall work out measures for the international cooperation and the mediation of disputes, etc. necessary to settle speedily and fairly any dispute over the registration and use of Internet domain names with the eventual aim of facilitating the proper use of Internet domain names and efficiently managing such Internet domain names.
+
+Article 18 (Processing of Documents by Digital Document Relayer)
+(1) The heads of State organs or local governments shall, when they intend to process permission, authorization, approval, registration, report and application, etc. as prescribed in Acts and subordinate statutes (hereafter in this Article referred to as “permission, etc.”) in the form of digital document through any person who manages facilities and equipment used for relaying digital documents (hereinafter referred to as a “digital document relayer”), prescribe and publish necessary matters, including the subject of business and digital document relayer, etc., under the conditions as prescribed by the Presidential Decree.
+(2) The digital document processed pursuant to paragraph (1), a letter and digital signature indicating the nominal person of such digital document (referring to ones by that the creator of the document is discernible and it is possible to confirm whether the document is altered) shall be deemed the document prescribed in the relevant Acts and subordinate statutes and the name signed and the seal affixed on such digital document.
+(3) Any permission, etc. processed in a digital document under paragraph (1) shall be deemed processed according to procedures prescribed in the relevant Acts and subordinate statutes.
+(4) Necessary matters concerning requirements and procedures for designating any digital document relayer shall be prescribed by the Presidential Decree.
+
+Article 19 (Time for Transmitting and Receiving Digital Document)
+(1) Any digital document shall be deemed transmitted when such digital document is input into a computer managed by any other person than the creator thereof or any other person than the agent of the creator.
+(2) Any digital document shall be deemed received at the time falling under any of the following subparagraphs:
+1. Where the receiver designates a computer to receive the digital document, when the digital document is input into such designated computer: Provided, That where the digital document is input into other computer than the designated computer, when the receiver outputs it; and
+2. Where the receiver does not designate a computer to receive the digital document, when the digital document is input into a computer managed by the receiver.
+
+Article 20 (Presumption of Contents of Digital Document, etc.)
+(1) When a dispute arises between parties or interested parties over the contents of a digital document, the relevant contents shall be presumed compiled according to the contents of the digital document recorded in the computer file of the digital document relayer.
+(2) The digital document relayer shall keep digital documents in custody for a period fixed and published by the head of any State organ or the head of any local government.
+
+Article 21 (Restrictions on Disclosure of Digital Documents, etc.)
+No digital document relayer shall disclose any digital document or any records processed by digital document relay facilities without going through legal procedures or obtaining the consent of the relevant addresser and addressee of the digital document.
+
+CHAPTER Ⅳ PROTECTION OF PERSONAL INFORMATION
+
+Section 1 Collection of Personal Information
+
+Article 22 (Collection of Personal Information)
+(1) Any provider of information and communications services shall, when he intends to gather the personal information of a user, obtain a consent thereof from such user: Provided, That the same shall not apply to the case falling under each of the following subparagraphs:
+1. Where it is necessary to effect a contract for the utilization of information and communications services;
+2. Where it is necessary to adjust fees for the provision of information and communications services; and
+3. Where special provisions exist in this Act or other Acts.
+(2) Any provider of information and communications services, when he intends to obtain the consent referred to in paragraph (1), shall in advance notify the user of the matters falling under each of the following subparagraphs or specify such matters in a standardized contract for the utilization of the information and communications services:
+1. The name, department, position, telephone number, and other communication means of a person in charge of managing the personal information;
+2. The objective of gathering and utilizing the personal information;
+3. If the personal information is provided to a third person, the identification of such third person, the objective of providing such personal information and contents of the personal information to be provided;
+4. The right of the user and his legal representative under Articles 30 (1) and (2) and 31 (2) and the method of exercising such right; and
+5. Other matters, prescribed by the Presidential Decree, which are necessary to protect the personal information.
+
+Article 23 (Restrictions on Gathering Personal Information, etc.)
+(1) No provider of information and communications services shall gather the personal information, including ideology, faith and medical record, etc., which is likely to excessively infringe on the right, interest and privacy of the relevant user: Provided, That the same shall not apply to a case where the consent of the relevant user exists or the subject of gathering the personal information is specified in other Acts.
+(2) Any provider of information and communications services shall, when he gathers the personal information of users, gather the minimum information necessary to render the information and communications services. He shall not refuse to provide the relevant services on the grounds that the user does not provide any other personal information than the necessary minimum information.
+
+Section 2 Utilization and Provision of Personal Information
+
+Article 24 (Utilization and Provision of Personal Information, etc.)
+(1) No provider of information and communications services, with the exception of the consent of the relevant user or the case falling under each of the following subparagraphs, shall utilize the personal information or provide it to any third person beyond the scope of the notification as prescribed in Article 22 (2) or the limit specified in a standardized contract for the utilization of the information and communications services:
+1. Where it is necessary to adjust fees for the provision of the information and communications services;
+2. Where the personal information is provided after it is processed to the extent that any specific individual is unidentifiable if such personal information is necessary to compile statistics, make academic research or conduct a market survey; and
+3. Where special provisions exist in other Acts.
+(2) Any person who is provided with the personal information of users by any provider of the information and communications services, with the exception of the consent of such users or the existence of special provisions of other Acts, shall not use the personal information for other purpose than the purpose for which the personal information is provided or provide such personal information to any third person.
+(3) The providers, etc. of information and communications services (referring to the providers of information and communications services and other persons who are provided with the personal information of users by the former; hereinafter the same shall apply) shall minimize the number of persons in charge of handling the personal information of users.
+(4) Any person who handles or handled the personal information of users shall not damage, infringe on or leak any personal information of users that he has learned while performing his duties.
+
+Article 25 (Entrusting of Personal Information Processing)
+(1) The providers, etc. of information and communications services shall, if they entrust the work of gathering, handling, managing, etc. the personal information of users to other person, serve a notice thereon on each of the users.
+(2) The person who is entrusted by a provider, etc. of information and communications services with the work of processing the personal information under paragraph (1) shall be deemed an employee of the provider, etc. of information and communications services only with respect to compensation for any damage inflicted by his violation of the provisions of this Chapter in connection with the work entrusted.
+
+Article 26 (Notice on Business Transfer, etc.)
+(1) In the event that a provider, etc. of information and communications services transfers his business in whole or in part, or his rights and duties due to a merger or an inheritance, etc., he shall notify the users of the matters falling under each of the following subparagraphs under the conditions as prescribed by the Presidential Decree:
+1. The facts of the transfer of the business in whole or in part and the merger or the inheritance, etc.; and
+2. The name (referring to the name of a corporation in the case of a corporation; hereafter the same in this Article shall apply), address, telephone number, and other contact means of a person who succeeds to the rights and duties of the provider, etc. of information and communications services.
+(2) Any person who acquires by transfer the whole or part of business of the provider, etc. of information and communications services or succeeds to the rights and duties of the provider, etc. of information and communications services due to a merger or an inheritance, etc. (hereinafter referred to as a “transferee, etc. of business”) shall notify the users of the matters falling under each of the following subparagraphs under the conditions as prescribed by the Presidential Decree:
+1. The fact of his succeeding to the rights and duties of the provider, etc. of information and communications services and his name;
+2. The name, post, position, telephone number, and other contact means of a person in charge of managing the personal information;
+3. The objective of utilizing the personal information;
+4. The rights of users as prescribed in Article 30 (1) and (2) and the method of exercising such rights; and
+5. Other matters, prescribed by the Presidential Decree, which are necessary to protect the personal information.
+
+Article 27 (Designation of Persons in Charge of Managing Personal Information)
+(1) The provider, etc. of information and communications services shall designate persons in charge of managing the personal information to protect the personal information of users and deal with complaints of users in connection with the personal information.
+(2) Qualification requirements for the persons in charge of managing the personal information and other matters necessary to designate them shall be prescribed by the Ministerial Decree of Information and Communication.
+
+Article 28 (Protective Measures for Personal Information)
+In handling the personal information of users, the provider, etc. of information and communications services shall take technical and managerial measures necessary to secure the safety of the personal information with the aim of keeping the personal information from being lost, stolen, leaked out, changed, or damaged.
+
+Article 29 (Disposal of Personal Information)
+When the provider, etc. of information and communication services attains the objective of gathering the personal information or the objective of being provided with the personal information, he shall promptly dispose of the relevant personal information: Provided, That the same shall not apply to a case where other Acts and subordinate statutes require the preservation of such personal information.
+
+Section 3 Rights of Users
+
+Article 30 (Rights of Users, etc.)
+(1) Every user may at any time withdraw his agreement given to the provider, etc. of the information and communications services under the main sentence of Article 22 (1), the proviso of Article 23, and the main sentence of Article 24 (1).
+(2) Every user may ask the provider, etc. of information and communications services for the perusal of his personal information and if his personal information is found to be erroneous, he may request the correction thereof.
+(3) In the event that any user withdraws his agreement under paragraph (1), the provider, etc. of information and communications services shall promptly take necessary measures, including disposing of his personal information gathered.
+(4) The provider, etc. of information and communications services shall, upon receiving a request for the perusal or correction under paragraph (2), take without delay necessary measures.
+(5) The provider, etc. of information and communications services shall not, upon receiving a request for the correction of an error under paragraph (2), provide or utilize the relevant personal information until such error is corrected.
+(6) The provider, etc. of information and communications services shall, upon being notified of the withdrawal of an agreement or receiving a request for perusal or correction under paragraphs (1) and (2), take necessary measures to deal with the withdrawal of such agreement and the request in an easier method than that of gathering the personal information under Articles 22 and 23.
+(7) The provisions of paragraphs (1) through (6) shall apply mutatis mutandis to the transferee, etc. of business. In this case, the “provider, etc. of the information and communications services” shall be deemed the “transferee, etc. of the business”.
+
+Article 31 (Right of Legal Representative)
+(1) Any provider of the information and communications services shall, when he intends to gather the personal information from any child whose age is below 14 under Article 22 or to utilize the personal information or provide such personal information to any third person under Article 24 (1), obtain a consent thereof from his legal representative. In this case, the provider of the information and communications services may ask the relevant child for the necessary minimum information, including the name, etc. of the legal representative, to get an agreement of the legal representative.
+(2) The legal representative may withdraw his consent given under paragraph (1) and request the perusal of the information provided by the child and the correction of any error with respect to such information.
+(3) The provisions of Article 30 (3) through (5) shall apply mutatis mutandis to the withdrawal of the consent and the request for the perusal or the correction of any error by the legal representative under paragraph (2).
+
+Article 32 (Indemnification)
+In the event that a user suffers any damage by the act of violating the provisions of this Chapter by the provider, etc of information and communications services, such user may claim the compensation for such damage against the provider, etc. of information and communications services. In this case, the provider, etc. of information and communications services may not be released from the responsibility therefor if he fails to prove the non-existence of his intention or negligence with respect to such damage.
+
+Section 4 Personal Information Dispute Mediation Committee
+
+Article 33 (Establishment and Composition of Personal Information Dispute Mediation Committee)
+(1) A Personal Information Dispute Mediation Committee (hereinafter referred to as the “Dispute Mediation Committee”) shall be established to mediate any dispute over personal information.
+(2) The Dispute Mediation Committee shall consist of not more than 15 members, including one chairman, and one of the members shall be standing.
+(3) The members shall be appointed or commissioned by the Minister of Information and Communication from among the persons falling under any of the following subparagraphs under the conditions as prescribed by the Presidential Decree. In this case, not less than one person falling under each of the following subparagraphs shall be included in the members:
+1. Persons who presently serve or have served in universities as associate professors or higher and in publically recognized research institutes as researchers with their positions corresponding to the former and majored in a field relating to the protection of personal information;
+2. Public officials of Grade IV or higher or persons who presently work or have worked in public institutions with their positions corresponding to the former and have experiences in dealing with the affairs of the protection of personal information;
+3. Persons who holds qualifications of judges, prosecutors, or attorneysat-law;
+4. Persons who presently work or have worked for the organization of the users of information and communications services as officers;
+5. The persons who presently work or have worked for the providers of information and communications services or the organization of the providers of information and communications services as officers; and
+6. Persons recommended by nonprofit nongovernmental organizations established pursuant to Article 2 of the Assistance for Nonprofit Nongovernmental Organizations Act.
+(4) The terms of office for the members shall be 3 years and they may be reappointed or recommissioned.
+(5) The chairman shall be appointed by the Minister of Information and Communication from among the members.
+(6) A secretariat shall be established in the Korea Information Security Agency established pursuant to Article 52 to support the Dispute Mediation Committee’s affairs.
+
+Article 34 (Guarantee of Members’ Status)
+None of the members shall be dismissed or discharged against his will save when he is sentenced to the suspension of qualification or a heavier punishment or unable to perform his duties due to mental or physical incompetence.
+
+Article 35 (Exclusion, Challenge, and Refrainment of Member)
+(1) Any member falling under any of the following subparagraphs shall be excluded from participating in the deliberation and resolution of a case requested for dispute mediation (hereafter in this Article referred to as the “case”):
+1. Where a member, his spouse, or his former spouse is a party to the case, or a joint right holder or a joint obligator with respect to the case;
+2. Where a member is or was in a kinship with the party of the case; and
+3. Where a member gives any testimony or expert opinion with respect to the case;
+4. Where a member is or was involved in the case as an agent, an officer, or an employee of the party.
+(2) Any party may, when he finds it difficult to expect a fair deliberation and resolution from the members, file a challenge application with the Dispute Mediation Committee. In this case, the Dispute Mediation Committee shall, when it deems such challenge application appropriate, determine the challenge.
+(3) Any member may, when he falls under the case of paragraph (1) or (2), refrain from the deliberation and resolution with respect to the case.
+
+Article 36 (Mediation of Dispute)
+(1) Any person who wants any dispute over the personal information mediated may file an application for mediating such dispute with the Dispute Mediation Committee.
+(2) The Dispute Mediation Committee shall, upon receiving an application for mediating a dispute under paragraph (1), examine the case and prepare a draft mediation within 60 days from the date of receiving such application: Provided, That if there are unavoidable circumstances, the Dispute Mediation Committee may resolve to extend the period of 60 days.
+(3) In the event that the period is extended under the proviso of paragraph (2), the applicant shall be notified of reasons for extending the period and other matters concerning the extension of the period.
+
+Article 37 (Request for Materials, etc)
+(1) The Dispute Mediation Committee may ask parties involved in a dispute to provide materials necessary to mediate the dispute. In this case, the relevant parties shall comply with the request unless the justifiable grounds exist that make it impossible for them to do so.
+(2) The Dispute Mediation Committee may, when it is deemed necessary, get parties involved in a dispute or relevant witnesses to be present at a meeting of the Dispute Mediation Committee to hear their opinions.
+
+Article 38 (Effect of Mediation)
+(1) The Dispute Mediation Committee shall, when it prepares a draft mediation in accordance with Article 36 (2), present without any delay such draft mediation to each of the parties.
+(2) Each of the parties presented with the draft mediation under paragraph (1) shall serve a notice on the Dispute Mediation Committee as to whether or not he accepts the draft mediation within 15 days from the day on which he received such draft mediation.
+(3) If the parties accept the draft mediation, the Dispute Mediation Committee shall promptly prepare a written mediation, and the chairman and the parties shall subscribe their names thereto and affix their seals thereon.
+(4) When the parties accept the draft mediation under paragraph (3) and the chairman and the parties subscribe their names thereto and affix their seals thereon, an agreement identical to the written mediation between the parties shall be deemed reached.
+
+Article 39 (Rejection and Suspension of Mediation)
+(1) The Dispute Mediation Committee may, when it deems that it is inappropriate for it to mediate any dispute in the light of its nature or that an application for mediating any dispute is filed for an unfair purpose, reject the relevant mediation. In this case, a notice on the grounds of rejecting the mediation, etc. shall be served on the applicant.
+(2) In the event that any of the parties files a lawsuit in the process of examining a medication case applied, the Dispute Mediation Committee shall suspend handling the dispute and serve a notice thereon on the applicants.
+
+Article 40 (Procedures for Mediation, etc.)
+With the exception of what is prescribed in Articles 36 through 39, necessary matters concerning the method of and procedures for mediating any dispute, and the business of dealing with any dispute, etc. shall be prescribed by the Presidential Decree.
+
+CHAPTER Ⅴ PROTECTION OF JUVENILES IN INFORMATION AND COMMUNICATIONS NETWORK, ETC.
+
+Article 41 (Measures, etc. to Protect Juveniles)
+(1) The Minister of Information and Communication shall take measures falling under each of the following subparagraphs to protect juveniles from harmful information, including lascivious sex and violence information, distributed by information and communications networks:
+1. The development and dissemination of contents screening software;
+2. The development and dissemination of technologies to protect juveniles;
+3. The education and publicity for the protection of juveniles; and
+4. Other matters prescribed by the Presidential Decree for the protection of juveniles.
+(2) In implementing the measures referred to in paragraph (1), the Minister of Information and Communication may support activities carried out by the Information and Communications Ethics Committee established pursuant to Article 53-2 of the Telecommunications Business Act, the organization of the providers of information and communications services, the organization of the users of information and communications services and other specialized institutions to protect juveniles.
+
+Article 42 (Labeling of Media Materials Harmful to Juvenile)
+Any person who intends to provide media materials described in subparagraph 4 of Article 7 of the Juvenile Protection Act, which are prescribed as harmful to juveniles in accordance with subparagraph 3 of Article 2 of the same Act, from among the persons who provide information accessible to the public utilizing the telecommunications services rendered by a telecommunications business operator (hereinafter referred to as the “providers of information”) shall get the relevant information labeled harmful to juveniles in the labeling method prescribed by the Presidential Decree.
+
+Article 43 (Obligation of Provider of Visual or Sound Information to Keep in Custody)
+(1) A provider prescribed by the Presidential Decree from among the providers of information who run the business of providing the media materials as described in subparagraph 4 of Article 7 of the Juvenile Protection Act, which are prescribed as harmful to juveniles under subparagraph 3 of Article 2 of the same Act, in a manner of not storing or recording them in the computers of users, shall keep the relevant information in custody.
+(2) The period for which the providers of information referred to in paragraph (1) shall keep the relevant information in custody shall be fixed by the Presidential Decree.
+
+Article 44 (Request for Deleting Information, etc.)
+(1) Any person whose legal interest is infringed on by the information which is provided for the public utilizing information and communications networks may ask the provider of information and communications services handling the relevant information to delete the information or run his refutal in such information.
+(2) The provider of information and communications services shall, upon receiving the request for deleting the relevant information, etc., forthwith take necessary measures and promptly serve a notice thereon on the requester.
+
+CHAPTER Ⅵ SECURING OF SAFETY, ETC. OF INFORMATION AND COMMUNICATIONS NETWORKS
+
+Article 45 (Securing of Safety, etc. of Information and Communications Networks)
+(1) Every provider of information and communications services shall take protective measures to secure the safety of the information and communications networks used to provide the information and communications services and the reliability of information.
+(2) The Minister of Information and Communication may set a guideline on the information protection of the information and communications services, which specifies contents of the protective measures referred to in paragraph (1) and publish it and then urge every provider of information and communications services to observe such guideline.
+
+Article 46 (Protection of Agglomerated Information and Communications Facilities)
+(1) Any operator who runs the business of operating and managing information and communications facilities agglomerated for other persons who provide information and communications services shall take protective measures to operate stably the information and communications facilities under the conditions as prescribed by the Ministerial Decree of Information and Communication.
+(2) The business operator referred to in paragraph (1) shall have his information and communications facilities insured for indemnifying any damage sustained by the destruction, loss, damage and other operational trouble of such facilities under the conditions as prescribed by the Ministerial Decree of Information and Communication.
+(3) The Minister of Information and Communication may order any business operator who has failed to take the protective measures referred to in paragraph (1) to take corrective measures within an appropriately fixed period.
+
+Article 47 (Certification of Information Protection and Management System)
+(1) Every provider of information and communications services and any person who provides physical facilities used to provide the information and communications services may each obtain a certification from the Korea Information Security Agency established pursuant to Article 52 with respect to whether his comprehensive management system (hereinafter referred to as the “information protection and management system”), including technical and physical protective measures worked out and implemented to secure the safety of the information and communications networks and the reliability of information, is suitable to provide the relevant services.
+(2) The Minister of Information and Communication may set and publish necessary standards for the certification referred to in paragraph (1), including standards for protecting and managing information.
+(3) Any person who obtains a certification on the information protection and management system under paragraph (1) may label and publicize contents of such certification under the conditions as prescribed by the Ministerial Decree of Information and Communication.
+(4) Method of and procedures for awarding the certification of paragraph (1), fees thereof, and other necessary matters shall be determined by the Ministerial Decree of Information and Communication.
+
+Article 48 (Prohibition on Act of Infiltrating into Information and Communications Networks, etc.)
+(1) Any person shall be prohibited from infiltrating into information and communications networks without any justifiable access right or beyond his permitted access right.
+(2) Any person shall be prohibited from transmitting or distributing any program (hereinafter referred to as a “malicious program”) that may damage, disrupt, and destroy the information and communications system, alter and forge the data or programs, etc., or hinder the operation thereof without any justifiable reasons.
+(3) Any person shall be prohibited from sending a large volume of signals or data for the purpose of hindering the stable operation of information and communications networks or from causing troubles in information and communications networks using the method of getting unfair instructions processed.
+
+Article 49 (Protection of Secrets, etc.)
+Any person shall be prohibited from damaging the information of other persons or from infringing, stealing or leaking the secrets of other persons, which are processed, stored or transmitted by information and communications networks.
+
+Article 50 (Restrictions on Transmission of Advertisement Information)
+(1) Any person shall be prohibited from transmitting advertisement information for the purpose of earning profits against the addressee’s explicit rejection of such information.
+(2) Any person who intends to transmit by e-mail any advertisement information for the purpose of earning profits under paragraph (1) shall expressly indicate the matters falling under each of the following subparagraphs in the e-mail under the conditions as prescribed by the Ministerial Decree of Information and Communication:
+1. The objective of transmission and major contents thereof;
+2. The name and contact means of the addressor; and
+3. Matters concerning the declaration of intention to reject receiving the advertisement information.
+
+Article 51 (Restrictions on Outflow of Major Information into Foreign Nations, etc.)
+(1) The Minister of Information and Communication may have every provider of information and communications services or every user of information and communications services take measures necessary to prevent major information pertaining to the domestic industry, economy, science and technology, etc. from being flowed out of Korea into foreign nations.
+(2) Necessary matters concerning the scope of the major information referred to in paragraph (1) and contents of the measures to protect such major information, etc. shall be prescribed by the Presidential Decree.
+
+Article 52 (Korea Information Security Agency)
+(1) The Government shall establish a Korea Information Security Agency (hereinafter referred to as the “Security Agency”) to implement efficiently the measures necessary to protect information for the secure distribution of information.
+(2) The Security Agency shall be a juristic person.
+(3) The Security Agency shall carry out the projects falling under each of the following subparagraphs:
+1. The survey and research of policies and systems for the protection of information;
+2. The analysis of negative effects of informationization and the research of countermeasures;
+3. The publicity, education, and training for the protection of information;
+4. The research, development, test, and assessment of the information protection system;
+5. The support for setting standards for the function and reliability of the information protection system and the standardization thereof;
+6. The development of encoding technology for the protection of information;
+7. The research of measures necessary to protect the personal information;
+8. The support for operating the Dispute Mediation Committee and the operation of a reporting center on the infringement of the personal information;
+9. The operation of the system designed to deal with the case of infringing on the information system and the operation of the responsive system;
+10. The management of certifying digital signatures under Article 25 (1) of the Digital Signature Act;
+11. Other projects incidental to the projects of subparagraphs 1 through 10; and
+12. Other work prescribed by this Act and other Acts and subordinate statutes as one of the Security Agency and other entrusted projects or projects entrusted by the Minister of Information and Communication.
+(4) The Government may make contributions to cover costs necessary for the projects of the Security Agency.
+(5) The provisions governing the incorporated foundation of the Civil Act shall apply mutatis mutandis to any matter not prescribed by this Act with respect to the Security Agency.
+(6) Any person who is not the Security Agency shall be prohibited from using the name of the Korea Information Security Agency.
+(7) Necessary matters concerning the operation and work of the Security Agency shall be prescribed by the Presidential Decree.
+
+CHAPTER Ⅶ INTERNATIONAL COOPERATION
+
+Article 53 (International Cooperation)
+In carrying out the business falling under each of the following subparagraphs, the Government shall maintain mutual cooperation with other nations or international organizations:
+1. The business of expanding Internet IP addresses;
+2. The business of transferring the personal information among nations and protecting the personal information;
+3. The business of protecting juveniles in information and communications networks;
+4. The business of preventing the act of undermining the safety of information and communications networks; and
+5. The business of facilitating the healthy and secure utilization of information and communications services.
+
+Article 54 (Restrictions on International Contracts on Personal Information)
+The providers of information and communications services shall not enter into any international contract whose contents violate the provisions of this Act with respect to the personal information of users.
+
+CHAPTER Ⅷ SUPPLEMENTARY PROVISIONS
+
+Article 55 (Submission of Materials, etc.)
+(1) The Minister of Information and Communication may, if it is necessary to enforce this Act, ask the provider, etc. of information and communications services (including any person falling under a case where the provisions of Article 58 are applied mutatis mutandis in this Article) to furnish related goods and documents, etc.
+(2) In the event that the provider, etc. of information and communications services fails to furnish materials under paragraph (1) or he is deemed to have violated the provisions of this Act, the Minister of Information and Communication may have his public officials enter the business place of the provider, etc. of information and communications services to inspect the provider’s current business and check books or documents, etc.
+(3) With respect to the provider, etc. of information and communications services who has violated this Act, the Minister of Information and Communication may order him to take necessary corrective measures.
+(4) The public officials assigned to inspect the business place under paragraph (2) shall carry certificates showing their authority and produce them to persons concerned.
+(5) The Minister of Information and Communication may ask the head of the Security Agency for technical advices and other necessary support in connection with the request for furnishing materials and the inspection under paragraphs (1) through (3).
+
+Article 56 (Delegation and Entrustment of Authority)
+(1) The Minister of Information and Communication may delegate his authority under this Act, in whole or in part, to the heads of agencies under his supervision under the conditions as prescribed by the Presidential Decree.
+(2) The Minister of Information and Communication may entrust the business of facilitating the utilization of information and communications networks as prescribed in Article 13 to the National Computerization Agency established pursuant to Article 10 of the Framework Act on informatization Promotion under the conditions as prescribed by the Presidential Decree.
+
+Article 57 (Secrets, etc.)
+Any person who is or was engaged in the business falling under each of the following subparagraphs shall not leak secrets he has learned while performing his duties to any other person or use such secrets for other purpose than the purpose of his duties: Provided, That the same shall not apply to a case where the provisions of other Acts specially exclude such prohibition:
+1. The business of mediating any dispute conducted by the Dispute Mediation Committee;
+2. The business of awarding certification on the information protection and management system; and
+3. The business of assessing the information protection system under Article 52 (3) 4.
+
+Article 58 (Application to Person other than Provider of Information and Communications Services)
+The provisions of Articles 22 through 32 shall apply mutatis mutandis to a case where any person prescribed by the Presidential Decree, from among the persons other than the providers of information and communications services, who provides goods or services, gathers, utilizes or provides the personal information of any person who is provided with his goods or services. In this case, the “provider of information and communications services” and the “provider, etc. of information and communications services” shall be deemed the “provider of goods or services” and the “user” shall be deemed the “person provided with goods or services”, respectively.
+
+Article 59 (Korea Association of Information and Telecommunication)
+(1) Providers of information and communications services and persons who run the business related to the information communications networks may establish Korea Association of Information and Telecommunication (hereinafter referred to as the “Association”) to promote the utilization of information and communications networks and protect information, etc. after obtaining authorization from the Minister of Information and Communication as prescribed by the Presidential Decree.
+(2) The Association shall be a juristic person.
+(3) With the exception of what is prescribed in this Act with respect to the Association, the provisions governing the incorporated association of the Civil Act shall apply mutatis mutandis to the Association.
+(4) The Government may, if necessary to assist the Association in performing the work thereof, provide subsidies to the Association within the limit of budget.
+(5) Necessary matters concerning the work and supervision, etc. of the Association shall be prescribed by the Presidential Decree.
+
+Article 60 (Legal Fiction of Public Officials in Application of Penal Provisions)
+Officers and employees of the National Computerization Agency, who work on the business entrusted by the Minister of Information and Communication under Article 56 (2), shall be deemed public officials in the application of Articles 129 through 132 of the Criminal Act.
+
+CHAPTER Ⅸ PENAL PROVISIONS
+
+Article 61 (Penal Provisions)
+(1) Any person who has defamed any other person by alleging openly facts through information and communications network with the purpose of slandering him shall be punished by imprisonment with or without prison labor for not more than 3 years or by a fine not exceeding 20 million won.
+(2) Any person who has defamed any other person by alleging openly false facts through information and communications network with the purpose of slandering him shall be punished by imprisonment with prison labor for not more than 7 years or the suspension of disqualification for not more than 10 years, or by a fine not exceeding 50 million won.
+(3) The offense described in paragraphs (1) and (2) shall not be charged against the will expressed by the victim.
+
+Article 62 (Penal Provisions)
+Any person falling under any of the following subparagraphs shall be punished by imprisonment with prison labor for not more than 5 years or by a fine not exceeding 50 million won:
+1. A person who has utilized the personal information or provided it to any third person beyond the scope of the notification or the limit specified in a standardized contract under Article 22 (2) in contravention of Article 24 (1) (including a case where the provisons are applied mutatis mutandis in Article 58);
+2. A person who has utilized the personal information of users for other purpose than the purpose for which such personal information has been provided or provided such personal information to any other person in contravention of Article 24 (2) (including a case where the provisions are applied mutatis mutandis in Article 58);
+3. A person who has damaged, infringed or leaked the personal information of users in contravention of Article 24 (4) (including a case where the provisions are applied mutatis mutandis in Article 58);
+4. A person who has transmitted or distributed malicious programs in contravention of Article 48 (2);
+5. A person who has caused troubles in information and communications networks in contravention of Article 48 (3); and
+6. A person who has damaged the information of any other person, or infringed, stolen or leaked the secrets of any other person in contravention of Article 49.
+
+Article 63 (Penal Provisions)
+Any person falling under any of the following subparagraphs shall be punished by imprisonment with prison labor for not more than 3 years or by a fine not exceeding 30 million won:
+1. A person who has infiltrated information and communications networks in contravention of Article 48 (1); and
+2. A person who has leaked the secrets to any other person, which he has learned while performing his duties, or utilized such secrets for other purpose than the purpose of his duties in contravention of Article 57.
+
+Article 64 (Penal Provisions)
+Any person who has provided information without putting on the information a label showing that such information is media materials harmful to juveniles for the purpose of earning profits in contravention of Article 42 shall be punished by imprisonment with prison labor for not more than 2 years or by a fine not exceeding 10 million won.
+
+Article 65 (Penal Provisions)
+(1) Any person falling under any of the following subparagraphs shall be punished by imprisonment with prison labor for not more than 1 year or by a fine not exceeding 10 million won:
+1. A person who has put any label or similar one on goods or sold such goods bearing such label or displayed such goods for the purpose of selling them in contravention of Article 8 (4);
+2. A person who has distributed, sold, rented, or openly displayed lascivious codes, letters, sounds, visuals, or films through information and communications networks; and
+3. A person who has repeatedly sent words, sounds, letters, visuals, or films inciting fears and uneasiness to any other person through information and communication networks.
+(2) The offense described in paragraph (1) 3 shall not be charged against the will expressed by the victim.
+
+Article 66 (Joint Penal Provisions)
+If the representative of a corporation, or the agent, the employed, or the other employee of a corporation or an individual commits an act of violating Articles 62 through 64 or 65 (1) 1 in connection with the business of such corporation or individual, the corporation or the individual shall also be punished by a fine described in the relevant Article in addition to the punishment of the actor.
+
+Article 67 (Fine for Negligence)
+(1) Any person falling under any of the following subparagraphs shall be punished by a fine for negligence not exceeding 5 million won:
+1. A person who has failed to keep digital documents in custody in contravention of Article 20 (2);
+2. A person who has made public digital documents in contravention of Article 21;
+3. A person who has gathered the personal information in contravention of Article 22 (1) (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+4. A person who has failed to notify users or specify required matters in a standardized contract for the utilization in contravention of Article 22 (2) (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+5. A person who has gathered the personal information or refused to provide the services in contravention of Article 23 (2) (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+6. A person who has failed to notify the users of the fact of entrustment in contravention of Article 25 (1) (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+7. A person who has failed to serve a notice in contravention of Article 26 (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+8. A person who has failed to designate a person in charge of managing the personal information in contravention of Article 27 (1) (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+9. A person who has failed to destruct the personal information in contravention of the main sentence of Article 29 (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+10. A person who has failed to take necessary measures or utilized the personal information without correcting an error thereof in contravention of Article 30 (3) through (6) (including any person falling under a case where the provisions are applied mutatis mutandis in Articles 30 (7), 31 (3), and 58);
+11. A person who has gathered the personal information on children in contravention of Article 31 (1) (including any person falling under a case where the provisions are applied mutatis mutandis in Article 58);
+12. A person who has failed to keep information in custody in contravention of Article 43;
+13. A person who has failed to insure the information and communications facilities in contravention of Article 46 (2);
+14. A person who has failed to execute the order given to take corrective measures under Article 46 (3);
+15. A person who has transmitted information for the purpose of earning profits in contravention of Article 50 (1);
+16. A person who has violated the provisions of Article 52 (6);
+17. A person who has failed to furnish related goods and documents, etc. under Article 55 (1) or furnished false goods and documents, etc.;
+18. A person who has rejected, obstructed or dodged the entry and inspection under Article 55 (2); and
+19. A person who has failed to execute the order given to take corrective measures under Article 55 (3).
+(2) The fine for negligence described in paragraph (1) shall be imposed and collected by the Minister of Information and Communication under the conditions as prescribed by the Presidential Decree.
+(3) Any person who is dissatisfied with a fine for negligence imposed in accordance with paragraph (2) may raise an objection to the Minister of Information and Communication within 30 days from the day on which he is notified of the disposition taken to impose such fine for negligence on him.
+(4) If any person subjected to a disposition taken to impose a fine for negligence on him under paragraph (2) raises an objection under paragraph (3), the Minister of Information and Communication shall promptly notify the competent court of the fact and the competent court shall, upon receiving a notice thereof, put the case on trial in accordance with the Non-Contentious Case Litigation Procedure Act.
+(5) If the person does not raise any objection within the period under paragraph (3) and fails to pay the fine for negligence, the fine for neglince in question shall be collected according to the example of a disposion taken to collect national taxes in arrears.
+
+ADDENDA
+Article 1 (Enforcement Date)
+This Act shall enter into force on July 1, 2001.
+Article 2 (Transitional Measures following Change of Basis for Establishing Korea Information Security Center and of Its Name)
+(1) The Korea Information Security Center established pursuant to Article 14-2 of the Framework Act on Informatization Promotion at the time that this Act enters into force shall be deemed the Korea Information Security Agency established pursuant to Article 52 of this Act.
+(2) Any act performed by and any legal relations maintained by the Korea Information Security Center at the time that this Act enters into force shall be deemed performed and maintained by the Korea Information Security Agency.
+(3) The name of the Korea Information Security Center on the register book and other public registers at the time that this Act enters into force shall be deemed the name of the Korea Information Security Agency.
+Article 3 (Transitional Measures following Change of Name of Korea Information and Communications Promotion Association)
+(1) The Korea Information and Communications Promotion Association at the time that this Act enters into force shall be deemed the Korea Association of Information and Telecommunication.
+(2) Any act performed and any legal relations maintained by the Korea Information and Communications Promotion Association at the time that this Act enters into force shall be deemed performed and maintained by the Association.
+(3) The name of the Korea Information and Communications Promotion Association on the register book and other public registers at the time that this Act enters into force shall be deemed the name of the Korea Association of Information and Telecommunication.
+Article 4 (Transitional Measures concerning Application of Penal Provisions)
+The application of the penal provisions to any act committed prior to the enforcement of this Act shall be governed by the previous provisions.
+Article 5 Omitted.
+Article 6 (Relations to Other Acts and Subordinate Statutes)
+If other Acts and subordinate statutes cite the former Act on Promotion, etc. of Utilization of Information System or the provisions thereof at the time this Act enters into force and if there exist corresponding provisions thereto in this Act, this Act or the corresponding provisions in this Act shall be regarded as being cited.
+
+
+
+Last updated : 2009-07-26

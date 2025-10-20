@@ -1,0 +1,224 @@
+Personal Data Protection Law No. (24) of 2023
+
+Article (1):
+This law shall be referred to as the Personal Data Protection Law of (2023) and shall come into effect 6 months following the date of its publication in the Official Gazette.
+
+Article (2):
+The following words and expressions wherever they may appear in this Law, shall have the meanings assigned to them hereunder, unless the context indicates otherwise:
+
+Ministry: The Ministry of Digital Economy and Entrepreneurship.
+Minister: The Minister of Digital Economy and Entrepreneurship.
+Council: The Personal Data Protection Council formed pursuant to the provisions of this law.
+The Unit: The organisational unit responsible for the protection of Personal Data within the Ministry.
+Personal Data: Any data or information related to a natural person that directly or indirectly identifies them, regardless of its source or form. This includes data concerning the individual, their family status, or their location.
+Sensitive Personal Data: Any data or information related to a natural person that directly or indirectly indicates their origin, race, political opinions, religious beliefs, financial status, health, physical or mental condition, genetic data, biometric data, criminal record, or any information deemed sensitive by the Council if its disclosure or misuse could harm the individual concerned.
+Data: Both Personal Data and Sensitive Personal Data.
+Databases: Electronic or non-electronic files or records containing data.
+Processing: One or more operations carried out in any form or by any means, with the purpose of collecting, recording, copying, storing, organising, revising, utilising, using, transmitting, distributing, publishing, linking to other Data, making available, transferring, displaying, concealing its identity, encoding, destroying, registering, erasing, modifying, describing, or disclosing by any and all possible means.
+Data Subject: The natural person whose Data is being processed.
+Controller: Any natural or legal person, located inside or outside the Kingdom, who has the Data under their custody.
+Processor: The natural or legal person responsible for processing the Data.
+Data Protection Officer: The appointed natural person overseeing databases and processing in accordance with the provisions of this law.
+Recipient: Any natural or legal person, located inside or outside the Kingdom, to whom Data is transferred or exchanged by the controller.
+Consent: The prior consent of the Data Subject for processing.
+Profiling: The automated processing of Data to identify the trends, preferences, choices, or behaviours of the Data subject.
+Data Breach: Any unauthorised access, process, transfer, or action on Data that compromises its security and integrity.
+
+Article (3):
+A - The provisions of this law apply to Data, regardless of when it was collected or processed, including Data collected or processed before the enactment of this law.
+B - The provisions of this law do not apply to natural persons who process their own Personal Data for their own personal purposes.
+
+Article (4):
+Subject to the provisions of Article (6) of this law:
+A - Every natural person has the right to protect their Data, and processing of such Data shall only be permitted upon obtaining the consent of the Data Subject or in cases permitted by law.
+B - The Data Subject has the following rights:
+1. Awareness and access to the Data held by the Controller and the ability to obtain it.
+2. Withdrawal of Consent.
+3. Correction, amendment, addition, or update of Data.
+4. Limiting Personal Data Processing to a specific scope.
+5. Erasure or concealment of Data according to the provisions of this law.
+6. Objection to Processing and Profiling if they are unnecessary for the purposes for which the Data was collected, or excessive in relation to those purposes, discriminatory, prejudiced, or in violation of the law.
+7. Transfer of a copy of their Data from one controller to another.
+8. Being notified of any Data Breach or violation regarding the security and integrity of their Data.
+C- The exercise by the Data Subject of the rights specified in paragraph (B) of this article shall not entail any financial or contractual consequences, without prejudice to the rights of the controller.
+D- The provisions of this article are to be organised in regulations issued for this purpose.
+
+Article (5):
+A- Valid Consent must meet the following conditions:
+1. It must be explicit and documented in writing or electronically.
+2. It must be specific regarding the duration and purpose.
+3. The request for Consent must be in clear, simple, and unambiguous language and must be easily accessible.
+4. The Consent of a parent or legal guardian is required for a person who lacks legal capacity, or the approved by a judge based on the request of The Unit, if it is in the best interest of the person who lacks legal capacity.
+B- Consent shall not be considered valid in the following cases:
+1. If it was obtained based on incorrect information, deceptive, or misleading practices, which were the reason for the Data Subject's decision to grant it.
+2. If the nature, type, or purposes of Processing have been changed without obtaining Consent for such changes.
+
+Article (6):
+A - The Processing is lawful and permissible without obtaining Consent or informing the Data Subject in the following cases:
+1. Processing carried out directly by a competent public entity to the extent necessary for the performance of its legally assigned tasks according to the enacted legislation or through other entities contracted with the public entity, provided that the contract includes compliance with all obligations and conditions stipulated in this law, regulations, and instructions issued pursuant to the Law.
+2. If it is necessary for preventive medical purposes, medical Profiling, or the provision of healthcare by a licensed practitioner of any medical profession.
+3. If it is necessary for protecting the life or vital interests of the Data Subject.
+4. If it is necessary to prevent a crime or to disclose it by a competent authority or to prosecute crimes committed in violation of the law.
+5. If it is required or permitted by any legislation or executed by a decision of the competent court.
+6. If it is necessary for entities under the supervision and oversight of the Jordanian Central Bank to conduct their functions as determined by the Jordanian Central Bank, including the transfer and exchange of Data within and outside the Kingdom of Jordan.
+7. If it is in accordance with the regulations pursuant to this law.
+8. If it is necessary for scientific or historical research purposes, provided that it does not involve making any decision or action concerning a specific individual.
+9. If it is necessary for statistical purposes, national security requirements, or for the public interest.
+10. If the data being Processed is made publicly available by the Data Subject.
+B - Data that has been Processed shall not be retained after the purpose of the Processing is fulfilled, unless otherwise specified by legislation.
+
+Article (7):
+Processing must meet the following requirements:
+A. The purpose of Processing must be lawful, specific, and clear.
+B. It must be aligned with the purposes for which the Data was collected.
+C. It must be conducted through legal means.
+D. It must be based on accurate, truthful, and up-to-date Data.
+E. It must not lead to identifying the Data subject after fulfilling its purpose.
+F. It must not cause harm to the Data Subject or directly or indirectly affect their rights.
+G. It must be carried out in a manner that ensures the confidentiality and integrity of the information and prevents any unauthorised alterations.
+
+Article (8):
+The Controller shall adhere to the following obligations:
+A - Taking necessary measures to protect the Data under its custody and any Data received from any other person.
+B - Implementing security, technical, and organisational measures that ensure the protection of Data against any breaches, unauthorised disclosure, alteration, addition, destruction, or Processing, as directed by the Council in instructions issued for this purpose.
+C - Establishing mechanisms and procedures for processing complaints related to Data, responding to them in accordance with the provisions of this law, regulations, and instructions issued accordingly, and publishing them on its official website and available media.
+D - Providing means to enable the Data Subject to exercise their rights in accordance with the provisions of this law.
+E - Correcting incomplete or inaccurate Data if it is found to be incorrect or inaccurate before commencing the Processing, except for Data collected for preventing or detecting crimes.
+F - Enabling the Data Subject to object to the Processing, withdraw Consent, access and update their Data, and providing suitable means for enabling them to do so securely.
+
+Article (9):
+Subject to Article (6) of this law, the Controller must inform the Data Subject, in writing or electronically, before commencing the Processing, about the following:
+A- The Data that will be Processed and the date of starting the Processing.
+B - The purpose for which the Data is being Processed.
+C - The duration during which the Data will be Processed, with no extension of this period allowed unless with the Consent of the Data Subject and in accordance with the provisions of this law.
+D- The Processor responsible for the Processing of their Data.
+E- The Data security, safety, and protection measures adopted.
+F - Information about the Profiling.
+
+Article (10):
+A - The Controller shall erase or hide the Data and take necessary measures to do so, upon the request of the Data Subject or The Unit, in any of the following cases:
+1. If the Processing was carried out for a purpose other than the one for which the Data was collected, or in a manner inconsistent with the Consent given for it.
+2. If the Data Subject withdraws their Consent on which the Processing was based unless other provisions stipulate otherwise.
+3. If the Data was subject to Processing contrary to the provisions of this law, regulations, or instructions.
+4. If it is necessary to fulfill a legal or contractual obligation.
+B - The provisions of paragraph (A) of this article do not apply to Processing conducted in accordance with the provisions of Article (6) of this law.
+
+Article (11):
+A - The Controller shall appoint a Data Protection Officer in the following cases:
+1. If the primary activity of the Controller involves processing Personal Data.
+2. When Processing Sensitive Personal Data.
+3. When Processing Data of individuals who lack legal capacity.
+4. When Processing Data that includes financial information.
+5. When transferring to databases outside the Kingdom.
+6. In any other case determined by the Council requiring the Controller to appoint a Data Protection Officer.
+B - The Data Protection Officer shall assume the following tasks and responsibilities:
+1. Monitoring the procedures put in place by the Controller related to Data protection and documenting their compliance with the provisions of this law and related legislations.
+2. Ensuring the execution of periodic assessments and reviews of database systems, data processing systems, and systems for maintaining the security, safety, and protection of data, and documenting the assessment results and issuing necessary recommendations for data protection, and monitoring the implementation of these recommendations.
+3. Acting as a direct liaison with The Unit and other security and judicial authorities regarding compliance with the provisions of this law.
+4. Developing internal instructions for receiving and studying complaints, Data access requests, requests for correction, erasure, hiding, or transfer of Data, and ensuring that such access is provided to the Data Subject in accordance with the provisions of the law.
+5. Enabling the Data Subject to exercise their rights as provided in this law.
+6. Organising necessary training programs for the staff of the Controller and Processors to equip them to handle Data in line with the requirements of this law and the regulations and instructions issued accordingly.
+7. Any other tasks or responsibilities assigned to the Data Protection Officer in accordance with the provisions of this law and the regulations and instructions issued pursuant to it.
+
+Article (12):
+The Processor shall comply with the following:
+A) Conduct and carry out the Processing in accordance with the requirements and conditions stipulated in this law, as well as the regulations and instructions issued pursuant to it.
+B) Not exceed the specified purpose and duration of the Processing.
+C) Erase the Data upon the expiration of the Processing period, or transferring it back to the Controller.
+D) Refrain from any action that would enable the Data or Processing results to be accessed, except in cases authorised by law.
+
+Article (13):
+Data undergoing Processing is considered confidential, and it is the responsibility of the Controller and the Processor to maintain its confidentiality.
+
+Article (14):
+A) The transfer and exchange of Data between the Controller and any other person, including the Recipient, shall not be allowed without the Consent of the Data Subject and in accordance with the following conditions:
+1. The transfer serves legitimate interests of the Controller and the Recipient.
+2. The Data Subject has sufficient knowledge of the purposes for which the Data will be used.
+3. The transfer is not for marketing products or services unless the Data Subject has given Consent for that purpose.
+B) The Controller shall keep records documenting the Data that has been transferred or exchanged with the Recipient, as well as the purpose of the transfer, and document the Consent of the Data Subjects for the transfer.
+C) Notwithstanding paragraphs (a) and (b) of this article, the transfer and exchange of Data between public authorities shall be allowed to the extent required for the performance of their legal duties.
+D) The Recipient shall be subject to the same legal responsibilities and obligations as the Controller.
+E) The Controller, Processor, and Recipient shall ensure the safety and security of the Data and provide appropriate measures to detect and track any breach of its security and safety.
+
+Article (15):
+A) Data shall not be transferred to any person outside the Kingdom, including to a Recipient, if the level of protection provided by them for such Data is less than that stipulated in this law, except in the following cases:
+1. Regional or international judicial cooperation under international agreements or treaties in force in the Kingdom.
+2. International or regional cooperation with entities, organisations, or international or regional agencies working in the field of combating crimes or pursuing criminals.
+3. Exchange of medical Data related to the Data Subject when necessary for their treatment.
+4. Exchange of Data related to epidemics, health crises, or matters affecting public health in the Kingdom.
+5. Transfer with the Data Subject's Consent after informing them of the insufficient level of protection.
+6. Transfer of funds outside the Kingdom.
+B) Before starting the Data transfer process, the Controller shall verify the level of protection provided by the recipient outside the Kingdom to ensure the security of the Data.
+
+Article (16):
+A) A Council referred to as the "Personal Data Protection Council" shall be formed, chaired by the Minister and composed of the following members:
+1. The Information Commissioner as the vice-chair.
+2. The General Commissioner for Human Rights.
+3. President of the National Cyber Security Center.
+4. A representative from the Central Bank of Jordan.
+5. Two representatives from security agencies appointed by the directors of those agencies at the request of the Minister.
+6. Four experienced and specialised individuals appointed by the Council of Ministers including one representative of each of the Telecommunication, Banking, and Information Technology sectors.
+B) The membership term on the Council shall be four years, renewable once.
+C) The Council shall issue regulations governing its meetings, decision-making mechanisms, and other matters related to its responsibilities.
+
+Article (17):
+The Council shall assume the following tasks and powers:
+A) Approving policies, strategies, plans, and programs related to Data protection and monitoring their implementation.
+B) Adopting standards and measures for Data protection, including codes of conduct governing the proper performance of Controller and Processor duties.
+C) Issuing licenses and permits for the storage, Processing, Profiling, and transfer of Data.
+D) Adopting models related to obtaining Consent, withdrawing Consent, objections, and requests submitted by the Data Subject in accordance with the provisions of this law.
+E) Reviewing the complaints and requests submitted by the Data Subject or by their representative against the Controller, or those submitted by one Controller against another Controller, and taking the necessary actions regarding them.
+G) Providing opinions on treaties, agreements, regulations, and instructions related to Data.
+H) Representing the Kingdom in local, regional, and international forums related to Data protection.
+I) Issuing a regularly updated list of countries, entities, or international or regional organisations recognised by the Kingdom to have a sufficient level of Data protection and publishing it through appropriate means.
+J) Proposing international cooperation plans in the field of Data protection with international entities and organisations.
+K) Coordinating and cooperating with governmental and non-governmental entities to ensure the safety of Data protection procedures.
+L) Approving the annual report on Data protection prepared by The Unit and submitting it to the Council of Ministers.
+M) Adopting the instructions related to the provisions of this law.
+N) Any other tasks related to Data Protection.
+
+Article (18):
+The Unit shall be vested with the following duties and powers:
+A. Preparing drafts of legislation and instructions related to Data Protection and submitting them to the Council.
+B. Receiving notifications and complaints related to violations of the provisions of this law, and the regulations and instructions issued pursuant to it, investigating them, and recommending appropriate decisions to the Council.
+C. Monitoring compliance with the provisions of this law, the regulations, and instructions issued pursuant to it.
+D. Establishing a registry that includes records of Controllers, Processors, and Data Protection Officers, and supervising and organising it according to instructions issued by the Council for this purpose.
+E. Preparing the annual report on The Unit's activities and submitting it to the Council for approval.
+F. Any other tasks assigned to it by the Minister or the Council.
+
+Article (19):
+The President and Members of the Council and The Unit officers commit to maintaining confidentiality for all Data that they access, under the penalty of legal responsibility. Any and all disclosures are permitted only in accordance with the provisions of the law.
+
+Article (20):
+A) In the event of a serious breach of Data security and safety that could cause significant harm to the Data Subject, the Controller shall take the following actions:
+1. Notify the affected Data Subjects, whose data has been impacted, within (24) hours from the discovery of the breach and provide them with necessary measures to avoid any consequences resulting from the breach.
+2. Notify The Unit within (72) hours from the discovery of the breach about the source of the breach, its mechanism, the affected Data Subjects, and any other available information related to it.
+B) In case of gross negligence or misconduct, the responsible Controller shall be liable to compensate the affected Data Subject.
+
+Article (21):
+A) In case of any violation of the provisions of this law, the regulations, and the instructions issued pursuant to it, The Unit shall warn the violator to cease the violation and remove its causes and effects within a period specified in the warning. If this period elapses without complying with the content of the warning, the Council, based on The Unit's recommendation, shall impose any of the following penalties:
+1. Warning to suspend the license or permit partially or completely.
+2. Partial or complete suspension of the license or permit.
+3. Partial or complete revocation of the license or permit.
+4. Imposition of a fine not exceeding (500) Dinars per day for each day the violation continues, provided that the total amount of the fine imposed does not exceed (3%) of the total annual revenues of the previous fiscal year for the violator.
+B) The Unit may publish a statement of the violations proven to have been committed, at the expense of the violator, through any suitable means and methods.
+C) The adoption of any measures delineated in Section A of this provision shall not preclude the aggrieved party from pursuing a civil action for damages arising from a breach of the terms of this law and the regulations and instructions issued pursuant to it.
+
+Article (22):
+A) Without prejudice to any stricter penalty provided for in any other legislation, any party who violates the provisions of this law, or the regulations, and the instructions issued pursuant to the law shall be punished with a fine not less than one thousand (1000) Dinars and not exceeding ten thousand (10000) Dinars. The penalty shall be doubled in repeated cases.
+B) In addition to the penalty prescribed in paragraph (a) of this article, the relevant court, upon the request of the public prosecution, the affected party, or on its own initiative, may order the destruction of Data or the cancellation of the database subject to the final conviction ruling.
+
+Article (23):
+All entities that handle Data before the provisions of this law come into effect must adjust their affairs in accordance with its provisions within a period not exceeding one year from its effective date.
+
+Article (24):
+The Council of Ministers shall issue the necessary regulations to implement the provisions of this law, including the following:
+A)
+1. Types of licenses and permits issued in accordance with the provisions of this law, their conditions, requirements, and cases of suspension or cancellation.
+2. Entities that Process Data for the purposes that it was collected are exempted from the licenses and permits stipulated in sub-section (1) of this paragraph.
+B) Conditions and procedures for obtaining Consent and its withdrawal.
+C) Conditions for disclosing Data, the parties to whom disclosure is permitted, and the Data that can be disclosed.
+D) Organising the mechanisms and systems for the operation of The Unit.
+
+Article (25):
+The Prime Minister and the Ministers are responsible for implementing the provisions of this law.

@@ -1,0 +1,74 @@
+Statutory Instruments
+2025 No. 982 (C. 47)
+
+DATA
+
+ELECTRONIC COMMUNICATIONS
+The Data (Use and Access) Act 2025 (Commencement No. 2) Regulations 2025
+
+Made
+
+2nd September 2025
+
+The Secretary of State makes these Regulations in exercise of the power conferred by section 142(1) of the Data (Use and Access) Act 2025(1).
+Citation
+
+1.  These Regulations may be cited as the Data (Use and Access) Act 2025 (Commencement No. 2) Regulations 2025.
+Commencement
+
+2.  Section 124 of the Data (Use and Access) Act 2025 (retention of information by providers of internet services in connection with death of child) comes into force, so far as not already in force(2), on 30th September 2025.
+
+Jones of Whitchurch
+
+Parliamentary Under-Secretary of State
+
+Department for Science, Innovation and Technology
+
+2nd September 2025
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force section 124 of the Data (Use and Access) Act 2025 (c. 18) (“the 2025 Act”). These are the second commencement regulations made under the Act.
+
+Regulation 2 commences section 124 of the 2025 Act which amends the Online Safety Act 2023 (c. 50) (“the 2023 Act”) to include provision in that Act about the retention of information by providers of certain regulated services (for example, social media providers) or any other relevant person in connection with an investigation into the death of a child. ‘Regulated service’ is defined in section 4(4) of the 2023 Act and these provisions apply only in relation to those regulated services that are within section 101(E1) of the 2023 Act (as inserted by section 124 of the 2025 Act). ‘Relevant person’ is defined in section 101(7) of the 2023 Act.
+
+An impact assessment has not been prepared for this instrument as a full impact assessment was published in relation to the provisions in the Data (Use and Access) Bill. Copies can be obtained from the UK Government website at https://www.gov.uk/government/publications/data-use-and-access-bill-supporting-documents or from the Department for Science, Innovation and Technology at 22-26 Whitehall, London, SW1A 2EG, United Kingdom.
+NOTE AS TO EARLIER COMMENCEMENT Regulations
+
+(This note is not part of the Regulations)
+
+The following provisions of the Data (Use and Access) Act 2025 have been brought into force, so far as they were not already in force (see section 142(2)(h) of that Act), by commencement regulations made before the date of these Regulations.
+Provision	Date of Commencement	S.I. No.
+Part 1	20th August 2025	2025/904
+section 72 (partially)	20th August 2025	2025/904
+section 74	20th August 2025	2025/904
+section 84	20th August 2025	2025/904
+section 91	20th August 2025	2025/904
+section 92	20th August 2025	2025/904
+section 93	20th August 2025	2025/904
+section 95	20th August 2025	2025/904
+section 102	20th August 2025	2025/904
+section 104	20th August 2025	2025/904
+section 106	20th August 2025	2025/904
+section 107	20th August 2025	2025/904
+section 108	20th August 2025	2025/904
+section 109	20th August 2025	2025/904
+section 110 (partially)	20th August 2025	2025/904
+section 111	20th August 2025	2025/904
+section 113	20th August 2025	2025/904
+section 117 (partially)	20th August 2025	2025/904
+section 125	20th August 2025	2025/904
+section 129	20th August 2025	2025/904
+section 134	20th August 2025	2025/904
+section 135	20th August 2025	2025/904
+section 136	20th August 2025	2025/904
+section 137	20th August 2025	2025/904
+Schedule 11 (partially)	20th August 2025	2025/904
+Schedule 14	20th August 2025	2025/904
+(1)
+
+2025 c. 18.
+(2)
+
+Section 124 came into force on the day on which the Data (Use and Access) Act 2025 (c. 18) received Royal Assent so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power (see section 142(2)(h) of the Data (Use and Access) Act 2025). 

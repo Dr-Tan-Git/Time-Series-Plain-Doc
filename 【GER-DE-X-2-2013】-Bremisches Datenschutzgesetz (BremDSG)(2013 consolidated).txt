@@ -1,0 +1,746 @@
+Bremisches Datenschutzgesetz (BremDSG)
+Gesamtausgabe in der Gültigkeit vom 02.07.2013 bis 24.05.2018
+
+Inhaltsübersicht
+Abschnitt 1 Allgemeine Vorschriften
+§ 1	Aufgabe und Anwendungsbereich
+§ 2	Begriffsbestimmungen
+§ 3	Zulässigkeit der Datenverarbeitung
+§ 4	Rechte der Betroffenen
+§ 5	Automatisierte Einzelentscheidung
+§ 6	Datengeheimnis
+§ 7	Datenvermeidung, Vorabkontrolle, technische und organisatorische Maßnahmen
+§ 7a	Behördlicher Datenschutzbeauftragter
+§ 7b	Datenschutzaudit
+§ 8	Verfahrensbeschreibung und Meldepflicht
+§ 9	Verarbeitung personenbezogener Daten im Auftrag
+Abschnitt 2 Rechtsgrundlagen der Datenverarbeitung
+§ 10	Datenerhebung
+§ 11	Unterrichtung bei der Erhebung
+§ 12	Zulässigkeit und Zweckbindung der weiteren Datenverarbeitung
+§ 13	Datenübermittlung innerhalb des öffentlichen Bereichs
+§ 14	Automatisiertes Abrufverfahren
+§ 14a	Gemeinsame und verbundene automatisierte Dateien
+§ 15	Datenübermittlung an öffentlich-rechtliche Religionsgesellschaften
+§ 16	Datenübermittlung an die Bürgerschaft (Landtag) und die kommunalen Vertretungsorgane
+§ 17	Datenübermittlung an Stellen außerhalb des öffentlichen Bereichs
+§ 18	Datenübermittlung an ausländische und an über- und zwischenstaatliche Stellen
+§ 19	Datenverarbeitung zum Zwecke wissenschaftlicher Forschung
+§ 20	Datenschutz bei Dienst- und Arbeitsverhältnissen
+§ 20a	Mobile Datenverarbeitungsmedien
+§ 20b	Videoüberwachung
+Abschnitt 3 Rechte des Betroffenen
+§ 21	Auskunft an den Betroffenen und Akteneinsicht
+§ 22	Berichtigung, Sperrung und Löschung von Daten
+§ 22a	Widerspruchsrecht
+§ 22b	Anrufungsrecht
+§ 23	Schadensersatz
+Abschnitt 4 Überwachung des Datenschutzes
+§ 24	Bestellung des Landesbeauftragten für den Datenschutz
+§ 25	Rechtsstellung
+§ 26	Verschwiegenheitspflicht
+§ 27	Aufgaben
+§ 28	(weggefallen)
+§ 29	Beanstandungen
+§ 30	(weggefallen)
+§ 31	(weggefallen)
+§ 32	Erstattung von Gutachten
+§ 33	Jahresbericht
+§ 34	Personal und Sachmittel
+§ 35	Parlamentsausschuss
+Abschnitt 5 Sonderbestimmung für Radio Bremen
+§ 36	Sonderbestimmung für Radio Bremen
+Abschnitt 6 Straf- und Bußgeldvorschriften
+§ 37	Straftaten
+§ 38	Ordnungswidrigkeiten
+Abschnitt 7 Übergangs- und Schlussvorschriften
+§ 39	Laufende Verarbeitungen
+§ 39a	Weitergeltung von Begriffsbestimmungen
+§ 40	Inkrafttreten
+Abschnitt 1
+Allgemeine Vorschriften
+§ 1 Aufgabe und Anwendungsbereich
+
+(1) Aufgabe dieses Gesetzes ist es, die Verarbeitung personenbezogener Daten durch öffentliche Stellen zu regeln, um das Recht des einzelnen zu schützen, selbst über die Preisgabe und Verwendung seiner Daten zu bestimmen.
+
+(2) Dieses Gesetz gilt für die Verarbeitung von personenbezogenen Daten durch Behörden und sonstige öffentliche Stellen des Landes, der Gemeinden und der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts und deren Vereinigungen ungeachtet ihrer Rechtsform. Nimmt eine Person oder Stelle außerhalb des öffentlichen Bereichs Aufgaben der öffentlichen Verwaltung wahr, so ist sie insoweit öffentliche Stelle im Sinne dieses Gesetzes. Besondere Rechtsvorschriften über die Verarbeitung personenbezogener Daten gehen den Bestimmungen dieses Gesetzes vor.
+
+(3) Die Bürgerschaft (Landtag), ihre Mitglieder, ihre Gremien, die von ihr gewählten Mitglieder der Deputationen, die Fraktionen und Gruppen sowie deren Verwaltungen und deren Beschäftigte unterliegen nicht den Bestimmungen dieses Gesetzes, soweit sie in Wahrnehmung verfassungsmäßiger Aufgaben personenbezogene Daten verarbeiten. Dies gilt, soweit sie Aufgaben der Stadtbürgerschaft wahrnehmen, entsprechend für die Fraktionen und Gruppen der Stadtbürgerschaft, die Mitglieder der Bürgerschaft (Landtag) und die von der Stadtbürgerschaft gewählten Mitglieder von Deputationen.
+
+(4) Für Gerichte gilt dieses Gesetz nur, soweit sie Verwaltungsaufgaben erledigen; § 1 Abs. 2 Nr. 2 Buchstabe b des Bundesdatenschutzgesetzes bleibt unberührt. Für Gnadenverfahren gelten der Abschnitt 4 und § 21 nicht.
+
+(5) Soweit öffentlich-rechtliche Unternehmen der in Absatz 2 Satz 1 genannten Rechtsträger am Wettbewerb teilnehmen, gelten für sie nur der Abschnitt 4 und § 20 dieses Gesetzes. Im übrigen sind die für nicht öffentliche Stellen geltenden Vorschriften des Bundesdatenschutzgesetzes einschließlich der Straf- und Bußgeldvorschriften anwendbar.
+
+(6) Soweit Radio Bremen personenbezogene Daten ausschließlich zu eigenen publizistischen Zwecken verarbeitet, gelten nur die §§ 7 und 36 dieses Gesetzes.
+
+(7) Dieses Gesetz gilt nicht für personenbezogene Daten, solange sie in allgemein zugänglichen Quellen enthalten sind, und für Daten des Betroffenen, die von ihm zur Veröffentlichung bestimmt sind.
+§ 2 Begriffsbestimmungen
+
+(1) Im Sinne dieses Gesetzes sind personenbezogene Daten Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person (Betroffener).
+
+(2) Datenverarbeitung im Sinne dieses Gesetzes ist das Erheben, Speichern, Verändern, Übermitteln, Sperren, Löschen und Nutzen personenbezogener Daten.
+
+Im einzelnen ist
+
+1.
+
+    Erheben das Beschaffen von Daten über den Betroffenen,
+2.
+
+    Speichern das Erfassen, Aufnehmen und Aufbewahren von Daten auf einem Datenträger zum Zwecke ihrer weiteren Verarbeitung,
+3.
+
+    Verändern das inhaltliche Umgestalten gespeicherter Daten,
+4.
+
+    Übermitteln das Bekanntgeben gespeicherter oder durch Datenverarbeitung gewonnener Daten an einen Dritten in der Weise, dass die Daten durch die verantwortliche Stelle an den Dritten weitergegeben werden oder dass der Dritte zum Abruf bereitgehaltene Daten einsieht oder abruft,
+5.
+
+    Sperren das Verhindern weiterer Verarbeitung gespeicherter Daten,
+6.
+
+    Löschen das endgültige Unkenntlichmachen gespeicherter Daten,
+7.
+
+    Nutzen jede sonstige Verwendung gespeicherter oder zur Speicherung vorgesehener personenbezogener Daten
+
+ungeachtet der dabei angewendeten Verfahren.
+
+(3) Im Sinne dieses Gesetzes ist
+
+1.
+
+    verantwortliche Stelle jede der in § 1 Abs. 2 genannten Stellen, die personenbezogene Daten für sich selbst verarbeitet oder dies durch andere im Auftrag vornehmen lässt,
+2.
+
+    Empfänger jede Person oder Stelle, die Daten erhält,
+3.
+
+    Dritter jede Person oder Stelle außerhalb der verantwortlichen Stelle. Dritte sind nicht der Betroffene sowie diejenigen Personen und Stellen, die im Inland oder in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum personenbezogene Daten im Auftrag verarbeiten,
+4.
+
+    automatisierte Verarbeitung die Verarbeitung personenbezogener Daten unter Einsatz von Datenverarbeitungsanlagen. Eine nicht automatisierte Datei ist jede nicht automatisierte Sammlung personenbezogener Daten, die gleichartig aufgebaut und nach bestimmten Merkmalen zugänglich ist und ausgewertet werden kann,
+5.
+
+    eine Akte jede amtlichen Zwecken dienende Unterlage; dazu zählen auch Bild- und Tonträger.
+
+(4) Anonymisieren ist das Verändern personenbezogener Daten derart, dass die Einzelangaben über persönliche oder sachliche Verhältnisse nicht mehr oder nur mit einem unverhältnismäßig großen Aufwand an Zeit, Kosten und Arbeitskraft einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können.
+
+(5) Pseudonymisieren ist das Ersetzen des Namens und anderer Identifikationsmerkmale durch ein Kennzeichen nach einer Zuordnungsregel zu dem Zweck, die Bestimmung des Betroffenen auszuschließen oder wesentlich zu erschweren.
+
+(6) Besondere Arten personenbezogener Daten sind Angaben über die rassische und ethnische Herkunft, die politische Meinung, religiöse oder philosophische Überzeugungen, Gewerkschaftszugehörigkeit, Gesundheit oder Sexualleben.
+§ 3 Zulässigkeit der Datenverarbeitung
+
+(1) Die Verarbeitung personenbezogener Daten ist nur zulässig, wenn
+
+1.
+
+    dieses Gesetz oder eine andere Rechtsvorschrift sie erlaubt oder zwingend voraussetzt oder
+2.
+
+    der Betroffene eingewilligt hat.
+
+(2) Die Verarbeitung besonderer Arten personenbezogener Daten (§ 2 Abs. 6) ist nur zulässig, soweit
+
+1.
+
+    eine Rechtsvorschrift dies ausdrücklich vorsieht,
+2.
+
+    der Betroffene eingewilligt hat, wobei sich die Einwilligung ausdrücklich auf diese Daten beziehen muss,
+3.
+
+    dies zum Schutz lebenswichtiger Interessen des Betroffenen oder eines Dritten erforderlich ist, sofern der Betroffene aus physischen oder rechtlichen Gründen außerstande ist, seine Einwilligung zu geben,
+4.
+
+    es sich um Daten handelt, die der Betroffene offenkundig öffentlich gemacht hat,
+5.
+
+    dies zur Abwehr erheblicher Nachteile für das Gemeinwohl zwingend erforderlich ist,
+6.
+
+    dies zum Zweck der Gesundheitsvorsorge, der medizinischen Diagnostik, der Gesundheitsversorgung oder Behandlung oder für die Verwaltung von Gesundheitsdiensten erforderlich ist und die Verarbeitung dieser Daten durch ärztliches Personal oder durch sonstige Personen erfolgt, die einer entsprechenden Geheimhaltungspflicht unterliegen, oder
+7.
+
+    dies zum Zweck der Abwehr einer Gefahr für die öffentliche Sicherheit oder eines sonst dem Wohle des Bundes oder eines Landes drohenden Nachteils zwingend erforderlich ist.
+
+(3) Die Einwilligung ist nur wirksam, wenn sie auf der freien Entscheidung des Betroffenen beruht. Er ist in geeigneter Weise über die Bedeutung der Einwilligung, insbesondere über den Zweck der Datenverarbeitung und bei einer beabsichtigten Übermittlung auch über den Empfänger der Daten aufzuklären. Er ist unter Hinweis auf die möglichen Rechtsfolgen darauf hinzuweisen, dass er die Einwilligung verweigern und mit Wirkung für die Zukunft widerrufen kann.
+
+(4) Die Einwilligung bedarf
+
+1.
+
+    der Schriftform oder
+2.
+
+    der elektronischen Form mit einer qualifizierten digitalen Signatur nach Maßgabe des Signaturgesetzes, soweit nicht wegen besonderer Umstände eine andere Form angemessen ist. Soll die Einwilligung zusammen mit anderen Erklärungen schriftlich erteilt werden, ist sie besonders hervorzuheben.
+
+
+§ 4 Rechte der Betroffenen
+
+(1) Jeder hat nach Maßgabe dieses Gesetzes ein Recht auf
+
+1.
+
+    Auskunft über die zu seiner Person gespeicherten Daten und Einsicht in Akten (§ 21),
+2.
+
+    Berichtigung, Sperrung oder Löschung der zu seiner Person gespeicherten Daten (§ 22),
+3.
+
+    Anrufung des Landesbeauftragten für den Datenschutz (§ 22b),
+4.
+
+    Schadensersatz (§ 23).
+
+Die Ausübung der Rechte nach Satz 1 ist kostenfrei.
+
+(2) Sind die Daten des Betroffenen in der Weise gespeichert, dass mehrere Stellen speicherungsberechtigt sind und ist der Betroffene nicht in der Lage festzustellen, welche der Stellen die Daten gespeichert hat, so kann er sich an jede dieser Stellen wenden. Diese ist verpflichtet, das Ersuchen an die speichernde Stelle weiterzuleiten. Der Betroffene ist über die Weiterleitung und die speichernde Stelle zu unterrichten.
+§ 5 Automatisierte Einzelentscheidung
+
+(1) Entscheidungen, die für den Betroffenen eine rechtliche Folge nach sich ziehen oder ihn erheblich beeinträchtigen, dürfen nicht ausschließlich auf eine automatisierte Verarbeitung personenbezogener Daten gestützt werden, die der Bewertung einzelner Persönlichkeitsmerkmale dienen.
+
+(2) Absatz 1 gilt nicht, soweit
+
+1.
+
+    ein Gesetz, das die Wahrung der berechtigten Interessen des Betroffenen sicherstellt, solche automatisierten Einzelentscheidungen ausdrücklich zulässt, oder
+2.
+
+    mit der Entscheidung einem Begehren des Betroffenen stattgegeben wird.
+
+
+§ 6 Datengeheimnis
+
+Den bei der verantwortlichen Stelle oder in deren Auftrag beschäftigten Personen, die Zugang zu personenbezogenen Daten haben, ist untersagt, geschützte personenbezogene Daten unbefugt zu einem anderen als dem zur jeweiligen rechtmäßigen Aufgabenerfüllung gehörenden Zweck zu verarbeiten oder zu offenbaren; dies gilt auch nach Beendigung ihrer Tätigkeit. Diese Personen sind über die bei ihrer Tätigkeit zu beachtenden Vorschriften über den Datenschutz zu unterrichten.
+§ 7 Datenvermeidung, Vorabkontrolle, technische und organisatorische Maßnahmen
+
+(1) Gestaltung und Auswahl von Datenverarbeitungssystemen haben sich an dem Ziel auszurichten, keine oder so wenig personenbezogene Daten wie möglich zu verarbeiten. Insbesondere ist von den Möglichkeiten der Anonymisierung und der Pseudonymisierung Gebrauch zu machen, soweit dies möglich ist und der Aufwand in einem angemessenen Verhältnis zu dem angestrebten Schutzzweck steht.
+
+(2) Vor der Entscheidung über die Einführung oder die wesentliche Änderung eines automatisierten Verfahrens, mit dem personenbezogene Daten verarbeitet werden sollen, haben die verantwortlichen Stellen zu untersuchen, ob und in welchem Umfang mit der Nutzung dieses Verfahrens Gefahren für die Rechte der Betroffenen verbunden sind. Die zu treffenden technischen und organisatorischen Maßnahmen sind zu dokumentieren. Das Ergebnis der Untersuchung ist dem behördlichen Datenschutzbeauftragten zur Prüfung zuzuleiten (Vorabkontrolle). Der behördliche Datenschutzbeauftragte hat sich in Zweifelsfällen an den Landesbeauftragten für den Datenschutz zu wenden.
+
+(3) Die verantwortlichen Stellen und ihre auftragnehmenden Stellen haben die technischen und organisatorischen Maßnahmen zu treffen, die je nach Art der zu schützenden personenbezogenen Daten erforderlich sind, um eine den Vorschriften dieses Gesetzes entsprechende Verarbeitung zu gewährleisten. Erforderlich sind Maßnahmen, soweit der Aufwand in einem angemessenen Verhältnis zu dem angestrebten Schutzzweck steht. Nach Maßgabe des Satzes 2 sind die Maßnahmen dem jeweiligen Stand der Technik anzupassen.
+
+(4) Werden personenbezogene Daten automatisiert verarbeitet, ist die innerbehördliche oder innerbetriebliche Organisation so zu gestalten, dass sie den besonderen Anforderungen des Datenschutzes gerecht wird. Dabei sind insbesondere technische und organisatorische Maßnahmen zu treffen, die geeignet sind,
+
+1.
+
+    Unbefugten den Zutritt zu Datenverarbeitungsanlagen, mit denen personenbezogene Daten verarbeitet werden, zu verwehren (Zutrittskontrolle),
+2.
+
+    zu verhindern, dass Datenverarbeitungssysteme von Unbefugten genutzt werden können (Zugangskontrolle),
+3.
+
+    zu gewährleisten, dass die zur Benutzung eines Datenverarbeitungssystems Berechtigten ausschließlich auf die ihrer Zugriffsberechtigung unterliegenden Daten zugreifen können, und dass personenbezogene Daten bei der Verarbeitung, der Nutzung und nach der Speicherung nicht unbefugt gelesen, kopiert, verändert oder entfernt werden können (Zugriffskontrolle),
+4.
+
+    zu gewährleisten, dass personenbezogene Daten bei der elektronischen Übertragung oder während ihres Transports oder ihrer Speicherung auf Datenträger nicht unbefugt gelesen, kopiert, verändert oder entfernt werden können, und dass überprüft und festgestellt werden kann, an welche Stellen eine Übermittlung personenbezogener Daten durch Einrichtung zur Datenübertragung vorgesehen ist (Weitergabekontrolle),
+5.
+
+    zu gewährleisten, dass nachträglich überprüft und festgestellt werden kann, ob und von wem personenbezogene Daten in Datenverarbeitungssysteme eingegeben, verändert oder entfernt worden sind (Eingabekontrolle),
+6.
+
+    zu gewährleisten, dass personenbezogene Daten, die im Auftrag verarbeitet werden, nur entsprechend den Weisungen des Auftraggebers verarbeitet werden können (Auftragskontrolle),
+7.
+
+    zu gewährleisten, dass personenbezogene Daten gegen zufällige Zerstörung oder Verlust geschützt sind (Verfügbarkeitskontrolle),
+8.
+
+    zu gewährleisten, dass zu unterschiedlichen Zwecken erhobene Daten getrennt verarbeitet werden können.
+
+
+§ 7a Behördlicher Datenschutzbeauftragter
+
+(1) Öffentliche Stellen haben einen behördlichen Datenschutzbeauftragten zu bestellen.
+
+(2) Bestellt werden darf nur, wer die zur Aufgabenerfüllung erforderliche Fachkunde und Zuverlässigkeit besitzt. Die Bestellung eines Bediensteten der verantwortlichen Stelle ist zulässig. Mehrere Stellen können gemeinsam einen Beauftragten für den Datenschutz bestellen, wenn dadurch die Erfüllung seiner Aufgaben nicht beeinträchtigt wird.
+
+(3) Der behördliche Datenschutzbeauftragte ist bei der Erfüllung seiner Aufgaben der Leitung der öffentlichen Stellen unmittelbar zu unterstellen. Er ist bei der Erfüllung seiner Aufgaben weisungsfrei und darf deswegen nicht benachteiligt werden. Er ist im erforderlichen Umfang freizustellen und bei der Erfüllung seiner Aufgaben zu unterstützen. Die Bestellung kann in entsprechender Anwendung von § 626 des Bürgerlichen Gesetzbuches widerrufen werden.
+
+(4) Der behördliche Datenschutzbeauftragte wirkt auf die Einhaltung dieses Gesetzes und anderer Vorschriften über den Datenschutz hin. Zu diesem Zweck kann er sich in Zweifelsfällen an den Landesbeauftragten für den Datenschutz wenden. Er hat insbesondere
+
+1.
+
+    die ordnungsgemäße Anwendung der Datenverarbeitungsprogramme, mit deren Hilfe personenbezogene Daten verarbeitet werden sollen, zu überwachen; zu diesem Zweck ist er über Vorhaben der automatisierten Verarbeitung personenbezogener Daten rechtzeitig zu unterrichten,
+2.
+
+    die bei der Verarbeitung personenbezogener Daten tätigen Personen durch geeignete Maßnahmen mit den Vorschriften dieses Gesetzes sowie anderen Vorschriften über den Datenschutz und mit den jeweiligen besonderen Erfordernissen des Datenschutzes vertraut zu machen.
+
+(5) Die öffentlichen Stellen melden die Bestellung und die Beendigung des Amtes behördlicher Datenschutzbeauftragter unverzüglich dem Landesbeauftragten für den Datenschutz.
+§ 7b Datenschutzaudit
+
+(1) Die in § 1 Abs. 2 genannten Stellen können zur Verbesserung des Datenschutzes und der Datensicherheit ihre Verfahren sowie ihre technischen Einrichtungen durch unabhängige Gutachter prüfen und bewerten lassen. Der Senat regelt das Nähere zu Inhalt und Ausgestaltung des Prüfungs- und Bewertungsverfahrens durch Rechtsverordnung.
+
+(2) Verfahren und technische Einrichtungen, deren Vereinbarkeit mit den Vorschriften über den Datenschutz und die Datensicherheit in einem förmlichen Verfahren festgestellt wurde, das den Anforderungen der Rechtsverordnung nach Absatz 1 entspricht, sollen von den in § 1 Abs. 2 genannten Stellen vorrangig eingesetzt werden.
+§ 8 Verfahrensbeschreibung und Meldepflicht
+
+(1) Die verantwortliche Stelle ist verpflichtet, in einer Beschreibung für jedes automatisierte Verfahren, mit dem personenbezogene Daten verarbeitet werden, festzulegen:
+
+1.
+
+    Name und Anschrift der verantwortlichen Stelle,
+2.
+
+    die Bezeichnung des Verfahrens und die Zweckbestimmung der Verarbeitung,
+3.
+
+    die Art der verarbeiteten Daten sowie die Rechtsgrundlage ihrer Verarbeitung,
+4.
+
+    den Kreis der Betroffenen,
+5.
+
+    die Empfänger oder den Kreis von Empfängern, denen Daten mitgeteilt werden können,
+6.
+
+    Fristen für das Sperren und Löschen der Daten,
+7.
+
+    die technischen und organisatorischen Maßnahmen nach § 7,
+8.
+
+    eine geplante Datenübermittlung in Staaten außerhalb der Europäischen Union.
+
+Die verantwortliche Stelle kann die Angaben nach Satz 1 für mehrere gleichartige Verfahren in einer Verfahrensbeschreibung zusammenfassen.
+
+(2) Die Beschreibung nach Absatz 1 ist laufend auf dem neuesten Stand zu halten.
+
+(3) Die Verfahrensbeschreibung und eine Darstellung der Zugriffsberechtigungen sind dem behördlichen Datenschutzbeauftragten unverzüglich, jedenfalls aber vor der Einführung oder wesentlichen Änderung eines Verfahrens zu übersenden. Die Verfahrensbeschreibungen können bei den verantwortlichen Stellen von jedermann eingesehen werden. Das Einsichtsrecht ist ausgeschlossen, wenn durch die Einsichtnahme die öffentliche Sicherheit gefährdet oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereitet würden.
+§ 9 Verarbeitung personenbezogener Daten im Auftrag
+
+(1) Die Vorschriften dieses Gesetzes gelten für die in § 1 Abs. 2 genannten Stellen auch insoweit, als personenbezogene Daten in deren Auftrag durch andere Personen oder Stellen verarbeitet werden. In diesen Fällen ist der Auftragnehmer unter besonderer Berücksichtigung der Eignung der von ihm getroffenen technischen und organisatorischen Maßnahmen (§ 7) sorgfältig auszuwählen. Der Auftrag ist schriftlich zu erteilen, wobei die Datenverarbeitung, die technischen und organisatorischen Maßnahmen nach § 7 und etwaige Unterauftragsverhältnisse festzulegen sind. Der Auftraggeber hat sich von der Einhaltung der getroffenen technischen und organisatorischen Maßnahmen beim Auftragnehmer zu überzeugen. Sofern die Vorschriften dieses Gesetzes auf den Auftragnehmer keine Anwendung finden, ist der Auftraggeber verpflichtet, sicherzustellen, dass der Auftragnehmer die Bestimmungen dieses Gesetzes beachtet und sich der Kontrolle des Landesbeauftragten für den Datenschutz unterwirft. Findet Satz 5 Anwendung, hat der Auftraggeber den Landesbeauftragten für den Datenschutz unverzüglich von der Auftragsvergabe zu unterrichten.
+
+(2) Die Vorschriften des Zweiten Abschnitts gelten nicht für die in § 1 Abs. 2 genannten Stellen, soweit sie personenbezogene Daten im Auftrag verarbeiten. In diesen Fällen ist die Verarbeitung personenbezogener Daten nur im Rahmen der Weisungen des Auftraggebers zulässig.
+
+(3) Für juristische Personen, Gesellschaften und andere Personenvereinigungen des privaten Rechts, bei denen dem Land, einer Gemeinde oder einer der Aufsicht des Landes unterstehenden juristischen Person des öffentlichen Rechts die Mehrheit der Anteile gehört oder die Mehrheit der Stimmen zusteht, gelten die Vorschriften des Dritten Abschnitts entsprechend, soweit diese Personen oder Personenvereinigungen in den Fällen des Absatzes 1 Satz 1 im Auftrag tätig werden.
+
+(4) Die Absätze 1 bis 3 gelten entsprechend, wenn die Prüfung oder Wartung automatisierter Verfahren oder von Datenverarbeitungsanlagen durch andere Stellen im Auftrag vorgenommen wird und dabei ein Zugriff auf personenbezogene Daten nicht ausgeschlossen werden kann.
+Abschnitt 2
+Rechtsgrundlagen der Datenverarbeitung
+§ 10 Datenerhebung
+
+(1) Das Erheben personenbezogener Daten ist zulässig, wenn diese zur rechtmäßigen Erfüllung der Aufgaben der verantwortlichen Stelle erforderlich sind.
+
+(2) Personenbezogene Daten dürfen grundsätzlich nur beim Betroffenen mit seiner Kenntnis erhoben werden. Ohne seine Kenntnis dürfen personenbezogene Daten im Einzelfall beim Betroffenen oder bei öffentlichen Stellen erhoben werden, wenn eine Rechtsvorschrift dies erlaubt oder zwingend voraussetzt oder der Schutz von Leben und Gesundheit dies gebietet. Darüber hinaus dürfen personenbezogene Daten im Einzelfall bei öffentlichen Stellen auch ohne Kenntnis des Betroffenen erhoben werden, wenn
+
+1.
+
+    die Verhinderung oder Beseitigung erheblicher Nachteile für das Gemeinwohl oder schwerwiegender Beeinträchtigungen der Rechte einzelner dies gebietet oder
+2.
+
+    das Erheben beim Betroffenen einen unverhältnismäßigen Aufwand erfordern würde und keine Anhaltspunkte dafür bestehen, dass schutzwürdige Belange des Betroffenen beeinträchtigt werden können.
+
+(3) Bei Dritten außerhalb des öffentlichen Bereichs dürfen personenbezogene Daten im Einzelfall ohne Kenntnis des Betroffenen nur erhoben werden, wenn eine Rechtsvorschrift dies erlaubt oder zwingend voraussetzt oder wenn der Schutz von Leben und Gesundheit dies gebietet.
+§ 11 Unterrichtung bei der Erhebung
+
+(1) Werden personenbezogene Daten beim Betroffenen erhoben, so ist er, sofern er nicht bereits auf andere Weise Kenntnis erlangt hat, von der verantwortlichen Stelle über
+
+1.
+
+    die Identität der verantwortlichen Stelle,
+2.
+
+    die Zweckbestimmung der Datenverarbeitung und
+3.
+
+    den Kreis von Empfängern, soweit der Betroffene nach den Umständen des Einzelfalls nicht mit der Übermittlung an diese rechnen muss, zu unterrichten. Werden die personenbezogenen Daten beim Betroffenen aufgrund einer Rechtsvorschrift erhoben, ist er auf diese und die Folgen der Verweigerung, sonst auf die Freiwilligkeit seiner Angaben hinzuweisen.
+
+(2) Werden Daten ohne Kenntnis des Betroffenen erhoben, so ist er von der verantwortlichen Stelle entsprechend Absatz 1 Satz 1 zu unterrichten. Die Unterrichtung erfolgt zum Zeitpunkt der Speicherung oder im Fall einer beabsichtigten Übermittlung spätestens bei ihrer ersten Durchführung.
+
+(3) Eine Pflicht zur Unterrichtung besteht in den Fällen des Absatz 2 nicht,
+
+1.
+
+    wenn der Betroffene auf andere Weise Kenntnis von der Speicherung oder der Übermittlung erlangt hat,
+2.
+
+    wenn die Unterrichtung des Betroffenen einen unverhältnismäßigen Aufwand erfordert,
+3.
+
+    wenn die Speicherung oder Übermittlung der personenbezogenen Daten durch Gesetz ausdrücklich vorgesehen ist oder
+4.
+
+    solange die Unterrichtung die öffentliche Sicherheit gefährden oder sonst dem Wohl des Bundes oder eines Landes Nachteile bereiten würde.
+
+Die Gründe für ein Absehen von der Unterrichtung sind aufzuzeichnen.
+
+(4) Werden die Daten bei einem Dritten außerhalb des öffentlichen Bereichs erhoben, so ist dieser von der verantwortlichen Stelle über die hierzu berechtigende Rechtsvorschrift aufzuklären. Soweit eine Auskunftspflicht besteht, ist er hierauf, sonst auf die Freiwilligkeit seiner Angaben hinzuweisen. Absatz 3 gilt entsprechend.
+§ 12 Zulässigkeit und Zweckbindung der weiteren Datenverarbeitung
+
+(1) Das Speichern, Verändern und Nutzen personenbezogener Daten ist zulässig, wenn es zur rechtmäßigen Erfüllung der Aufgaben der öffentlichen Stelle erforderlich ist. Personenbezogene Daten dürfen grundsätzlich nur für Zwecke verarbeitet werden, für die sie erhoben worden sind; personenbezogene Daten, von denen eine öffentliche Stelle ohne Erhebung Kenntnis erlangt hat, dürfen nur für Zwecke verarbeitet werden, für die sie erstmals gespeichert worden sind.
+
+(2) Die Verarbeitung für andere Zwecke ist nur zulässig, wenn
+
+1.
+
+    der Betroffene eingewilligt hat,
+2.
+
+    eine Rechtsvorschrift dies erlaubt oder zwingend voraussetzt,
+3.
+
+    hierdurch erhebliche Nachteile für das Gemeinwohl oder schwerwiegende Beeinträchtigungen der Rechte einzelner verhindert oder beseitigt werden sollen,
+4.
+
+    sie zur Verfolgung von Straftaten oder Ordnungswidrigkeiten, zur Vollstreckung von Strafen oder Bußgeldern oder zur Erledigung eines gerichtlichen Auskunftsersuchens erforderlich ist,
+5.
+
+    das Erheben beim Betroffenen einen unverhältnismäßigen Aufwand erfordern würde, die Verarbeitung im Interesse des Betroffenen liegt und davon ausgegangen werden kann, dass dieser in Kenntnis des Verarbeitungszwecks seine Einwilligung hierzu erteilt hätte,
+6.
+
+    die Daten aus allgemein zugänglichen Quellen entnommen werden können oder von der verantwortlichen Stelle veröffentlicht werden dürfen, es sei denn, dass schutzwürdige Belange des Betroffenen offensichtlich entgegenstehen.
+
+Besondere Amts- oder Berufsgeheimnisse bleiben unberührt. Das Speichern, Verändern und Nutzen von besonderen Arten personenbezogener Daten (§ 2 Abs. 6) für andere Zwecke ist nur zulässig, wenn die Voraussetzungen vorliegen, die eine Erhebung nach § 3 Abs. 2 zulassen würden.
+
+(3) Die Wahrnehmung von Aufsichts- und Kontrollbefugnissen, die Rechnungsprüfung, die Durchführung von Organisationsuntersuchungen und die Verarbeitung zu Ausbildungs- und Prüfungszwecken gelten nicht als Verarbeitung für andere Zwecke.
+
+(4) Personenbezogene Daten, die ausschließlich zu Zwecken der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung des ordnungsgemäßen Betriebs einer Datenverarbeitungsanlage gespeichert werden, dürfen nicht für andere Zwecke verarbeitet werden.
+§ 13 Datenübermittlung innerhalb des öffentlichen Bereichs
+
+(1) Die Übermittlung personenbezogener Daten an eine andere öffentliche Stelle einschließlich der Vertretungen des Bundes außerhalb des Geltungsbereichs des Grundgesetzes ist zulässig, wenn sie zur rechtmäßigen Erfüllung der Aufgaben der übermittelnden oder der Stelle, der die Daten übermittelt werden, erforderlich ist und entweder die Voraussetzungen des § 12 Abs. 1 oder 3 oder die des § 12 Abs. 2 vorliegen. Die Übermittlung ist ferner zulässig, soweit es zur Entscheidung in einem Verwaltungsverfahren der Beteiligung anderer öffentlicher Stellen bedarf. Für die Übermittlung besonderer Arten personenbezogener Daten gilt § 12 Abs. 2 Satz 3 entsprechend.
+
+(2) Sind personenbezogene Daten, die nach Absatz 1 übermittelt werden dürfen, mit weiteren personenbezogenen Daten des Betroffenen oder eines Dritten in Akten so verbunden, dass sie nicht oder nur mit unvertretbarem Aufwand voneinander getrennt werden können, so ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen des Betroffenen oder des Dritten an deren Geheimhaltung offensichtlich überwiegen. Eine weitere Verarbeitung dieser Daten ist unzulässig.
+
+(3) Die Verantwortung für die Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung aufgrund eines Ersuchens der Stelle, der die Daten übermittelt werden sollen, hat die übermittelnde Stelle lediglich zu prüfen, ob das Übermittlungsersuchen im Rahmen der Aufgaben der ersuchenden Stelle liegt. Die Rechtmäßigkeit des Ersuchens prüft sie nur, wenn im Einzelfall hierzu Anlass besteht; die ersuchende Stelle hat ihr die für diese Prüfung erforderlichen Angaben zu machen. Erfolgt die Übermittlung durch automatisierten Abruf, so trägt die abrufende Stelle die Verantwortung für die Rechtmäßigkeit des Abrufs; die übermittelnde Stelle überprüft zumindest stichprobenweise die Rechtmäßigkeit der Übermittlung.
+
+(4) Die übermittelten Daten dürfen nur für Zwecke verarbeitet werden, zu deren Erfüllung sie übermittelt worden sind. § 12 Abs. 2 bleibt unberührt.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend, wenn personenbezogene Daten innerhalb einer öffentlichen Stelle weitergegeben werden, sofern die Datenübermittlung zwischen Einheiten erfolgt, die unterschiedliche Aufgaben wahrnehmen.
+§ 14 Automatisiertes Abrufverfahren
+
+(1) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung personenbezogener Daten durch Abruf ermöglicht, ist nur zulässig, soweit dies durch Bundes- oder Landesrecht bestimmt ist.
+
+(2) Der Senat wird ermächtigt, durch Rechtsverordnung für die Behörden und sonstigen Stellen des Landes sowie für die der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts die Einrichtung automatisierter Abrufverfahren zuzulassen. Die Senatoren werden ermächtigt, durch Rechtsverordnung für die Behörden und sonstigen öffentlichen Stellen ihres Geschäftsbereichs die Einrichtung automatisierter Abrufverfahren zuzulassen. Ein solches Verfahren darf nur eingerichtet werden, soweit dies unter Berücksichtigung des informationellen Selbstbestimmungsrechts des betroffenen Personenkreises und der Aufgaben der beteiligten Stellen angemessen ist. Die Dritten, an die übermittelt wird, die Datenart und der Zweck des Abrufs sind festzulegen. Der Landesbeauftragte für den Datenschutz ist vorher zu beteiligen.
+
+(3) Die an Abrufverfahren beteiligten Stellen haben die nach § 7 erforderlichen Maßnahmen zu treffen.
+
+(4) Für die Einrichtung automatisierter Abrufverfahren innerhalb einer öffentlichen Stelle gelten Absatz 2 Satz 2 und 3 sowie Absatz 3 entsprechend, sofern die übermittelnde und die abrufende Einheit der öffentlichen Stelle unterschiedliche Aufgaben wahrnehmen.
+
+(5) Personenbezogene Daten dürfen für Stellen außerhalb des öffentlichen Bereichs zum automatisierten Abruf nicht bereitgehalten werden. Dies gilt nicht für den Betroffenen und andere Personen, soweit diesen nach besonderen Rechtsvorschriften eine Befugnis zur Einsichtnahme in elektronischer Form eingeräumt ist.
+
+(6) Die Absätze 1 bis 5 gelten nicht für Datenbestände, die jedermann ohne oder nach besonderer Zulassung zur Benutzung offenstehen oder deren Veröffentlichung zulässig wäre.
+
+(7) Bei automatisierten Abrufverfahren nach Absatz 1 oder 2 kann der Rechnungshof auf sein Verlangen als abrufberechtigter Dritter zugelassen werden. Der Landesbeauftragte für den Datenschutz ist vorher anzuhören. Absatz 2 Satz 3 und Absatz 3 sind entsprechend anzuwenden. Abrufe sind nur aus Anlass und für die Dauer konkreter Prüfverfahren zulässig.
+§ 14a Gemeinsame und verbundene automatisierte Dateien
+
+(1) Die Einrichtung gemeinsamer oder verbundener automatisierter Dateien, in oder aus denen mehrere Daten verarbeitende Stellen personenbezogene Daten verarbeiten, ist nur zulässig, soweit dies durch Bundes- oder Landesrecht bestimmt ist.
+
+(2) Der Senat wird vorbehaltlich des Satzes 5 ermächtigt, durch Rechtsverordnung die Einrichtung gemeinsamer oder verbundener automatisierter Dateien zuzulassen. Die Einrichtung darf nur zugelassen werden, soweit dies unter Berücksichtigung des informationellen Selbstbestimmungsrechts des betroffenen Personenkreises und der Aufgaben der beteiligten Stellen angemessen ist. Die Rechtsverordnung hat die Art der zu verarbeitenden Daten, die Stellen, die in der gemeinsamen Datei oder in verbundenen Dateien Daten verarbeiten dürfen, sowie den Umfang ihrer Verarbeitungsbefugnis anzugeben und festzulegen, welche Stelle die datenschutzrechtliche Verantwortung gegenüber den Betroffenen trägt und die technischen und organisatorischen Maßnahmen trifft. Der Landesbeauftragte für den Datenschutz ist vorher zu beteiligen. Soweit ausschließlich Stellen der Stadtgemeinde Bremerhaven in oder aus einer Datei personenbezogene Daten verarbeiten und sich die Einrichtung der Datei auf den Zuständigkeitsbereich der Stadtgemeinde Bremerhaven beschränkt, ist der Magistrat der Stadtgemeinde Bremerhaven zum Erlass der Rechtsverordnung ermächtigt.
+
+(3) § 14 Absatz 3, 5 und 6 gilt entsprechend. Die Vorschriften über die Zulässigkeit der Datenverarbeitung im Einzelfall bleiben unberührt.
+§ 15 Datenübermittlung an öffentlich-rechtliche Religionsgesellschaften
+
+Die Übermittlung personenbezogener Daten an Stellen der öffentlich-rechtlichen Religionsgesellschaften ist in entsprechender Anwendung der Vorschriften über die Datenübermittlung innerhalb des öffentlichen Bereichs zulässig, sofern sichergestellt ist, dass bei dem Empfänger ausreichende Datenschutzmaßnahmen getroffen werden.
+§ 16 Datenübermittlung an die Bürgerschaft (Landtag) und die kommunalen Vertretungsorgane
+
+(1) Die Übermittlung personenbezogener Daten, die für andere Zwecke erhoben worden sind, an die Bürgerschaft (Landtag), die Stadtbürgerschaft der Stadt Bremen und die Stadtverordnetenversammlung der Stadt Bremerhaven ist zulässig, soweit sie für die Beantwortung von Anfragen, zur Erfüllung sonstiger Auskunfts- und Einsichtsrechte sowie zur Vorlage von Unterlagen und Berichten im Rahmen der Landesverfassung oder der Gemeindeverfassung erforderlich ist und überwiegende schutzwürdige Belange des Betroffenen nicht entgegenstehen. § 13 Abs. 2 bis 4 gilt entsprechend.
+
+(2) Personenbezogene Daten, die einem besonderen Amts- oder Berufsgeheimnis unterliegen, dürfen nur übermittelt werden, wenn die in Absatz 1 genannten Vertretungsorgane die Wahrung dieser Geheimnisse durch geeignete Vorkehrungen gewährleisten.
+§ 17 Datenübermittlung an Stellen außerhalb des öffentlichen Bereichs
+
+(1) Die Übermittlung personenbezogener Daten an Personen und andere als die in § 13 genannten Stellen ist zulässig, wenn
+
+1.
+
+    sie zur rechtmäßigen Erfüllung der in der Zuständigkeit der übermittelnden Stelle liegenden Aufgaben erforderlich ist und die Voraussetzungen des § 12 Abs. 1 oder 3 vorliegen,
+2.
+
+    sie unter den Voraussetzungen des § 12 Abs. 2 Satz 1 Nr. 1 bis 3 und 6 für andere Zwecke verarbeitet werden dürfen, wobei besondere Amts- oder Berufsgeheimnisse unberührt bleiben oder
+3.
+
+    der Empfänger ein rechtliches Interesse an der Kenntnis der zu übermittelnden Daten glaubhaft macht, diese Kenntnis nicht auf ihm zumutbare andere Weise erhalten kann und schutzwürdige Belange des Betroffenen nicht entgegenstehen.
+
+Für die Übermittlung besonderer Arten personenbezogener Daten gilt § 12 Abs. 2 Satz 3 entsprechend.
+
+(2) Der Empfänger darf die übermittelten Daten nur für die Zwecke verarbeiten, zu deren Erfüllung sie ihm übermittelt worden sind.
+§ 18 Datenübermittlung an ausländische und an über- und zwischenstaatliche Stellen
+
+(1) Die Übermittlung personenbezogener Daten in Mitgliedstaaten sowie an Organe und Einrichtungen der Europäischen Union und anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ist unter den Voraussetzungen der §§ 13, 17 und 20 zulässig.
+
+(2) Die Übermittlung personenbezogener Daten in Staaten außerhalb der Europäischen Union und an über- oder zwischenstaatliche Stellen ist unter den Voraussetzungen der §§ 13, 17 und 20 zulässig, wenn in dem Staat oder bei der Stelle ein angemessenes Schutzniveau gewährleistet ist. Die Angemessenheit des Schutzniveaus ist unter Berücksichtigung aller Umstände zu beurteilen, die bei der Datenübermittlung von Bedeutung sind, insbesondere der Art der Daten, der Zweckbestimmung und Dauer ihrer geplanten Verarbeitung, des Herkunfts- und des Endbestimmungslandes sowie der für den Empfänger geltenden Rechtsvorschriften, Standesregeln und Sicherheitsmaßnahmen.
+
+(3) Ist in Staaten außerhalb der Europäischen Union oder bei über- oder zwischenstaatlichen Stellen kein angemessenes Schutzniveau gewährleistet, so ist die Übermittlung personenbezogener Daten nur zulässig, soweit
+
+1.
+
+    der Betroffene eingewilligt hat,
+2.
+
+    die Übermittlung zur Wahrung eines überwiegenden öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen vor Gericht erforderlich ist,
+3.
+
+    die Übermittlung zur Wahrung lebenswichtiger Interessen des Betroffenen erforderlich ist oder
+4.
+
+    die Übermittlung aus einem Register erfolgt, das zur Information der Öffentlichkeit bestimmt ist oder das allen Personen, die ein berechtigtes Interesse nachweisen können, zur Einsichtnahme offen steht, soweit die gesetzlichen Voraussetzungen im Einzelfall erfüllt sind.
+
+(4) Unbeschadet des Absatzes 3 ist die Übermittlung personenbezogener Daten an Drittstaaten oder an über- und zwischenstaatliche Stellen, die kein angemessenes Schutzniveau im Sinne des Absatzes 2 gewährleisten, auch zulässig, wenn die Stelle, der die Daten übermittelt werden sollen, ausreichende Garantien hinsichtlich des Schutzes des Persönlichkeitsrechts und der Ausübung der damit verbundenen Rechte vorweist; diese Garantien können sich insbesondere aus vertraglichen Vereinbarungen ergeben. Die Übermittlung bedarf in diesem Falle der Zustimmung der zuständigen Aufsichtsbehörde. Der Landesbeauftragte für den Datenschutz ist vor der Übermittlung zu hören.
+
+(5) Die Stelle, an die die Daten übermittelt werden, ist auf den Zweck hinzuweisen, zu dessen Erfüllung die Daten übermittelt werden.
+§ 19 Datenverarbeitung zum Zwecke wissenschaftlicher Forschung
+
+(1) Personenbezogene Daten dürfen durch Hochschulen und andere mit wissenschaftlicher Forschung beauftragte öffentliche Stellen für bestimmte Forschungsvorhaben verarbeitet werden, wenn der Betroffene eingewilligt hat. Ohne Einwilligung des Betroffenen dürfen sie nur verarbeitet werden, soweit dessen schutzwürdige Belange, insbesondere wegen der Art der Daten, wegen ihrer Offenkundigkeit oder wegen der Art der Verarbeitung nicht beeinträchtigt werden.
+
+(2) Unter den Voraussetzungen des Absatzes 1 Satz 2 dürfen nicht mit wissenschaftlicher Forschung beauftragte öffentliche Stellen personenbezogene Daten ohne Einwilligung des Betroffenen an Stellen mit der Aufgabe unabhängiger wissenschaftlicher Forschung übermitteln. Der Einwilligung des Betroffenen bedarf es auch nicht, wenn das öffentliche Interesse an der Durchführung des Forschungsvorhabens die schutzwürdigen Belange des Betroffenen erheblich überwiegt und der Zweck der Forschung nicht auf andere Weise oder nur mit unverhältnismäßigem Aufwand erreicht werden kann. In diesem Fall sind die für einen Verzicht auf die Einwilligung maßgeblichen Gründe schriftlich festzuhalten.
+
+(3) Sobald der Forschungszweck dies erlaubt, sind die Merkmale, mit deren Hilfe ein Personenbezug hergestellt werden kann, gesondert zu speichern; die Merkmale sind zu löschen, sobald der Forschungszweck erreicht ist. § 11 Abs. 2 findet keine Anwendung.
+
+(4) Eine Verarbeitung der nach Absatz 1 erhobenen oder der nach Absatz 2 übermittelten Daten zu anderen als zu Forschungszwecken ist unzulässig. Die unter den Voraussetzungen des Absatzes 2 Satz 2 übermittelten Daten dürfen nur mit Einwilligung des Betroffenen weiter übermittelt werden.
+
+(5) Soweit die Vorschriften dieses Gesetzes auf die Stelle, der die Daten übermittelt werden sollen, keine Anwendung finden, dürfen sie ihr nur übermittelt werden, wenn sie sich verpflichtet, die Vorschriften der Absätze 3 und 4 einzuhalten und sich der Kontrolle des Landesbeauftragten für den Datenschutz unterwirft.
+§ 20 Datenschutz bei Dienst- und Arbeitsverhältnissen
+
+(1) Öffentliche Stellen dürfen personenbezogene Daten über Bewerber, Bedienstete und ehemalige Bedienstete nur nach Maßgabe der §§ 85 bis 92 des Bremischen Beamtengesetzes verarbeiten.
+
+(2) Die Verarbeitung dieser Daten in automatisierten Verfahren bedarf der Zustimmung der obersten Dienstbehörde.
+
+(3) Die Erhebung medizinischer Daten aufgrund ärztlicher Untersuchungen zum Zweck der Eingehung eines Dienst- oder Arbeitsverhältnisses ist nur zulässig, soweit dadurch die Eignung des Bewerbers hierfür festgestellt wird und er seine Einwilligung erteilt hat. Die öffentliche Stelle darf nur das Ergebnis der Untersuchung anfordern.
+
+(4) Die Erhebung psychologischer Daten zum Zwecke der Eingehung eines Dienst- oder Arbeitsverhältnisses ist nur zulässig, soweit dies wegen der besonderen Anforderungen an die vorgesehene Tätigkeit erforderlich ist, vorhandene Unterlagen zur Beurteilung nicht ausreichen und der Bewerber seine Einwilligung hierzu erklärt hat. Daten im Zusammenhang mit psychologischen Untersuchungen dürfen nur aufgrund von Untersuchungen durch einen Psychologen mit staatlich anerkannter wissenschaftlicher Abschlussprüfung erhoben werden. Absatz 3 Satz 2 gilt entsprechend.
+
+(5) Personenbezogene Daten, die vor der Eingehung eines Dienst- oder Arbeitsverhältnisses erhoben wurden, sind, soweit sie nicht mit dem Datenträger an den Betroffenen zurückgegeben werden, unverzüglich zu löschen, sobald feststeht, dass ein Dienst- oder Arbeitsverhältnis nicht zustande kommt, es sei denn, dass der Betroffene zur Aufrechterhaltung seiner Bewerbung in die weitere Speicherung eingewilligt hat. Nach Beendigung eines Dienst- oder Arbeitsverhältnisses sind personenbezogene Daten des Beschäftigten auf seinen Antrag zu löschen, sobald feststeht, dass sie für die Abwicklung des Dienst- oder Arbeitsverhältnisses nicht mehr benötigt werden und Rechtsvorschriften nicht entgegenstehen.
+
+(6) Soweit Daten der Beschäftigten im Rahmen der Durchführung der technischen und organisatorischen Maßnahmen nach § 7 gespeichert werden, dürfen sie nicht zu Zwecken der individuellen Verhaltens- oder Leistungskontrolle ausgewertet werden; auf Verlangen ist dem Beschäftigten Auskunft über die Art dieser Daten zu erteilen.
+§ 20a Mobile Datenverarbeitungsmedien
+
+(1) Mobile personenbezogene Datenverarbeitungsmedien, die an den Betroffenen ausgegeben werden und die über eine von der ausgebenden Stelle oder einem Dritten bereitgestellte Schnittstelle Daten automatisiert verarbeiten können, dürfen nur mit Einwilligung des Betroffenen oder aufgrund einer Rechtsvorschrift eingesetzt werden.
+
+(2) Die verantwortliche Stelle muss den Betroffenen auf seinen Wunsch auch schriftlich in allgemein verständlicher Form über die Funktionsweise des Mediums einschließlich der Art der zu verarbeitenden personenbezogenen Daten und der im einzelnen ablaufenden und angestoßenen Verarbeitungsvorgänge unterrichten. Für den Betroffenen muss jederzeit erkennbar sein, ob Datenverarbeitungsvorgänge auf dem mobilen Datenverarbeitungsmedium ablaufen oder durch dieses veranlasst stattfinden.
+
+(3) Der Betroffene ist bei der Ausgabe des mobilen Datenverarbeitungsmediums über die ihm nach § 4 zustehenden Rechte aufzuklären. Sofern zur Wahrnehmung der Informationsrechte besondere Geräte oder Einrichtungen erforderlich sind, hat die ausgebende Stelle dafür Sorge zu tragen, dass diese in angemessenem Umfang zur Verfügung stehen.
+§ 20b Videoüberwachung
+
+(1) Die Beobachtung öffentlich zugänglicher Bereiche mit optischelektronischen Einrichtungen (Videoüberwachung) ist nur zulässig, soweit sie in Wahrnehmung des Hausrechts zum Zweck des Schutzes von Personen oder des Eigentums oder des Besitzes oder zur Kontrolle von Zugangsberechtigungen erforderlich ist und schutzwürdige Belange der Betroffenen nicht überwiegen. Die Videoüberwachung nach Satz 1 darf nur durch die Leitung der verantwortlichen Stelle angeordnet werden. Dabei sind der Zweck, die räumliche Ausdehnung und die Dauer der Videoüberwachung zu dokumentieren.
+
+(2) Die Möglichkeit der Beobachtung und die verantwortliche Stelle müssen für Betroffene erkennbar sein.
+
+(3) Personenbezogene Daten dürfen nur erhoben oder gespeichert werden, wenn dies zum Erreichen der in Absatz 1 genannten Zwecke erforderlich oder unvermeidlich ist. Die Daten dürfen für einen anderen Zweck nur genutzt und verarbeitet werden, wenn dies zur Abwehr von Gefahren für die öffentliche Sicherheit oder zur Abwehr von Nachteilen für das Wohl des Bundes oder eines Landes sowie zur Verfolgung von Straftaten erforderlich ist. § 12 Abs. 2 Satz 3 gilt entsprechend.
+
+(4) Werden durch Videoüberwachung erhobene Daten einer bestimmten Person zugeordnet, ist diese über die Verarbeitung entsprechend § 11 Abs. 1 Satz 1 zu benachrichtigen. § 11 Abs. 3 gilt entsprechend.
+
+(5) Die Daten sind unverzüglich, spätestens jedoch nach 24 Stunden zu löschen, wenn sie zur Erreichung des Zwecks nicht mehr erforderlich sind oder schutzwürdige Interessen der Betroffenen einer weiteren Speicherung entgegenstehen.
+Abschnitt 3
+Rechte der Betroffenen
+§ 21 Auskunft an den Betroffenen und Akteneinsicht
+
+(1) Dem Betroffenen ist von der verantwortlichen Stelle auf Antrag Auskunft zu erteilen über
+
+1.
+
+    die zu seiner Person gespeicherten Daten,
+2.
+
+    den Zweck und die Rechtsgrundlage der Speicherung und sonstigen Verarbeitung,
+3.
+
+    den logischen Aufbau einer automatisierten Verarbeitung der ihn betreffenden Daten, soweit durch eine automatisierte Verarbeitung automatisierte Einzelentscheidungen getroffen werden sowie
+4.
+
+    die Herkunft der Daten und die Empfänger oder der Kreis von Empfängern, an die die Daten weitergegeben werden.
+
+Dies gilt nicht für die personenbezogenen Daten, die nur deshalb als gesperrte Daten gespeichert sind, weil sie aufgrund gesetzlicher Aufbewahrungsvorschriften nicht gelöscht werden dürfen (§ 22 Abs. 2 Nr. 2) sowie für solche Daten, die ausschließlich zum Zwecke der Datensicherung oder der Datenschutzkontrolle gespeichert sind (§ 22 Abs. 2 Nr. 3), es sei denn, der Betroffene legt ein besonderes berechtigtes Interesse an der Kenntnis dieser Daten dar. Der Betroffene soll die Art der personenbezogenen Daten, über die er Auskunft verlangt, näher bezeichnen. Nach seiner Wahl ist dem Betroffenen Auskunft aus Akten oder Akteneinsicht nach Maßgabe von Satz 1 bis 3 zu gewähren, soweit er die Angaben macht, die das Auffinden der Daten mit angemessenem Aufwand ermöglichen und soweit sich aus § 29 des Bremischen Verwaltungsverfahrensgesetzes nichts anderes ergibt. Die Auskunft ist schriftlich zu erteilen, soweit nicht wegen der besonderen Umstände eine andere Form der Auskunftserteilung angemessen ist. Soweit Akteneinsicht zu erteilen ist, kann der Betroffene Auszüge oder Abschriften selbst fertigen oder sich gegen angemessenen Ersatz der Aufwendungen Kopien durch die verantwortliche Stelle herstellen lassen.
+
+(2) Die Auskunftserteilung oder die Gewährung der Akteneinsicht unterbleibt, soweit und solange
+
+1.
+
+    die Auskunft oder die Akteneinsicht die rechtmäßige Wahrnehmung der Aufgaben der verantwortlichen Stelle gefährden würde,
+2.
+
+    die Auskunft oder die Akteneinsicht die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde oder
+3.
+
+    die personenbezogenen Daten oder die Tatsache ihrer Speicherung nach einer Rechtsvorschrift oder wegen berechtigter Interessen Dritter geheimzuhalten sind und deswegen das Interesse des Betroffenen an der Auskunftserteilung zurücktreten muss.
+
+(3) Bezieht sich die Auskunft oder die Akteneinsicht auf die Herkunft von personenbezogenen Daten von Behörden des Verfassungsschutzes, der Staatsanwaltschaft, des Polizeivollzugsdienstes der Länder und der Gemeinden, soweit sie strafverfolgend tätig werden, von den Finanzbehörden im Rahmen der Steuerfahndung sowie von den in § 19 Abs. 3 des Bundesdatenschutzgesetzes genannten Behörden, ist sie nur mit Zustimmung dieser Stellen zulässig. Gleiches gilt, soweit sich die Auskunft oder die Akteneinsicht auf die Übermittlung personenbezogener Daten an diese Behörden bezieht. Für die Versagung der Zustimmung gilt, soweit dieses Gesetz auf die benannten Behörden Anwendung findet, Absatz 2 entsprechend.
+
+(4) Die Verweigerung der Auskunft oder der Akteneinsicht ist zu begründen. Dies gilt nicht, wenn durch die Mitteilung der Gründe der mit der Verweigerung verfolgte Zweck gefährdet würde; die wesentlichen Gründe für die Entscheidung sind aufzuzeichnen. Der Betroffene ist darauf hinzuweisen, dass er sich an den Landesbeauftragten für den Datenschutz wenden kann.
+§ 22 Berichtigung, Sperrung und Löschung von Daten
+
+(1) Personenbezogene Daten sind zu berichtigen, wenn sie unrichtig sind.
+
+(2) Personenbezogene Daten sind zu sperren, wenn
+
+1.
+
+    ihre Richtigkeit vom Betroffenen bestritten wird und sich weder die Richtigkeit noch die Unrichtigkeit feststellen lässt,
+2.
+
+    in den Fällen des Absatzes 3 Grund zu der Annahme besteht, dass durch die Löschung schutzwürdige Belange des Betroffenen beeinträchtigt würden oder sie aufgrund gesetzlicher Aufbewahrungsvorschriften nicht gelöscht werden dürfen,
+3.
+
+    sie nur zu Zwecken der Datensicherung oder der Datenschutzkontrolle gespeichert sind.
+
+Satz 1 Nr. 1 gilt nicht, wenn personenbezogene Daten in Akten gespeichert sind; in diesen Fällen ist in der Akte lediglich zu vermerken, dass die Daten vom Betroffenen bestritten worden sind. Bei der automatisierten Datenverarbeitung ist die Sperrung grundsätzlich durch technische Maßnahmen sicherzustellen; im Übrigen ist ein entsprechender Vermerk anzubringen. Gesperrte Daten dürfen über die Speicherung hinaus nicht mehr verarbeitet werden, es sei denn, dass die Verarbeitung zur Behebung einer bestehenden Beweisnot oder aus sonstigen im überwiegenden Interesse der verantwortlichen Stelle oder im rechtlichen Interesse eines Dritten liegenden Gründen unerlässlich ist oder der Betroffene in die Verarbeitung eingewilligt hat.
+
+(3) Personenbezogene Daten sind zu löschen, wenn
+
+1.
+
+    ihre Speicherung unzulässig ist oder
+2.
+
+    ihre Kenntnis für die verantwortliche Stelle zur rechtmäßigen Erfüllung ihrer Aufgaben nicht mehr erforderlich ist.
+
+(4) Sind personenbezogene Daten in Akten gespeichert, erfolgt die Löschung nach Absatz 3 Nr. 2 nur, wenn die gesamte Akte zur Erfüllung der Aufgaben nicht mehr erforderlich ist; gleiches gilt für die Sperrung nach Absatz 2 Satz 1 Nr. 2.
+
+(5) Von der Berichtigung unrichtiger Daten, von der Sperrung bestrittener oder unzulässig gespeicherter Daten und von der Löschung unzulässig gespeicherter Daten sind unverzüglich die Stellen zu unterrichten, denen die Daten im Rahmen regelmäßiger Datenübermittlung übermittelt wurden; im Übrigen liegt die Unterrichtung im pflichtgemäßen Ermessen.
+§ 22a Widerspruchsrecht
+
+Personenbezogene Daten dürfen nicht automatisiert oder in nicht automatisierten Dateien verarbeitet werden, soweit der Betroffene der Verarbeitung bei der verantwortlichen Stelle widerspricht und eine Prüfung ergibt, dass das schutzwürdige Interesse des Betroffenen wegen seiner besonderen persönlichen Situation das Interesse der verantwortlichen Stelle an dieser Verarbeitung überwiegt. Satz 1 gilt nicht, wenn eine Rechtsvorschrift zur Verarbeitung der Daten verpflichtet.
+§ 22b Anrufungsrecht
+
+Jeder kann sich an den Landesbeauftragten für den Datenschutz wenden, wenn er annimmt, bei der Verarbeitung seiner personenbezogenen Daten durch datenverarbeitende Stellen in seinen Rechten verletzt worden zu sein; hierbei brauchen Bedienstete öffentlicher Stellen den Dienstweg nicht einzuhalten. Niemand darf dafür gemaßregelt oder benachteiligt werden, dass er sich aufgrund tatsächlicher Anhaltspunkte für einen Verstoß gegen dieses Gesetz oder andere Vorschriften über den Datenschutz an den Landesbeauftragten für den Datenschutz wendet.
+§ 23 Schadensersatz
+
+(1) Fügt eine verantwortliche öffentliche Stelle dem Betroffenen durch eine nach diesem Gesetz oder nach anderen Vorschriften über den Datenschutz unzulässige oder unrichtige Verarbeitung seiner personenbezogenen Daten schuldhaft einen Schaden zu, ist ihr Träger dem Betroffenen zum Schadensersatz verpflichtet. Die Ersatzpflicht entfällt, soweit die verantwortliche öffentliche Stelle die nach den Umständen des Falles gebotene Sorgfalt beachtet hat.
+
+(2) Wird der Schaden nach Absatz 1 durch eine automatisierte Verarbeitung personenbezogener Daten zugefügt, ist der Rechtsträger der verantwortlichen öffentlichen Stellen unabhängig von einem Verschulden zum Schadensersatz verpflichtet. Bei einer schweren Verletzung des Persönlichkeitsrechts ist dem Betroffenen der Schaden, der nicht Vermögensschaden ist, angemessen in Geld zu ersetzen. Die Ansprüche nach den Sätzen 1 und 2 sind insgesamt bis zu einem Betrag in Höhe von 130 000 Euro begrenzt. Ist aufgrund desselben Ereignisses an mehrere Personen Schadensersatz zu leisten, der insgesamt den Höchstbetrag nach Satz 3 übersteigt, so verringern sich die einzelnen Schadensersatzleistungen in dem Verhältnis, in dem ihr Gesamtbeitrag zu dem Höchstbetrag steht. Sind bei einer automatisierten Verarbeitung mehrere Stellen speicherungsberechtigt und ist der Geschädigte nicht in der Lage, die speichernde Stelle festzustellen, so haftet der Rechtsträger jeder dieser Stellen.
+
+(3) Mehrere Ersatzpflichtige haften als Gesamtschuldner.
+
+(4) Auf das Mitverschulden des Betroffenen und die Verjährung sind die §§ 254, 195 und 199 des Bürgerlichen Gesetzbuches entsprechend anzuwenden.
+
+(5) Schadensersatzansprüche aufgrund anderer Vorschriften bleiben unberührt.
+
+(6) Über Ansprüche nach den Absätzen 1 bis 3 entscheiden die ordentlichen Gerichte.
+Abschnitt 4
+Überwachung des Datenschutzes
+§ 24 Bestellung des Landesbeauftragten für den Datenschutz
+
+(1) Der Landesbeauftragte für den Datenschutz wird auf Vorschlag des Senats von der Bürgerschaft (Landtag) mit der Mehrheit ihrer Mitglieder gewählt und vom Senat ernannt. Der Senat soll spätestens sechs Monate nach Ausscheiden des Landesbeauftragten für den Datenschutz einen Nachfolger vorschlagen. Die Auswahl des Senats erfolgt im Benehmen mit dem nach § 35 Satz 1 gewählten Parlamentsausschuss. Die Amtszeit des Landesbeauftragten für den Datenschutz beträgt 8 Jahre.
+
+(2) Für den Fall der nicht nur vorübergehenden Verhinderung des Landesbeauftragten für den Datenschutz an der Ausübung seines Amtes kann der Senat einen Vertreter mit der Wahrnehmung der Geschäfte beauftragen. Satz 1 gilt auch für das Ausscheiden aus dem Amt bis zur Bestellung eines neuen Amtsinhabers nach Absatz 1 Satz 1. Vor der Beauftragung eines Vertreters ist der Ausschuss nach § 35, im Falle des Satzes 1 ist auch der Landesbeauftragte für den Datenschutz anzuhören.
+§ 25 Rechtsstellung
+
+Der Landesbeauftragte für den Datenschutz ist in Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen. Er untersteht der Dienstaufsicht des Senats nur, soweit seine Unabhängigkeit nicht beeinträchtigt wird. Dies gilt auch für seine Tätigkeit als Aufsichtsbehörde nach § 38 des Bundesdatenschutzgesetzes.
+§ 26 Verschwiegenheitspflicht
+
+Der Landesbeauftragte für den Datenschutz bleibt auch nach Beendigung seines Amtsverhältnisses verpflichtet, über die ihm bei seiner amtlichen Tätigkeit bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Er ist oberste Dienstbehörde im Sinne des § 96 der Strafprozessordnung und oberste Aufsichtsbehörde im Sinne des § 99 der Verwaltungsgerichtsordnung, des § 119 des Sozialgerichtsgesetzes und des § 86 der Finanzgerichtsordnung. Die Genehmigung nach § 37 Absatz 3 des Beamtenstatusgesetzes erteilt der Landesbeauftragte für den Datenschutz für sich und seine Bediensteten; dies gilt auch für seine Vorgänger und ehemalige Bedienstete, soweit Tätigkeiten in seiner Dienststelle betroffen sind.
+§ 27 Aufgaben
+
+(1) Der Landesbeauftragte für den Datenschutz überwacht die Einhaltung der Vorschriften dieses Gesetzes sowie anderer Vorschriften über den Datenschutz bei den in § 1 Abs. 2 genannten Stellen. Die in § 1 Abs. 3 genannten Stellen, die Gerichte und der Rechnungshof unterliegen der Überwachung durch den Landesbeauftragten für den Datenschutz nur, wenn sie in Verwaltungsangelegenheiten tätig werden, die Gerichte und der Rechnungshof darüber hinaus beim Einsatz automatisierter Datenverarbeitung hinsichtlich der organisatorischen und technischen Maßnahmen der Datensicherung, unbeschadet der verfassungsrechtlich gewährleisteten Unabhängigkeit. Der Landesbeauftragte für den Datenschutz kann Empfehlungen zur Verbesserung des Datenschutzes geben, insbesondere kann er den Senat und die einzelnen Senatoren sowie die übrigen in § 1 Abs. 2 genannten Stellen in Fragen des Datenschutzes beraten. Der Landesbeauftragte für den Datenschutz kontrolliert die Einhaltung der Datenschutzvorschriften auch bei den Stellen, die sich nach § 9 Abs. 1 Satz 5 seiner Kontrolle unterworfen haben.
+
+(2) Die in Absatz 1 genannten Stellen sind verpflichtet, den Landesbeauftragten für den Datenschutz und seine Beauftragten bei der Erfüllung ihrer Aufgaben zu unterstützen. Sie können dabei insbesondere
+
+1.
+
+    von den in Absatz 1 genannten Stellen Auskunft zu den Fragen sowie Einsicht in die Unterlagen und Akten verlangen, die im Zusammenhang mit der Verarbeitung personenbezogener Daten stehen, namentlich in die gespeicherten Daten, die Datenverarbeitungsprogramme und die Programmunterlagen,
+2.
+
+    von den in Absatz 1 genannten Stellen nach festgelegten Vorgaben strukturierte Auswertungen aus automatisierten Informationssystemen verlangen, soweit dies die bei den jeweiligen Stellen bestehenden technischen Möglichkeiten zulassen,
+3.
+
+    die in Absatz 1 genannten Stellen jederzeit unangemeldet aufsuchen und ihre Dienst- und Geschäftsräume betreten.
+
+Stellt der zuständige Senator im Einzelfall fest, dass die Sicherheit des Bundes oder eines Landes dies gebietet, ist die Unterstützung nach Satz 1 und 2 nur dem Landesbeauftragten für den Datenschutz selbst oder seinem Vertreter nach § 24 Abs. 2 und den von ihm schriftlich besonders damit Beauftragten seines Personals zu gewähren. In diesem Fall muss die Identität eines Betroffenen, dem das Landesamt für Verfassungsschutz, die Behörden der Staatsanwaltschaft oder die Behörden des Polizeivollzugsdienstes, soweit sie strafverfolgend tätig werden, im Rahmen ihrer Aufgabenerfüllung Vertraulichkeit besonders zugesichert haben, auch dem Landesbeauftragten für den Datenschutz gegenüber nicht offenbart werden.
+
+(3) Der Landesbeauftragte für den Datenschutz soll zu den Auswirkungen des Einsatzes neuer Informationstechniken auf den Datenschutz Stellung nehmen. Er ist rechtzeitig zu unterrichten
+
+1.
+
+    über Planungen zum Aufbau automatisierter Informationssysteme und deren wesentlicher Änderung, sofern in den Systemen personenbezogene Daten verarbeitet werden sollen,
+2.
+
+    über Entwürfe für Rechtsvorschriften, die die Verarbeitung personenbezogener Daten regeln sowie
+3.
+
+    über Entwürfe für Verwaltungsvorschriften, soweit diese zur Ausführung dieses Gesetzes oder besonderer Rechtsvorschriften nach § 1 Abs. 2 erlassen werden sollen.
+
+(4) Gegen Entscheidungen des Landesbeauftragten für den Datenschutz findet kein Vorverfahren (§ 68 Verwaltungsgerichtsordnung) statt; er vertritt die Freie Hansestadt Bremen im gerichtlichen Verfahren.
+
+(5) Der Landesbeauftragte für den Datenschutz arbeitet mit den Behörden und sonstigen Stellen, die für die Kontrolle der Einhaltung der Vorschriften über den Datenschutz im Bund und in den Ländern zuständig sind sowie mit den Aufsichtsbehörden nach § 38 des Bundesdatenschutzgesetzes zusammen.
+§ 28 (weggefallen)
+
+§ 29 Beanstandungen
+
+(1) Stellt der Landesbeauftragte für den Datenschutz Verstöße gegen die Vorschriften dieses Gesetzes oder gegen andere Datenschutzbestimmungen oder sonstige Mängel bei der Verarbeitung personenbezogener Daten fest, so beanstandet er dies
+
+1.
+
+    bei Behörden oder sonstigen Stellen des Landes und der Stadtgemeinde Bremen gegenüber dem zuständigen Senator,
+2.
+
+    bei Behörden und sonstigen Stellen der Stadtgemeinde Bremerhaven gegenüber dem Magistrat,
+3.
+
+    bei den juristischen Personen des öffentlichen Rechts sowie bei Vereinigungen solcher juristischer Personen gegenüber dem Vorstand oder dem sonst vertretungsberechtigten Organ
+
+und fordert zur Stellungnahme innerhalb einer von ihm zu bestimmenden Frist auf. In den Fällen des Satzes 1 Nr. 2 und 3 unterrichtet der Landesbeauftragte für den Datenschutz gleichzeitig auch die zuständige Aufsichtsbehörde, bei sonstigen Mängeln jedoch nur, wenn seinen Beanstandungen nicht unverzüglich abgeholfen wird.
+
+(2) Der Landesbeauftragte für den Datenschutz kann von einer Beanstandung absehen oder auf eine Stellungnahme der betroffenen Stelle verzichten, wenn es sich um unerhebliche oder inzwischen beseitigte Mängel handelt oder wenn ihre Behebung sichergestellt ist.
+
+(3) Mit der Beanstandung kann der Landesbeauftragte für den Datenschutz Vorschläge zur Beseitigung der Mängel und zur sonstigen Verbesserung des Datenschutzes verbinden.
+
+(4) Die nach Absatz 1 Satz 1 abzugebende Stellungnahme soll auch eine Darstellung der Maßnahmen enthalten, die aufgrund der Beanstandungen des Landesbeauftragten für den Datenschutz getroffen worden sind. Die in Absatz 1 Satz 1 Nr. 2 und 3 genannten Stellen leiten der zuständigen Aufsichtsbehörde eine Abschrift ihrer Stellungnahme an den Landesbeauftragten für den Datenschutz zu.
+§ 30 (weggefallen)
+
+§ 31 (weggefallen)
+
+§ 32 Erstattung von Gutachten
+
+(1) Die Bürgerschaft (Landtag) und der Senat können den Landesbeauftragten für den Datenschutz mit der Erstattung von Gutachten oder der Durchführung von Untersuchungen in Datenschutzfragen betrauen.
+
+(2) Der Magistrat der Stadt Bremerhaven kann beim Senat beantragen, den Landesbeauftragten für den Datenschutz mit einem Auftrag nach Absatz 1 zu betrauen.
+§ 33 Jahresbericht
+
+(1) Bis zum 31. März jeden Jahres, erstmals zum 31. März 1979, hat der Landesbeauftragte für den Datenschutz der Bürgerschaft (Landtag) und dem Präsidenten des Senats einen Bericht über das Ergebnis seiner Tätigkeit vorzulegen. Soweit dem Landesbeauftragten für den Datenschutz Aufgaben der Aufsichtsbehörde nach dem Dritten Abschnitt des Bundesdatenschutzgesetzes übertragen sind, soll dem Bericht eine Mitteilung über das Ergebnis dieser Tätigkeit beigefügt werden.
+
+(2) Der Präsident des Senats führt eine Stellungnahme des Senats zu dem Bericht herbei und legt diese der Bürgerschaft (Landtag) spätestens bis zum 31. August des jeweiligen Jahres vor.
+
+(3) Zwischenberichte sind zulässig. Sie sind nach Absatz 2 zu behandeln.
+
+(4) In der Aussprache über den Bericht kann die Bürgerschaft (Landtag) dem Landesbeauftragten für den Datenschutz Gelegenheit zur Vorstellung des Berichts geben. Das gleiche gilt für die Aussprache über Zwischenberichte nach Absatz 3 sowie über Gutachten und Untersuchungen nach § 32 Abs. 1.
+§ 34 Personal und Sachmittel
+
+(1) Dem Landesbeauftragten für den Datenschutz ist das für die Erfüllung seiner Aufgaben notwendige Personal zur Verfügung zu stellen.
+
+(2) Die Personal- und Sachausstattung des Landesbeauftragten für den Datenschutz ist im Einzelplan in einem eigenen Kapitel auszuweisen. Die Stellen werden auf Vorschlag des Landesbeauftragten für den Datenschutz besetzt. Versetzungen, Abordnungen und Zuweisungen dürfen nur im Einvernehmen mit ihm erfolgen.
+
+(3) Für bestimmte Einzelfragen kann der Landesbeauftragte für den Datenschutz auch Dritte zur Mitarbeit heranziehen.
+§ 35 Parlamentsausschuss
+
+Zur Durchführung der parlamentarischen Kontrolle des Datenschutzes nach diesem Gesetz wählt die Bürgerschaft (Landtag) einen ständigen Parlamentsausschuss. Dieser berät unter anderem die Berichte nach § 33 und den jeweiligen Entwurf des Haushaltskapitels nach § 34 Abs. 2.
+Abschnitt 5
+Sonderbestimmung für Radio Bremen
+§ 36 Sonderbestimmung für Radio Bremen
+
+Der Rundfunkrat von Radio Bremen bestellt einen Beauftragten der Anstalt für den Datenschutz. Dieser ist in der Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen; im Übrigen untersteht er der Dienstaufsicht des Verwaltungsrates. Der Beauftragte für den Datenschutz überwacht die Einhaltung dieses Gesetzes und anderer Vorschriften über den Datenschutz, soweit Radio Bremen personenbezogene Daten ausschließlich zu eigenen publizistischen Zwecken verarbeitet. Der Beauftragte für den Datenschutz kann auch andere Aufgaben innerhalb der Anstalt übernehmen; Satz 2 findet insoweit keine Anwendung. Für Beanstandungen gilt § 29 entsprechend; an die Stelle der in § 29 Abs. 1 Satz 3 genannten Stellen tritt der Intendant, an die Stelle der in § 29 Abs. 1 Satz 2 genannten Aufsichtsbehörde der Rundfunkrat. Der Beauftragte für den Datenschutz erstattet dem Rundfunkrat jährlich einen Bericht über seine Tätigkeit.
+Abschnitt 6
+Straf- und Bußgeldvorschriften
+§ 37 Straftaten
+
+Wer gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, personenbezogene Daten entgegen den Vorschriften dieses Gesetzes
+
+1.
+
+    erhebt, speichert, verändert, übermittelt, zum Abruf bereithält, löscht oder nutzt,
+2.
+
+    abruft, einsieht oder einem Dritten verschafft,
+
+wird mit einer Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
+§ 38 Ordnungswidrigkeiten
+
+(1) Ordnungswidrig handelt, wer personenbezogene Daten entgegen den Vorschriften dieses Gesetzes erhebt, speichert, übermittelt, löscht, zum Abruf bereithält, abruft oder nutzt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden.
+Abschnitt 7
+Übergangs- und Schlussvorschriften
+§ 39 Laufende Verarbeitungen
+
+Verarbeitungen personenbezogener Daten, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes bereits begonnen haben, sind binnen drei Jahren nach diesem Zeitpunkt mit den Vorschriften dieses Gesetzes in Übereinstimmung zu bringen.
+§ 39a Weitergeltung von Begriffsbestimmungen
+
+(1) Wird in besonderen Rechtsvorschriften des Landes der Begriff Datei verwendet, ist Datei
+
+1.
+
+    eine Sammlung von Daten, die durch automatisierte Verfahren ausgewertet werden kann (automatisierte Datei) oder
+2.
+
+    eine gleichartig aufgebaute Sammlung von Daten, die nach bestimmten Merkmalen geordnet und ausgewertet werden kann (nicht automatisierte Datei).
+
+(2) Wird in besonderen Rechtsvorschriften des Landes der Begriff Empfänger verwendet, ist Empfänger jede Person oder Stelle außerhalb der verantwortlichen Stelle. Empfänger sind nicht der Betroffene sowie diejenigen Personen und Stellen, die im Inland oder im Geltungsbereich der Rechtsvorschriften zum Schutz personenbezogener Daten der Mitgliedstaaten der Europäischen Union personenbezogene Daten im Auftrag verarbeiten.
+§ 40 (Inkrafttreten)
+

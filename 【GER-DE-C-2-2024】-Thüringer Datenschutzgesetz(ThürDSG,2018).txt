@@ -1,0 +1,1757 @@
+Thüringer Datenschutzgesetz
+(ThürDSG)
+Vom 6. Juni 2018*
+Zum 08.10.2025 aktuellste verfügbare Fassung der Gesamtausgabe
+Stand: 	letzte berücksichtigte Änderung: geändert durch Artikel 4 des Gesetzes vom 2. Juli 2024 (GVBl. S. 204, 209)
+Fußnoten
+
+*)
+    Verkündet als Artikel 1 des Thüringer Gesetzes zur Anpassung des Allgemeinen Datenschutzrechts an die Verordnung (EU) 2016/679 und zur Umsetzung der Richtlinie (EU) 2016/680 vom 6. Juni 2018 (GVBl. S. 229)
+
+
+Titel	Gültig ab
+Thüringer Datenschutzgesetz (ThürDSG) vom 6. Juni 2018	15.06.2018
+Inhaltsverzeichnis	15.06.2018
+Erster Abschnitt - Gemeinsame Bestimmungen	15.06.2018
+Erster Unterabschnitt - Allgemeine Bestimmungen	15.06.2018
+§ 1 - Zweck des Gesetzes	15.06.2018
+§ 2 - Anwendungsbereich	15.06.2018
+Zweiter Unterabschnitt - Aufsichtsbehörde	15.06.2018
+§ 3 - Landesbeauftragter für den Datenschutz	15.06.2018
+§ 4 - Rechtsstellung und Verschwiegenheitspflicht des Landesbeauftragten für den Datenschutz	15.06.2018
+§ 5 - Anwendung beamtenrechtlicher Vorschriften auf den Landesbeauftragten für den Datenschutz	15.06.2018
+§ 6 - Aufgaben des Landesbeauftragten für den Datenschutz	01.01.2025
+§ 7 - Befugnisse des Landesbeauftragten für den Datenschutz	15.06.2018
+§ 8 - Anrufung des Landesbeauftragten für den Datenschutz	15.06.2018
+§ 9 - Gerichtlicher Rechtsschutz	15.06.2018
+§ 10 - Weitere Aufgaben des Landesbeauftragten für den Datenschutz	15.06.2018
+§ 11 - Aufsichtsbehörde gegenüber nichtöffentlichen Stellen und öffentlichen Stellen, die am Wettbewerb teilnehmen	15.06.2018
+§ 12 - Beirat	15.06.2018
+Dritter Unterabschnitt - Datenschutzbeauftragter	15.06.2018
+§ 13 - Bestellung des Datenschutzbeauftragten	15.06.2018
+§ 14 - Stellung des Datenschutzbeauftragten	15.06.2018
+§ 15 - Aufgaben des Datenschutzbeauftragten	15.06.2018
+Zweiter Abschnitt - Bestimmungen für die Verarbeitung zu Zwecken nach Artikel 2 der Verordnung (EU) 2016/679	15.06.2018
+Erster Unterabschnitt - Rechtsgrundlagen der Verarbeitung	15.06.2018
+§ 16 - Verarbeitung personenbezogener Daten	15.06.2018
+§ 17 - Zweckbindung und Zulässigkeit der Weiterverarbeitung	15.06.2018
+§ 18 - Übermittlung	15.06.2018
+§ 19 - Auftragsverarbeitung	15.06.2018
+Zweiter Unterabschnitt - Rechte der betroffenen Person	15.06.2018
+§ 20 - Informationspflichten	15.06.2018
+§ 21 - Auskunftsrecht	15.06.2018
+§ 22 - Recht auf Einschränkung der Verarbeitung	15.06.2018
+§ 23 - Löschung personenbezogener Daten	15.06.2018
+§ 24 - Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person	15.06.2018
+Dritter Unterabschnitt - Besondere Verarbeitungssituationen	15.06.2018
+§ 25 - Verarbeitung personenbezogener Daten zu Zwecken der freien Meinungsäußerung und der Informationsfreiheit	15.06.2018
+§ 26 - Öffentliche Stellen, die am Wettbewerb teilnehmen	15.06.2018
+§ 27 - Datenschutz im Beschäftigungskontext	15.06.2018
+§ 28 - Verarbeitung personenbezogener Daten durch Forschungseinrichtungen	15.06.2018
+§ 29 - Zweckbindung von personenbezogenen Daten, die einem Berufsgeheimnis unterliegen	15.06.2018
+§ 30 - Videoüberwachung	15.06.2018
+Dritter Abschnitt - Bestimmungen für Verarbeitungen zu Zwecken nach Artikel 1 Abs. 1 der Richtlinie (EU) 2016/680	15.06.2018
+Erster Unterabschnitt - Anwendungsbereich und Grundsätze	15.06.2018
+§ 31 - Anwendungsbereich	15.06.2018
+§ 32 - Begriffsbestimmungen	15.06.2018
+§ 33 - Grundsätze bei der Verarbeitung personenbezogener Daten	15.06.2018
+§ 34 - Unterscheidung verschiedener Kategorien betroffener Personen sowie zwischen Tatsachen und Bewertungen	15.06.2018
+§ 35 - Berichtigung und Löschung personenbezogener Daten sowie die Einschränkung der Verarbeitung	15.06.2018
+§ 36 - Verfahren bei Übermittlungen	15.06.2018
+§ 37 - Verarbeitung besonderer Kategorien personenbezogener Daten	15.06.2018
+§ 38 - Automatisierte Einzelentscheidung	15.06.2018
+§ 39 - Einwilligung	15.06.2018
+Zweiter Unterabschnitt - Rechte der betroffenen Person	15.06.2018
+§ 40 - Allgemeiner Informationsanspruch	15.06.2018
+§ 41 - Benachrichtigung betroffener Personen	15.06.2018
+§ 42 - Auskunftsrecht	15.06.2018
+§ 43 - Rechte auf Berichtigung und Löschung sowie Einschränkung der Verarbeitung	15.06.2018
+§ 44 - Verfahren für die Ausübung der Rechte der betroffenen Person	15.06.2018
+§ 45 - Schadensersatz	15.06.2018
+Dritter Unterabschnitt - Pflichten der Verantwortlichen und Auftragsverarbeiter	15.06.2018
+§ 46 - Pflichten des Verantwortlichen	15.06.2018
+§ 47 - Gemeinsam Verantwortliche	15.06.2018
+§ 48 - Auftragsverarbeitung	15.06.2018
+§ 49 - Verarbeitung auf Weisung, Datengeheimnis	15.06.2018
+§ 50 - Verzeichnis von Verarbeitungstätigkeiten	15.06.2018
+§ 51 - Protokollierung	15.06.2018
+§ 52 - Durchführung einer Datenschutz-Folgenabschätzung	15.06.2018
+§ 53 - Anhörung des Landesbeauftragten für den Datenschutz	15.06.2018
+Vierter Unterabschnitt - Datensicherheit	15.06.2018
+§ 54 - Anforderungen an die Sicherheit der Datenverarbeitung	15.06.2018
+§ 55 - Meldung von Verletzungen des Schutzes personenbezogener Daten an den Landesbeauftragten für den Datenschutz	15.06.2018
+§ 56 - Benachrichtigung der betroffenen Person bei Verletzungen des Schutzes personenbezogener Daten	15.06.2018
+Fünfter Unterabschnitt - Übermittlung personenbezogener Daten an Drittstaaten oder internationale Organisationen	15.06.2018
+§ 57 - Allgemeine Voraussetzungen für Datenübermittlungen an Stellen in Drittstaaten und internationale Organisationen	15.06.2018
+§ 58 - Datenübermittlung bei geeigneten Garantien	15.06.2018
+§ 59 - Datenübermittlung ohne Angemessenheitsbeschluss und ohne geeignete Garantien	15.06.2018
+§ 60 - Sonstige Datenübermittlung an Empfänger in Drittstaaten	15.06.2018
+Vierter Abschnitt - Ordnungswidrigkeiten und Strafbestimmungen	15.06.2018
+§ 61 - Ordnungswidrigkeiten und Strafbestimmungen	01.01.2025
+Fünfter Abschnitt - Orden und Ehrenzeichen, Gnadensachen	15.06.2018
+§ 62 - Orden und Ehrenzeichen	15.06.2018
+§ 63 - Gnadensachen	15.06.2018
+Sechster Abschnitt - Übergangs- und Schlussbestimmungen	15.06.2018
+§ 64 - Übergangsbestimmungen	15.06.2018
+§ 65 - Gleichstellungsbestimmung	15.06.2018
+Inhaltsübersicht
+Erster Abschnitt
+Gemeinsame Bestimmungen
+Erster Unterabschnitt
+Allgemeine Bestimmungen
+§ 1	Zweck des Gesetzes
+§ 2	Anwendungsbereich
+Zweiter Unterabschnitt
+Aufsichtsbehörde
+§ 3	Landesbeauftragter für den Datenschutz (Artikel 51 bis 54 der Verordnung (EU) 2016/679, Artikel 41 bis 44 der Richtlinie (EU) 2016/680)
+§ 4	Rechtsstellung und Verschwiegenheitspflicht des Landesbeauftragten für den Datenschutz (Artikel 51 bis 54 der Verordnung (EU) 2016/679, Artikel 41 bis 44 der Richtlinie (EU) 2016/680)
+§ 5	Anwendung beamtenrechtlicher Vorschriften auf den Landesbeauftragten für den Datenschutz
+§ 6	Aufgaben des Landesbeauftragten für den Datenschutz (Artikel 57 und 31 der Verordnung (EU) 2016/679, Artikel 46 und 26 der Richtlinie (EU) 2016/680)
+§ 7	Befugnisse des Landesbeauftragten für den Datenschutz (Artikel 58 und 83 der Verordnung (EU) 2016/679, Artikel 47 der Richtlinie (EU) 2016/680)
+§ 8	Anrufung des Landesbeauftragten für den Datenschutz (Artikel 77 der Verordnung (EU) 2016/679, Artikel 52 der Richtlinie (EU) 2016/680)
+§ 9	Gerichtlicher Rechtsschutz (Artikel 58 und 78 der Verordnung (EU) 2016/679, Artikel 53 der Richtlinie (EU) 2016/680)
+§ 10	Weitere Aufgaben des Landesbeauftragten für den Datenschutz (Artikel 59 der Verordnung (EU) 2016/679, Artikel 49 der Richtlinie (EU) 2016/680)
+§ 11	Aufsichtsbehörde gegenüber nichtöffentlichen Stellen und öffentlichen Stellen, die am Wettbewerb teilnehmen
+§ 12	Beirat
+Dritter Unterabschnitt
+Datenschutzbeauftragter
+§ 13	Bestellung des Datenschutzbeauftragten (Artikel 37 der Verordnung (EU) 2016/679, Artikel 32 der Richtlinie (EU) 2016/680)
+§ 14	Stellung des Datenschutzbeauftragten (Artikel 38 der Verordnung (EU) 2016/679, Artikel 33 der Richtlinie (EU) 2016/680)
+§ 15	Aufgaben des Datenschutzbeauftragten (Artikel 39 der Verordnung (EU) 2016/679, Artikel 34 der Richtlinie (EU) 2016/680)
+Zweiter Abschnitt
+Bestimmungen für die Verarbeitung zu Zwecken
+nach Artikel 2 der Verordnung (EU) 2016/679
+Erster Unterabschnitt
+Rechtsgrundlagen der Verarbeitung
+§ 16	Verarbeitung personenbezogener Daten (Artikel 6 und 9 der Verordnung (EU) 2016/679)
+§ 17	Zweckbindung und Zulässigkeit der Weiterverarbeitung (Artikel 6 und 23 der Verordnung (EU) 2016/679)
+§ 18	Übermittlung (Artikel 6 Abs. 2 der Verordnung (EU) 2016/679)
+§ 19	Auftragsverarbeitung (Artikel 28 der Verordnung (EU) 2016/679)
+Zweiter Unterabschnitt
+Rechte der betroffenen Person
+§ 20	Informationspflichten (Artikel 13, 14 und 23 der Verordnung (EU) 2016/679)
+§ 21	Auskunftsrecht (Artikel 15 und 23 der Verordnung (EU) 2016/679)
+§ 22	Recht auf Einschränkung der Verarbeitung (Artikel 18 der Verordnung (EU) 2016/679)
+§ 23	Löschung personenbezogener Daten (Artikel 17 der Verordnung (EU) 2016/679)
+§ 24	Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person (Artikel 34 der Verordnung (EU) 2016/679)
+Dritter Unterabschnitt
+Besondere Verarbeitungssituationen
+§ 25	Verarbeitung personenbezogener Daten zu Zwecken der freien Meinungsäußerung und der Informationsfreiheit
+§ 26	Öffentliche Stellen, die am Wettbewerb teilnehmen
+§ 27	Datenschutz im Beschäftigungskontext (Artikel 88 der Verordnung (EU) 2016/679)
+§ 28	Verarbeitung personenbezogener Daten durch Forschungseinrichtungen (Artikel 6, 9 und 89 der Verordnung (EU) 2016/679)
+§ 29	Zweckbindung von personenbezogenen Daten, die einem Berufsgeheimnis unterliegen (Artikel 6 und 9 der Verordnung (EU) 2016/679)
+§ 30	Videoüberwachung
+Dritter Abschnitt
+Bestimmungen für Verarbeitungen zu Zwecken
+nach Artikel 1 Abs. 1 der Richtlinie (EU) 2016/680
+Erster Unterabschnitt
+Anwendungsbereich und Grundsätze
+§ 31	Anwendungsbereich (Artikel 1 Abs. 1, Artikel 2 Abs. 1 der Richtlinie (EU) 2016/680)
+§ 32	Begriffsbestimmungen (Artikel 3 der Richtlinie (EU) 2016/680)
+§ 33	Grundsätze bei der Verarbeitung personenbezogener Daten (Artikel 8, Artikel 4 Abs. 2 und 3, Artikel 9 Abs. 2 und 3 der Richtlinie (EU) 2016/680)
+§ 34	Unterscheidung verschiedener Kategorien betroffener Personen sowie zwischen Tatsachen und Bewertungen (Artikel 6, Artikel 7 Abs. 1 der Richtlinie (EU) 2016/680)
+§ 35	Berichtigung und Löschung personenbezogener Daten sowie die Einschränkung der Verarbeitung (Artikel 4 Abs. 1, Artikel 7 Abs. 3, Artikel 5 der Richtlinie (EU) 2016/680)
+§ 36	Verfahren bei Übermittlungen (Artikel 7 Abs. 2, Artikel 9 Abs. 3 und 4 der Richtlinie (EU) 2016/680)
+§ 37	Verarbeitung besonderer Kategorien personenbezogener Daten (Artikel 10 der Richtlinie (EU) 2016/680)
+§ 38	Automatisierte Einzelentscheidung (Artikel 11 der Richtlinie (EU) 2016/680)
+§ 39	Einwilligung
+Zweiter Unterabschnitt
+Rechte der betroffenen Person
+§ 40	Allgemeiner Informationsanspruch (Artikel 13 Abs. 1 der Richtlinie (EU) 2016/680)
+§ 41	Benachrichtigung betroffener Personen (Artikel 13 Abs. 2 und 3 der Richtlinie (EU) 2016/680)
+§ 42	Auskunftsrecht (Artikel 14 bis 17 der Richtlinie (EU) 2016/680)
+§ 43	Rechte auf Berichtigung und Löschung sowie Einschränkung der Verarbeitung (Artikel 16 der Richtlinie (EU) 2016/680)
+§ 44	Verfahren für die Ausübung der Rechte der betroffenen Person (Artikel 12 Abs. 1 und 3 bis 5 der Richtlinie (EU) 2016/680)
+§ 45	Schadensersatz (Artikel 56 der Richtlinie (EU) 2016/680)
+Dritter Unterabschnitt
+Pflichten der Verantwortlichen und
+Auftragsverarbeiter
+§ 46	Pflichten des Verantwortlichen (Artikel 20 der Richtlinie (EU) 2016/680)
+§ 47	Gemeinsam Verantwortliche (Artikel 21 der Richtlinie (EU) 2016/680)
+§ 48	Auftragsverarbeitung (Artikel 22 der Richtlinie (EU) 2016/680)
+§ 49	Verarbeitung auf Weisung, Datengeheimnis (Artikel 23 der Richtlinie (EU) 2016/680)
+§ 50	Verzeichnis von Verarbeitungstätigkeiten (Artikel 24 der Richtlinie (EU) 2016/680)
+§ 51	Protokollierung (Artikel 25 der Richtlinie (EU) 2016/680)
+§ 52	Durchführung einer Datenschutz-Folgenabschätzung (Artikel 27 der Richtlinie (EU) 2016/680)
+§ 53	Anhörung des Landesbeauftragten für den Datenschutz (Artikel 28 der Richtlinie (EU) 2016/680)
+Vierter Unterabschnitt
+Datensicherheit
+§ 54	Anforderungen an die Sicherheit der Datenverarbeitung (Artikel 29 der Richtlinie (EU) 2016/680)
+§ 55	Meldung von Verletzungen des Schutzes personenbezogener Daten an den Landesbeauftragten für den Datenschutz (Artikel 30 der Richtlinie (EU) 2016/680)
+§ 56	Benachrichtigung der betroffenen Person bei Verletzungen des Schutzes personenbezogener Daten (Artikel 31 der Richtlinie (EU) 2016/680)
+Fünfter Unterabschnitt
+Übermittlung personenbezogener Daten an
+Drittstaaten oder internationale Organisationen
+§ 57	Allgemeine Voraussetzungen für Datenübermittlungen an Stellen in Drittstaaten und internationale Organisationen (Artikel 35 und 36 der Richtlinie (EU) 2016/680)
+§ 58	Datenübermittlung bei geeigneten Garantien (Artikel 37 der Richtlinie (EU) 2016/680)
+§ 59	Datenübermittlung ohne Angemessenheitsbeschluss und ohne geeignete Garantien (Artikel 38 der Richtlinie (EU) 2016/680)
+§ 60	Sonstige Datenübermittlung an Empfänger in Drittstaaten (Artikel 39 der Richtlinie (EU) 2016/680)
+Vierter Abschnitt
+Ordnungswidrigkeiten und Strafbestimmungen
+§ 61	Ordnungswidrigkeiten und Strafbestimmungen
+Fünfter Abschnitt
+Orden und Ehrenzeichen, Gnadensachen
+§ 62	Orden und Ehrenzeichen
+§ 63	Gnadensachen
+Sechster Abschnitt
+Übergangs- und Schlussbestimmungen
+§ 64	Übergangsbestimmungen
+§ 65	Gleichstellungsbestimmung
+
+
+Erster Abschnitt
+Gemeinsame Bestimmungen
+Erster Unterabschnitt
+Allgemeine Bestimmungen
+§ 1
+Zweck des Gesetzes
+
+(1) Dieses Gesetz trifft in dem Ersten, Zweiten und Vierten Abschnitt ergänzende Regelungen zur Durchführung der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.05.2018, S. 2).
+
+(2) Dieses Gesetz dient in dem Ersten, Dritten und Vierten Abschnitt der Umsetzung der Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafverfolgung und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates (ABl. L 119 vom 4.5.2016, S. 89). Die weitere Umsetzung der Richtlinie (EU) 2016/680 obliegt dem jeweiligen Fachgesetz.
+
+
+§ 2
+Anwendungsbereich
+
+(1) Dieses Gesetz gilt für die Verarbeitung personenbezogener Daten durch die Behörden, die Gerichte und die sonstigen öffentlichen Stellen des Landes, der Gemeinden und Gemeindeverbände und die sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts (öffentliche Stellen). Untersteht die beaufsichtigte Stelle nicht der alleinigen Aufsicht des Landes, so gelten die Bestimmungen dieses Gesetzes nur, soweit dies ausdrücklich geregelt ist. § 25 gilt auch für nichtöffentliche Stellen.
+
+(2) Als öffentliche Stellen gelten auch juristische Personen und sonstige Vereinigungen des privaten Rechts, die Aufgaben der öffentlichen Verwaltung wahrnehmen und an denen eine oder mehrere der in Absatz 1 genannten juristischen Personen des öffentlichen Rechts beteiligt sind. Beteiligt sich eine juristische Person oder sonstige Vereinigung des privaten Rechts, auf die dieses Gesetz nach Satz 1 Anwendung findet, an einer weiteren Vereinigung des privaten Rechts, so findet Satz 1 entsprechende Anwendung. Nehmen nichtöffentliche Stellen hoheitliche Aufgaben der öffentlichen Verwaltung wahr, sind sie insoweit öffentliche Stellen im Sinne dieses Gesetzes.
+
+(3) Soweit besondere Rechtsvorschriften über den Datenschutz auf personenbezogene Daten anzuwenden sind, gehen sie den Bestimmungen dieses Gesetzes vor. Regeln diese Rechtsvorschriften einen Sachverhalt nicht oder nicht abschließend, finden die Bestimmungen dieses Gesetzes Anwendung. Die Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder von Berufsgeheimnissen, die nicht auf gesetzlichen Vorschriften beruhen, bleibt unberührt.
+
+(4) Fällt die Verarbeitung personenbezogener Daten nicht in den Anwendungsbereich der Verordnung (EU) 2016/679 oder der in Umsetzung der Richtlinie (EU) 2016/680 getroffenen Regelungen, sind die Bestimmungen der Verordnung (EU) 2016/679 entsprechend anzuwenden, es sei denn, dieses Gesetz oder die jeweiligen Fachgesetze enthalten abweichende Regelungen. Satz 1 gilt mit Ausnahme der Artikel 30, 35 und 36 der Verordnung (EU) 2016/679 auch für die nichtautomatisierte Verarbeitung personenbezogener Daten, die nicht in einem Dateisystem gespeichert sind oder gespeichert werden sollen.
+
+(5) Die Bestimmungen dieses Gesetzes gehen denen des Thüringer Verwaltungsverfahrensgesetzes vor, soweit bei der Ermittlung des Sachverhalts personenbezogene Daten verarbeitet werden.
+
+(6) Die Bestimmungen dieses Gesetzes gelten für den Landtag nur, soweit er in Verwaltungsangelegenheiten tätig wird. Verwaltungsangelegenheiten des Landtags sind insbesondere
+
+1.
+
+    die wirtschaftlichen Angelegenheiten des Landtags nach Artikel 57 Abs. 4 Satz 1 der Verfassung des Freistaats Thüringen,
+2.
+
+    die Personalverwaltung des Landtags,
+3.
+
+    die Ausübung des Hausrechts und der Ordnungs- und Polizeigewalt nach Artikel 57 Abs. 3 Satz 2 der Verfassung des Freistaats Thüringen und
+4.
+
+    die Ausführung der Gesetze, soweit diese dem Präsidenten des Landtags zugewiesen sind.
+
+Die Verarbeitung personenbezogener Daten bei der Wahrnehmung parlamentarischer Aufgaben durch den Landtag sowie der parlamentarischen Tätigkeit der Abgeordneten einschließlich der Fraktionen unterliegt nicht den Bestimmungen dieses Gesetzes. Der Landtag erlässt insoweit eine seiner verfassungsrechtlichen Stellung entsprechende Datenschutzordnung.
+
+(7) Die Landesregierung darf personenbezogene Daten, die für andere Zwecke erhoben worden sind, zur Beantwortung parlamentarischer Anfragen sowie zur Vorlage von Unterlagen und Berichten im Rahmen der Geschäftsordnung des Thüringer Landtags in dem dafür erforderlichen Umfang verwenden. Dies gilt nicht, wenn die Übermittlung der Daten wegen ihres streng persönlichen Charakters für die Betroffenen unzumutbar ist. Besondere gesetzliche Übermittlungsverbote bleiben unberührt.
+
+(8) Von der Landesregierung übermittelte personenbezogene Daten dürfen nicht in Landtagsdrucksachen aufgenommen oder in sonstiger Weise allgemein zugänglich gemacht werden. Dies gilt nicht, wenn keine Anhaltspunkte dafür bestehen, dass schutzwürdige Belange der Betroffenen beeinträchtigt werden.
+
+(9) Für den Rechnungshof gelten die Bestimmungen über die Aufsichtsbehörde, den Datenschutzbeauftragten sowie das Führen von Verzeichnissen nach Artikel 30 der Verordnung (EU) 2016/679 nur, soweit er in Verwaltungsangelegenheiten tätig wird. Für die Gerichte gilt Satz 1 entsprechend mit der Maßgabe, dass § 50 auch bei Verarbeitungstätigkeiten, die in Zusammenhang mit der Mitwirkung an der Strafverfolgung, der Verfolgung von Ordnungswidrigkeiten und der Vollstreckung stehen, keine Anwendung findet.
+
+(10) Bei der im Anwendungsbereich des § 31 geregelten Verarbeitung personenbezogener Daten gelten für die Staatsanwaltschaften die Bestimmungen des Ersten, Dritten und Vierten Abschnitts, im Übrigen gelten für sie die Bestimmungen des Ersten, Zweiten und Vierten Abschnitts.
+
+
+Zweiter Unterabschnitt
+Aufsichtsbehörde
+§ 3
+Landesbeauftragter für den Datenschutz
+
+(Artikel 51 bis 54 der Verordnung (EU) 2016/679,
+Artikel 41 bis 44 der Richtlinie (EU) 2016/680)
+
+(1) Der Landtag wählt den Landesbeauftragten für den Datenschutz mit mehr als der Hälfte der gesetzlichen Anzahl seiner Mitglieder. Der Gewählte ist vom Präsidenten des Landtags zu ernennen. Das Amtsverhältnis beginnt mit der Aushändigung der Ernennungsurkunde.
+
+(2) Der Landesbeauftragte für den Datenschutz muss über die für die Erfüllung seiner Aufgaben und Ausübung seiner Befugnisse erforderliche Qualifikation, Erfahrung und Sachkunde insbesondere im Bereich des Schutzes personenbezogener Daten verfügen.
+
+(3) Der Landesbeauftragte für den Datenschutz steht zum Land in einem öffentlich-rechtlichen Amtsverhältnis.
+
+(4) Die Amtszeit des Landesbeauftragten für den Datenschutz beträgt sechs Jahre. Einmalige Wiederwahl ist zulässig.
+
+(5) Der Präsident des Landtags verpflichtet den Landesbeauftragten für den Datenschutz vor dem Landtag, sein Amt gerecht und unparteiisch zu führen, das Grundgesetz und die Verfassung des Freistaats Thüringen sowie die Gesetze zu wahren und zu verteidigen. Der Landesbeauftragte für den Datenschutz leistet vor dem Präsidenten des Landtags folgenden Eid: „Ich schwöre, mein Amt gerecht und unparteiisch getreu dem Grundgesetz, der Verfassung des Freistaats Thüringen und den Gesetzen zu führen und meine ganze Kraft dafür einzusetzen, so wahr mir Gott helfe.“ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
+
+(6) Auf Vorschlag des Landesbeauftragten für den Datenschutz ernennt der Präsident des Landtags einen Vertreter im Amt. Dieser soll die Befähigung zum Richteramt haben.
+
+(7) Dienstsitz des Landesbeauftragten für den Datenschutz ist Erfurt.
+
+(8) Das Amtsverhältnis endet mit Ablauf der Amtszeit, mit Rücktritt oder verpflichtender Versetzung in den Ruhestand. Der Präsident des Landtags entlässt den Landesbeauftragten für den Datenschutz, wenn er eine schwere Verfehlung begangen hat oder er die Voraussetzungen für die Wahrnehmung seiner Aufgabe nicht mehr erfüllt. Bei Beendigung des Amtsverhältnisses erhält der Landesbeauftragte für den Datenschutz eine vom Präsidenten des Landtags unterzeichnete Urkunde. Die Entlassung wird mit der Aushändigung der Urkunde durch den Präsidenten des Landtags wirksam.
+
+(9) Endet das Amtsverhältnis mit Ablauf der Amtszeit, ist der Landesbeauftragte für den Datenschutz verpflichtet, die Geschäfte bis zur Ernennung eines Nachfolgers für die Dauer von höchstens sechs Monaten fortzuführen; Absatz 8 Satz 2 gilt für diesen Zeitraum entsprechend.
+
+
+§ 4
+Rechtsstellung und Verschwiegenheitspflicht
+des Landesbeauftragten für den Datenschutz
+
+(Artikel 51 bis 54 der Verordnung (EU) 2016/679,
+Artikel 41 bis 44 der Richtlinie (EU) 2016/680)
+
+(1) Der Landesbeauftragte für den Datenschutz ist Aufsichtsbehörde nach Artikel 51 der Verordnung (EU) 2016/679 und zugleich Aufsichtsbehörde im Sinne des Artikels 41 der Richtlinie (EU) 2016/680.
+
+(2) Der Landesbeauftragte für den Datenschutz sieht von allen mit den Aufgaben seines Amtes nicht zu vereinbarenden Handlungen ab und übt während seiner Amtszeit keine andere mit seinem Amt nicht zu vereinbarende entgeltliche oder unentgeltliche Tätigkeit aus. Er darf insbesondere kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung oder dem Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens noch einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Er darf nicht gegen Entgelt außergerichtliche Gutachten abgeben.
+
+(3) Der Landesbeauftragte für den Datenschutz sowie seine Mitarbeiter sind sowohl während ihrer Amts- beziehungsweise Dienstzeit als auch nach deren Beendigung verpflichtet, über alle vertraulichen Informationen, die ihnen bei der Wahrnehmung ihrer Aufgaben oder der Ausübung ihrer Befugnisse bekannt geworden sind, Verschwiegenheit zu wahren.
+
+(4) Die Verschwiegenheitspflicht nach Absatz 3 gilt nicht für Mitteilungen im dienstlichen Verkehr oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
+
+(5) Der Landesbeauftragte für den Datenschutz ist oberste Dienstbehörde im Sinne des § 96 der Strafprozessordnung sowie oberste Aufsichtsbehörde im Sinne des § 99 der Verwaltungsgerichtsordnung. Er trifft die Entscheidungen über Aussagegenehmigungen für sich und seine Mitarbeiter sowie die Entscheidung über die Verweigerung der Aktenvorlage und der Auskunftserteilung in eigener Verantwortung. Der Nachfolger im Amt entscheidet über die in Satz 2 genannten Entscheidungen für seine Vorgänger.
+
+(6) Dem Landesbeauftragten für den Datenschutz sind die für die Erfüllung seiner Aufgaben und Befugnisse nötige personelle, technische, finanzielle Ausstattung sowie Räumlichkeiten und Infrastruktur zur Verfügung zu stellen; entsprechende Haushaltsmittel sind im Einzelplan des Landtags in einem eigenen Kapitel auszuweisen. Er untersteht der Finanzkontrolle durch den Rechnungshof nur, soweit seine Unabhängigkeit dadurch nicht beeinträchtigt wird.
+
+(7) Die Besetzung der Personalstellen kann nur auf Vorschlag des Landesbeauftragten für den Datenschutz erfolgen. Seine Mitarbeiter können, falls sie mit der beabsichtigten Maßnahme nicht einverstanden sind, nur mit seinem Einvernehmen versetzt, abgeordnet oder umgesetzt werden; er ist ihr Dienstvorgesetzter, sie sind in ihrer Tätigkeit nach diesem Gesetz nur an seine Weisungen gebunden.
+
+
+§ 5
+Anwendung beamtenrechtlicher Vorschriften auf den
+Landesbeauftragten für den Datenschutz
+
+(1) Der Landesbeauftragte für den Datenschutz erhält ab dem Tage seiner Ernennung bis zum Ablauf des Tages der Beendigung seines Amtsverhältnisses, im Fall des § 3 Abs. 9 bis zum Ablauf des Tages, an dem die Geschäftsführung endet, Amtsbezüge in Höhe der einem Landesbeamten der Besoldungsgruppe B 6 in Thüringen jeweils zustehenden Besoldung.
+
+(2) Der Landesbeauftragte für den Datenschutz erhält Reisekosten, Umzugskosten, Trennungsgeld und Beihilfen nach den für die Landesbeamten geltenden Vorschriften. Gleiches gilt für die Unfallfürsorge und in Urlaubsangelegenheiten.
+
+(3) Der Landesbeauftragte für den Datenschutz oder seine Hinterbliebenen erhalten nach Beendigung seines Amtsverhältnisses, im Fall des § 3 Abs. 9 nach Ablauf des Tages, an dem die Geschäftsführung endet, Versorgung wie ein Beamter auf Zeit in entsprechender Anwendung des Thüringer Beamtenversorgungsgesetzes. Der Anspruch auf Ruhegehalt ruht bis zum Erreichen der Altersgrenze nach § 25 Abs. 1 oder 3 des Thüringer Beamtengesetzes (ThürBG).
+
+
+§ 6
+Aufgaben des Landesbeauftragten für den Datenschutz
+
+(Artikel 57 und 31 der Verordnung (EU) 2016/679,
+Artikel 46 und 26 der Richtlinie (EU) 2016/680)
+
+(1) Der Landesbeauftragte für den Datenschutz nimmt gegenüber den öffentlichen Stellen des Landes die Aufgaben nach Artikel 57 der Verordnung (EU) 2016/679 wahr. Dabei kontrolliert er die Einhaltung der Verordnung (EU) 2016/679, dieses Gesetzes sowie anderer datenschutzrechtlicher Bestimmungen.
+
+(2) Unbeschadet von Absatz 1 hat der Landesbeauftragte für den Datenschutz im Rahmen von Verarbeitungstätigkeiten im Anwendungsbereich der Richtlinie (EU) 2016/680 die Aufgaben,
+
+1.
+
+    die Anwendung dieses Gesetzes und sonstiger Vorschriften über den Datenschutz, einschließlich der zur Umsetzung der Richtlinie (EU) 2016/680 erlassenen Rechtsvorschriften, zu überwachen und durchzusetzen,
+2.
+
+    die Öffentlichkeit für die Risiken, Vorschriften, Garantien und Rechte im Zusammenhang mit der Verarbeitung personenbezogener Daten zu sensibilisieren und sie darüber aufzuklären, wobei spezifische Maßnahmen für Minderjährige besondere Beachtung finden,
+3.
+
+    als Ansprechpartner für Vereine, Einrichtungen und Einzelpersonen oder Personengruppen, die nach § 2 Abs. 1 des Thüringer Ehrenamtsgesetzes bürgerschaftlich engagiert und ehrenamtlich tätig sind, diese in Fragen des Datenschutzes und der Datenschutz-Grundverordnung zu beraten,
+4.
+
+    den Landtag, die Landesregierung und andere Einrichtungen und Gremien über legislative und administrative Maßnahmen zum Schutz der Rechte und Freiheiten natürlicher Personen in Bezug auf die Verarbeitung personenbezogener Daten zu beraten,
+5.
+
+    die Verantwortlichen und die Auftragsverarbeiter für die ihnen aus diesem Gesetz und sonstigen Vorschriften über den Datenschutz, einschließlich den zur Umsetzung der Richtlinie (EU) 2016/680 erlassenen Rechtsvorschriften, entstehenden Pflichten zu sensibilisieren,
+6.
+
+    auf Anfrage jeder betroffenen Person Informationen über die Ausübung ihrer Rechte aufgrund dieses Gesetzes und sonstiger Vorschriften über den Datenschutz, einschließlich der zur Umsetzung der Richtlinie (EU) 2016/680 erlassenen Rechtsvorschriften, zur Verfügung zu stellen und gegebenenfalls zu diesem Zweck mit den Aufsichtsbehörden in anderen Mitgliedstaaten der Europäischen Union zusammenzuarbeiten,
+7.
+
+    sich mit Beschwerden einer betroffenen Person nach § 8 oder Beschwerden einer Stelle, einer Organisation oder eines Verbandes nach Artikel 55 der Richtlinie (EU) 2016/680 zu befassen, den Gegenstand der Beschwerde in angemessenem Umfang zu untersuchen und den Beschwerdeführer innerhalb einer angemessenen Frist über den Fortgang und das Ergebnis der Untersuchung zu unterrichten, insbesondere wenn eine weitere Untersuchung oder Koordinierung mit einer anderen Aufsichtsbehörde notwendig ist,
+8.
+
+    mit anderen Aufsichtsbehörden zusammenzuarbeiten, auch durch Informationsaustausch, und ihnen Amtshilfe zu leisten, um die einheitliche Anwendung und Durchsetzung dieses Gesetzes und sonstiger Vorschriften über den Datenschutz, einschließlich der zur Umsetzung der Richtlinie (EU) 2016/680 erlassenen Rechtsvorschriften, zu gewährleisten,
+9.
+
+    Untersuchungen über die Anwendung dieses Gesetzes und sonstiger Vorschriften über den Datenschutz, einschließlich der zur Umsetzung der Richtlinie (EU) 2016/680 erlassenen Rechtsvorschriften, durchzuführen, auch auf der Grundlage von Informationen einer anderen Aufsichtsbehörde oder einer anderen Behörde,
+10.
+
+    maßgebliche Entwicklungen zu verfolgen, soweit sie sich auf den Schutz personenbezogener Daten auswirken, insbesondere die Entwicklung der Informations- und Kommunikationstechnologie und der Verwaltungspraktiken,
+11.
+
+    Beratung in Bezug auf die in § 52 genannten Verarbeitungsvorgänge zu leisten und
+12.
+
+    Beiträge zur Tätigkeit des Ausschusses im Sinne des Artikels 51 der Richtlinie (EU) 2016/680 zu leisten.
+
+(3) Verantwortlicher und Auftragsverarbeiter arbeiten auf Anfrage des Landesbeauftragten für den Datenschutz bei der Erfüllung seiner Aufgaben mit diesem zusammen.
+
+
+§ 7
+Befugnisse des Landesbeauftragten für den Datenschutz
+
+(Artikel 58 und 83 der Verordnung (EU) 2016/679,
+Artikel 47 der Richtlinie (EU) 2016/680)
+
+(1) Dem Landesbeauftragten für den Datenschutz stehen zur Wahrnehmung der Aufgaben nach § 6 Abs. 1 die Befugnisse nach Artikel 58 der Verordnung (EU) 2016/679 zur Verfügung. Kommt der Landesbeauftragte für den Datenschutz zu dem Ergebnis, dass Verstöße gegen die Vorschriften über den Datenschutz oder sonstige Mängel bei der Verarbeitung personenbezogener Daten vorliegen, teilt er dies dem Verantwortlichen vor Ausübung seiner Befugnisse nach Artikel 58 Abs. 2 der Verordnung (EU) 2016/679 mit und fordert diesen binnen angemessener Frist zur Stellungnahme auf. Die zuständige oberste Landesbehörde und die Aufsichtsbehörde sind davon zu verständigen. Die Stellungnahme soll auch eine Darstellung der Maßnahmen enthalten, die aufgrund der Mitteilungen getroffen worden sind. Der Landesbeauftragte für den Datenschutz kann auf eine Stellungnahme verzichten, insbesondere wenn es sich um unerhebliche oder inzwischen beseitigte Mängel handelt.
+
+(2) Dem Landesbeauftragten ist im Rahmen der Kontrollbefugnis jederzeit Zutritt zu allen Diensträumen und Geschäftsräumen zu gewähren. Die Befugnis zur Verhängung von Geldbußen nach Artikel 83 der Verordnung (EU) 2016/679 steht ihm nicht gegenüber öffentlichen Stellen nach § 2 Abs. 1 und 2 zu, es sei denn, es handelt sich um öffentliche Stellen, die am Wettbewerb im Sinne des § 26 teilnehmen.
+
+(3) Die Kontrolle des Landesbeauftragten für den Datenschutz erstreckt sich auch auf personenbezogene Daten, die einem Berufsgeheimnis unterliegen. Für personenbezogene Daten in Akten über die Sicherheitsüberprüfung gilt dies jedoch nur, wenn die betroffene Person der Kontrolle der auf sie bezogenen Daten nicht widersprochen hat. Unbeschadet des Kontrollrechts des Landesbeauftragten für den Datenschutz unterrichtet der Verantwortliche die betroffene Person in allgemeiner Form über das ihr zustehende Widerspruchsrecht. Der Widerspruch ist schriftlich gegenüber dem Verantwortlichen zu erklären.
+
+(4) Die Kontrolle des Landesbeauftragten für den Datenschutz erstreckt sich nicht auf personenbezogene Daten, die der Kontrolle durch die Kommission nach § 3 des Thüringer Gesetzes zur Ausführung des Artikel 10-Gesetzes in der jeweils geltenden Fassung unterliegen, es sei denn, die Kommission ersucht den Landesbeauftragten für den Datenschutz, die Einhaltung der Vorschriften über den Datenschutz bei bestimmten Vorgängen oder in bestimmten Bereichen zu kontrollieren und ausschließlich ihr darüber zu berichten.
+
+(5) Die in § 21 Abs. 3 genannten öffentlichen Stellen haben eine Pflicht zur Unterstützung des Landesbeauftragten für den Datenschutz nur gegenüber diesem selbst und den von ihm schriftlich besonders damit Beauftragten. Die Pflicht zur Information und zum Zutritt zu Dienstgebäuden findet auf diese Stellen keine Anwendung, soweit die zuständige oberste Landesbehörde im Einzelfall feststellt, dass die Auskunft oder Einsicht in Unterlagen und Akten die Sicherheit des Bundes oder eines Landes gefährden würde.
+
+(6) Stellt der Landesbeauftragte für den Datenschutz bei der Verarbeitung personenbezogener Daten, die nicht im Anwendungsbereich der Verordnung (EU) 2016/679 erfolgt, Verstöße gegen die Vorschriften des Datenschutzes fest, so beanstandet er dies gegenüber dem Verantwortlichen und fordert diesen zur Stellungnahme innerhalb einer angemessenen Frist auf. Die zuständige oberste Landesbehörde und die Aufsichtsbehörde sind davon zu verständigen. Der Landesbeauftragte für den Datenschutz kann von einer Beanstandung absehen oder auf eine Stellungnahme verzichten, insbesondere wenn es sich um unerhebliche oder inzwischen beseitigte Mängel handelt. Die Stellungnahme soll auch eine Darstellung der Maßnahmen enthalten, die aufgrund der Beanstandung getroffen worden sind. Wird die Beanstandung nicht behoben, so fordert der Landesbeauftragte für den Datenschutz von der obersten Landesbehörde und der Aufsichtsbehörde binnen angemessener Frist geeignete Maßnahmen. Hat das nach Ablauf dieser Frist keinen Erfolg, verständigt der Landesbeauftragte für den Datenschutz den Landtag und die Landesregierung. Der Landesbeauftragte für den Datenschutz kann den Verantwortlichen auch davor warnen, dass beabsichtigte Verarbeitungsvorgänge voraussichtlich gegen in diesem Gesetz enthaltene und andere auf die jeweilige Datenverarbeitung anzuwendende Vorschriften über den Datenschutz verstoßen.
+
+
+§ 8
+Anrufung des Landesbeauftragten für den Datenschutz
+
+(Artikel 77 der Verordnung (EU) 2016/679,
+Artikel 52 der Richtlinie (EU) 2016/680)
+
+(1) Jede betroffene Person kann sich unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs mit einer Beschwerde unmittelbar an den Landesbeauftragten für den Datenschutz wenden, wenn sie der Ansicht ist, bei der Verarbeitung ihrer personenbezogenen Daten durch öffentliche Stellen des Landes in ihren Rechten verletzt worden zu sein. Der Landesbeauftragte für den Datenschutz hat die betroffene Person über den Stand und das Ergebnis der Beschwerde zu unterrichten und sie hierbei auf die Möglichkeit gerichtlichen Rechtsschutzes nach § 9 hinzuweisen.
+
+(2) Niemand darf benachteiligt oder gemaßregelt werden, weil er von seinem Recht nach Absatz 1 Gebrauch gemacht hat.
+
+(3) Wendet sich eine betroffene Person an den Landesbeauftragten für den Datenschutz, weil ihr nach § 21 Abs. 5 oder besonderen gesetzlichen Vorschriften keine Auskunft erteilt worden ist, darf die Mitteilung des Landesbeauftragten für den Datenschutz an die betroffene Person keine Rückschlüsse auf den Erkenntnisstand des Verantwortlichen zulassen, sofern dieser nicht einer weiter gehenden Auskunft zustimmt. Das Gleiche gilt, wenn eine betroffene Person unmittelbar den Landesbeauftragten für den Datenschutz anruft und die für die Erteilung der Auskunft zuständige Stelle diesem unter Angabe von Gründen darlegt, dass sie bei einem Auskunftsersuchen eine Auskunft nach den in Satz 1 genannten Vorschriften verweigern würde.
+
+(4) Der Landesbeauftragte für den Datenschutz hat eine bei ihm eingelegte Beschwerde über eine Verarbeitung, die in die Zuständigkeit einer Aufsichtsbehörde in einem anderen Mitgliedstaat der Europäischen Union fällt, unverzüglich an die zuständige Aufsichtsbehörde weiterzuleiten. Er hat in diesem Fall die betroffene Person über die Weiterleitung zu unterrichten und ihr auf deren Ersuchen weitere Unterstützung zu leisten.
+
+
+§ 9
+Gerichtlicher Rechtsschutz
+
+(Artikel 58 und 78 der Verordnung (EU) 2016/679,
+Artikel 53 der Richtlinie (EU) 2016/680)
+
+(1) Für Streitigkeiten zwischen öffentlichen Stellen und dem Landesbeauftragten für den Datenschutz über Rechte nach Artikel 78 Abs. 1 und 2 der Verordnung (EU) 2016/679 sowie § 7 Abs. 6 ist der Verwaltungsrechtsweg eröffnet. Bei Verfahren nach Satz 1 gilt § 20 Abs. 2 bis 4 sowie Abs. 6 und 7 des Bundesdatenschutzgesetzes (BDSG) vom 30. Juni 2017 (BGBl. I S. 2097) entsprechend.
+
+(2) Absatz 1 gilt entsprechend zugunsten betroffener Personen, wenn sich der Landesbeauftragte für den Datenschutz nicht mit einer Beschwerde nach § 8 befasst oder die betroffene Person nicht innerhalb von drei Monaten über den Stand oder das Ergebnis der Beschwerde in Kenntnis gesetzt hat.
+
+
+§ 10
+Weitere Aufgaben des Landesbeauftragten für den Datenschutz
+
+(Artikel 59 der Verordnung (EU) 2016/679,
+Artikel 49 der Richtlinie (EU) 2016/680)
+
+(1) Der Landesbeauftragte für den Datenschutz erstellt einen Jahresbericht zu seiner Tätigkeit nach Artikel 59 der Verordnung (EU) 2016/679 und Artikel 49 der Richtlinie (EU) 2016/680. Dieser ist als elektronisches Dokument zu veröffentlichen und dem Landtag und der Landesregierung elektronisch zu übermitteln.
+
+(2) Der Ministerpräsident führt eine Stellungnahme der Landesregierung zu dem Bericht nach Absatz 1 herbei und legt diese innerhalb von vier Monaten dem Landtag vor.
+
+(3) Der Bericht nach Absatz 1 ist im Beirat beim Landesbeauftragten für den Datenschutz vorzuberaten.
+
+(4) Der Landtag oder die Landesregierung können den Landesbeauftragten für den Datenschutz unbeschadet seiner Unabhängigkeit ersuchen,
+
+1.
+
+    zu datenschutzrechtlichen Fragen Gutachten zu erstellen und Berichte zu erstatten oder
+2.
+
+    datenschutzrechtliche Vorgänge aus ihrem Aufgabenbereich zu überprüfen.
+
+
+
+§ 11
+Aufsichtsbehörde gegenüber nichtöffentlichen Stellen
+und öffentlichen Stellen, die am Wettbewerb teilnehmen
+
+(1) Der Landesbeauftragte für den Datenschutz ist auch Aufsichtsbehörde im Sinne des § 40 Abs. 1 BDSG für die Überwachung der Vorschriften über den Datenschutz im Anwendungsbereich der Verordnung (EU) 2016/679 bei den nichtöffentlichen Stellen und öffentlichen Stellen, die am Wettbewerb teilnehmen.
+
+(2) Zeitgleich mit dem Bericht nach § 10 Abs. 1 legt der Landesbeauftragte für den Datenschutz den Tätigkeitsbericht zu seiner Tätigkeit nach Absatz 1 vor.
+
+
+§ 12
+Beirat
+
+(1) Beim Landesbeauftragten für den Datenschutz wird ein Beirat gebildet. Er besteht aus neun Mitgliedern. Es bestellen sechs Mitglieder der Landtag, ein Mitglied die Landesregierung, ein Mitglied die kommunalen Spitzenverbände sowie ein Mitglied das für Soziales zuständige Ministerium aus dem Bereich der gesetzlichen Sozialversicherungsträger. Für jedes Beiratsmitglied wird zugleich ein Stellvertreter bestellt.
+
+(2) Die Mitglieder des Landtags werden für die Wahldauer des Landtags und die übrigen Mitglieder für vier Jahre bestellt. Sie sind in ihrer Tätigkeit als Mitglieder des Beirats an Aufträge und Weisungen nicht gebunden.
+
+(3) Der Beirat unterstützt den Landesbeauftragten für den Datenschutz in seiner Arbeit. Die Unabhängigkeit des Landesbeauftragten für den Datenschutz und die Berichtspflicht gegenüber dem Landtag werden dadurch nicht berührt.
+
+(4) Der Beirat gibt sich eine Geschäftsordnung. Er tritt auf Antrag jedes seiner Mitglieder oder des Landesbeauftragten für den Datenschutz zusammen. Den Vorsitz führt ein Mitglied des Beirats aus dem Kreis der Landtagsabgeordneten.
+
+(5) Der Landesbeauftragte für den Datenschutz kann an allen Sitzungen teilnehmen. Der Vorsitzende des Beirats lädt ihn zu den Sitzungen rechtzeitig unter Mitteilung der Tagesordnung ein. Vor Maßnahmen, die der Landesbeauftragte für den Datenschutz im Rahmen von § 7 ergreift, kann dem Beirat Gelegenheit zur Stellungnahme gegeben werden.
+
+(6) Die Mitglieder des Beirats haben, auch nach ihrem Ausscheiden, über die ihnen bei ihrer Tätigkeit bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
+
+
+Dritter Unterabschnitt
+Datenschutzbeauftragter
+§ 13
+Bestellung des Datenschutzbeauftragten
+
+(Artikel 37 der Verordnung (EU) 2016/679,
+Artikel 32 der Richtlinie (EU) 2016/680)
+
+(1) Öffentliche Stellen bestellen einen Datenschutzbeauftragten.
+
+(2) Die öffentliche Stelle kann neben dem Datenschutzbeauftragten zusätzlich weitere Vertreter bestellen. Die Absätze 3 bis 6 sowie die §§ 14 und 15 sind auf die Vertreter nach Satz 1 entsprechend anwendbar.
+
+(3) Für mehrere öffentliche Stellen kann unter Berücksichtigung ihrer Organisationsstruktur und ihrer Größe ein gemeinsamer Datenschutzbeauftragter bestellt werden.
+
+(4) Der Datenschutzbeauftragte wird auf der Grundlage seiner beruflichen Qualifikation und insbesondere seines Fachwissens, das er auf dem Gebiet des Datenschutzrechts und der Datenschutzpraxis besitzt, sowie auf der Grundlage seiner Fähigkeit zur Erfüllung der in § 15 genannten Aufgaben bestellt.
+
+(5) Der Datenschutzbeauftragte kann Beschäftigter der öffentlichen Stelle sein oder seine Aufgaben auf der Grundlage eines Dienstleistungsvertrags erfüllen.
+
+(6) Die öffentliche Stelle veröffentlicht die Kontaktdaten des Datenschutzbeauftragten und teilt diese Daten dem Landesbeauftragten für den Datenschutz mit.
+
+
+§ 14
+Stellung des Datenschutzbeauftragten
+
+(Artikel 38 der Verordnung (EU) 2016/679,
+Artikel 33 der Richtlinie (EU) 2016/680)
+
+(1) Die öffentliche Stelle stellt sicher, dass der Datenschutzbeauftragte ordnungsgemäß und frühzeitig in alle ihre mit dem Schutz personenbezogener Daten zusammenhängenden Fragen eingebunden wird.
+
+(2) Die öffentliche Stelle unterstützt den Datenschutzbeauftragten bei der Erfüllung seiner Aufgaben nach § 15, indem sie die für die Erfüllung dieser Aufgaben erforderlichen Ressourcen und den Zugang zu personenbezogenen Daten und Verarbeitungsvorgängen sowie die zur Erhaltung seines Fachwissens erforderlichen Ressourcen zur Verfügung stellt.
+
+(3) Die öffentliche Stelle stellt sicher, dass der Datenschutzbeauftragte bei der Erfüllung seiner Aufgaben keine Anweisungen bezüglich der Ausübung dieser Aufgaben erhält. Der Datenschutzbeauftragte ist in seiner Funktion dem Leiter der öffentlichen Stelle unmittelbar unterstellt und ist diesem gegenüber berichtspflichtig. Der Datenschutzbeauftragte darf von der öffentlichen Stelle wegen der Erfüllung seiner Aufgaben nicht abberufen oder benachteiligt werden.
+
+(4) Die Abberufung des Datenschutzbeauftragten ist nur in entsprechender Anwendung des § 626 des Bürgerlichen Gesetzbuchs (BGB) zulässig. Die Kündigung des Arbeitsverhältnisses ist unzulässig, es sei denn, dass Tatsachen vorliegen, welche die öffentliche Stelle zur Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigen. Nach dem Ende der Tätigkeit als Datenschutzbeauftragter ist die Kündigung des Arbeitsverhältnisses innerhalb eines Jahres unzulässig, es sei denn, dass die öffentliche Stelle zur Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigt ist.
+
+(5) Betroffene Personen können den Datenschutzbeauftragten zu allen mit der Verarbeitung ihrer personenbezogenen Daten und mit der Wahrnehmung ihrer Rechte nach diesem Gesetz sowie anderen Rechtsvorschriften über den Datenschutz im Zusammenhang stehenden Fragen zu Rate ziehen.
+
+(6) Der Datenschutzbeauftragte ist zur Verschwiegenheit über die Identität der betroffenen Person sowie über die Umstände, die Rückschlüsse auf sie zulassen, verpflichtet, soweit er hiervon nicht durch die betroffene Person befreit wird. Dies gilt auch nach Beendigung der Tätigkeit als Datenschutzbeauftragter.
+
+(7) Der Datenschutzbeauftragte kann andere Aufgaben und Pflichten wahrnehmen. Die öffentliche Stelle stellt sicher, dass derartige Aufgaben und Pflichten nicht zu einem Interessenkonflikt führen und dem Datenschutzbeauftragten für die Erfüllung der Aufgaben nach § 15 hinreichend Arbeitszeit verbleibt.
+
+
+§ 15
+Aufgaben des Datenschutzbeauftragten
+
+(Artikel 39 der Verordnung (EU) 2016/679,
+Artikel 34 der Richtlinie (EU) 2016/680)
+
+(1) Der Datenschutzbeauftragte nimmt die Aufgaben nach Artikel 39 der Verordnung (EU) 2016/679 wahr. Dabei kontrolliert er die Einhaltung der Verordnung (EU) 2016/679, dieses Gesetzes sowie anderer datenschutzrechtlicher Bestimmungen.
+
+(2) Der Datenschutzbeauftragte hat das Recht auf Einsichtnahme in das Verzeichnis aller Verarbeitungstätigkeiten. Vor erstmaliger Inbetriebnahme einer Verarbeitungstätigkeit ist dem Datenschutzbeauftragten das Verzeichnis mit der Gelegenheit zur Stellungnahme zu dem entsprechenden Eintrag vorzulegen. Ferner ist der Datenschutzbeauftragte bei der Einschätzung des Risikos nach Artikel 35 Abs. 1 der Verordnung (EU) 2016/679 oder § 52 und der Prüfung, ob eine Datenschutz-Folgenabschätzung für einen konkreten Verarbeitungsvorgang durchzuführen ist, einzubeziehen.
+
+(3) Unbeschadet von Absatz 1 hat der Datenschutzbeauftragte im Rahmen von Verarbeitungstätigkeiten im Anwendungsbereich des § 31 folgende Aufgaben:
+
+1.
+
+    Unterrichtung und Beratung der öffentlichen Stelle und der Beschäftigten, die Verarbeitungen durchführen, hinsichtlich ihrer Pflichten nach diesem Gesetz, der zur Umsetzung der Richtlinie (EU) 2016/680 erlassenen Rechtsvorschriften und sonstiger Vorschriften über den Datenschutz,
+2.
+
+    Überwachung der Einhaltung dieses Gesetzes, der zur Umsetzung der Richtlinie (EU) 2016/680 erlassenen Rechtsvorschriften und sonstiger Vorschriften über den Datenschutz sowie der Strategien der öffentlichen Stelle für den Schutz personenbezogener Daten, einschließlich der Zuweisung von Zuständigkeiten, der Sensibilisierung und der Schulung der an den Verarbeitungsvorgängen beteiligten Beschäftigten und der diesbezüglichen Überprüfungen,
+3.
+
+    Beratung im Zusammenhang mit der Datenschutz-Folgenabschätzung und Überwachung ihrer Durchführung nach § 52,
+4.
+
+    Zusammenarbeit mit dem Landesbeauftragten für den Datenschutz und
+5.
+
+    Tätigkeit als Anlaufstelle für den Landesbeauftragten für den Datenschutz in mit der Verarbeitung zusammenhängenden Fragen, einschließlich der vorherigen Konsultation nach § 53, und gegebenenfalls Beratung zu allen sonstigen Fragen des Datenschutzes.
+
+(4) Der Datenschutzbeauftragte trägt bei der Erfüllung seiner Aufgaben dem mit den Verarbeitungsvorgängen verbundenen Risiko gebührend Rechnung, wobei er die Art, den Umfang, die Umstände und die Zwecke der Verarbeitung berücksichtigt.
+
+
+Zweiter Abschnitt
+Bestimmungen für die Verarbeitung zu Zwecken
+nach Artikel 2 der Verordnung (EU) 2016/679
+Erster Unterabschnitt
+Rechtsgrundlagen der Verarbeitung
+§ 16
+Verarbeitung personenbezogener Daten
+
+(Artikel 6 und 9 der Verordnung (EU) 2016/679)
+
+(1) Die Verarbeitung personenbezogener Daten durch eine öffentliche Stelle ist zulässig, wenn sie zur Erfüllung der in der Zuständigkeit des Verantwortlichen im öffentlichen Interesse liegenden Aufgabe erforderlich ist oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde.
+
+(2) Die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Abs. 1 der Verordnung (EU) 2016/679 ist unbeschadet anderer Rechtsvorschriften zulässig, soweit und solange
+
+1.
+
+    dies zur Abwehr erheblicher Nachteile für das Gemeinwohl oder von Gefahren für die öffentliche Sicherheit erforderlich ist,
+2.
+
+    dies aus Gründen eines erheblichen öffentlichen Interesses erforderlich ist, insbesondere wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die Funktionsfähigkeit der Verwaltung wesentlich gefährdet wird,
+3.
+
+    sie zur Durchführung wissenschaftlicher oder historischer Forschung erforderlich ist, das wissenschaftliche Interesse an der Durchführung des Forschungsvorhabens das Interesse der betroffenen Person an dem Ausschluss der Verarbeitung erheblich überwiegt und der Zweck der Forschung auf andere Weise nicht oder nur mit unverhältnismäßigem Aufwand erreicht werden kann,
+4.
+
+    sie erforderlich ist, um den Rechten und Pflichten der öffentlichen Stellen auf dem Gebiet des Dienst- und Arbeitsrechts Rechnung zu tragen, oder
+5.
+
+    sie zum Zweck der Gesundheitsvorsorge, der medizinischen Diagnostik, der Gesundheitsversorgung oder Behandlung oder für die Verwaltung von Gesundheitsdiensten erforderlich ist und die Verarbeitung dieser Daten durch ärztliches Personal, welches dem Berufsgeheimnis unterliegt, oder durch sonstige Personen, die einer entsprechenden Geheimhaltungspflicht unterliegen, erfolgt.
+
+In den Fällen des Satzes 1 Nr. 1 bis 4 sind angemessene und spezifische Maßnahmen zur Wahrung der Grundrechte und Interessen der betroffenen Personen vorzusehen.
+
+
+§ 17
+Zweckbindung und Zulässigkeit der Weiterverarbeitung
+
+(Artikel 6 und 23 der Verordnung (EU) 2016/679)
+
+(1) Als Zweck einer Verarbeitung personenbezogener Daten durch öffentliche Stellen gelten neben den ursprünglichen Zwecken immer auch die Verarbeitung
+
+1.
+
+    zur Wahrnehmung von Aufsichts- oder Kontrollbefugnissen,
+2.
+
+    zur Erstellung von Geschäftsstatistiken für den Verantwortlichen,
+3.
+
+    zur Rechnungsprüfung,
+4.
+
+    zur Durchführung von Organisationsuntersuchungen für den Verantwortlichen oder
+5.
+
+    zur Prüfung oder Wartung automatisierter Verfahren der Datenverarbeitung.
+
+Das gilt auch für die Verarbeitung zu Ausbildungs- oder Prüfungszwecken durch den Verantwortlichen, soweit nicht offensichtlich überwiegende schutzwürdige Interessen der betroffenen Person entgegenstehen.
+
+(2) Die Verarbeitung personenbezogener Daten zu anderen Zwecken, als zu denen sie erhoben wurden, ist vorbehaltlich spezieller Vorschriften zulässig, wenn
+
+1.
+
+    sie zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer sonst unmittelbar drohenden Gefahr für die öffentliche Sicherheit erforderlich ist,
+2.
+
+    sie zur Verfolgung von Straftaten oder Ordnungswidrigkeiten, zur Vollstreckung oder zum Vollzug von Strafen oder Maßnahmen im Sinne des § 11 Abs. 1 Nr. 8 des Strafgesetzbuches (StGB), von Erziehungsmaßregeln oder Zuchtmitteln im Sinne des Jugendgerichtsgesetzes oder zur Vollstreckung von Bußgeldentscheidungen erforderlich ist,
+3.
+
+    sie zum Schutz der Rechte und Freiheiten einer anderen Person erforderlich ist,
+4.
+
+    Dritte, an welche die Daten übermittelt werden, ein berechtigtes Interesse an der Kenntnis der zu übermittelnden Daten glaubhaft darlegen und die betroffene Person kein schutzwürdiges Interesse an dem Ausschluss der Übermittlung hat,
+5.
+
+    offensichtlich ist, dass sie im Interesse der betroffenen Person liegt und kein Grund zu der Annahme besteht, dass sie in Kenntnis der anderen Zwecke ihre Einwilligung verweigern würde,
+6.
+
+    Angaben der betroffenen Person überprüft werden müssen, weil tatsächliche Anhaltspunkte für deren Unrichtigkeit bestehen,
+7.
+
+    die Daten aus allgemein zugänglichen Quellen entnommen werden können oder die Daten verarbeitende Stelle sie veröffentlichen dürfte oder
+8.
+
+    sie zur Sicherung des Kosten-, Steuer- und Zollaufkommens erforderlich ist,
+
+sofern nicht das schutzwürdige Interesse der betroffenen Person an dem Ausschluss der Zweckänderung überwiegt. Die Verarbeitung von personenbezogenen Daten für im öffentlichen Interesse liegende Archivzwecke, für wissenschaftliche und historische Forschungszwecke und statistische Zwecke ist stets zulässig. Im Übrigen hat der Verantwortliche bei der Feststellung, ob die Weiterverarbeitung mit dem Zweck der ursprünglichen Erhebung vereinbar ist, die Vorgaben des Artikels 6 Abs. 4 der Verordnung (EU) 2016/679 zu beachten. In den Fällen des Satzes 1 erfolgt eine Information der betroffenen Person nicht, soweit und solange dadurch die Zwecke der Verarbeitung gefährdet werden.
+
+(3) Für personenbezogene Daten, die ausschließlich zu Zwecken der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebes einer Datenverarbeitungsanlage verarbeitet werden, gilt Absatz 2 nicht.
+
+
+§ 18
+Übermittlung
+
+(Artikel 6 Abs. 2 der Verordnung (EU) 2016/679)
+
+(1) Die Verantwortung für die Zulässigkeit der Übermittlung personenbezogener Daten trägt die übermittelnde Stelle. Soweit die Übermittlung aufgrund des Ersuchens eines öffentlichen Empfängers erfolgt, trägt dieser die Verantwortung. In diesem Fall prüft die übermittelnde Stelle nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Empfängers liegt, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht.
+
+(2) Sind mit personenbezogenen Daten, die übermittelt werden dürfen, weitere personenbezogene Daten der betroffenen Person oder eines Dritten in Akten so verbunden, dass eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen der betroffenen Person oder eines Dritten an deren Geheimhaltung überwiegen; eine Nutzung dieser Daten ist unzulässig.
+
+(3) Werden personenbezogene Daten mittels eines automatisierten Verfahrens übermittelt, trägt die Verantwortung für die Zulässigkeit des einzelnen Abrufs die abrufende Stelle.
+
+
+§ 19
+Auftragsverarbeitung
+
+(Artikel 28 der Verordnung (EU) 2016/679)
+
+(1) Sind auf den Auftragsverarbeiter die Bestimmungen dieses Gesetzes, der Verordnung (EU) 2016/679 oder des Bundesdatenschutzgesetzes nicht anwendbar, ist der Verantwortliche verpflichtet, vertraglich sicherzustellen, dass der Auftragsverarbeiter die Bestimmungen der Verordnung (EU) 2016/679 und dieses Gesetzes befolgt.
+
+(2) Der Auftrag kann auch durch die Fachaufsichtsbehörde mit Wirkung für ihrer Aufsicht unterliegenden Stellen des Landes erteilt werden; diese sind von der Auftragserteilung zu unterrichten.
+
+
+Zweiter Unterabschnitt
+Rechte der betroffenen Person
+§ 20
+Informationspflichten
+
+(Artikel 13, 14 und 23 der Verordnung (EU) 2016/679)
+
+(1) Die Informationspflichten nach den Artikeln 13 und 14 der Verordnung (EU) 2016/679 können beschränkt werden, soweit und solange
+
+1.
+
+    die Informationen die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würden,
+2.
+
+    die personenbezogenen Daten oder die Tatsache ihrer Speicherung wegen einer Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der Rechte und Freiheiten anderer Personen, geheim gehalten werden müssen oder
+3.
+
+    die Information den in § 31 genannten Zwecken zuwiderlaufen würde
+
+und deswegen das Interesse der betroffenen Person an der Informationserteilung zurücktreten muss.
+
+(2) Eine Informationspflicht besteht nicht für Daten, die ausschließlich zu Zwecken der Datensicherung oder der Datenschutzkontrolle verarbeitet werden.
+
+(3) Werden personenbezogene Daten nicht bei der betroffenen Person, sondern bei einer nichtöffentlichen Stelle erhoben, so ist die Stelle auf die Rechtsvorschrift, die zur Auskunft verpflichtet, sonst auf die Freiwilligkeit ihrer Angaben hinzuweisen.
+
+
+§ 21
+Auskunftsrecht
+
+(Artikel 15 und 23 der Verordnung (EU) 2016/679)
+
+(1) Das Auskunftsrecht nach Artikel 15 der Verordnung (EU) 2016/679 kann beschränkt werden, soweit und solange
+
+1.
+
+    die Auskunftserteilung die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde,
+2.
+
+    die personenbezogenen Daten oder die Tatsache ihrer Speicherung wegen einer Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der Rechte und Freiheiten einer anderen Person, geheim gehalten werden müssen oder
+3.
+
+    die Auskunft den in § 31 genannten Zwecken zuwiderlaufen würde
+
+und deswegen das Interesse der betroffenen Person an der Auskunftserteilung zurücktreten muss.
+
+(2) Das Recht auf Auskunftserteilung nach Artikel 15 der Verordnung (EU) 2016/679 gilt nicht für Daten, die ausschließlich zu Zwecken der Datensicherung oder der Datenschutzkontrolle gespeichert sind.
+
+(3) Bezieht sich die Auskunftserteilung auf die Übermittlung personenbezogener Daten an Behörden der Staatsanwaltschaften, Polizeibehörden, Verfassungsschutzbehörden, den Bundesnachrichtendienst, den Militärischen Abschirmdienst oder, soweit die Sicherheit des Bundes berührt wird, andere Behörden des Geschäftsbereichs des für Verteidigung zuständigen Bundesministeriums, so ist sie nur mit Zustimmung dieser Stellen zulässig. Gleiches gilt auch für den Fall der Datenübermittlung von den in Satz 1 genannten Behörden.
+
+(4) Die Ablehnung der Auskunftserteilung bedarf keiner Begründung, soweit und solange durch die Mitteilung der tatsächlichen und rechtlichen Gründe, auf welche die Entscheidung gestützt wird, der mit der Auskunftsverweigerung verfolgte Zweck gefährdet würde. In diesem Fall ist die betroffene Person darauf hinzuweisen, dass sie sich an den Landesbeauftragten für den Datenschutz wenden kann.
+
+(5) Wird der betroffenen Person keine Auskunft erteilt, so ist sie auf ihr Verlangen dem Landesbeauftragten für den Datenschutz zu erteilen, soweit nicht die zuständige oberste Landesbehörde im Einzelfall feststellt, dass dadurch die Sicherheit des Bundes oder eines Landes gefährdet würde.
+
+
+§ 22
+Recht auf Einschränkung der Verarbeitung
+
+(Artikel 18 der Verordnung (EU) 2016/679)
+
+Als wichtiges öffentliches Interesse für eine Weiterverarbeitung der hinsichtlich ihrer Verarbeitung eingeschränkten Daten im Anwendungsbereich des Artikels 18 Abs. 2 der Verordnung (EU) 2016/679 gelten insbesondere
+
+1.
+
+    wissenschaftliche oder historische Forschungszwecke, wobei § 16 Abs. 2 Satz 1 Nr. 3 unberührt bleibt,
+2.
+
+    Archivzwecke,
+3.
+
+    Aufsichts- und Kontrollzwecke oder
+4.
+
+    die Rechnungsprüfung.
+
+
+
+§ 23
+Löschung personenbezogener Daten
+
+(Artikel 17 der Verordnung (EU) 2016/679)
+
+Soweit öffentliche Stellen verpflichtet sind, Unterlagen einem öffentlichen Archiv zur Übernahme anzubieten, ist eine Löschung erst zulässig, nachdem die Unterlagen dem öffentlichen Archiv angeboten worden sind. Das Nähere wird durch Rechtsvorschriften über öffentliche Archive geregelt.
+
+
+§ 24
+Benachrichtigung der von einer Verletzung des Schutzes
+personenbezogener Daten betroffenen Person
+
+(Artikel 34 der Verordnung (EU) 2016/679)
+
+Der Verantwortliche kann von der Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person absehen, soweit und solange
+
+1.
+
+    die Information die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde,
+2.
+
+    die personenbezogenen Daten oder die Tatsache ihrer Verarbeitung nach einer Rechtsvorschrift oder wegen der Rechte und Freiheiten anderer Personen geheim zu halten sind,
+3.
+
+    dies zur Verfolgung von Straftaten oder Ordnungswidrigkeiten notwendig ist oder
+4.
+
+    die Information die Sicherheit von IT-Systemen gefährden würde.
+
+Artikel 34 Abs. 3 der Verordnung (EU) 2016/679 bleibt davon unberührt.
+
+
+Dritter Unterabschnitt
+Besondere Verarbeitungssituationen
+§ 25
+Verarbeitung personenbezogener Daten zu Zwecken der
+freien Meinungsäußerung und der Informationsfreiheit
+
+(1) Soweit personenbezogene Daten in Ausübung des Rechts auf freie Meinungsäußerung und Informationsfreiheit zu journalistischen, künstlerischen, literarischen sowie wissenschaftlichen Zwecken verarbeitet werden, gelten von den Kapiteln II bis VII sowie IX der Verordnung (EU) 2016/679 nur Artikel 5 Abs. 1 Buchst. f sowie die Artikel 24, 32 und 33 sowie § 83 BDSG. Artikel 82 der Verordnung (EU) 2016/679 und § 83 BDSG gelten mit der Maßgabe, dass nur für Schäden gehaftet wird, die durch eine Verletzung des Datengeheimnisses oder durch unzureichende technische oder organisatorische Maßnahmen nach Artikel 5 Abs. 1 Buchst. f und Artikel 24 der Verordnung (EU) 2016/679 eintreten.
+
+(2) Führt die Verarbeitung personenbezogener Daten gemäß Absatz 1 Satz 1 zur Verbreitung von Gegendarstellungen der betroffenen Person oder zu Verpflichtungserklärungen, Beschlüssen oder Urteilen über die Unterlassung der Verbreitung oder über den Widerruf des Inhalts der Daten, so sind diese Gegendarstellungen, Verpflichtungserklärungen, Beschlüsse, Urteile und Widerrufe zu den gespeicherten Daten zu nehmen und dort für dieselbe Zeitdauer aufzubewahren, wie die Daten selbst sowie bei einer Übermittlung der Daten gemeinsam zu übermitteln.
+
+(3) Die Absätze 1 und 2 gelten auch für regelmäßig, also nicht nur gelegentlich ausgeübte Tätigkeiten. Eine haupt- oder nebenberufliche Ausübung der Tätigkeiten ist nicht erforderlich.
+
+
+§ 26
+Öffentliche Stellen, die am Wettbewerb teilnehmen
+
+Soweit öffentliche Stellen am Wettbewerb teilnehmen, sind auf sie, auf ihre Zusammenschlüsse und Verbände von den Bestimmungen dieses Gesetzes nur die Regeln zur Aufsicht anzuwenden (§§ 3 bis 12). Im Übrigen gelten für sie die Bestimmungen des Teils 2 des Bundesdatenschutzgesetzes.
+
+
+§ 27
+Datenschutz im Beschäftigungskontext
+
+(Artikel 88 der Verordnung (EU) 2016/679)
+
+(1) Für das Verarbeiten von personenbezogenen Daten über Arbeitnehmer und Auszubildende, die in einem privatrechtlich ausgestalteten Arbeits- oder Ausbildungsverhältnis zu einer öffentlichen Stelle im Sinne dieses Gesetzes stehen, gelten die §§ 79 bis 87 ThürBG entsprechend, soweit besondere Rechtsvorschriften des Arbeitsrechts, tarifvertragliche Regelungen oder Dienstvereinbarungen nichts Abweichendes regeln.
+
+(2) Erfolgt die Verarbeitung personenbezogener Daten auf der Grundlage einer Einwilligung, so bedarf diese der Schriftform, soweit nicht wegen besonderer Umstände eine andere Form angemessen ist. Der Arbeitgeber hat die Arbeitnehmer und Auszubildenden über den Zweck der Datenverarbeitung und über ihr Widerspruchsrecht nach Artikel 7 Abs. 3 der Verordnung (EU) 2016/679 in Textform aufzuklären.
+
+(3) Die Verarbeitung der bei medizinischen oder psychologischen Untersuchungen und Tests zum Zwecke der Eingehung eines Beschäftigungsverhältnisses im Sinne des Absatzes 1 erhobenen personenbezogenen Daten ist nur mit schriftlicher Einwilligung des Bewerbers zulässig. Der Arbeitgeber darf vom untersuchenden Arzt in der Regel nur die Übermittlung des Ergebnisses der Eignungsuntersuchung und dabei festgestellter Risikofaktoren verlangen, es sei denn, besondere Rechtsvorschriften des Arbeitsrechts oder tarifvertragliche Regelungen gehen vor.
+
+(4) Personenbezogene Daten, die vor der Eingehung eines Beschäftigungsverhältnisses bei einer öffentlichen Stelle erhoben wurden, sind unverzüglich zu löschen, sobald feststeht, dass ein Beschäftigungsverhältnis nicht zustande kommt und die Frist zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen abgelaufen ist, es sei denn, dass die betroffene Person in die weitere Speicherung eingewilligt hat.
+
+(5) Soweit personenbezogene Daten der Arbeitnehmer und Auszubildenden einer öffentlichen Stelle im Rahmen der Durchführung der technischen und organisatorischen Maßnahmen nach Artikel 32 der Verordnung (EU) 2016/679 gespeichert werden, dürfen sie nicht zu Zwecken der Verhaltens- und Leistungskontrolle genutzt werden.
+
+
+§ 28
+Verarbeitung personenbezogener Daten durch Forschungseinrichtungen
+
+(Artikel 6, 9 und 89 der Verordnung (EU) 2016/679)
+
+(1) Für Zwecke der wissenschaftlichen oder historischen Forschung erhobene oder gespeicherte personenbezogene Daten dürfen nur für diese Zwecke verarbeitet werden.
+
+(2) Die Übermittlung personenbezogener Daten an Empfänger, auf die dieses Gesetz oder die Verordnung (EU) 2016/679 keine Anwendung findet, ist nur zulässig, wenn diese sich vertraglich verpflichten, die übermittelten Daten nicht für andere Zwecke zu verarbeiten und die Bestimmungen der Absätze 3 und 4 einzuhalten.
+
+(3) Die personenbezogenen Daten sind, sobald dies nach dem Forschungszweck möglich ist, dergestalt zu verändern, dass die Einzelangaben über persönliche oder sachliche Verhältnisse nicht mehr oder nur mit einem unverhältnismäßig großen Aufwand an Zeit, Kosten und Arbeitskraft einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können (anonymisieren). Bis dahin sind die Merkmale gesondert zu speichern, mit denen Einzelangaben einer bestimmten oder bestimmbaren Person zugeordnet werden können. Sie dürfen mit den Einzelangaben nur zusammengeführt werden, soweit der Forschungszweck dies erfordert.
+
+(4) Die wissenschaftliche oder historische Forschung betreibenden Stellen dürfen personenbezogene Daten nur veröffentlichen, wenn die betroffene Person eingewilligt hat oder soweit dies für die Darstellung von Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist.
+
+(5) Das Recht auf Auskunft, Berichtigung, Einschränkung der Verarbeitung und Widerspruch nach der Verordnung (EU) 2016/679 und diesem Gesetz besteht nicht, soweit und solange die Verwirklichung des wissenschaftlichen oder historischen Forschungsinteresses dadurch unmöglich gemacht oder erheblich beeinträchtigt wird.
+
+
+§ 29
+Zweckbindung von personenbezogenen Daten,
+die einem Berufsgeheimnis unterliegen
+
+(Artikel 6 und 9 der Verordnung (EU) 2016/679)
+
+(1) Erfolgt die Datenverarbeitung durch eine öffentliche Stelle zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgabe, die im öffentlichen Interesse liegt, oder in Ausübung öffentlicher Gewalt, die ihr übertragen ist, dürfen die Daten, die einem Berufsgeheimnis unterliegen und die von der zur Verschwiegenheit verpflichteten Person oder Stelle in Ausübung ihrer Berufspflicht übermittelt worden sind, von ihr nur für den Zweck verarbeitet werden, für den sie die Daten erhalten hat.
+
+(2) Die Weiterverarbeitung für einen anderen Zweck ist zulässig, wenn die Änderung des Zwecks durch eine besondere Rechtsvorschrift nach Artikel 6 Abs. 4 in Verbindung mit Artikel 23 der Verordnung (EU) 2016/679 zugelassen ist. § 17 Abs. 2 findet keine Anwendung.
+
+
+§ 30
+Videoüberwachung
+
+(1) Die Videobeobachtung oder -aufzeichnung mit Hilfe optisch-elektronischer Einrichtungen (Videoüberwachung) ist zulässig, wenn dies zur Wahrnehmung einer im öffentlichen Interesse liegenden Aufgabe oder in Ausübung öffentlicher Gewalt
+
+1.
+
+    zum Schutz von Personen, die der überwachenden Stelle angehören oder sie aufsuchen, oder
+2.
+
+    zum Schutz von Sachen, die der zu überwachenden Stelle oder den Personen nach Nummer 1 gehören,
+
+erforderlich ist. Es dürfen keine Anhaltspunkte bestehen, dass schutzwürdige Interessen der betroffenen Person überwiegen.
+
+(2) Der Umstand der Videoüberwachung und die Informationen nach Artikel 13 Abs. 1 Buchst. a bis c der Verordnung (EU) 2016/679 sowie die Möglichkeit, beim Verantwortlichen die weiteren Informationen nach Artikel 13 der Verordnung (EU) 2016/679 zu erhalten, sind durch geeignete Maßnahmen erkennbar zu machen.
+
+(3) Die Verarbeitung der nach Absatz 1 erhobenen Daten ist zulässig, wenn dies zum Erreichen des verfolgten Zwecks erforderlich ist und keine Anhaltspunkte bestehen, dass schutzwürdige Interessen der betroffenen Person überwiegen.
+
+(4) Für einen anderen Zweck dürfen nach Absatz 1 erhobene Daten nur verarbeitet werden, soweit dies zur Abwehr von Gefahren für die öffentliche Sicherheit, zur Verfolgung von Ordnungswidrigkeiten von erheblicher Bedeutung oder zur Verfolgung von Straftaten erforderlich ist.
+
+(5) Videoaufzeichnungen und aus der Videoüberwachung erhobene Daten sind unverzüglich zu löschen. Sie sind nur dann abweichend von Artikel 17 Abs. 1 der Verordnung (EU) 2016/679 nicht unverzüglich zu löschen, soweit sie zur Verfolgung von Ordnungswidrigkeiten von erheblicher Bedeutung, zur Verfolgung von Straftaten oder zur Geltendmachung von Rechtsansprüchen benötigt werden.
+
+
+Dritter Abschnitt
+Bestimmungen für Verarbeitungen zu Zwecken
+nach Artikel 1 Abs. 1 der Richtlinie (EU) 2016/680
+Erster Unterabschnitt
+Anwendungsbereich und Grundsätze
+§ 31
+Anwendungsbereich
+
+(Artikel 1 Abs. 1, Artikel 2 Abs. 1
+der Richtlinie (EU) 2016/680)
+
+Die Bestimmungen dieses Abschnitts gelten für die Verarbeitung personenbezogener Daten durch die für die Verhütung, Ermittlung, Aufdeckung, Verfolgung oder Ahndung von Straftaten oder Ordnungswidrigkeiten zuständigen öffentlichen Stellen, soweit sie Daten zum Zweck der Erfüllung dieser Aufgaben verarbeiten. Die öffentlichen Stellen gelten dabei als Verantwortliche. Die Verhütung von Straftaten im Sinne des Satzes 1 umfasst den Schutz vor und die Abwehr von Gefahren für die öffentliche Sicherheit. Die Sätze 1 und 2 finden zudem Anwendung auf diejenigen öffentlichen Stellen, die für die Vollstreckung von Strafen oder Maßnahmen im Sinne des § 11 Abs. 1 Nr. 8 StGB, von Erziehungsmaßregeln oder Zuchtmitteln im Sinne des Jugendgerichtsgesetzes oder von Geldbußen zuständig sind. Soweit dieser Abschnitt Bestimmungen für Auftragsverarbeiter enthält, gilt er auch für diese.
+
+
+§ 32
+Begriffsbestimmungen
+
+(Artikel 3 der Richtlinie (EU) 2016/680)
+
+Im Sinne des Dritten Abschnittes:
+
+1.
+
+    sind personenbezogene Daten alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (betroffene Person) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann,
+2.
+
+    ist Verarbeitung jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten, wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung,
+3.
+
+    ist Einschränkung der Verarbeitung die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken,
+4.
+
+    ist Profiling jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen,
+5.
+
+    ist Pseudonymisierung die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden,
+6.
+
+    ist Dateisystem jede strukturierte Sammlung personenbezogener Daten, die nach bestimmten Kriterien zugänglich sind, unabhängig davon, ob diese Sammlung zentral, dezentral oder nach funktionalen oder geografischen Gesichtspunkten geordnet geführt wird,
+7.
+
+    ist Verantwortlicher die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet,
+8.
+
+    ist Auftragsverarbeiter eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet,
+9.
+
+    ist Empfänger eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht; Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder anderen Rechtsvorschriften möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger; die Verarbeitung dieser Daten durch die genannten Behörden erfolgt im Einklang mit den geltenden Datenschutzvorschriften gemäß den Zwecken der Verarbeitung,
+10.
+
+    ist Verletzung des Schutzes personenbezogener Daten eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob unbeabsichtigt oder unrechtmäßig, oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden,
+11.
+
+    sind genetische Daten personenbezogene Daten zu den ererbten oder erworbenen genetischen Eigenschaften einer natürlichen Person, die eindeutige Informationen über die Physiologie oder die Gesundheit dieser natürlichen Person liefern und insbesondere aus der Analyse einer biologischen Probe der betreffenden natürlichen Person gewonnen wurden,
+12.
+
+    sind biometrische Daten mit speziellen technischen Verfahren gewonnene personenbezogene Daten zu den physischen, physiologischen oder verhaltenstypischen Merkmalen einer natürlichen Person, die die eindeutige Identifizierung dieser natürlichen Person ermöglichen oder bestätigen, wie Gesichtsbilder oder daktyloskopische Daten,
+13.
+
+    sind Gesundheitsdaten personenbezogene Daten, die sich auf die körperliche oder geistige Gesundheit einer natürlichen Person, einschließlich der Erbringung von Gesundheitsdienstleistungen, beziehen und aus denen Informationen über deren Gesundheitszustand hervorgehen,
+14.
+
+    sind besondere Kategorien personenbezogener Daten
+
+    a)
+
+        Daten, aus denen die rassische oder ethnische Herkunft, politische Meinungen, religiöse oder weltanschauliche Überzeugungen oder die Gewerkschaftszugehörigkeit hervorgehen,
+    b)
+
+        genetische Daten,
+    c)
+
+        biometrische Daten zur eindeutigen Identifizierung einer natürlichen Person,
+    d)
+
+        Gesundheitsdaten und
+    e)
+
+        Daten zum Sexualleben oder zur sexuellen Orientierung,
+
+15.
+
+    ist Aufsichtsbehörde eine von einem Mitgliedstaat der Europäischen Union nach Artikel 41 der Richtlinie (EU) 2016/680 eingerichtete unabhängige staatliche Stelle,
+16.
+
+    ist internationale Organisation eine völkerrechtliche Organisation und ihre nachgeordneten Stellen oder jede sonstige Einrichtung, die durch eine zwischen zwei oder mehr Staaten geschlossene Übereinkunft oder auf der Grundlage einer solchen Übereinkunft geschaffen wurde.
+
+
+
+§ 33
+Grundsätze bei der Verarbeitung personenbezogener Daten
+
+(Artikel 8, Artikel 4 Abs. 2 und 3, Artikel 9 Abs. 2 und 3
+der Richtlinie (EU) 2016/680)
+
+(1) Die Verarbeitung personenbezogener Daten ist zulässig, wenn diese Verarbeitung für die Aufgabenerfüllung zu den in § 31 genannten Zwecken erforderlich ist und keine spezielleren Regelungen in anderen Gesetzen vorgehen.
+
+(2) Eine Verarbeitung personenbezogener Daten zu einem anderen Zweck als zu demjenigen, zu dem sie erhoben wurden, ist zulässig, wenn es sich bei dem anderen Zweck um einen in § 31 genannten Zweck handelt, der Verantwortliche befugt ist, Daten zu diesem Zweck zu verarbeiten und die Verarbeitung zu diesem Zweck erforderlich und verhältnismäßig ist. Die Verarbeitung personenbezogener Daten zu einem anderen, in § 31 nicht genannten Zweck ist zulässig, wenn sie in einer Rechtsvorschrift vorgesehen ist.
+
+(3) Die Verarbeitung kann zu im öffentlichen Interesse liegenden Archivzwecken, wissenschaftlichen oder statistischen Zwecken erfolgen, wenn sie von den in § 31 genannten Zwecken umfasst ist und wenn geeignete Garantien für die Rechtsgüter der betroffenen Personen vorhanden sind. Solche Garantien können in einer frühestmöglichen Anonymisierung personenbezogener Daten, in Vorkehrungen gegen die unbefugte Kenntnisnahme durch Dritte oder in einer räumlich und organisatorisch von den sonstigen Fachaufgaben getrennten Verarbeitung personenbezogener Daten bestehen.
+
+
+§ 34
+Unterscheidung verschiedener Kategorien betroffener
+Personen sowie zwischen Tatsachen und Bewertungen
+
+(Artikel 6, Artikel 7 Abs. 1 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat bei der Verarbeitung personenbezogener Daten soweit wie möglich zwischen den verschiedenen Kategorien betroffener Personen zu unterscheiden. Dies betrifft insbesondere folgende Kategorien:
+
+1.
+
+    Personen, gegen die ein begründeter Verdacht besteht, dass sie eine Straftat begangen haben,
+2.
+
+    Personen, gegen die ein begründeter Verdacht besteht, dass sie in naher Zukunft eine Straftat begehen werden,
+3.
+
+    verurteilte Straftäter,
+4.
+
+    Opfer einer Straftat oder Personen, bei denen bestimmte Tatsachen darauf hindeuten, dass sie Opfer einer Straftat sein könnten, oder
+5.
+
+    andere Personen, wie insbesondere Zeugen, Hinweisgeber oder Personen, die mit den in den Nummern 1 bis 4 genannten Personen in Kontakt oder Verbindung stehen.
+
+Satz 1 ist bei der Verfolgung und Ahndung von Ordnungswidrigkeiten und bei der Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung entsprechend anzuwenden. Weitere Kategorisierungen bleiben dem jeweiligen Fachgesetz vorbehalten.
+
+(2) Der Verantwortliche hat bei der Verarbeitung soweit wie möglich danach zu unterscheiden, ob personenbezogene Daten auf Tatsachen oder auf persönlichen Einschätzungen beruhen. Zu diesem Zweck soll er, soweit dies im Rahmen der jeweiligen Verarbeitung möglich und angemessen ist, Beurteilungen, die auf Bewertungen oder auf persönlichen Einschätzungen beruhen, als solche kenntlich machen. Es muss außerdem feststellbar sein, welche Stelle die Unterlagen führt, die der Bewertung oder der sonstigen auf persönlicher Einschätzung beruhenden Beurteilung zugrunde liegen.
+
+
+§ 35
+Berichtigung und Löschung personenbezogener Daten
+sowie die Einschränkung der Verarbeitung
+
+(Artikel 4 Abs. 1, Artikel 7 Abs. 3, Artikel 5 der
+Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat personenbezogene Daten zu berichtigen, wenn sie unrichtig sind, und teilt der Stelle, die die personenbezogenen Daten zuvor an ihn übermittelt hat, die Berichtigung mit.
+
+(2) Der Verantwortliche hat personenbezogene Daten unverzüglich zu löschen, wenn deren Verarbeitung unzulässig ist, sie zur Erfüllung einer rechtlichen Verpflichtung gelöscht werden müssen oder deren Kenntnis für seine Aufgabenerfüllung nicht mehr erforderlich ist.
+
+(3) Anstatt die personenbezogenen Daten zu löschen, kann der Verantwortliche deren Verarbeitung einschränken, wenn
+
+1.
+
+    Grund zu der Annahme besteht, dass durch die Löschung schutzwürdige Interessen einer betroffenen Person beeinträchtigt würden,
+2.
+
+    die personenbezogenen Daten für Zwecke eines gerichtlichen Verfahrens weiter aufbewahrt werden müssen oder
+3.
+
+    eine Löschung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßigem Aufwand möglich ist.
+
+In deren Verarbeitung nach Satz 1 eingeschränkte Daten dürfen nur zu dem Zweck verarbeitet werden, der deren Löschung entgegenstand. Bei automatisierten Dateisystemen ist technisch sicherzustellen, dass eine Einschränkung der Verarbeitung eindeutig erkennbar ist und eine Verarbeitung für andere Zwecke nicht ohne weitere Prüfung möglich ist.
+
+(4) In Fällen der Berichtigung, Löschung oder Einschränkung der Verarbeitung nach den Absätzen 1 bis 3 hat der Verantwortliche anderen Empfängern, denen die Daten übermittelt wurden, diese Maßnahmen mitzuteilen. Der Empfänger hat die Daten zu berichtigen, zu löschen oder deren Verarbeitung einzuschränken.
+
+(5) Unbeschadet in Rechtsvorschriften festgesetzter Höchstspeicher- oder Löschfristen prüft der Verantwortliche regelmäßig nach festgesetzten Fristen, ob die Speicherung personenbezogener Daten für die Aufgabenerfüllung noch erforderlich ist oder die Daten zu löschen sind (Aussonderungsprüffrist). Es ist durch verfahrensrechtliche Vorkehrungen sicherzustellen, dass diese Fristen eingehalten werden.
+
+
+§ 36
+Verfahren bei Übermittlungen
+
+(Artikel 7 Abs. 2, Artikel 9 Abs. 3 und 4 der
+Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat angemessene Maßnahmen zu ergreifen, um zu gewährleisten, dass personenbezogene Daten, die unrichtig oder nicht mehr aktuell sind, nicht übermittelt oder sonst zur Verfügung gestellt werden. Zu diesem Zweck hat er, soweit dies mit angemessenem Aufwand möglich ist, die Qualität der Daten vor deren Übermittlung oder Bereitstellung zu überprüfen. Bei jeder Übermittlung personenbezogener Daten hat er zudem, soweit dies möglich und angemessen ist, Informationen beizufügen, die es dem Empfänger gestatten, die Richtigkeit, die Vollständigkeit und die Zuverlässigkeit der personenbezogenen Daten sowie deren Aktualität zu beurteilen.
+
+(2) Gelten für die Verarbeitung von personenbezogenen Daten besondere Bedingungen, so hat bei Datenübermittlungen die übermittelnde Stelle den Empfänger auf diese Bedingungen und die Pflicht zu deren Beachtung hinzuweisen. Die Hinweispflicht kann dadurch erfüllt werden, dass die Daten entsprechend markiert werden.
+
+(3) Die übermittelnde Stelle darf auf Empfänger in anderen Mitgliedstaaten der Europäischen Union und auf Einrichtungen und sonstige Stellen, die nach den Kapiteln 4 und 5 des Titels V des Dritten Teils des Vertrags über die Arbeitsweise der Europäischen Union errichtet wurden, keine Bedingungen anwenden, die nicht auch für entsprechende innerstaatliche Datenübermittlungen gelten.
+
+
+§ 37
+Verarbeitung besonderer Kategorien personenbezogener Daten
+
+(Artikel 10 der Richtlinie (EU) 2016/680)
+
+(1) Die Verarbeitung besonderer Kategorien personenbezogener Daten ist nur zulässig, wenn sie zur Aufgabenerfüllung unbedingt erforderlich ist.
+
+(2) Werden besondere Kategorien personenbezogener Daten verarbeitet, sind geeignete Garantien für die Rechtsgüter der betroffenen Personen vorzusehen. Geeignete Garantien können insbesondere sein:
+
+1.
+
+    spezifische Anforderungen an die Datensicherheit oder die Datenschutzkontrolle,
+2.
+
+    die Festlegung von besonderen Aussonderungsprüffristen,
+3.
+
+    die Sensibilisierung der an Verarbeitungsvorgängen Beteiligten,
+4.
+
+    die Beschränkung des Zugangs zu den personenbezogenen Daten innerhalb der verantwortlichen Stelle,
+5.
+
+    die von anderen Daten getrennte Verarbeitung,
+6.
+
+    die Pseudonymisierung personenbezogener Daten,
+7.
+
+    die Verschlüsselung personenbezogener Daten oder
+8.
+
+    spezifische Verfahrensregelungen, die im Fall einer Übermittlung oder Verarbeitung für andere Zwecke die Rechtmäßigkeit der Verarbeitung sicherstellen.
+
+
+
+§ 38
+Automatisierte Einzelentscheidung
+
+(Artikel 11 der Richtlinie (EU) 2016/680)
+
+(1) Eine ausschließlich auf einer automatischen Verarbeitung beruhende Entscheidung, die eine nachteilige Rechtsfolge für die betroffene Person hat oder sie erheblich beeinträchtigt, ist nur zulässig, wenn sie in einer Rechtsvorschrift vorgesehen ist. Die Vorschrift muss sicherstellen, dass die berechtigten Interessen und Rechtsgüter der betroffenen Person gewahrt werden. Zumindest muss sichergestellt sein, dass eine inhaltliche Bewertung und darauf gestützte Entscheidung durch den Verantwortlichen herbeigeführt und verlangt werden kann.
+
+(2) Entscheidungen nach Absatz 1 dürfen nicht auf besonderen Kategorien personenbezogener Daten beruhen, sofern nicht geeignete Maßnahmen zum Schutz der Rechtsgüter sowie der berechtigten Interessen der betroffenen Personen getroffen wurden.
+
+
+§ 39
+Einwilligung
+
+(1) Soweit die Verarbeitung personenbezogener Daten nach einer Rechtsvorschrift auf der Grundlage einer Einwilligung erfolgen kann, muss der Verantwortliche die Einwilligung der betroffenen Person nachweisen können.
+
+(2) Erfolgt die Einwilligung der betroffenen Person durch eine schriftliche Erklärung, die noch andere Sachverhalte betrifft, muss das Ersuchen um Einwilligung in verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache so erfolgen, dass es von den anderen Sachverhalten klar zu unterscheiden ist.
+
+(3) Die betroffene Person hat das Recht, ihre Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. Die betroffene Person wird vor Abgabe der Einwilligung hiervon in Kenntnis gesetzt.
+
+(4) Die Einwilligung ist nur wirksam, wenn sie auf der freien Entscheidung der betroffenen Person beruht. Bei der Beurteilung, ob die Einwilligung freiwillig erteilt wurde, müssen die Umstände der Erteilung berücksichtigt werden. Die betroffene Person ist auf den vorgesehenen Zweck der Verarbeitung sowie, wenn nach den Umständen des Einzelfalles erforderlich oder auf Verlangen, auf die Folgen der Verweigerung der Einwilligung hinzuweisen.
+
+(5) Soweit besondere Kategorien personenbezogener Daten verarbeitet werden, muss sich die Einwilligung ausdrücklich auf diese Daten beziehen.
+
+
+Zweiter Unterabschnitt
+Rechte der betroffenen Person
+§ 40
+Allgemeiner Informationsanspruch
+
+(Artikel 13 Abs. 1 der Richtlinie (EU) 2016/680)
+
+Der Verantwortliche stellt in allgemeiner Form und für jedermann zugänglich die folgenden Informationen zur Verfügung:
+
+1.
+
+    die Zwecke der von ihm vorgenommenen Verarbeitungen,
+2.
+
+    die im Hinblick auf die Verarbeitung ihrer personenbezogenen Daten bestehenden Rechte der betroffenen Personen auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung,
+3.
+
+    den Namen und die Kontaktdaten des Verantwortlichen und des Datenschutzbeauftragten,
+4.
+
+    das Bestehen des Rechts nach § 8, den Landesbeauftragten für den Datenschutz anzurufen, und
+5.
+
+    die Erreichbarkeit des Landesbeauftragten für den Datenschutz.
+
+
+
+§ 41
+Benachrichtigung betroffener Personen
+
+(Artikel 13 Abs. 2 und 3 der Richtlinie (EU) 2016/680)
+
+(1) Ist die Benachrichtigung betroffener Personen über die Verarbeitung sie betreffender personenbezogener Daten in speziellen Rechtsvorschriften, insbesondere bei verdeckten Maßnahmen, vorgesehen oder angeordnet, hat diese Benachrichtigung zumindest die folgenden Angaben zu enthalten:
+
+1.
+
+    die in § 40 genannten Angaben,
+2.
+
+    die Rechtsgrundlage der Verarbeitung,
+3.
+
+    die Dauer, für die die personenbezogenen Daten gespeichert werden oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer,
+4.
+
+    gegebenenfalls die Kategorien von Empfängern der personenbezogenen Daten sowie
+5.
+
+    erforderlichenfalls weitere Informationen, insbesondere wenn die personenbezogenen Daten ohne Wissen der betroffenen Person erhoben wurden.
+
+(2) Der Verantwortliche kann die Benachrichtigung nach Absatz 1 aufschieben, einschränken oder unterlassen, soweit und solange durch die Benachrichtigung
+
+1.
+
+    behördliche oder gerichtliche Untersuchungen, Ermittlungen oder Verfahren gefährdet werden,
+2.
+
+    die Verhütung, Aufdeckung, Ermittlung oder Verfolgung von Straftaten oder die Strafvollstreckung gefährdet werden,
+3.
+
+    die öffentliche Sicherheit oder Ordnung gefährdet wird oder
+4.
+
+    die Rechtsgüter Dritter gefährdet werden
+
+und wenn das Interesse an dem Aufschub, der Einschränkung oder der Unterlassung der Benachrichtigung gegenüber dem Informationsinteresse der betroffenen Person überwiegt.
+
+(3) Bezieht sich die Benachrichtigung auf die Übermittlung personenbezogener Daten an Verfassungsschutzbehörden, den Bundesnachrichtendienst, den Militärischen Abschirmdienst oder, soweit die Sicherheit des Bundes berührt wird, andere Behörden des Geschäftsbereichs des für Verteidigung zuständigen Bundesministeriums, ist sie nur mit Zustimmung dieser Stellen zulässig.
+
+(4) Im Fall der Einschränkung der Benachrichtigung nach Absatz 2 gilt § 42 Abs. 6 entsprechend.
+
+
+§ 42
+Auskunftsrecht
+
+(Artikel 14 bis 17 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat betroffenen Personen auf Antrag Auskunft darüber zu erteilen, ob er sie betreffende Daten verarbeitet. In dem Antrag sollen die Art der personenbezogenen Daten, über die Auskunft erteilt werden soll, und der Grund des Auskunftsverlangens näher bezeichnet werden. Betroffene Personen haben darüber hinaus das Recht, Informationen zu erhalten über
+
+1.
+
+    die personenbezogenen Daten, die Gegenstand der Verarbeitung sind, und die Kategorie, zu der sie gehören,
+2.
+
+    die verfügbaren Informationen über die Herkunft der Daten,
+3.
+
+    die Zwecke der Verarbeitung und deren Rechtsgrundlage,
+4.
+
+    die Empfänger oder die Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind, insbesondere bei Empfängern in Nichtmitgliedstaaten der Europäischen Union (Drittstaaten) oder bei internationalen Organisationen,
+5.
+
+    die für die Daten geltende Speicherdauer oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer,
+6.
+
+    das Bestehen eines Rechts auf Berichtigung, Löschung oder Einschränkung der Verarbeitung personenbezogener Daten durch den Verantwortlichen,
+7.
+
+    das Bestehen des Rechts nach § 8, den Landesbeauftragten für den Datenschutz anzurufen, sowie
+8.
+
+    die Erreichbarkeit des Landesbeauftragten für den Datenschutz.
+
+Bezieht sich die Auskunftserteilung auf die Übermittlung personenbezogener Daten an Verfassungsschutzbehörden, den Bundesnachrichtendienst, den Militärischen Abschirmdienst oder, soweit die Sicherheit des Bundes berührt wird, andere Behörden des Geschäftsbereichs des für Verteidigung zuständigen Bundesministeriums, ist sie nur mit Zustimmung dieser Stellen zulässig.
+
+(2) Absatz 1 gilt nicht für personenbezogene Daten, die nur deshalb verarbeitet werden, weil sie aufgrund gesetzlicher Aufbewahrungsvorschriften nicht gelöscht werden dürfen, oder ausschließlich Zwecken der Datensicherung oder der Datenschutzkontrolle dienen und eine Auskunftserteilung einen unverhältnismäßigen Aufwand erfordern würde und eine Verarbeitung zu anderen Zwecken durch geeignete technische und organisatorische Maßnahmen ausgeschlossen ist.
+
+(3) Die Auskunftserteilung unterbleibt, wenn die betroffene Person keine Angaben macht, die das Auffinden der Daten ermöglichen, und deshalb der für die Erteilung der Auskunft erforderliche Aufwand außer Verhältnis zu dem von der betroffenen Person geltend gemachten Informationsinteresse steht.
+
+(4) Der Verantwortliche kann unter den Voraussetzungen des § 41 Abs. 2 von der Auskunft nach Absatz 1 Satz 1 absehen oder die Auskunftserteilung nach Absatz 1 Satz 3 teilweise oder vollständig einschränken.
+
+(5) Der Verantwortliche hat die betroffene Person über das Absehen von oder die Einschränkung einer Auskunft schriftlich zu unterrichten. Dies gilt nicht, wenn bereits die Erteilung dieser Informationen eine Gefährdung im Sinne des § 41 Abs. 2 mit sich bringen würde. Die Unterrichtung nach Satz 1 ist zu begründen, es sei denn, dass die Mitteilung der Gründe den mit dem Absehen von oder der Einschränkung der Auskunft verfolgten Zweck gefährden würde.
+
+(6) Wird die betroffene Person nach Absatz 5 über die Verweigerung oder die Einschränkung der Auskunft unterrichtet, kann die betroffene Person ihr Auskunftsrecht auch über den Landesbeauftragten für den Datenschutz ausüben. Der Verantwortliche hat die betroffene Person über diese Möglichkeit zu unterrichten. Macht die betroffene Person von ihrem Recht nach Satz 1 Gebrauch, ist die Auskunft auf ihr Verlangen dem Landesbeauftragten für den Datenschutz zu erteilen, soweit nicht die zuständige oberste Landesbehörde im Einzelfall feststellt, dass dadurch die Sicherheit des Bundes oder eines Landes gefährdet würde. Der Landesbeauftragte für den Datenschutz hat die betroffene Person zumindest darüber zu unterrichten, dass alle erforderlichen Prüfungen oder eine Überprüfung durch ihn erfolgt sind oder über die Gründe, aus denen eine Überprüfung nicht erfolgt ist. Diese Mitteilung kann die Information enthalten, ob datenschutzrechtliche Verstöße festgestellt wurden. Die Mitteilung des Landesbeauftragten für den Datenschutz an die betroffene Person darf keine Rückschlüsse auf den Erkenntnisstand des Verantwortlichen zulassen, sofern dieser nicht einer weitergehenden Auskunft zustimmt. Der Landesbeauftragte für den Datenschutz hat zudem die betroffene Person über ihr Recht auf einen gerichtlichen Rechtsbehelf zu unterrichten.
+
+(7) Der Verantwortliche hat die sachlichen oder rechtlichen Gründe für die Entscheidung zu dokumentieren.
+
+
+§ 43
+Rechte auf Berichtigung und Löschung sowie
+Einschränkung der Verarbeitung
+
+(Artikel 16 der Richtlinie (EU) 2016/680)
+
+(1) Die betroffene Person hat das Recht, von dem Verantwortlichen unverzüglich die Berichtigung sie betreffender unrichtiger Daten zu verlangen. Insbesondere im Fall von Aussagen oder Beurteilungen betrifft die Frage der Richtigkeit nicht den Inhalt der Aussage oder der Beurteilung, sondern die Tatsache, dass die Aussage oder Beurteilung so erfolgt ist. Wenn die Richtigkeit oder Unrichtigkeit der Daten nicht festgestellt werden kann, tritt an die Stelle der Berichtigung eine Einschränkung der Verarbeitung. In diesem Fall hat der Verantwortliche die betroffene Person zu unterrichten, bevor er die Einschränkung wieder aufhebt. Die betroffene Person kann zudem die Vervollständigung unvollständiger personenbezogener Daten verlangen, wenn dies unter Berücksichtigung der Verarbeitungszwecke angemessen ist.
+
+(2) Die betroffene Person hat das Recht, von dem Verantwortlichen unverzüglich die Löschung sie betreffender Daten zu verlangen, wenn deren Verarbeitung unzulässig oder deren Kenntnis für die Aufgabenerfüllung nicht mehr erforderlich ist oder diese zur Erfüllung einer rechtlichen Verpflichtung gelöscht werden müssen.
+
+(3) § 35 Abs. 3 und 4 gilt entsprechend.
+
+(4) Der Verantwortliche hat die betroffene Person über eine Verweigerung der Berichtigung oder Löschung personenbezogener Daten oder über die an deren Stelle tretende Einschränkung der Verarbeitung schriftlich zu unterrichten. Dies gilt nicht, wenn die Erteilung dieser Informationen eine Gefährdung im Sinne des § 41 Abs. 2 mit sich bringen würde. Die Unterrichtung nach Satz 1 ist zu begründen, es sei denn, dass die Mitteilung der Gründe den mit dem Absehen von der Unterrichtung verfolgten Zweck gefährden würde.
+
+(5) § 42 Abs. 6 und 7 findet entsprechende Anwendung.
+
+
+§ 44
+Verfahren für die Ausübung der Rechte der betroffenen Person
+
+(Artikel 12 Abs. 1 und 3 bis 5 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat mit betroffenen Personen unter Verwendung einer klaren und einfachen Sprache in präziser, verständlicher und leicht zugänglicher Form zu kommunizieren. Unbeschadet besonderer Formvorschriften soll er bei der Beantwortung von Anträgen grundsätzlich die für den Antrag gewählte Form verwenden.
+
+(2) Unbeschadet des § 42 Abs. 5 und des § 43 Abs. 4 setzt der Verantwortliche die betroffene Person schriftlich darüber in Kenntnis, wie mit ihrem Antrag verfahren wurde.
+
+(3) Informationen nach § 40, Benachrichtigungen nach § 41, Mitteilungen nach § 56 und die Bearbeitung von Anträgen nach den §§ 42 und 43 erfolgen für die betroffene Person unentgeltlich. Bei offenkundig unbegründeten oder exzessiven Anträgen der betroffenen Person nach den §§ 42 und 43 kann der Verantwortliche entweder Verwaltungskosten auf der Grundlage des Verwaltungsaufwands verlangen oder sich weigern, aufgrund des Antrags tätig zu werden. In diesem Fall trägt der Verantwortliche die Beweislast für den offenkundig unbegründeten oder exzessiven Charakter des Antrags.
+
+(4) Hat der Verantwortliche begründete Zweifel an der Identität der betroffenen Person, die den Antrag nach den §§ 42 oder 43 stellt, so kann er bei der betroffenen Person zusätzliche Informationen oder Nachweise anfordern, die zur Bestätigung ihrer Identität erforderlich sind.
+
+
+§ 45
+Schadensersatz
+
+(Artikel 56 der Richtlinie (EU) 2016/680)
+
+(1) Hat ein Verantwortlicher einer betroffenen Person durch eine Verarbeitung personenbezogener Daten, die nach diesem Gesetz oder nach anderen auf deren Verarbeitung anwendbaren Vorschriften rechtswidrig war, einen Schaden zugefügt, ist er oder sein Rechtsträger der betroffenen Person zum Schadensersatz verpflichtet. Die Ersatzpflicht entfällt, soweit bei einer nichtautomatisierten Verarbeitung der Schaden nicht auf ein Verschulden des Verantwortlichen zurückzuführen ist.
+
+(2) Wegen eines Schadens, der nicht Vermögensschaden ist, kann die betroffene Person eine angemessene Entschädigung in Geld verlangen.
+
+(3) Lässt sich bei einer automatisierten Verarbeitung personenbezogener Daten nicht ermitteln, welcher von mehreren beteiligten Verantwortlichen den Schaden verursacht hat, so haftet jeder Verantwortliche beziehungsweise sein Rechtsträger.
+
+(4) Hat bei der Entstehung des Schadens ein Verschulden der betroffenen Person mitgewirkt, ist § 254 BGB entsprechend anzuwenden.
+
+(5) Auf die Verjährung finden die für unerlaubte Handlungen geltenden Verjährungsbestimmungen des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
+
+
+Dritter Unterabschnitt
+Pflichten der Verantwortlichen und
+Auftragsverarbeiter
+§ 46
+Pflichten des Verantwortlichen
+
+(Artikel 20 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat sowohl zum Zeitpunkt der Festlegung der Mittel für die Verarbeitung als auch zum Zeitpunkt der eigentlichen Verarbeitung angemessene Vorkehrungen zu treffen, die geeignet sind, Datenschutzgrundsätze wie etwa Datensparsamkeit wirksam umzusetzen und die notwendigen Garantien in die Verarbeitung aufzunehmen, um den gesetzlichen Anforderungen zu genügen und die Rechte der betroffenen Personen zu schützen. Er hat hierbei den Stand der Technik, die Implementierungskosten und die Art, den Umfang, die Umstände und die Zwecke der Verarbeitung sowie die unterschiedliche Eintrittswahrscheinlichkeit und Schwere der mit der Verarbeitung verbundenen Gefährdung für die Rechtsgüter der betroffenen Personen zu berücksichtigen.
+
+(2) Der Verantwortliche hat geeignete technische und organisatorische Maßnahmen zu treffen, die sicherstellen, dass durch Voreinstellung grundsätzlich nur solche personenbezogenen Daten verarbeitet werden, deren Verarbeitung für den jeweiligen bestimmten Verarbeitungszweck erforderlich ist. Diese Verpflichtung gilt für die Menge der erhobenen personenbezogenen Daten, den Umfang deren Verarbeitung, deren Speicherdauer und deren Zugänglichkeit. Die Maßnahmen müssen insbesondere sicherstellen, dass personenbezogene Daten durch Voreinstellungen nicht ohne Eingreifen der Person einer unbestimmten Anzahl von Personen zugänglich gemacht werden können.
+
+
+§ 47
+Gemeinsam Verantwortliche
+
+(Artikel 21 der Richtlinie (EU) 2016/680)
+
+Legen zwei oder mehr Verantwortliche gemeinsam die Zwecke und die Mittel der Verarbeitung fest, gelten sie als gemeinsam Verantwortliche. Die gemeinsam Verantwortlichen haben in diesen Fällen ihre jeweiligen Aufgaben und datenschutzrechtlichen Verantwortlichkeiten in transparenter Form in einer Vereinbarung festzulegen, soweit diese nicht bereits in Rechtsvorschriften festgelegt sind. Dies betrifft die Fragen, wie und gegenüber wem betroffene Personen ihre Rechte wahrnehmen können und wer welchen Informationspflichten nachzukommen hat. Eine entsprechende Vereinbarung hindert die betroffene Person nicht, ihre Rechte gegenüber jedem der gemeinsam Verantwortlichen geltend zu machen.
+
+
+§ 48
+Auftragsverarbeitung
+
+(Artikel 22 der Richtlinie (EU) 2016/680)
+
+(1) Werden personenbezogene Daten im Auftrag eines Verantwortlichen durch andere Personen oder Stellen verarbeitet, hat der Verantwortliche für die Einhaltung der Vorschriften dieses Gesetzes und anderer Vorschriften über den Datenschutz zu sorgen. Die Rechte der betroffenen Person auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Schadensersatz sind in diesem Fall gegenüber dem Verantwortlichen geltend zu machen.
+
+(2) Ein Verantwortlicher darf nur solche Auftragsverarbeiter mit der Verarbeitung personenbezogener Daten beauftragen, die mit geeigneten technischen und organisatorischen Maßnahmen sicherstellen, dass die Verarbeitung im Einklang mit den gesetzlichen Anforderungen erfolgt und der Schutz der Rechte der betroffenen Personen gewährleistet wird.
+
+(3) Auftragsverarbeiter dürfen ohne vorherige schriftliche Genehmigung des Verantwortlichen keine weiteren Auftragsverarbeiter hinzuziehen. Hat der Verantwortliche dem Auftragsverarbeiter eine allgemeine Genehmigung zur Hinzuziehung weiterer Auftragsverarbeiter erteilt, hat der Auftragsverarbeiter den Verantwortlichen über jede beabsichtigte Hinzuziehung oder Ersetzung zu informieren. Der Verantwortliche kann in diesem Fall die Hinzuziehung oder Ersetzung untersagen.
+
+(4) Zieht ein Auftragsverarbeiter einen weiteren Auftragsverarbeiter hinzu, so hat er diesem dieselben Verpflichtungen aus seinem Vertrag mit dem Verantwortlichen nach Absatz 6 aufzuerlegen, die auch für ihn gelten, soweit diese Pflichten für den weiteren Auftragsverarbeiter nicht schon aufgrund anderer Vorschriften verbindlich sind. Erfüllt ein weiterer Auftragsverarbeiter diese Verpflichtungen nicht, so haftet der ihn beauftragende Auftragsverarbeiter gegenüber dem Verantwortlichen für die Einhaltung der Pflichten des weiteren Auftragsverarbeiters.
+
+(5) Die Einhaltung genehmigter Verhaltensregeln nach Artikel 40 der Verordnung (EU) 2016/679 oder eines genehmigten Zertifizierungsverfahrens nach Artikel 42 der Verordnung (EU) 2016/679 durch einen Auftragsverarbeiter kann als Faktor herangezogen werden, um hinreichende Garantien im Sinne der Absätze 2 und 4 nachzuweisen.
+
+(6) Die Verarbeitung durch einen Auftragsverarbeiter hat auf der Grundlage eines Vertrags oder eines anderen Rechtsinstruments zu erfolgen, der oder das den Auftragsverarbeiter an den Verantwortlichen bindet und der oder das den Gegenstand, die Dauer, die Art und den Zweck der Verarbeitung, die Art der personenbezogenen Daten, die Kategorien betroffener Personen und die Rechte und Pflichten des Verantwortlichen festlegt. Der Vertrag oder das andere Rechtsinstrument haben insbesondere vorzusehen, dass der Auftragsverarbeiter
+
+1.
+
+    nur auf dokumentierte Weisung des Verantwortlichen handelt; ist der Auftragsverarbeiter der Auffassung, dass eine Weisung rechtswidrig ist, hat er den Verantwortlichen unverzüglich zu informieren,
+2.
+
+    gewährleistet, dass die zur Verarbeitung der personenbezogenen Daten befugten Personen zur Vertraulichkeit verpflichtet werden, soweit sie keiner angemessenen gesetzlichen Verschwiegenheitspflicht unterliegen,
+3.
+
+    den Verantwortlichen mit geeigneten Mitteln dabei unterstützt, die Einhaltung der Bestimmungen über die Rechte der betroffenen Person zu gewährleisten,
+4.
+
+    alle personenbezogenen Daten nach Abschluss der Erbringung der Verarbeitungsleistungen nach Wahl des Verantwortlichen zurückgibt oder löscht und bestehende Kopien vernichtet, wenn nicht nach einer Rechtsvorschrift eine Verpflichtung zur Speicherung der personenbezogenen Daten besteht,
+5.
+
+    dem Verantwortlichen alle erforderlichen Informationen, insbesondere die nach § 51 generierten Protokolle, zum Nachweis der Einhaltung seiner Pflichten zur Verfügung stellt,
+6.
+
+    Überprüfungen, die von dem Verantwortlichen oder einem anderen von diesem beauftragten Prüfer durchgeführt werden, ermöglicht und dazu beiträgt,
+7.
+
+    die in den Absätzen 3 und 4 aufgeführten Bedingungen für die Inanspruchnahme der Dienste eines weiteren Auftragsverarbeiters einhält,
+8.
+
+    alle nach § 54 erforderlichen Maßnahmen ergreift und
+9.
+
+    unter Berücksichtigung der Art der Verarbeitung und der ihm zur Verfügung stehenden Informationen den Verantwortlichen bei der Einhaltung der in den §§ 52 bis 56 genannten Pflichten unterstützt.
+
+(7) Der Vertrag oder ein anderes Rechtsinstrument im Sinne des Absatzes 6 sind schriftlich oder elektronisch abzufassen.
+
+(8) Ein Auftragsverarbeiter, der unter Verstoß gegen diese Bestimmung die Zwecke und Mittel der Verarbeitung bestimmt, gilt in Bezug auf diese Verarbeitung als Verantwortlicher.
+
+
+§ 49
+Verarbeitung auf Weisung, Datengeheimnis
+
+(Artikel 23 der Richtlinie (EU) 2016/680)
+
+(1) Jede einem Verantwortlichen oder einem Auftragsverarbeiter unterstellte Person, die Zugang zu personenbezogenen Daten hat, darf diese nicht unbefugt verarbeiten (Datengeheimnis), sondern ausschließlich auf Weisung des Verantwortlichen, es sei denn, dass sie nach einer Rechtsvorschrift zur Verarbeitung verpflichtet ist.
+
+(2) Die mit der Datenverarbeitung befassten Personen sind bei der Aufnahme ihrer Tätigkeit auf das Datengeheimnis zu verpflichten. Das Datengeheimnis besteht auch nach der Beendigung ihrer Tätigkeit fort.
+
+
+§ 50
+Verzeichnis von Verarbeitungstätigkeiten
+
+(Artikel 24 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat ein Verzeichnis aller Kategorien von Verarbeitungstätigkeiten zu führen, die in seine Zuständigkeit fallen. Dieses Verzeichnis hat die folgenden Angaben zu enthalten:
+
+1.
+
+    den Namen und die Kontaktdaten des Verantwortlichen und gegebenenfalls des gemeinsam mit ihm Verantwortlichen sowie den Namen und die Kontaktdaten des Datenschutzbeauftragten,
+2.
+
+    die Zwecke der Verarbeitung,
+3.
+
+    die Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden sollen,
+4.
+
+    eine Beschreibung der Kategorien betroffener Personen und der Kategorien personenbezogener Daten,
+5.
+
+    gegebenenfalls die Verwendung von Profiling,
+6.
+
+    gegebenenfalls die Kategorien von Übermittlungen personenbezogener Daten an Stellen in einem Drittstaat oder an eine internationale Organisation,
+7.
+
+    Angaben über die Rechtsgrundlage der Verarbeitung,
+8.
+
+    die vorgesehenen Fristen für die Löschung oder die Überprüfung der Erforderlichkeit der Speicherung der verschiedenen Kategorien personenbezogener Daten und
+9.
+
+    eine allgemeine Beschreibung der technischen und organisatorischen Maßnahmen nach § 54.
+
+(2) Der Auftragsverarbeiter hat ein Verzeichnis aller Kategorien von Verarbeitungen zu führen, die er im Auftrag eines Verantwortlichen durchführt, das Folgendes zu enthalten hat:
+
+1.
+
+    den Namen und die Kontaktdaten des Auftragsverarbeiters, jedes Verantwortlichen, in dessen Auftrag der Auftragsverarbeiter tätig ist, sowie gegebenenfalls des Datenschutzbeauftragten,
+2.
+
+    gegebenenfalls Übermittlungen von personenbezogenen Daten an Stellen in einem Drittstaat oder an eine internationale Organisation, sofern dies von dem Verantwortlichen entsprechend angewiesen wird, einschließlich der Identifizierung des Drittstaats oder der internationalen Organisation und
+3.
+
+    eine allgemeine Beschreibung der technischen und organisatorischen Maßnahmen nach § 54.
+
+(3) Die in den Absätzen 1 und 2 genannten Verzeichnisse sind schriftlich oder elektronisch zu führen.
+
+(4) Verantwortliche und Auftragsverarbeiter haben auf Anforderung ihre Verzeichnisse dem Landesbeauftragten für den Datenschutz zur Verfügung zu stellen.
+
+
+§ 51
+Protokollierung
+
+(Artikel 25 der Richtlinie (EU) 2016/680)
+
+(1) In automatisierten Verarbeitungssystemen haben Verantwortliche und Auftragsverarbeiter mindestens die folgenden Verarbeitungsvorgänge zu protokollieren:
+
+1.
+
+    Erhebung,
+2.
+
+    Veränderung,
+3.
+
+    Abfrage,
+4.
+
+    Offenlegung einschließlich Übermittlung,
+5.
+
+    Kombination und
+6.
+
+    Löschung.
+
+(2) Die Protokolle über Abfragen und Offenlegungen müssen es ermöglichen, die Begründung, das Datum und die Uhrzeit dieser Vorgänge und soweit wie möglich die Identität der Person, die die personenbezogenen Daten abgefragt oder offengelegt hat, und die Identität des Empfängers der Daten festzustellen.
+
+(3) Die Protokolle dürfen ausschließlich für die Überprüfung der Rechtmäßigkeit der Datenverarbeitung durch den Datenschutzbeauftragten, den Landesbeauftragten für den Datenschutz und die betroffene Person sowie für die Eigenüberwachung, für die Gewährleistung der Integrität und Sicherheit der personenbezogenen Daten und für Strafverfahren verwendet werden.
+
+(4) Die Protokolldaten sind am Ende des auf deren Generierung folgenden Jahres zu löschen.
+
+(5) Der Verantwortliche und der Auftragsverarbeiter stellen die Protokolle dem Landesbeauftragten für den Datenschutz auf Anforderung zur Verfügung.
+
+
+§ 52
+Durchführung einer Datenschutz-Folgenabschätzung
+
+(Artikel 27 der Richtlinie (EU) 2016/680)
+
+(1) Hat eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung voraussichtlich eine hohe Gefährdung für die Rechtsgüter betroffener Personen zur Folge, so hat der Verantwortliche vorab eine Abschätzung der Folgen der vorgesehenen Verarbeitungsvorgänge für die betroffenen Personen durchzuführen.
+
+(2) Für die Untersuchung mehrerer ähnlicher Verarbeitungsvorgänge mit ähnlich hohem Gefährdungspotential kann eine gemeinsame Datenschutz-Folgenabschätzung vorgenommen werden.
+
+(3) Der Verantwortliche beteiligt den Datenschutzbeauftragten an der Durchführung der Datenschutz-Folgenabschätzung.
+
+(4) Die Datenschutz-Folgenabschätzung hat den Rechten der von der Verarbeitung betroffenen Personen Rechnung zu tragen und zumindest Folgendes zu enthalten:
+
+1.
+
+    eine systematische Beschreibung der geplanten Verarbeitungsvorgänge und der Zwecke der Verarbeitung,
+2.
+
+    eine Bewertung der Notwendigkeit und Verhältnismäßigkeit der Verarbeitungsvorgänge in Bezug auf den Zweck,
+3.
+
+    eine Bewertung der Gefahren für die Rechtsgüter der betroffenen Personen und
+4.
+
+    die Maßnahmen, mit denen bestehenden Gefahren abgeholfen werden soll, einschließlich der Garantien, der Sicherheitsvorkehrungen und der Verfahren, durch die der Schutz personenbezogener Daten sichergestellt und die Einhaltung der gesetzlichen Vorgaben nachgewiesen werden soll.
+
+(5) Soweit erforderlich, hat der Verantwortliche eine Überprüfung durchzuführen, ob die Verarbeitung den Maßgaben folgt, die sich aus der Datenschutz-Folgenabschätzung ergeben haben.
+
+
+§ 53
+Anhörung des Landesbeauftragten für den Datenschutz
+
+(Artikel 28 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat vor der Inbetriebnahme von neu anzulegenden Dateisystemen den Landesbeauftragten für den Datenschutz anzuhören, wenn
+
+1.
+
+    aus einer Datenschutz-Folgenabschätzung nach § 52 hervorgeht, dass die Verarbeitung eine hohe Gefahr für die Rechtsgüter der betroffenen Personen zur Folge hätte, wenn der Verantwortliche keine Abhilfemaßnahmen treffen würde, oder
+2.
+
+    die Form der Verarbeitung, insbesondere bei der Verwendung neuer Technologien, Mechanismen oder Verfahren, eine erhebliche Gefahr für die Rechtsgüter der betroffenen Personen zur Folge hat.
+
+Der Landesbeauftragte für den Datenschutz kann eine Liste der Verarbeitungsvorgänge erstellen, die der Pflicht zur Anhörung nach Satz 1 unterliegen.
+
+(2) Dem Landesbeauftragten für den Datenschutz sind im Fall des Absatzes 1 vorzulegen:
+
+1.
+
+    die nach § 52 durchgeführte Datenschutz-Folgenabschätzung,
+2.
+
+    gegebenenfalls Angaben zu den jeweiligen Zuständigkeiten des Verantwortlichen, der gemeinsam Verantwortlichen und der an der Verarbeitung beteiligten Auftragsverarbeiter,
+3.
+
+    Angaben zu den Zwecken und den Mitteln der beabsichtigten Verarbeitung,
+4.
+
+    Angaben zu den zum Schutz der Rechtsgüter der betroffenen Personen vorgesehenen Maßnahmen und Garantien und
+5.
+
+    der Name und die Kontaktdaten des Datenschutzbeauftragten.
+
+Ihm sind auf Anforderung alle sonstigen Informationen zu übermitteln, die er benötigt, um die Rechtmäßigkeit der Verarbeitung sowie insbesondere die in Bezug auf den Schutz der personenbezogenen Daten der betroffenen Person bestehenden Gefahren und die diesbezüglichen Garantien bewerten zu können.
+
+(3) Falls der Landesbeauftragte für den Datenschutz der Auffassung ist, dass die geplante Verarbeitung gegen gesetzliche Vorgaben verstoßen würde, insbesondere weil der Verantwortliche das Risiko nicht ausreichend ermittelt oder keine ausreichenden Abhilfemaßnahmen getroffen hat, kann er dem Verantwortlichen und gegebenenfalls dem Auftragsverarbeiter innerhalb eines Zeitraums von sechs Wochen nach Einleitung der Anhörung schriftliche Empfehlungen unterbreiten, welche Maßnahmen noch ergriffen werden sollten. Der Landesbeauftragte für den Datenschutz kann diese Frist um einen Monat verlängern, wenn die geplante Verarbeitung besonders komplex ist. Er hat in diesem Fall innerhalb eines Monats nach Einleitung der Anhörung den Verantwortlichen und gegebenenfalls den Auftragsverarbeiter über die Fristverlängerung zu informieren.
+
+(4) Hat die beabsichtigte Verarbeitung erhebliche Bedeutung für die Aufgabenerfüllung des Verantwortlichen und ist sie daher besonders dringlich, kann er mit der Verarbeitung vor Eingang der schriftlichen Empfehlungen des Landesbeauftragten für den Datenschutz beginnen. In diesem Fall sind die Empfehlungen des Landesbeauftragten für den Datenschutz im Nachhinein zu berücksichtigen und die Art und Weise der Verarbeitung gegebenenfalls anzupassen.
+
+
+Vierter Unterabschnitt
+Datensicherheit
+§ 54
+Anforderungen an die Sicherheit der Datenverarbeitung
+
+(Artikel 29 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche und der Auftragsverarbeiter haben unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der Eintrittswahrscheinlichkeit und der Schwere der mit der Verarbeitung verbundenen Gefahren für die Rechtsgüter der betroffenen Personen die erforderlichen technischen und organisatorischen Maßnahmen zu treffen, um bei der Verarbeitung personenbezogener Daten ein dem Risiko angemessenes Schutzniveau zu gewährleisten, insbesondere im Hinblick auf die Verarbeitung besonderer Kategorien personenbezogener Daten. Der Verantwortliche hat hierbei die einschlägigen technischen Richtlinien und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik zu berücksichtigen.
+
+(2) Die in Absatz 1 genannten Maßnahmen können unter anderem die Pseudonymisierung und Verschlüsselung personenbezogener Daten umfassen, soweit solche Mittel in Anbetracht der Verarbeitungszwecke möglich sind. Die Maßnahmen nach Absatz 1 sollen dazu führen, dass
+
+1.
+
+    die Vertraulichkeit, Integrität, Verfügbarkeit und Belastbarkeit der Systeme und Dienste im Zusammenhang mit der Verarbeitung auf Dauer sichergestellt werden und
+2.
+
+    die Verfügbarkeit der personenbezogenen Daten und der Zugang zu ihnen bei einem physischen oder technischen Zwischenfall umgehend wiederhergestellt werden können.
+
+(3) Bei der automatisierten Verarbeitung ergreift der Verantwortliche oder der Auftragsverarbeiter nach einer Risikobewertung Maßnahmen, die Folgendes bezwecken:
+
+1.
+
+    Verwehrung des Zugangs durch Unbefugte zu Verarbeitungsanlagen, mit denen die Verarbeitung durchgeführt wird (Zugangskontrolle),
+2.
+
+    Verhinderung des unbefugten Lesens, Kopierens, Veränderns oder Löschens von Datenträgern (Datenträgerkontrolle),
+3.
+
+    Verhinderung der unbefugten Eingabe von personenbezogenen Daten sowie der unbefugten Kenntnisnahme, Veränderung und Löschung von gespeicherten personenbezogenen Daten (Speicherkontrolle),
+4.
+
+    Verhinderung der Nutzung automatisierter Verarbeitungssysteme mit Hilfe von Einrichtungen zur Datenübertragung durch Unbefugte (Benutzerkontrolle),
+5.
+
+    Gewährleistung, dass die zur Benutzung eines automatisierten Verarbeitungssystems Berechtigten ausschließlich zu den ihrer Zugangsberechtigung unterliegenden personenbezogenen Daten Zugang haben (Zugriffskontrolle),
+6.
+
+    Gewährleistung, dass überprüft und festgestellt werden kann, an welche Stellen personenbezogene Daten mit Hilfe von Einrichtungen zur Datenübertragung übermittelt oder zur Verfügung gestellt wurden oder werden können (Übertragungskontrolle),
+7.
+
+    Gewährleistung, dass nachträglich überprüft und festgestellt werden kann, welche personenbezogenen Daten zu welcher Zeit und von wem in automatisierte Verarbeitungssysteme eingegeben oder verändert worden sind (Eingabekontrolle),
+8.
+
+    Gewährleistung, dass bei der Übermittlung personenbezogener Daten sowie beim Transport von Datenträgern die Vertraulichkeit und Integrität der Daten geschützt wird (Transportkontrolle),
+9.
+
+    Gewährleistung, dass eingesetzte Systeme im Störungsfall wiederhergestellt werden können (Wiederherstellbarkeit),
+10.
+
+    Gewährleistung, dass alle Funktionen des Systems zur Verfügung stehen und auftretende Fehlfunktionen gemeldet werden (Zuverlässigkeit),
+11.
+
+    Gewährleistung, dass gespeicherte personenbezogene Daten nicht durch Fehlfunktionen des Systems beschädigt werden können (Datenintegrität),
+12.
+
+    Gewährleistung, dass personenbezogene Daten, die im Auftrag verarbeitet werden, nur entsprechend den Weisungen des Auftraggebers verarbeitet werden können (Auftragskontrolle),
+13.
+
+    Gewährleistung, dass personenbezogene Daten gegen Zerstörung oder Verlust geschützt sind (Verfügbarkeitskontrolle) und
+14.
+
+    Gewährleistung, dass zu unterschiedlichen Zwecken erhobene personenbezogene Daten getrennt verarbeitet werden können (Trennbarkeit).
+
+Ein Zweck nach Satz 1 Nr. 2 bis 5 kann insbesondere durch die Verwendung von dem Stand der Technik entsprechenden Verschlüsselungsverfahren erreicht werden.
+
+
+§ 55
+Meldung von Verletzungen des Schutzes personenbezogener Daten
+an den Landesbeauftragten für den Datenschutz
+
+(Artikel 30 der Richtlinie (EU) 2016/680)
+
+(1) Der Verantwortliche hat Verletzungen des Schutzes personenbezogener Daten unverzüglich und möglichst innerhalb von 72 Stunden, nachdem ihm diese bekannt wurden, dem Landesbeauftragten für den Datenschutz zu melden, es sei denn, dass die Verletzung voraussichtlich keine Gefahr für die Rechtsgüter natürlicher Personen darstellt. Erfolgt die Meldung an den Landesbeauftragten für den Datenschutz nicht innerhalb von 72 Stunden, ist der Meldung eine Begründung für die Verzögerung beizufügen.
+
+(2) Ein Auftragsverarbeiter hat die Verletzung des Schutzes personenbezogener Daten unverzüglich dem Verantwortlichen zu melden.
+
+(3) Die Meldung nach Absatz 1 enthält zumindest folgende Informationen:
+
+1.
+
+    eine Beschreibung der Art der Verletzung des Schutzes personenbezogener Daten, soweit möglich mit Angabe der Kategorien und der ungefähren Anzahl der betroffenen Personen, der betroffenen Kategorien personenbezogener Daten und der ungefähren Anzahl der betroffenen personenbezogenen Datensätze,
+2.
+
+    Name und Kontaktdaten des Datenschutzbeauftragten oder einer sonstigen Person oder Stelle, die weitere Informationen erteilen kann,
+3.
+
+    eine Beschreibung der wahrscheinlichen Folgen der Verletzung des Schutzes personenbezogener Daten und
+4.
+
+    eine Beschreibung der von dem Verantwortlichen ergriffenen oder vorgeschlagenen Maßnahmen zur Behandlung der Verletzung des Schutzes personenbezogener Daten und der getroffenen Maßnahmen zur Abmilderung seiner möglichen nachteiligen Auswirkungen.
+
+(4) Wenn die Informationen nicht zur gleichen Zeit bereitgestellt werden können, hat der Verantwortliche diese Informationen unverzüglich schrittweise zur Verfügung zu stellen.
+
+(5) Der Verantwortliche hat Verletzungen des Schutzes personenbezogener Daten nach Absatz 1 einschließlich aller im Zusammenhang mit ihnen stehenden Tatsachen, deren Auswirkungen und der ergriffenen Abhilfemaßnahmen zu dokumentieren.
+
+(6) Soweit von der Verletzung des Schutzes personenbezogener Daten personenbezogene Daten betroffen sind, die von dem oder an den Verantwortlichen in einem anderen Mitgliedstaat der Europäischen Union übermittelt wurden, werden die in Absatz 3 genannten Informationen dem Verantwortlichen in jenem Mitgliedstaat unverzüglich übermittelt.
+
+(7) Weitere Pflichten des Verantwortlichen zur Benachrichtigung über Verletzungen des Schutzes personenbezogener Daten bleiben unberührt.
+
+
+§ 56
+Benachrichtigung der betroffenen Person bei
+Verletzungen des Schutzes personenbezogener Daten
+
+(Artikel 31 der Richtlinie (EU) 2016/680)
+
+(1) Wenn eine Verletzung des Schutzes personenbezogener Daten voraussichtlich eine hohe Gefährdung für die Rechtsgüter natürlicher Personen zur Folge hat, so hat der Verantwortliche die betroffenen Personen unverzüglich von der Verletzung zu benachrichtigen.
+
+(2) Die Benachrichtigung der betroffenen Personen nach Absatz 1 beschreibt in klarer und einfacher Sprache die Art der Verletzung des Schutzes personenbezogener Daten und enthält zumindest die in § 55 Abs. 3 Nr. 2 bis 4 genannten Informationen und Maßnahmen.
+
+(3) Die Benachrichtigung der betroffenen Personen nach Absatz 1 ist nicht erforderlich, wenn
+
+1.
+
+    der Verantwortliche geeignete technische und organisatorische Sicherheitsvorkehrungen getroffen und diese Vorkehrungen auf die von der Verletzung des Schutzes betroffenen personenbezogenen Daten angewandt hat, insbesondere solche, durch die die personenbezogenen Daten für alle Personen, die nicht zum Zugang zu den personenbezogenen Daten befugt sind, unzugänglich gemacht werden, etwa durch Verschlüsselung,
+2.
+
+    der Verantwortliche durch im Anschluss an die Verletzung getroffene Maßnahmen sichergestellt hat, dass die erhebliche Gefahr für die Rechtsgüter der betroffenen Personen nach Absatz 1 aller Wahrscheinlichkeit nach nicht mehr besteht, oder
+3.
+
+    dies mit einem unverhältnismäßigen Aufwand verbunden wäre; in diesem Fall hat stattdessen eine öffentliche Bekanntmachung oder eine ähnliche Maßnahme zu erfolgen, durch die die betroffenen Personen vergleichbar wirksam informiert werden.
+
+(4) Wenn der Verantwortliche die betroffenen Personen nicht bereits über die Verletzung des Schutzes personenbezogener Daten benachrichtigt hat, kann der Landesbeauftragte für den Datenschutz unter Berücksichtigung der Wahrscheinlichkeit, mit der die Verletzung des Schutzes personenbezogener Daten zu einer erheblichen Gefahr führt, von dem Verantwortlichen verlangen, dies nachzuholen oder förmlich feststellen, dass bestimmte der in Absatz 3 genannten Voraussetzungen erfüllt sind.
+
+(5) Die Benachrichtigung der betroffenen Personen nach Absatz 1 kann unter den in § 41 Abs. 2 genannten Voraussetzungen aufgeschoben, eingeschränkt oder unterlassen werden.
+
+
+Fünfter Unterabschnitt
+Übermittlung personenbezogener Daten an
+Drittstaaten oder internationale Organisationen
+§ 57
+Allgemeine Voraussetzungen für Datenübermittlungen an
+Stellen in Drittstaaten und internationale Organisationen
+
+(Artikel 35 und 36 der Richtlinie (EU) 2016/680)
+
+(1) Die Übermittlung personenbezogener Daten an Stellen in einem Drittstaat oder internationale Organisationen, die für die in § 31 genannten Zwecke zuständig sind, ist bei Vorliegen der übrigen für Datenübermittlungen geltenden Voraussetzungen zulässig, wenn die Europäische Kommission nach Artikel 36 Abs. 3 der Richtlinie (EU) 2016/680 einen Angemessenheitsbeschluss gefasst hat.
+
+(2) Die Übermittlung personenbezogener Daten hat trotz des Vorliegens eines Angemessenheitsbeschlusses im Sinne des Absatzes 1 und des zu berücksichtigenden öffentlichen Interesses an der Datenübermittlung zu unterbleiben, wenn im Einzelfall ein datenschutzrechtlich angemessener und die elementaren Menschenrechte wahrender Umgang mit den Daten beim Empfänger nicht hinreichend gesichert ist oder sonst überwiegende schutzwürdige Interessen einer betroffenen Person entgegenstehen. Bei seiner Beurteilung hat der Verantwortliche maßgeblich zu berücksichtigen, ob der Empfänger im Einzelfall einen angemessenen Schutz der übermittelten Daten garantiert.
+
+(3) Wenn personenbezogene Daten, die aus einem anderen Mitgliedstaat der Europäischen Union übermittelt oder zur Verfügung gestellt wurden, nach Absatz 1 übermittelt werden sollen, muss diese Übermittlung zuvor von der zuständigen Stelle des anderen Mitgliedstaats genehmigt werden. Übermittlungen ohne vorherige Genehmigung sind nur dann zulässig, wenn die Übermittlung erforderlich ist, um eine unmittelbare und ernsthafte Gefahr für die öffentliche Sicherheit eines Staates oder für die wesentlichen Interessen eines Mitgliedstaats abzuwehren, und die vorherige Genehmigung nicht rechtzeitig eingeholt werden kann. Im Fall des Satzes 2 ist die Stelle des anderen Mitgliedstaats, die für die Erteilung der Genehmigung zuständig gewesen wäre, unverzüglich über die Übermittlung zu unterrichten.
+
+(4) Der Verantwortliche, der Daten nach Absatz 1 übermittelt, hat durch geeignete Maßnahmen sicherzustellen, dass der Empfänger die übermittelten Daten nur dann an andere Drittstaaten oder andere internationale Organisationen weiterübermittelt, wenn der Verantwortliche diese Übermittlung zuvor genehmigt hat. Bei der Entscheidung über die Erteilung der Genehmigung hat der Verantwortliche alle maßgeblichen Faktoren zu berücksichtigen, insbesondere die Schwere der Straftat, den Zweck der ursprünglichen Übermittlung und das in dem Drittstaat oder der internationalen Organisation, an den oder an die die Daten weiterübermittelt werden sollen, bestehende Schutzniveau für personenbezogene Daten. Eine Genehmigung darf nur dann erfolgen, wenn auch eine direkte Übermittlung an den anderen Drittstaat oder die andere internationale Organisation zulässig wäre. Die Zuständigkeit für die Erteilung der Genehmigung kann auch abweichend geregelt werden.
+
+
+§ 58
+Datenübermittlung bei geeigneten Garantien
+
+(Artikel 37 der Richtlinie (EU) 2016/680)
+
+(1) Liegt kein Beschluss nach Artikel 36 Abs. 3 der Richtlinie (EU) 2016/680 vor, ist eine Übermittlung bei Vorliegen der übrigen Voraussetzungen des § 57 auch dann zulässig, wenn
+
+1.
+
+    in einem rechtsverbindlichen Instrument geeignete Garantien für den Schutz personenbezogener Daten vorgesehen sind oder
+2.
+
+    der Verantwortliche nach Beurteilung aller Umstände, die bei der Übermittlung eine Rolle spielen, zu der Auffassung gelangt ist, dass geeignete Garantien zum Schutz personenbezogener Daten bestehen.
+
+(2) Der Verantwortliche hat Übermittlungen nach Absatz 1 Nr. 2 zu dokumentieren. Die Dokumentation hat den Zeitpunkt der Übermittlung, die Identität des Empfängers, den Grund der Übermittlung und die übermittelten personenbezogenen Daten zu enthalten. Sie ist dem Landesbeauftragten für den Datenschutz auf Anforderung zur Verfügung zu stellen.
+
+(3) Der Verantwortliche hat den Landesbeauftragten für den Datenschutz zumindest jährlich über Übermittlungen zu unterrichten, die aufgrund einer Beurteilung nach Absatz 1 Nr. 2 erfolgt sind. In der Unterrichtung kann er die Empfänger und die Übermittlungszwecke angemessen kategorisieren.
+
+
+§ 59
+Datenübermittlung ohne Angemessenheitsbeschluss
+und ohne geeignete Garantien
+
+(Artikel 38 der Richtlinie (EU) 2016/680)
+
+(1) Liegen weder ein Beschluss nach Artikel 36 Abs. 3 der Richtlinie (EU) 2016/680 noch geeignete Garantien nach § 58 Abs. 1 vor, ist eine Übermittlung bei Vorliegen der übrigen Voraussetzungen des § 57 auch dann zulässig, wenn die Übermittlung erforderlich ist
+
+1.
+
+    zum Schutz lebenswichtiger Interessen einer natürlichen Person,
+2.
+
+    zur Wahrung berechtigter Interessen der betroffenen Person,
+3.
+
+    zur Abwehr einer gegenwärtigen und erheblichen Gefahr für die öffentliche Sicherheit eines Staates,
+4.
+
+    im Einzelfall für die in § 31 genannten Zwecke oder
+5.
+
+    im Einzelfall zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen im Zusammenhang mit den in § 31 genannten Zwecken.
+
+(2) Der Verantwortliche hat von einer Übermittlung nach Absatz 1 abzusehen, wenn die Grundrechte der betroffenen Person das öffentliche Interesse an der Übermittlung überwiegen.
+
+(3) § 58 Abs. 2 und 3 gilt entsprechend.
+
+
+§ 60
+Sonstige Datenübermittlung an Empfänger in Drittstaaten
+
+(Artikel 39 der Richtlinie (EU) 2016/680)
+
+(1) Verantwortliche können bei Vorliegen der übrigen für die Datenübermittlung in Drittstaaten geltenden Voraussetzungen im besonderen Einzelfall personenbezogene Daten direkt an Stellen in Drittstaaten, die nicht für die in § 31 genannten Zwecke zuständig sind, übermitteln, wenn die Übermittlung für die Aufgabenerfüllung unbedingt erforderlich ist und
+
+1.
+
+    im konkreten Fall keine Grundrechte der betroffenen Person das öffentliche Interesse an einer Übermittlung überwiegen,
+2.
+
+    die Übermittlung an die für die in § 31 genannten Zwecke zuständige Stelle wirkungslos oder ungeeignet ist, insbesondere weil die Übermittlung nicht rechtzeitig durchgeführt werden kann, und
+3.
+
+    der Verantwortliche dem Empfänger die Zwecke der Verarbeitung mitteilt und ihn darauf hinweist, dass die übermittelten Daten für diese Zwecke nur verarbeitet werden dürfen, wenn diese Verarbeitung erforderlich ist.
+
+(2) Der Verantwortliche hat die für die in § 31 genannten Zwecke zuständige Stelle, an die abweichend von § 57 nicht übermittelt wurde, unverzüglich über die Übermittlung zu unterrichten, sofern dies nicht wirkungslos oder ungeeignet ist.
+
+(3) Bei Übermittlungen nach Absatz 1 hat der Verantwortliche den Empfänger zu verpflichten, die übermittelten personenbezogenen Daten ohne seine Zustimmung nur für den Zweck zu verarbeiten, für den sie übermittelt worden sind.
+
+(4) Abkommen im Bereich der justiziellen Zusammenarbeit in Strafsachen und der polizeilichen Zusammenarbeit bleiben unberührt.
+
+(5) § 58 Abs. 2 und 3 gilt entsprechend.
+
+
+Vierter Abschnitt
+Ordnungswidrigkeiten und Strafbestimmungen
+§ 61
+Ordnungswidrigkeiten und Strafbestimmungen
+
+(1) Ordnungswidrig handelt, wer entgegen den Bestimmungen der Verordnung (EU) 2016/679, dieses Gesetzes oder einer anderen Rechtsvorschrift über den Schutz personenbezogener Daten solche Daten
+
+1.
+
+    erhebt, speichert, verändert, übermittelt oder nutzt,
+2.
+
+    zum Abruf mittels automatisierten Verfahrens bereithält,
+3.
+
+    abruft oder sich oder einem anderen aus Dateien verschafft oder
+4.
+
+    sonst verarbeitet.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+
+(3) Ebenso kann mit Geldbuße bis zu fünfzigtausend Euro belegt werden, wer die Übermittlung von personenbezogenen Daten, die nicht offenkundig sind, durch unrichtige Angaben erschleicht.
+
+(4) Gegen öffentliche und ehrenamtlich tätige Stellen nach § 2 Abs. 1 und 2 werden keine Geldbußen verhängt, es sei denn, es handelt sich um öffentliche Stellen, die am Wettbewerb im Sinne des § 26 teilnehmen.
+
+(5) Wer bei einer Handlung nach den Absätzen 1 und 3 gegen Entgelt oder in der Absicht handelt, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft. Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind die betroffene Person und der Landesbeauftragte für den Datenschutz.
+
+(6) Der Landesbeauftragte für den Datenschutz ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung vom 19. Februar 1987 (BGBl. I S. 602) in der jeweils geltenden Fassung.
+
+
+Fünfter Abschnitt
+Orden und Ehrenzeichen, Gnadensachen
+§ 62
+Orden und Ehrenzeichen
+
+Sofern personenbezogene Daten zur Entscheidung über die Verleihung von staatlichen Orden oder Ehrenzeichen verarbeitet werden, ist der Verantwortliche nicht zur Informations- und Auskunftserteilung nach den Artikeln 13 bis 15 der Verordnung (EU) 2016/679 sowie den §§ 20 und 21 verpflichtet.
+
+
+§ 63
+Gnadensachen
+
+§ 62 gilt entsprechend für die Datenverarbeitung in Gnadensachen.
+
+
+Sechster Abschnitt
+Übergangs- und Schlussbestimmungen
+§ 64
+Übergangsbestimmungen
+
+(1) Die Amtszeit des Landesbeauftragten für den Datenschutz, der am 24. Mai 2018 das Amt des Landesbeauftragten für den Datenschutz innehat, wird durch das Inkrafttreten der Verordnung (EU) 2016/679 sowie dieses Gesetzes nicht unterbrochen. Hat der Landesbeauftragte für den Datenschutz das Amt am 24. Mai 2018 bereits aufgrund einer Wiederwahl inne, ist eine nochmalige Wiederwahl nicht möglich. § 5 Abs. 3 Satz 2 gilt nicht für den Amtsinhaber nach Satz 1.
+
+(2) Der Landesbeauftragte für den Datenschutz, welcher zum Zeitpunkt des Inkrafttretens dieses Gesetzes bestellt ist, gilt als Aufsichtsbehörde im Sinne dieses Gesetzes.
+
+(3) Absatz 1 Satz 1 gilt entsprechend für behördliche Datenschutzbeauftragte, die am 24. Mai 2018 bestellt sind.
+
+(4) In dem Jahresbericht für das Jahr 2018 nach § 10 Abs. 1 und § 11 Abs. 2 ist für den Berichtszeitraum vom 1. Januar 2018 bis zum 24. Mai 2018 das Thüringer Datenschutzgesetz in der am 24. Mai 2018 geltenden Fassung zugrunde zu legen.
+
+(5) Die zum Zeitpunkt des Inkrafttretens dieses Gesetzes im Anwendungsbereich des Dritten Abschnitts eingerichteten automatisierten Verarbeitungssysteme sind zeitnah, in Ausnahmefällen, in denen die Anpassung mit einem unverhältnismäßigem Aufwand verbunden ist, jedoch spätestens bis zum 6. Mai 2023, mit § 51 in Einklang zu bringen.
+
+
+§ 65
+Gleichstellungsbestimmung
+
+Status- und Funktionsbezeichnungen in diesem Gesetz gelten jeweils in männlicher und weiblicher Form.
+

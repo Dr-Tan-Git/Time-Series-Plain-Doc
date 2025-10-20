@@ -1,0 +1,394 @@
+Datenschutzgesetz für das Land Mecklenburg-Vorpommern
+(Landesdatenschutzgesetz - DSG M-V)
+
+
+Teil 1
+Allgemeine Regelungen
+§ 1
+Zweck des Gesetzes
+
+(1) Dieses Gesetz regelt die notwendigen Ergänzungen zur Durchführung der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 04.05.2016, S. 1; L 314 vom 22.11.2016, S. 72). Gleichzeitig regelt es in den Grenzen der Verordnung (EU) 2016/679 die spezifischen Anforderungen an die Verarbeitung personenbezogener Daten.
+
+(2) Darüber hinaus trifft dieses Gesetz Regelungen für die Verarbeitung personenbezogener Daten und die Kontrolle der Verarbeitung außerhalb des Anwendungsbereichs des Unionsrechts im Sinne von Artikel 2 Absatz 2 Buchstabe a der Verordnung (EU) 2016/679 .
+
+
+§ 2
+Anwendungsbereich
+
+(1) Dieses Gesetz gilt für Behörden, öffentlich-rechtliche Einrichtungen und Stellen des Landes, der Gemeinden, der Ämter, der Landkreise sowie für sonstige der Aufsicht des Landes unterstehende juristische Personen des öffentlichen Rechts (öffentliche Stellen), wenn sie personenbezogene Daten verarbeiten.
+
+(2) Als öffentliche Stellen gelten auch juristische Personen und sonstige Vereinigungen des privaten Rechts, die Aufgaben der öffentlichen Verwaltung wahrnehmen und an denen eine oder mehrere der in Absatz 1 genannten juristischen Personen des öffentlichen Rechts mit absoluter Mehrheit der Anteile oder Stimmen beteiligt sind. Beteiligt sich eine juristische Person oder sonstige Vereinigung des privaten Rechts, auf die dieses Gesetz nach Satz 1 Anwendung findet, an einer weiteren Vereinigung des privaten Rechts, so findet Satz 1 entsprechende Anwendung. Nehmen nicht-öffentliche Stellen hoheitliche Aufgaben der öffentlichen Verwaltung wahr, sind sie insoweit öffentliche Stellen im Sinne dieses Gesetzes.
+
+(3) Für die Gerichte sowie für die Behörden der Staatsanwaltschaft, den Verfassungsschutz und den Landesrechnungshof gilt dieses Gesetz nur, soweit sie allgemeine Verwaltungsaufgaben wahrnehmen.
+
+(4) Der Landtag, seine Gremien, seine Mitglieder, die Fraktionen sowie ihre jeweiligen Verwaltungen und Beschäftigten unterliegen nicht den Bestimmungen dieses Gesetzes, soweit sie zur Wahrnehmung parlamentarischer Aufgaben personenbezogene Daten verarbeiten und dabei die vom Landtag hierfür erlassenen Datenschutzregelungen anzuwenden haben.
+
+(5) Dieses Gesetz gilt nicht für öffentliche Stellen, soweit sie am Wettbewerb teilnehmen. Für sie gelten insoweit die für nicht-öffentliche Stellen geltenden Vorschriften.
+
+(6) Religionsgemeinschaften des öffentlichen Rechts und die diesen zugeordneten Einrichtungen des Privatrechts unterliegen den Bestimmungen dieses Gesetzes nicht, wenn sie zum Zeitpunkt des Inkrafttretens der Verordnung (EU) 2016/679 umfassende Regeln zum Schutz natürlicher Personen bei der Verarbeitung angewendet und diese Regeln mit der Verordnung (EU) 2016/679 in Einklang gebracht haben.
+
+(7) Die Vorschriften der Verordnung (EU) 2016/679 in Verbindung mit diesem Gesetz gehen denen des Landesverwaltungsverfahrensgesetzes vor, soweit personenbezogene Daten verarbeitet werden.
+
+
+§ 3
+Entsprechende Anwendung zur
+Umsetzung der Richtlinie (EU) 2016/680
+
+Zur Umsetzung der Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zweck der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates (ABl. L 119 vom 04.05.2016, S. 89) gelten die Regelungen der Verordnung (EU) 2016/679 und dieses Gesetzes entsprechend, soweit gesetzlich nicht etwas anderes bestimmt ist.
+
+
+Teil 2
+Grundsätze
+§ 4
+Zulässigkeit der Verarbeitung
+
+(1) Die Verarbeitung personenbezogener Daten ist zulässig, wenn sie zur Erfüllung der in der Zuständigkeit der öffentlichen Stelle liegenden Aufgabe oder in Ausübung öffentlicher Gewalt, die der öffentlichen Stelle übertragen wurde, erforderlich ist. Die öffentliche Stelle ist insoweit Verantwortlicher im Sinne der Verordnung (EU) 2016/679 . Soweit nicht offensichtlich überwiegende schutzwürdige Interessen der betroffenen Person entgegenstehen, können personenbezogene Daten auch zu eigenen Ausbildungs- oder Prüfungszwecken verarbeitet werden.
+
+(2) Eine Verarbeitung zu einem anderen Zweck als demjenigen, zu dem die personenbezogenen Daten erhoben wurden, ist zulässig, wenn
+
+1.
+
+    es zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer sonst unmittelbar drohenden Gefahr für die öffentliche Sicherheit erforderlich ist,
+2.
+
+    es zur Verfolgung von Straftaten und Ordnungswidrigkeiten, zur Vollstreckung oder zum Vollzug von Strafen, von Maßnahmen nach § 11 Absatz 1 Nummer 8 des Strafgesetzbuches , von Erziehungsmaßregeln oder von Zuchtmitteln im Sinne des Jugendgerichtsgesetzes oder zur Vollstreckung von Bußgeldentscheidungen erforderlich ist,
+3.
+
+    sie zum Schutz der betroffenen Person oder der Rechte und Freiheiten anderer Personen erforderlich ist,
+4.
+
+    Angaben der betroffenen Person überprüft werden müssen, weil tatsächliche Anhaltspunkte für deren Unrichtigkeit bestehen,
+5.
+
+    es zu Zwecken der Ausübung von Aufsichts- und Kontrollbefugnissen, der Rechnungsprüfung oder der Durchführung von Organisationsuntersuchungen erforderlich ist.
+
+(3) Besondere Amts- oder Berufsgeheimnisse bleiben unberührt.
+
+(4) Personenbezogene Daten, die ausschließlich zu Zwecken der Datenschutzkontrolle, der Datensicherheit oder zur Sicherstellung des ordnungsgemäßen Betriebes einer Datenverarbeitungsanlage gespeichert werden, dürfen nicht für andere Zwecke verarbeitet werden.
+
+(5) Sind mit personenbezogenen Daten weitere Daten der betroffenen Person oder Dritter derart verbunden, dass die Trennung nach erforderlichen und nicht erforderlichen Daten nicht oder nur mit unverhältnismäßig hohem Aufwand möglich ist, so sind auch die Kenntnisnahme, die Weitergabe innerhalb der Stelle des Verantwortlichen und die Übermittlung der Daten an andere öffentliche Stellen, die nicht zur Erfüllung der jeweiligen Aufgabe erforderlich sind, zulässig. Die nicht erforderlichen Daten unterliegen einem Verwertungsverbot, auf welches der Verantwortliche hinzuweisen hat.
+
+
+Teil 3
+Rechte der betroffenen Person
+§ 5
+Beschränkung der Informationspflicht
+
+Der Verantwortliche kann von seiner Informationspflicht bei der Verarbeitung von personenbezogenen Daten nach Artikel 13 oder 14 der Verordnung (EU) 2016/679 absehen, soweit und solange
+
+1.
+
+    die Information die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde,
+2.
+
+    dies zur Verfolgung von Straftaten oder Ordnungswidrigkeiten notwendig ist oder
+3.
+
+    die personenbezogenen Daten oder die Tatsache ihrer Verarbeitung nach einer Rechtsvorschrift oder wegen der Rechte und Freiheiten anderer Personen geheim zu halten sind.
+
+
+
+§ 6
+Beschränkung des Auskunftsrechts
+
+(1) Bezieht sich eine Auskunftserteilung an eine betroffene Person auf personenbezogene Daten, die vom Verantwortlichen an Behörden der Staatsanwaltschaft, an Polizeidienststellen, an Landesfinanzbehörden, an Behörden des Verfassungsschutzes, den Bundesnachrichtendienst, den Militärischen Abschirmdienst oder andere Behörden des Bundesministeriums der Verteidigung übermittelt wurden, so ist diesen vorab Gelegenheit zur Stellungnahme zu geben. Gleiches gilt für Auskunftserteilungen, die sich auf die Übermittlung personenbezogener Daten von diesen Behörden beziehen.
+
+(2) Der Verantwortliche kann einen Antrag auf Auskunftsersuchen ablehnen, soweit und solange
+
+1.
+
+    die Information die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde,
+2.
+
+    dies zur Verfolgung von Straftaten oder Ordnungswidrigkeiten notwendig ist oder
+3.
+
+    die personenbezogenen Daten oder die Tatsache ihrer Verarbeitung nach einer Rechtsvorschrift oder wegen der Rechte und Freiheiten anderer Personen geheim zu halten sind.
+
+(3) Die Ablehnung der Auskunftserteilung bedarf keiner Begründung, soweit durch die Mitteilung der tatsächlichen und rechtlichen Gründe, auf die die Entscheidung gestützt wird, der mit der Auskunftsverweigerung verfolgte Zweck gefährdet würde.
+
+(4) Wird der betroffenen Person keine Auskunft erteilt, so ist diese auf Verlangen der Aufsichtsbehörde zu erteilen, soweit nicht die jeweils zuständige oberste Landesbehörde im Einzelfall feststellt, dass dadurch die Sicherheit des Bundes oder eines Landes gefährdet würde. Die Mitteilung der Aufsichtsbehörde an die betroffene Person darf keine Rückschlüsse auf den Erkenntnisstand des Verantwortlichen zulassen, sofern dieser nicht einer weitergehenden Auskunft zugestimmt hat.
+
+(5) Ein Auskunftsanspruch der betroffenen Person über personenbezogene Daten, die ausschließlich zu Zwecken der Datensicherung und der Datenschutzkontrolle gespeichert sind, ist ausgeschlossen.
+
+
+§ 7
+Benachrichtigung der von einer Verletzung des
+Schutzes personenbezogener Daten betroffenen Person
+nach Artikel 34 der Verordnung (EU) 2016/679
+
+Der Verantwortliche kann von der Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person absehen, soweit und solange
+
+1.
+
+    die Information die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde,
+2.
+
+    die personenbezogenen Daten oder die Tatsache ihrer Verarbeitung nach einer Rechtsvorschrift oder wegen der Rechte und Freiheiten anderer Personen geheim zu halten sind oder
+3.
+
+    die Benachrichtigung die Sicherheit von Datenverarbeitungssystemen gefährden würden.
+
+
+
+Teil 4
+Besondere Verarbeitungssituationen
+§ 8
+Verarbeitung besonderer Kategorien personenbezogener Daten
+
+Werden auf der Grundlage dieses Teils besondere Kategorien personenbezogener Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 verarbeitet, sind vom Verantwortlichen angemessene und spezifische Maßnahmen zur Wahrung der Grundrechte und Interessen der betroffenen Person vorzusehen. Unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere der mit der Verarbeitung verbundenen Risiken für die Rechte und Freiheiten natürlicher Personen können dazu insbesondere gehören:
+
+1.
+
+    technische und organisatorische Maßnahmen, um sicherzustellen, dass die Verarbeitung gemäß der Verordnung (EU) 2016/679 erfolgt,
+2.
+
+    Maßnahmen, die gewährleisten, dass nachträglich überprüft und festgestellt werden kann, ob und von wem personenbezogene Daten verarbeitet worden sind,
+3.
+
+    die Sensibilisierung der an der Verarbeitung Beteiligten,
+4.
+
+    die Beschränkung des Zugangs zu den personenbezogenen Daten innerhalb der Stelle des Verantwortlichen sowie möglicher Auftragsverarbeiter,
+5.
+
+    die Pseudonymisierung oder Verschlüsselung personenbezogener Daten,
+6.
+
+    die Sicherstellung der Vertraulichkeit, Integrität und Verfügbarkeit der Daten sowie der Belastbarkeit der Systeme und Dienste, die mit der Verarbeitung personenbezogener Daten in Zusammenhang stehen, einschließlich der Fähigkeit, die Verfügbarkeit und den Zugang zu diesen Daten, Systemen und Diensten bei einem Zwischenfall wiederherzustellen,
+7.
+
+    zur Gewährleistung der Sicherheit der Verarbeitung die Einrichtung eines Verfahrens zur regelmäßigen Überprüfung, Bewertung und Evaluierung der Wirksamkeit der technischen und organisatorischen Maßnahmen oder
+8.
+
+    spezifische Verfahrensregelungen, die im Falle einer Übermittlung oder Verarbeitung für andere Zwecke die Einhaltung der Vorgaben dieses Gesetzes sowie der Verordnung (EU) 2016/679 sicherstellen.
+
+
+
+Kapitel 1
+Besondere Verarbeitungssituationen im
+Anwendungsbereich der Verordnung (EU) 2016/679
+§ 9
+Datenverarbeitung für wissenschaftliche
+oder historische Forschung
+
+(1) Öffentliche Stellen dürfen personenbezogene Daten einschließlich besondere Kategorien personenbezogener Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ohne Einwilligung für ein bestimmtes Forschungsvorhaben verarbeiten, wenn schutzwürdige Belange der betroffenen Person wegen der Art der Daten, wegen ihrer Offenkundigkeit oder wegen der Art der Verwendung nicht beeinträchtigt werden oder das öffentliche Interesse an der Durchführung des Forschungsvorhabens die schutzwürdigen Belange der betroffenen Person erheblich überwiegt und der Zweck der Forschung nicht auf andere Weise erreicht werden kann. Im Falle einer Übermittlung dürfen die personenbezogenen Daten nicht für andere Zwecke als für Forschungszwecke verarbeitet werden.
+
+(2) Die Daten sind, sobald dies nach dem Forschungszweck möglich ist, dergestalt zu verändern, dass die Einzelangaben über persönliche oder sachliche Verhältnisse nicht mehr oder nur mit einem unverhältnismäßigen Aufwand an Zeit, Kosten und Arbeitskraft einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können. Bis dahin sind die Merkmale gesondert zu speichern, mit denen Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person zugeordnet werden können. Sie sind zu löschen, sobald der Forschungszweck dies erlaubt.
+
+(3) Die wissenschaftliche oder historische Forschung betreibenden öffentlichen Stellen dürfen personenbezogene Daten nur veröffentlichen, wenn
+
+1.
+
+    die betroffene Person eingewilligt hat oder
+2.
+
+    dies für die Darstellung von Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist.
+
+(4) An Dritte oder Stellen, die den Vorschriften dieses Gesetzes nicht unterliegen, dürfen personenbezogene Daten entsprechend Absatz 1 Satz 1 nur übermittelt werden, wenn diese sich verpflichten, die Bestimmungen des Absatzes 1 Satz 2 sowie der Absätze 2 und 3 einzuhalten.
+
+(5) Das Recht auf Auskunft nach Artikel 15 der Verordnung (EU) 2016/679 , auf Berichtigung nach Artikel 16 der Verordnung (EU) 2016/679 , auf Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU) 2016/679 und auf Widerspruch nach Artikel 21 der Verordnung (EU) 2016/679 besteht nicht, soweit die Wahrnehmung dieser Rechte die spezifischen Forschungszwecke unmöglich machen oder ernsthaft beeinträchtigen würde und solche Ausnahmen für die Erfüllung dieser Zwecke notwendig sind oder die Inanspruchnahme oder Gewährung dieser Rechte unmöglich ist.
+
+
+§ 10
+Datenverarbeitung bei Beschäftigungsverhältnissen
+
+(1) Personenbezogene Daten von Bewerberinnen und Bewerbern sowie von Beschäftigten dürfen nur verarbeitet werden, wenn dies zur Eingehung, Durchführung, Beendigung oder Abwicklung des Dienst- oder Arbeitsverhältnisses oder zur Durchführung innerdienstlicher, planerischer, organisatorischer, personeller, sozialer oder haushalts- und kostenrechnerischer Maßnahmen, insbesondere zu Zwecken der Personalplanung und des Personaleinsatzes, erforderlich ist oder in einer Rechtsvorschrift, einem Tarifvertrag oder einer Dienst- oder Betriebsvereinbarung vorgesehen ist. Zur Aufdeckung von Straftaten dürfen personenbezogene Daten von Beschäftigen nur dann verarbeitet werden, wenn zu dokumentierende tatsächliche Anhaltspunkte den Verdacht begründen, dass die betroffene Person im Beschäftigungsverhältnis eine Straftat begangen hat, die Verarbeitung zur Aufdeckung erforderlich ist und das schutzwürdige Interesse der betroffenen Person an dem Ausschluss der Verarbeitung nicht überwiegt, insbesondere Art und Ausmaß im Hinblick auf den Anlass nicht unverhältnismäßig sind. Eine Übermittlung der Daten von Beschäftigten an Personen und Stellen außerhalb des öffentlichen Bereiches ist nur zulässig, wenn der Empfänger ein rechtliches Interesse darlegt, der Dienstverkehr es erfordert oder die betroffene Person eingewilligt hat. Die Datenübermittlung an einen künftigen Dienstherrn oder Arbeitgeber ist nur mit Einwilligung der betroffenen Person zulässig.
+
+(2) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 für Zwecke des Beschäftigungsverhältnisses zulässig, wenn sie zur Ausübung von Rechten oder zur Erfüllung rechtlicher Pflichten aus dem Arbeitsrecht, dem Recht der sozialen Sicherheit und des Sozialschutzes erforderlich ist und kein Grund zu der Annahme besteht, dass das schutzwürdige Interesse der betroffenen Person an dem Ausschluss der Verarbeitung überwiegt. Erfolgt die Verarbeitung auf der Grundlage einer Einwilligung, muss sich die Einwilligung ausdrücklich auf diese Daten beziehen.
+
+(3) Auf die Verarbeitung von Personalaktendaten der Arbeitnehmerinnen und Arbeitnehmer sowie der Auszubildenden finden die für Beamtinnen und Beamte geltenden Vorschriften des Landesbeamtengesetzes entsprechende Anwendung, es sei denn, besondere Rechtsvorschriften oder tarifliche Vereinbarungen gehen vor.
+
+(4) Die Verarbeitung der bei medizinischen oder psychologischen Untersuchungen und Tests zum Zwecke der Eingehung eines Dienst- oder Arbeitsverhältnisses erhobenen Daten ist nur zulässig, soweit dies wegen der besonderen Anforderungen an die vorgesehene Tätigkeit erforderlich ist. Die Einstellungsbehörde darf von der untersuchenden Ärztin oder dem untersuchenden Arzt nur die Übermittlung des Ergebnisses der Eignungsuntersuchung und dabei festgestellter Risikofaktoren verlangen.
+
+(5) Personenbezogene Daten, die zu Zwecken der Eingehung eines Dienst- oder Arbeitsverhältnisses verarbeitet werden, sind zu löschen, sobald feststeht, dass ein Dienst- oder Arbeitsverhältnis nicht zustande kommt. Dies gilt nicht, wenn die betroffene Person in die weitere Verarbeitung eingewilligt hat oder soweit Rechtsvorschriften einer Löschung entgegenstehen. Besteht Grund zu der Annahme, dass durch die Löschung schutzwürdige Belange der betroffenen Person beeinträchtigt werden, ist sie zu benachrichtigen. Soweit Rechtsvorschriften nicht entgegenstehen, sind personenbezogene Daten nach Beendigung eines Dienst- oder Arbeitsverhältnisses zu löschen, wenn diese nicht mehr benötigt werden.
+
+(6) Soweit personenbezogene Daten der Beschäftigten im Rahmen der Durchführung der technischen und organisatorischen Maßnahmen nach Artikel 32 der Verordnung (EU) 2016/679 gespeichert werden, dürfen sie nicht zu Zwecken der Verhaltens- oder Leistungskontrolle genutzt werden.
+
+
+§ 11
+Videoüberwachung
+
+(1) Die Verarbeitung personenbezogener Daten mit Hilfe von optisch-elektronischen Einrichtungen (Videoüberwachung) ist zulässig, wenn dies
+
+1.
+
+    zur Wahrnehmung des Hausrechts,
+2.
+
+    zum Schutz des Eigentums oder Besitzes oder
+3.
+
+    zur Kontrolle von Zugangsberechtigungen
+
+erforderlich ist und keine Anhaltspunkte bestehen, dass überwiegende schutzwürdige Interessen der betroffenen Personen entgegenstehen.
+
+(2) Die Videoüberwachung, die Angaben nach Artikel 13 Absatz 1 Buchstabe a bis c der Verordnung (EU) 2016/679 sowie die Möglichkeit, bei der oder dem Verantwortlichen die weiteren Informationen nach Artikel 13 der Verordnung (EU) 2016/679 zu erhalten, sind durch geeignete Maßnahmen zum frühestmöglichen Zeitpunkt erkennbar zu machen.
+
+(3) Eine Verarbeitung zu anderen Zwecken ist nur zulässig, soweit dies zur Abwehr von Gefahren für die öffentliche Sicherheit oder zur Verfolgung von Straftaten erforderlich ist.
+
+
+§ 12
+Verarbeitung personenbezogener Daten
+zu Zwecken der freien Meinungsäußerung
+und der Informationsfreiheit
+
+(1) Soweit personenbezogene Daten in Ausübung des Rechts auf freie Meinungsäußerung und Informationsfreiheit zu journalistischen, künstlerischen oder literarischen Zwecken verarbeitet werden, gelten von den Kapiteln II bis VII sowie IX der Verordnung (EU) 2016/679 nur Artikel 5 Absatz 1 Buchstabe f und die Artikel 24 und 32 sowie § 83 des Bundesdatenschutzgesetzes . Artikel 82 der Verordnung (EU) 2016/679 und § 83 des Bundesdatenschutzgesetzes gelten mit der Maßgabe, dass nur für Schäden gehaftet wird, die durch eine Verletzung des Datengeheimnisses oder durch unzureichende technische oder organisatorische Maßnahmen nach Artikel 5 Absatz 1 Buchstabe f und Artikel 24 der Verordnung (EU) 2016/679 eintreten.
+
+(2) Führt die Verarbeitung personenbezogener Daten gemäß Absatz 1 Satz 1 zur Verbreitung von Gegendarstellungen der betroffenen Person oder zu Verpflichtungserklärungen, Beschlüssen oder Urteilen über die Unterlassung der Verbreitung oder über den Widerruf des Inhalts der Daten, so sind diese Gegendarstellungen, Verpflichtungserklärungen, Beschlüsse, Urteile und Widerrufe zu den gespeicherten Daten zu nehmen und dort für dieselbe Zeitdauer aufzubewahren wie die Daten selbst sowie bei einer Übermittlung der Daten gemeinsam zu übermitteln.
+
+
+Kapitel 2
+Besondere Verarbeitungssituationen außerhalb des
+Anwendungsbereichs der Verordnung (EU) 2016/679
+§ 13
+Öffentliche Auszeichnungen und Ehrungen
+
+(1) Bei Verfahren im Rahmen öffentlicher Auszeichnungen und Ehrungen dürfen die zuständigen Stellen sowie die von ihnen besonders beauftragten Stellen die dazu erforderlichen personenbezogenen Daten auch ohne Kenntnis des Betroffenen verarbeiten. Die Verarbeitung dieser Daten für andere Zwecke ist nur mit Einwilligung der betroffenen Person zulässig.
+
+(2) Auf Anforderung der in Absatz 1 genannten Stellen dürfen andere öffentliche Stellen die zur Vorbereitung der Auszeichnung oder Ehrung erforderlichen Daten übermitteln.
+
+(3) Der betroffenen Person ist auf Antrag Auskunft zu erteilen über
+
+1.
+
+    die zu ihr gespeicherten Daten,
+2.
+
+    die Herkunft der Daten,
+3.
+
+    die Empfänger, an die die Daten übermittelt werden sowie
+4.
+
+    den Zweck und die Rechtsgrundlage der Verarbeitung der Daten.
+
+Eine Auskunft darf nicht dazu führen, dass personenbezogene Daten zu einer dritten Person offenbart werden, es sei denn eine Einwilligung der dritten Person liegt vor. Die Form der Auskunftserteilung ist nach pflichtgemäßem Ermessen zu bestimmen.
+
+(4) Bei Verfahren im Rahmen öffentlicher Auszeichnungen und Ehrungen gelten nur die Artikel 5 bis 7, Artikel 16 bis 18, Kapitel IV sowie Kapitel VI der Verordnung (EU) 2016/679 entsprechend.
+
+
+§ 14
+Begnadigungsverfahren
+
+(1) In Begnadigungsverfahren ist die Verarbeitung personenbezogener Daten einschließlich Daten im Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 zulässig, soweit sie zur Ausübung des Gnadenrechts durch die zuständigen Stellen erforderlich ist. Diese Datenverarbeitung unterliegt nicht der Kontrolle der Aufsichtsbehörde.
+
+(2) In Begnadigungsverfahren gelten nur die Artikel 5 bis 7 sowie Kapitel IV mit Ausnahme von Artikel 33 der Verordnung (EU) 2016/679 entsprechend.
+
+
+Teil 5
+Aufsichtsbehörde
+§ 15
+Errichtung
+
+(1) Die Aufsichtsbehörde wird bei der Präsidentin oder dem Präsidenten des Landtages errichtet. Die Aufsichtsbehörde führt die Amts- und Funktionsbezeichnung „Die Landesbeauftragte für den Datenschutz“ oder „Der Landesbeauftragte für den Datenschutz“.
+
+(2) Die notwendigen Personal- und Sachmittel, die der Aufsichtsbehörde für die Erfüllung ihrer Aufgaben zur Verfügung zu stellen sind, sind im Einzelplan des Landtages in einem gesonderten Kapitel auszuweisen. § 27 Absatz 2 , § 28 Absatz 1 und § 29 Absatz 3 der Landeshaushaltsordnung gelten entsprechend.
+
+(3) Die Beamtinnen und Beamten der Aufsichtsbehörde werden auf Vorschlag der oder des Landesbeauftragten für den Datenschutz (Mitglied der Aufsichtsbehörde) durch die Präsidentin oder den Präsidenten des Landtages ernannt. Sie können nur im Einvernehmen mit dem Mitglied der Aufsichtsbehörde versetzt oder abgeordnet werden. Dienstvorgesetzte Stelle der Beamtinnen und Beamten ist das Mitglied der Aufsichtsbehörde, an dessen Weisungen sie ausschließlich gebunden sind. Diese Regelungen gelten entsprechend für Arbeitnehmerinnen und Arbeitnehmer, die bei der Aufsichtsbehörde beschäftigt sind oder beschäftigt werden sollen. Die Präsidentin oder der Präsident des Landtages stellt sicher, dass das Mitglied der Aufsichtsbehörde sein eigenes Personal auswählt und hat, das ausschließlich der Leitung des Mitglieds der Aufsichtsbehörde untersteht.
+
+(4) Das Mitglied der Aufsichtsbehörde regelt seine Stellvertretung selbst. Diese führt die Geschäfte, wenn das Mitglied der Aufsichtsbehörde an der Ausübung des Amtes verhindert ist oder wenn das Amtsverhältnis endet und es nicht zur Weiterführung der Geschäfte verpflichtet ist.
+
+
+§ 16
+Ernennung und Amtszeit
+
+(1) Der Landtag wählt ohne Aussprache das Mitglied der Aufsichtsbehörde mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder. Die Wiederwahl ist nur einmal zulässig. Vorschlagsberechtigt sind die Fraktionen des Landtages. Die Präsidentin oder der Präsident des Landtages ernennt das Mitglied der Aufsichtsbehörde zur Beamtin auf Zeit oder zum Beamten auf Zeit. Das Mitglied der Aufsichtsbehörde muss die Befähigung zum Richteramt, zum Verwaltungsdienst der Laufbahngruppe 2 zweites Einstiegsamt oder eine gleichgestellte Befähigung haben und die zur Erfüllung ihrer oder seiner Aufgaben erforderliche Qualifikation, Erfahrung und Sachkunde insbesondere im Bereich des Schutzes personenbezogener Daten besitzen.
+
+(2) Die Amtszeit nach Artikel 37 Absatz 1 der Verfassung des Landes Mecklenburg-Vorpommern verlängert sich bis zur Wahl einer Nachfolgerin oder eines Nachfolgers, maximal jedoch um sechs Monate.
+
+
+§ 17
+Unabhängigkeit
+
+(1) Die Aufsichtsbehörde ist in der Ausübung ihres Amtes unabhängig und nur dem Gesetz unterworfen.
+
+(2) Die Präsidentin oder der Präsident des Landtages darf keine Maßnahmen treffen, die das Mitglied der Aufsichtsbehörde bei der Erfüllung seiner Aufgaben und der Ausübung seiner Befugnisse direkt oder indirekt beeinflussen.
+
+(3) Die Aufsichtsbehörde unterliegt der Rechnungsprüfung durch den Landesrechnungshof, soweit ihre Unabhängigkeit dadurch nicht beeinträchtigt wird.
+
+
+§ 18
+Rechte und Pflichten
+
+(1) Ergänzend zu Artikel 52 Absatz 3 der Verordnung (EU) 2016/679 darf das Mitglied der Aufsichtsbehörde neben dem Amt kein anderes besoldetes Amt, kein mit den Aufgaben seines Amtes nicht zu vereinbarendes Gewerbe und keinen Beruf ausüben und weder der Leitung oder dem Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens noch einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Es darf nicht gegen Entgelt außergerichtliche Gutachten abgeben. Wird eine Beamtin oder ein Beamter des Landes Mecklenburg-Vorpommern zum Mitglied der Aufsichtsbehörde ernannt, gilt § 4 des Landesministergesetzes entsprechend.
+
+(2) Das Mitglied der Aufsichtsbehörde hat der Präsidentin oder dem Präsidenten des Landtages Mitteilung über Geschenke zu machen, die es in Bezug auf das Amt erhält. Die Präsidentin oder der Präsident des Landtages entscheidet über die Verwendung der Geschenke. Sie oder er kann Verfahrensvorschriften erlassen.
+
+(3) Das Mitglied der Aufsichtsbehörde ist auch nach Beendigung des Amtsverhältnisses verpflichtet, über die ihm amtlich bekanntgewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Das Mitglied der Aufsichtsbehörde entscheidet nach pflichtgemäßem Ermessen, ob und inwieweit es über solche Angelegenheiten vor Gericht oder außergerichtlich aussagt oder Erklärungen abgibt; wenn es nicht mehr im Amt ist, ist die Genehmigung des amtierenden Mitglieds der Aufsichtsbehörde erforderlich. Unberührt bleibt die gesetzlich begründete Pflicht, Straftaten anzuzeigen und bei Gefährdung der freiheitlichen demokratischen Grundordnung für deren Erhaltung einzutreten.
+
+(4) Das Mitglied der Aufsichtsbehörde entscheidet über die Ausübung des Zeugnisverweigerungsrechts nach § 13 Absatz 3 des Bundesdatenschutzgesetzes . Es darf als Zeugin oder Zeuge aussagen, es sei denn, die Aussage würde
+
+1.
+
+    dem Wohl des Bundes oder eines Landes Nachteile bereiten, insbesondere Nachteile für die Sicherheit der Bundesrepublik Deutschland oder ihre Beziehungen zu anderen Staaten, oder
+2.
+
+    Grundrechte verletzen.
+
+Betrifft die Aussage laufende oder abgeschlossene Vorgänge, die dem Kernbereich exekutiver Eigenverantwortung der Landesregierung zuzurechnen sind oder sein könnten, darf das Mitglied der Aufsichtsbehörde nur im Benehmen mit der Landesregierung aussagen. § 25 Absatz 2 des Landesverfassungsgerichtsgesetzes bleibt unberührt.
+
+(5) Das Mitglied der Aufsichtsbehörde ist oberste Dienstbehörde im Sinne des § 96 der Strafprozessordnung und oberste Aufsichtsbehörde im Sinne des § 99 der Verwaltungsgerichtsordnung , des § 119 der Sozialgerichtsordnung und des § 86 der Finanzgerichtsordnung .
+
+
+§ 19
+Aufgaben und Befugnisse
+
+(1) Die Aufsichtsbehörde ist zuständige Aufsichtsbehörde im Sinne von Artikel 51 Absatz 1 der Verordnung (EU) 2016/679 und Artikel 41 Absatz 1 der Richtlinie (EU) 2016/680 im Land Mecklenburg-Vorpommern. Ihr obliegt auch die Aufsicht über die Einhaltung der datenschutzrechtlichen Vorschriften, wenn die Datenverarbeitung weder der Verordnung (EU) 2016/679 noch der Richtlinie (EU) 2016/680 unterliegt, es sei denn, die Aufsichtsbefugnis ist durch spezielle Regelungen ausgeschlossen.
+
+(2) Die Aufsichtsbehörde ist auch Aufsichtsbehörde nach § 40 des Bundesdatenschutzgesetzes für die Datenverarbeitung nicht-öffentlicher Stellen im Land Mecklenburg-Vorpommern.
+
+(3) Die Aufsichtsbehörde ist im Rahmen der ihr durch die Verordnung (EU) 2016/679 und durch Absatz 2 zugewiesenen Aufgaben zuständig für die Verfolgung und Ahndung von Ordnungswidrigkeiten.
+
+(4) Die Aufsichtsbehörde ist nicht zuständig, soweit Religionsgemeinschaften des öffentlichen Rechts, die gemäß § 2 Absatz 6 umfassende Datenschutzregeln anwenden, einer eigenen kirchlichen Aufsichtsbehörde unterliegen, die die in Kapitel VI der Verordnung (EU) 2016/679 niedergelegten Bedingungen erfüllt.
+
+
+§ 20
+Mitwirkungspflicht
+
+(1) Berufs- und Amtsgeheimnisse entbinden nicht von einer Mitwirkungspflicht, die sich aus den Regelungen des Artikels 58 der Verordnung (EU) 2016/679 ergibt.
+
+(2) Macht die Aufsichtsbehörde von den Befugnissen nach Artikel 58 Absatz 2 der Verordnung (EU) 2016/679 Gebrauch, teilt sie dies der zuständigen Fach- oder Rechtsaufsichtsbehörde mit. Der Verantwortliche gibt gegenüber der zuständigen Fach- oder Rechtsaufsichtsbehörde innerhalb eines Monats, nachdem die Maßnahme nach Satz 1 getroffen wurde, eine Stellungnahme ab. In dieser Stellungnahme ist darzustellen und zu begründen, in welcher Weise auf die Maßnahme der Aufsichtsbehörde reagiert wird.
+
+
+§ 21
+Stellungnahme der Landesregierung zum Tätigkeitsbericht
+
+Soweit der Tätigkeitsbericht der Aufsichtsbehörde gemäß Artikel 59 der Verordnung (EU) 2016/679 den Verantwortungsbereich der Landesregierung betrifft, leitet die Landesregierung dazu innerhalb von sechs Monaten nach Vorlage dieses Berichts ihre Stellungnahme dem Landtag zu.
+
+
+Teil 6
+Sanktionen, Einschränkung von Grundrechten,
+Übergangsvorschriften
+§ 22
+Ordnungswidrigkeiten
+
+(1) Ordnungswidrig handelt, wer entgegen den Vorschriften der Verordnung (EU) 2016/679 , dieses Gesetzes oder einer anderen Rechtsvorschrift über den Schutz personenbezogener Daten personenbezogene Daten, die nicht offenkundig sind,
+
+1.
+
+    erhebt, speichert, unbefugt verwendet, verändert, übermittelt, weitergibt, zum Abruf bereithält oder löscht oder
+2.
+
+    abruft, einsieht, sich anderweitig verschafft, durch Vortäuschung falscher Tatsachen an sich oder andere zu übermitteln veranlasst.
+
+Ordnungswidrig handelt auch, wer unter den in Satz 1 genannten Voraussetzungen Einzelangaben über persönliche oder sachliche Verhältnisse einer nicht mehr bestimmbaren Person mit anderen Informationen zusammenführt und dadurch die betroffene Person wieder bestimmbar macht.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+
+(3) Gegen Behörden oder sonstige öffentliche Stellen im Sinne von § 2 Absätze 1 bis 3 werden keine Geldbußen verhängt.
+
+
+§ 23
+Straftaten
+
+(1) Wer gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, eine der in § 22 Absatz 1 genannten Handlungen begeht, wird mit Freiheitsstrafe bis zu 2 Jahren oder mit Geldstrafe bestraft.
+
+(2) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind die betroffene Person, der Verantwortliche, der oder die Auftragsverarbeiter und die Aufsichtsbehörde.
+
+
+§ 24
+Einschränkung von Grundrechten
+
+Durch dieses Gesetz wird das Recht auf informationelle Selbstbestimmung aus Artikel 2 Absatz 1 in Verbindung mit Artikel 1 Absatz 1 des Grundgesetzes eingeschränkt.
+

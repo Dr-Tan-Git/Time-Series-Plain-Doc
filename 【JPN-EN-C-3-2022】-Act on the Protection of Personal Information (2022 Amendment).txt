@@ -1,0 +1,270 @@
+﻿Act on the Protection of Personal Information
+Table of Contents
+Chapter I General Provisions (Articles 1 to 3)
+Chapter II Responsibilities of the National and Local Governments (Articles 4 to 6)
+Chapter III Measures to Protect Personal Information
+Section 1 Basic Privacy Policy (Article 7)
+Section 2 National Measures (Articles 8 to 10)
+Section 3 Measures by Local Governments (Articles 11 to 13)
+Section 4 Cooperation between the National and Local Governments (Article 14)
+Chapter IV Obligations of Business Operators Handling Personal Information
+Section 1 Obligations of Business Operators Handling Personal Information (Articles 15 to 36)
+Section 2 Furthering the Protection of Personal Information in the Private Sector (Articles 37 to 49)
+Chapter V Miscellaneous Provisions (Articles 50 to 55)
+Chapter VI Penal Provisions (Articles 56 to 59)
+Supplementary Provisions
+Chapter I General Provisions
+(Purpose)
+Article 1  This Act aims to protect the rights and interests of individuals while ensuring due consideration for the usefulness of Personal Information by setting forth basic principles for the proper handling of Personal Information, providing for the government's creation of a basic policy with regard to this, and establishing other particulars to serve as a basis for measures to protect Personal Information, as well as by clarifying the responsibilities, etc. of the national and local governments and establishing the obligations, etc. that enterprises handling Personal Information are required to fulfill, in light of the significantly expanded uses to which Personal Information is being put as our advanced information- and communication-based society evolves.
+(Definitions)
+Article 2  (1) The term "Personal Information" as used in this Act means information about a living individual which can be used to identify that specific individual due to its inclusion of a name, date of birth, or other such information(this includes any information that can be cross-checked against other information and thereby used to identify that specific individual).
+(2) The term "Database, etc. of Personal Information" as used in this Act means a set of information which includes Personal Information and which:
+(i) is structurally organized to enable a computer to be used to retrieve certain Personal Information from it; or
+(ii) is other than as set forth in the preceding item, but that Cabinet Order provides for as being structurally organized to enable certain Personal Information to be easily retrieved from it.
+(3) The term "Business Operator Handling Personal Information" as used in this Act means a business operator that has a Database, etc. of Personal Information for business use; however, the following entities are excluded:
+(i) national government organs;
+(ii) local governments;
+(iii) incorporated administrative agencies and other such entities (meaning independent administrative agencies and other such entities as provided in Article 2, paragraph (1) of the Act on the Protection of Personal Information Held by Incorporated Administrative Agencies (Act No. 59 of 2003); the same applies hereinafter);
+(iv) local incorporated administrative agencies (meaning local incorporated administrative agencies as provided in Article 2, paragraph (1) of the Local Incorporated Administrative Agencies Act (Act No. 118 of 2003); the same applies hereinafter);
+(v) an entity that Cabinet Order provides for as being unlikely to harm the rights and interests of individuals, considering the volume of the Personal Information that they handle and their way of using it.
+(4) The term "Personal Data" as used in this Act means Personal Information compiled in a Database, etc. of Personal Information.
+(5) The term "Retained Personal Data" as used in this Act means Personal Data that an Business Operator Handling Personal Information has the authority to disclose; to correct, add, or delete content from; to discontinue use of; to erase; or to discontinue provision of to a third party, other than what Cabinet Order provides for as data whose known presence or absence from a database is likely to harm the public interest or other interests, and other than data that will be deleted within the period of less than one year that Cabinet Order specifies.
+(6) The term "Person" as used in this Act in relation to Personal Information means the specific individual that the Personal Information can be used to identify.
+(Basic Principles)
+Article 3  The proper handling of Personal Information must be pursued in view of the fact that Personal Information should be handled cautiously based on the philosophy of respecting the autonomy of the individual.
+Chapter II Responsibilities, etc. of the National and Local Governments
+(Responsibilities of the National Government)
+Article 4  The National Government is responsible for comprehensively formulating and implementing the necessary measures to ensure the proper handling of Personal Information in conformity with the purport of this Act.
+(Responsibilities of Local Governments)
+Article 5  Local governments are responsible for formulating and implementing the necessary measures to ensure the proper handling of Personal Information based on the characteristics of the area, in conformity with the purport of this Act.
+(Legislative Measures, etc.)
+Article 6  The Government must take the necessary legislative and other measures to ensure that there are special measures in place to protect Personal Information whose strict proper handling it is particularly necessary to ensure in order to further protect the rights and interests of individuals, in view of the nature of the Personal Information and the way in which it is used.
+Chapter III Measures, etc. to Protect Personal Information
+Section 1 Basic Policy
+Article 7  (1) The Government must establish a basic policy (hereinafter referred to as a "Basic Policy"), so as to further comprehensive and integrated measures to protect Personal Information.
+(2) The Basic Policy must provide for the following matters:
+(i) the basic approach of action for furthering measures to protect Personal Information;
+(ii) the matters of the measures to protect Personal Information that are to be taken by the national government;
+(iii) the basic matters of the measures to protect Personal Information that are to be taken by local governments;
+(iv) the basic matters of the measures to protect Personal Information that are to be taken by incorporated administrative agencies and other such entities;
+(v) the basic matters of the measures to protect Personal Information that are to be taken by local incorporated administrative agencies;
+(vi) the basic matters of the measures to protect Personal Information that are to be taken by Business Operator Handling Personal Information and by Accredited Personal Information Protection Organizations as provided in Article 40, paragraph (1);
+(vii) matters about the smooth processing of complaints about the handling of Personal Information;
+(viii) other material matters for furthering measures to protect Personal Information.
+(3) The Prime Minister must hear the opinion of the Consumer Commission, prepare a draft Basic Policy, and ask for Cabinet approval.
+(4) Following the Cabinet approval under the preceding paragraph, the Prime Minister must disclose the Basic Policy to the public without delay.
+(5) The provisions of the preceding two paragraphs apply mutatis mutandis to amendments to the Basic Policy.
+Section 2 National Measures
+(Support for Local Governments, etc.)
+Article 8  The national government must take the necessary measures, such as providing information and formulating guidelines to ensure that enterprises and others properly and effectively implement the measures that they are required to take, in order to support the measures to protect Personal Information which local governments formulate and implement, and in order to support action that the people, enterprises, and others take to ensure the proper handling of Personal Information.
+(Complaint Processing Measures)
+Article 9  The national government must take the necessary measures to ensure the appropriate, prompt processing of complaints arising between enterprises and Persons with regard to the handling of Personal Information.
+(Measures to Ensure Proper Handling of Personal Information)
+Article 10  The national government must take the necessary measures to ensure the proper handling of Personal Information by Business Operator Handling Personal Information as provided in the next Chapter, by effecting an appropriate division of roles between the national and local governments.
+Section 3 Local Government Measures
+(Protection of Personal Information Held by Local Governments, etc.)
+Article 11  (1) A local government must endeavor to take the necessary measures to ensure the proper handling of the Personal Information it holds, in consideration of such factors as the nature of the Personal Information and the purpose, etc. for which it holds that Personal Information.
+(2) A local government must endeavor to take the necessary measures to ensure the proper handling of Personal Information that is held by the local incorporated administrative agencies it has established, in accordance with the nature of the agency and the content of its operations.
+(Support for Area Enterprises, etc.)
+Article 12  A local government must endeavor to take the necessary measures to support enterprises and residents within its territory so as to ensure the proper handling of Personal Information.
+(Mediation, etc. for Complaint Processing)
+Article 13  A local government must endeavor to provide mediation for complaint processing and take other necessary measures to ensure that any complaint arising between an enterprise and a Person with regard to the handling of Personal Information is handled appropriately and promptly.
+Section 4 Cooperation between the National and Local Governments
+Article 14  National and local governments must cooperate in taking measures to protect Personal Information.
+Chapter IV Obligations, etc. of Business Operators Handling Personal Data
+Section 1 Obligations of Business Operators Handling Personal Data
+(Specifying the Purpose of Use)
+Article 15  (1) In handling Personal Information, the Business Operator Handling Personal Information must specify as precise as is possible about the purpose for which it uses that information (hereinafter referred to as the "Purpose of Use").
+(2) A Business Operator Handling Personal Information must not change the Purpose of Use beyond a scope that makes it reasonable to consider the Purpose of Use after the change to be appreciably related to what it was before the change.
+(Restriction Due to Purpose of Use)
+Article 16  (1) A Business Operator Handling Personal Information must not handle Personal Information beyond the scope necessary for achieving the Purpose of Use specified pursuant to the provisions of the preceding Article without in advance obtaining the Person's consent to do so.
+(2) If, due to a merger or other such circumstances, a Business Operator Handling Personal Information acquires Personal Information when succeeding to the business of another Business Operator Handling Personal Information, it must not handle that Personal Information beyond the scope necessary for achieving the pre-succession Purpose of Use for that Personal Information without in advance obtaining the Person's consent to do so.
+(3) The provisions of the preceding two paragraphs do not apply in the following cases:
+(i) the enterprise handles the Personal Information outside its Purpose of Use based on laws and regulations;
+(ii) it is necessary for the enterprise to handle the Personal Information outside its Purpose of Use in order to protect the life, body, or property of an individual, and it is difficult to obtain the consent of the Person;
+(iii) there is a special need for the enterprise to handle the Personal Information outside its Purpose of Use in order to improve public health or promote healthy child development, and it is difficult to obtain the consent of the Person;
+(iv) it is necessary for the enterprise to handle the Personal Information outside its Purpose of Use in order to cooperate with a national government organ, local government, or person entrusted thereby with performing the functions prescribed by laws and regulations, and obtaining the consent of the Person is likely to interfere with the performance of those functions.
+(Proper Acquisition)
+Article 17  A Business Operator Handling Personal Information must not acquire Personal Information through deception or other wrongful means.
+(Notice, etc. of the Purpose of Use at the Time of Acquisition)
+Article 18  (1) Unless the Purpose of Use has already been disclosed to the public, an Business Operator Handling Personal Information must promptly notify the Person of that Purpose of Use or disclose this to the public once it has acquired Personal Information.
+(2) Notwithstanding the provisions of the preceding paragraph, a Business Operator Handling Personal Information must explicitly specify the Purpose of Use to the Person in advance if acquiring, as a result of concluding a contract with the Person, Personal Information about the Person which appears in a written contract or other document (this includes a record created in electronic form, magnetic form, or any other form that cannot be perceived with the human senses; hereinafter the same applies in this paragraph); or if acquiring, directly from the said Person , Personal Information about that Person which appears in a document; provided, however, that this does not apply if there is an urgent necessity to dispense with this requirement in order to protect the life, body or property of an individual.
+(3) If a Business Operator Handling Personal Information changes the Purpose of Use, it must notify Persons of the altered Purpose of Use or disclose this to the public.
+(4) The provisions of the preceding three paragraphs do not apply in the following cases:
+(i) notifying the Person of the Purpose of Use or disclosing this to the public is likely to harm the life, body, property, or other rights or interests of the Person or a third party;
+(ii) notifying the Person of the Purpose of Use or disclosing this to the public is likely to harm the rights or legitimate interests of the Business Operator Handling Personal Information;
+(iii) it is necessary for the enterprise to cooperate with a national government organ or a local government in performing the functions prescribed by laws and regulations, and notifying the Person of the Purpose of Use or disclosing this to the public is likely to interfere with the performance of those functions;
+(iv) the Purpose of Use is considered to be clear, in light of the circumstances in which the Personal Information is acquired.
+(Maintaining the Accuracy of Data)
+Article 19  A Business Operator Handling Personal Information must endeavor to keep the content of Personal Data accurate and up to date, within the scope necessary for achieving the Purpose of Use.
+(Security Measures)
+Article 20  A Business Operator Handling Personal Information must take the necessary and appropriate measures to ensure the secure management of Personal Information, such as measures to prevent leakage, loss, or damage to the Personal Data it handles.
+(Supervision of Employees)
+Article 21  In having an employee handle Personal Data, a Business Operator Handling Personal Information must exercise the necessary and appropriate supervision over that employee to ensure the secure management of the Personal Data.
+(Supervision of Entrusted Persons)
+Article 22  If a Business Operator Handling Personal Information entrusts another business operator with all or part of the handling of Personal Data, it must exercise the necessary and appropriate supervision over the business operator it entrusts, so as to ensure the secure management of the Personal Data with whose handling it entrusts that business operator.
+(Restrictions on Provision to a Third Party)
+Article 23  (1) A Business Operator Handling Personal Information must not provide a third party with Personal Data without in advance obtaining the Person's consent to do so, except in the following cases:
+(i) the enterprise provides the third party with Personal Data based on laws and regulations;
+(ii) it is necessary for the enterprise to provide the third party with the Personal Data in order to protect the life, body, or property of an individual, and it is difficult to obtain the consent of the Person;
+(iii) there is a special need for the enterprise to provide the third party with the Personal Data in order to improve public health or promote healthy child development, and it is difficult to obtain the consent of the Person;
+(iv) it is necessary for the enterprise to provide the third party with the Personal Data in order to cooperate with a national government organ, local government, or person entrusted thereby with performing the functions prescribed by laws and regulations, and obtaining the consent of the Person is likely to interfere with the performance of those functions.
+(2) Notwithstanding the provisions of the preceding paragraph, if a Business Operator Handling Personal Information agrees, at the request of a Person, to stop providing a third party with any Personal Data it provides to third parties which can be used to identify the Person, but then notifies the Person of the following information in advance or makes that information readily accessible to the Person in advance, the enterprise may provide that Personal Data to a third party:
+(i) the fact that providing the data to a third party constitutes the Purpose of Use;
+(ii) the items of the Personal Data it will provide to the third party;
+(iii) the means or manner in which it will provide the data to a third party;
+(iv) the fact that it will stop providing Personal Data that can be used to identify the Person to a third party at the request of the Person.
+(3) Before changing a particular set forth in item (ii) or (iii) of the preceding paragraph, the Business Operator Handling Personal Information must notify the Person of the matters of the change or make those details readily accessible to the Person.
+(4) In following the cases, the business operator being provided with the Personal Data must not deemed to be a third party as regards the application of the provisions of the preceding three paragraphs:
+(i) if the Business Operator Handling Personal Information entrusts with all or part of the handling of Personal Data within the scope necessary for achieving the Purpose of Use;
+(ii) if the Personal Data is provided when a business operator succeeds to the business of the enterprise due to a merger or other such circumstances;
+(iii) if specific business operators have joint use of the Personal Data and the enterprise notifies the Person of this in advance as well as notifying the Person of the items of the Personal Data of which the specific business operator have joint use, the extent of the joint users, the users' Purpose of Use, and the name of the business operator responsible for managing the Personal Data, or the enterprise makes the foregoing information readily accessible to the Person in advance.
+(5) If a user's Purpose of Use or the name of the business operator responsible for managing the Personal Data provided for in item (iii) of the preceding paragraph changes, the Business Operator Handling Personal Information must notify the Person of the content of the change in advance or make the content readily accessible to the Person in advance.
+(Disclosure, etc. of Information about the Retained Personal Data)
+Article 24  (1) A Business Operator Handling Personal Information must make the following information about the Retained Personal Data accessible to Persons (making that information accessible includes providing answers without delay as requested by Persons):
+(i) the name of the Business Operator Handling Personal Information;
+(ii) the Purpose of Use of all Retained Personal Data (unless this falls under Article 18, paragraph (4), item (i) through (iii));
+(iii) the procedures for dealing with requests under the provisions of the next paragraph; paragraph (1) of the next Article; Article 26, paragraph (1); or Article 27, paragraph (1) or paragraph (2) (including the amount of the fee, if one is set pursuant to the provisions of Article 30, paragraph (2));
+(iv) information other than as set forth in the preceding three items which is specified by Cabinet Order as needing to be made accessible in order to ensure the proper handling of Retained Personal Data.
+(2) If a Business Operator Handling Personal Information is requested by a Person to notify the Person of the Purpose of Use of the Retained Personal Data that can be used to identify the Person, the enterprise must notify the person of this without delay; provided, however, that this does not apply in a case falling under one of the following items:
+(i) the Purpose of Use of the Retained Personal Data that can be used to identify the Person has been made clear pursuant to the provisions of the preceding paragraph;
+(ii) a case falling under Article 18, paragraph (4), item (i) through (iii).
+(3) If a Business Operator Handling Personal Information decides not to notify the Person of the Purpose of Use of the Retained Personal Data as requested pursuant to the preceding paragraph, the enterprise must notify the Person of this without delay.
+(Disclosure)
+Article 25  (1) When a Business Operator Handling Personal Information is requested by a Person to disclose the Retained Personal Data that can be used to identify the Person (such disclosure includes informing the person that there is no Retained Personal Data that can be used to identify the Person; the same applies hereinafter), the enterprise must disclose the Retained Personal Data without delay using the means that Cabinet Order provides for; provided, however, that in a case falling under one of the following items, the enterprise may choose not to disclose all or part of the Retained Personal Data:
+(i) if disclosure is likely to harm the life, body, property, or other rights or interests of the Person or a third party;
+(ii) if disclosure is likely to seriously interfere with the proper implementation of the business of the Business Operator Handling Personal Information;
+(iii) if disclosure would violate any other law or regulation.
+(2) If a Business Operator Handling Personal Information decides not to disclose all or part of the Retained Personal Data as requested pursuant to the provisions of the preceding paragraph, the enterprise must notify the e Person of this without delay.
+(3) If, pursuant to the provisions of any other law or regulation, all or part of the Retained Personal Data that can be used to identify a Person is to be disclosed to the Person by a means equivalent to what is prescribed in the main clause of paragraph (1), the provisions of that paragraph do not apply to either the whole or the relevant part of the Retained Personal Data.
+(Correction, etc.)
+Article 26  (1) If a Business Operator Handling Personal Information is requested by an Person to correct, add, or delete Retained Personal Data that can be used to identify the Person on the grounds that the Retained Personal Data is not factual (such a correction, addition, or deletion is referred to as a "Correction, etc." hereinafter in this Article), unless another law or regulation specifies special procedures for such a Correction, etc. to the data, the enterprise must undertake the necessary investigations without delay within the scope that this is necessary for achieving the Purpose of Use, and, on the basis of the results, Correct the Retained Personal Data.
+(2) Once a Business Operator Handling Personal Information either Corrects all or part of the Retained Personal Data that it has been requested to Correct or decides not to make such a Correction, etc., the enterprise must notify the Person of this (and of the content of the Correction, etc., if made) without delay.
+(Discontinuance of Personal Data, etc.)
+Article 27  (1) If a Business Operator Handling Personal Information is requested by a Person to discontinue using or delete Retained Personal Data that can be used to identify the Person on the grounds that the Retained Personal Data is being handled in violation of Article 16 or was acquired in violation of Article 17 (such an action is referred to hereinafter in this Article as " discontinuance, etc." of the data), and there are found to be grounds for that request, the enterprise must discontinuance of the relevant Retained Personal Data without delay to the extent necessary to redress the violation; provided, however, that this does not apply if the discontinuance, etc. of the relevant Retained Personal Data would require a costly expenditure or prove otherwise difficult, and the enterprise takes the necessary alternative measures to protect the rights and interests of the Person.
+(2) If a Business Operator Handling Personal Information is requested by a Person to discontinue providing a third party with Retained Personal Data that can be used to identify the Person on the grounds that the Retained Personal Data is being provided to the third party in violation of Article 23, paragraph (1), and there are found to be grounds for that request, the enterprise must discontinue providing the relevant Retained Personal Data to the third party without delay; provided, however, that this does not apply if to stop providing the third party with the relevant Retained Personal Data would require a costly expenditure or prove otherwise difficult, and the enterprise takes the necessary alternative measures to protect the rights and interests of the Person.
+(3) Once a Business Operator Handling Personal Information either discontinues all or part of the Retained Personal Data that it has been requested to discontinue Using pursuant to paragraph (1) or decides not to discontinue the Use of it, it must notify the Person of this without delay; and once a Business Operator Handling Personal Information either discontinues providing a third party with all or part of the Retained Personal Data that it has been requested to discontinue providing pursuant to the preceding paragraph or decides not to discontinue providing the third party with that data, the enterprise must notify the Person of this without delay.
+(Explanation of Reasons)
+Article 28  If, pursuant to the provisions of Article 24, paragraph (3); Article 25, paragraph (2); Article 26, paragraph (2); or paragraph (3) of the preceding Article, a Business Operator Handling Personal Information notifies a Person that has requested the enterprise to take measures that it will not take all or part of the measures requested of it or that it will take different measures, the enterprise must endeavor to explain its reasons for this to the Person.
+(Procedures for Dealing with Requests for Disclosure and Other Handling)
+Article 29  (1) A Business Operator Handling Personal Information may establish, as prescribed by Cabinet Order, how it will accept requests under the provisions of Article 24, paragraph (2); Article 25, paragraph (1); Article 26, paragraph (1); Article 27, paragraph (1) or paragraph (2) (hereinafter any such request is referred to as a "Request for Disclosure or Other Handling" in this Article). In such a case, a Person must Request Disclosure or Other Handling in that way.
+(2) A Business Operator Handling Personal Information may request a Person Requesting Disclosure or Other Handling to present sufficient information to identify the Retained Personal Data that would be subject to the disclosure or other handling. In such a case, the Business Operator Handling Personal Information must provide information to help the person identify the relevant Retained Personal Data or take other appropriate measures in consideration of the Person's convenience, so as to allow the Person to easily and accurately Request Disclosure or Other Handling.
+(3) A person may Request Disclosure or Other Handling through a representative, as prescribed by Cabinet Order.
+(4) In establishing procedures for dealing with Requests for Disclosure and Other Handling pursuant to the preceding three paragraphs, a Business Operator Handling Personal Information must take care to ensure that the procedures do not impose an excessive burden on Persons.
+(Fees)
+Article 30  (1) When a Business Operator Handling Personal Information is requested to notify a person of the Purpose of Use under the provisions of Article 24, paragraph (2) or to make disclosure under the provisions of Article 25, paragraph (1), it may collect a fee for taking the relevant measures.
+(2) If a Business Operator Handling Personal Information collects a fee pursuant to the provisions of the preceding paragraph, it must fix the amount of that fee within a scope that can be considered reasonable in consideration of actual costs.
+(Processing of Complaints by Business Operator Handling Personal Information)
+Article 31  (1) A Business Operator Handling Personal Information must endeavor to process complaints about the handling of Personal Information appropriately and promptly.
+(2) A Business Operator Handling Personal Information must endeavor to establish the necessary systems for achieving the purpose referred to in the preceding paragraph.
+(Collection of Reports)
+Article 32  The competent minister may have a Business Operator Handling Personal Information report on the handling of Personal Information, to the extent that this is necessary for implementing the provisions of this Section.
+(Advice)
+Article 33  The competent minister may advise a Business Operator Handling Personal Information on the handling of Personal Information, to the extent that this is necessary for implementing the provisions of this Section.
+(Recommendations and Orders)
+Article 34  (1) If a Business Operator Handling Personal Information violates one of the provisions of Article 16 through Article 18; Article 20 through Article 27; or Article 30, paragraph (2), and the competent minister finds it to be necessary to do so in order to protect the rights and interests of an individual, the minister may recommend the Business Operator Handling Personal Information to stop committing the violation and to take the necessary measures to correct the violation.
+(2) If a Business Operator Handling Personal Information which is issued a recommendation under the provisions of the preceding paragraph does not take the measures as recommended, is without a legitimate reason for failing to do so, and the competent minister finds that serious harm to the rights and interests of individuals is imminent, the minister may order the Business Operator Handling Personal Information to take the measures as recommended.
+(3) Notwithstanding the provisions of the preceding two paragraphs, if a Business Operator Handling Personal Information violates one of the provisions of Article 16; Article 17; Article 20 through Article 22; or Article 23, paragraph (1) and the competent minister finds it to be necessary for measures to be taken urgently due to the fact that serious harm is being done to the rights and interests of an individual, the minister may order the Business Operator Handling Personal Information to stop committing the violation and to take the necessary measures to rectify the violation.
+(Restrictions on the Exercise of Authority by the Competent Minister)
+Article 35  (1) In collecting a report from a Business Operator Handling Personal Information or in advising it, recommending it, or issuing an order to it pursuant to the provisions of one of the preceding three Articles, the competent minister must not interfere with the freedom of expression, academic freedom, freedom of religion, or freedom of political activity.
+(2) In light of the purport of the provisions of the preceding paragraph, the competent minister must not exercise the authority thereof over any action of a Business Operator Handling Personal Information through which the enterprise provides a person set forth in one of the items of Article 50, paragraph (1) with Personal Information (but only if that person will handle the Personal Information for the purpose prescribed in the relevant item).
+(Competent Ministers)
+Article 36  (1) The competent ministers under this Section are as follows; provided, however, that the Prime Minister may designate a specific minister or the National Public Safety Commission (hereinafter referred to as "the Minister or the Commission") as the competent minister for specific handling of Personal Information that Business Operator Handling Personal Information carry out, if the Prime Minister finds this to be necessary for the smooth implementation of the provisions of this Section:
+(i) the competent ministers for the handling of Personal Information that Business Operator Handling Personal Information carry out in connection with workforce management are the Minister of Health, Labour and Welfare (or the Minister of Land, Infrastructure, Transport and Tourism, if the workforce management involves mariners) and the Minister or the Commission with jurisdiction over the business undertaking in which the Business Operator Handling Personal Information is engaged;
+(ii) the competent minister for any handling of Personal Information by Business Operator Handling Personal Information other than as set forth in the preceding item is the Minister or the Commission with jurisdiction over the business undertaking in which the Business Operator Handling Personal Information is engaged.
+(2) After designating the competent minister pursuant to the proviso of the preceding paragraph, the Prime Minister must issue public notice indicating this.
+(3) Competent ministers must be in close communication with one another and cooperate in implementing the provisions of this Section.
+Section 2 Furthering the Protection of Personal Information in the Private Sector
+(Accreditation)
+Article 37  (1) A corporation (or an association or foundation without legal personality that has made provisions for a representative or manager; the same applies in (b) of item (iii) of the next Article) seeking to perform services as set forth in one of the following items with the aim of ensuring that Business Operator Handling Personal Information handle that Personal Information properly may be accredited to do so by the competent minister:
+(i) complaint processing under the provisions of Article 42 for complaints about the handling of Personal Information by Business Operations Handling Personal Information which are covered by the corporation's services (hereinafter each such enterprise is referred to as a "Covered Enterprise");
+(ii) providing Covered Enterprises with information about things that contribute to ensuring the proper handling of Personal Information;
+(iii) services beyond what is set forth in the preceding two items which are necessary for ensuring the proper handling of Personal Information by Covered Enterprises.
+(2) A business operator seeking the accreditation referred to in the preceding paragraph must apply to the competent minister as prescribed by Cabinet Order.
+(3) After granting an accreditation as referred to in paragraph (1), the competent minister must issue public notice indicating this.
+(Conditions for Ineligibility)
+Article 38  A person falling under one of the following items may not be accredited as referred to in paragraph (1) of the preceding Article:
+(i) a business operator that has been sentenced pursuant to any provision of this Act, if two years have not yet passed since the person finished serving the sentence or ceased to be subject to its enforcement;
+(ii) a business operator whose accreditation has been revoked pursuant to the provisions of Article 48, paragraph (1), if two years have not yet passed since the revocation;
+(iii) a business operator with an executive officer (or with a representative or manager, in an association or foundation without legal personality that has made provisions for a representative or manager; hereinafter the same applies in this Article) that falls under one of the following categories:
+(a) a business operator that has been sentenced to imprisonment or a heavier punishment or that has been sentenced pursuant to any provision of this Act, if two years have not yet passed since the business operator finished serving the sentence or ceased to be subject to its enforcement;
+(b) a business operator that, during the 30 days before the revocation, was the officer of a corporation whose accreditation has been revoked pursuant to the provisions of Article 48, paragraph (1), if two years have not yet passed since the revocation.
+(Accreditation Standards)
+Article 39  The competent minister must not grant a accreditation unless the minister finds the application for accreditation referred to in Article 37, paragraph (1) to conform to all of the following requirements:
+(i) the applicant has established the necessary methods of business implementation to allow it to perform the services set forth in the items of Article 37, paragraph (1) properly and reliably;
+(ii) the applicant's knowledge, capabilities, and financial base are sufficient to allow it to perform the services set forth in the items of Article 37, paragraph (1) properly and reliably;
+(iii) if the applicant engages in business other than the services set forth in the items of Article 37, paragraph (1), its engagement in that business is unlikely to give rise to unfairness in the services set forth in the items of that paragraph.
+(Notification of Discontinuation)
+Article 40  (1) Before discontinuing the services it has been certified to perform (hereinafter referred to as " Accredited Services"), a person accredited as referred to in Article 37, paragraph (1) (hereinafter referred to as a " Accredited Personal Information Protection Organization") must notify the competent minister of this as prescribed by Cabinet Order.
+(2) Upon receiving notification under the provisions of the preceding paragraph, the competent minister must issue public notice indicating this.
+(Covered Enterprises)
+Article 41  (1) Each target business operator of an Accredited Personal Information Protection Organization shall be a business operator handling personal information that is a member of the Accredited Personal Information Protection Organization or a Business Operator Handling Personal Information that has agreed to become a target of the accredited businesses.
+(2) An Accredited Personal Information Protection Organization must disclose the names of its Covered Enterprises to the public.
+(Complaint Processing)
+Article 42  (1) If a Person or other party files for an Accredited Personal Information Protection Organization to resolve a complaint about the handling of Personal Information by a Covered Enterprise, in addition to complying with any request for a consultation about this, providing the Person or other party with the necessary advice, and investigating the circumstances to which the complaint pertains, the organization must notify the Covered Enterprise of the substance and content of the complaint and request that it resolve the complaint expeditiously.
+(2) If an Accredited Personal Information Protection Organization finds that it is necessary in connection with the resolution of a complaint under a filing referred to in the preceding paragraph, the organization may request the Covered Enterprise to provide a written or oral explanation or to submit materials.
+(3) If a Covered Enterprise has had a request under the provisions of the preceding paragraph from an Accredited Personal Information Protection Organization, it must not refuse this request without a legitimate reason for doing so.
+(Personal Information Protection Guidelines)
+Article 43  (1) In order to ensure the proper handling of Personal Information by its Covered Enterprises, an Accredited Personal Information Protection Organization must endeavor to create and disclose to the public guidelines, in keeping with the spirit of this Act, for how to specify the Purpose of Use, for measures to ensure secure management of information, for procedures to deal with Persons' requests, and for other such particulars (hereinafter referred to as "Personal Information Protection Guidelines").
+(2) After disclosing Personal Information Protection Guidelines to the public pursuant to the provisions of the preceding paragraph, an Accredited Personal Information Protection Organization must endeavor to guide, recommend, and take other necessary measures to cause its Covered Enterprises to observe the Personal Information Protection Guidelines.
+(Prohibition of use outside the purpose)
+Article 44  It is prohibited for an Accredited Personal Information Protection Organization to use information acquired in the course of Accredited Services for purposes other than the Accredited Services use for which the information is provided.
+(Restriction on Name Use)
+Article 45  A business operator that is not an Accredited Personal Information Protection Organization must not use a name that refers to that business operator as an Accredited Personal Information Protection Organization, and must not use any other name that is confusingly similar to this.
+(Collection of Reports)
+Article 46  The competent minister may have an Accredited Personal Information Protection Organization provide a report on Certified Services, to the extent that this is necessary for implementing the provisions of this Section.
+(Orders)
+Article 47  The competent minister may order an Accredited Personal Information Protection Organization to improve the implementation methods for its Accredited Services, to amend its Personal Information Protection Guidelines, or to take any other necessary measures, to the extent that this is necessary for implementing the provisions of this Section.
+(Revocation of Accreditation)
+Article 48  (1) The competent minister may revoke the certification of a Certified Personal Information Protection Organization if:
+(i) it comes to fall under Article 38, item (i) or (iii);
+(ii) it ceases to conform to a requirement referred to in one of the items of Article 39;
+(iii) it violates the provisions of Article 44;
+(iv) it fails to comply with an order as referred to in the preceding Article;
+(v) it was accredited as referred to in Article 37, paragraph (1) by wrongful means.
+(2) After revoking an accreditation pursuant to the provisions of the preceding paragraph, the competent minister must issue public notice indicating this.
+(Competent Ministers)
+Article 49  (1) The competent ministers under this Section are as follows; provided, however, that the Prime Minister may designate a specific Minister etc. as the competent minister for specific business operators seeking to apply for the accreditation referred to in Article 37, paragraph (1), if the Prime Minister finds this to be necessary for the smooth implementation of the provisions of this Section:
+(i) the competent minister for any Accreditation Personal Information Protection Organization whose incorporation was subject to permission or authorization (including a business operator seeking the accreditation referred to in Article 37, paragraph (1); the same applies in the following item) is the Minister or the Commission that granted that permission or authorization;
+(ii) the competent ministers for an Accredited Personal Information Protection Organization other than as set forth in the preceding item are the Ministers or the Commission with jurisdiction over the business undertakings in which the Covered Enterprises of the Accredited Personal Information Protection Organization are engaged.
+(2) After designating the competent minister pursuant to the proviso of the preceding paragraph, the Prime Minister must issue public notice indicating this.
+Chapter V Miscellaneous Provisions
+(Exclusion from Application)
+Article 50  (1) The provisions of the preceding Chapter do not apply to a Business Operator Handling Personal Information which is set forth in one of the following items if all or part of the purpose for which it handles that Personal Information is the purpose prescribed in that item:
+(i) broadcasting organizations, newspapers, news services, and other journalistic organizations (this includes individuals who work in News Reporting): use in News Reporting;
+(ii) a business operator in the business of creating literary works: use in the creation of literary works;
+(iii) a college, university, or other academic or research-oriented institution or organization, or any business operator belonging to the same: use in academics or research;
+(iv) a religious organization: use in a religious activity (this includes activities incidental thereto);
+(v) a political organization: use in a political activity (this includes activities incidental thereto).
+(2) The "News Reporting" prescribed in item (i) of the preceding paragraph means informing the general public of objective facts by presenting them as the truth (this includes stating an opinion or position based on such facts).
+(3) A Business Operator Handling Personal Information as set forth in one of the items of paragraph (1) must, itself, endeavor to take the necessary and appropriate measures for securely managing Personal Data, to carry out the necessary and appropriate processing of complaints about the handling of Personal Information, and to take other necessary measures for ensuring the proper handling of Personal Information, and must also endeavor to disclose the content of those measures to the public.
+(Functions Handled by Local Governments)
+Article 51  It may be decided, as prescribed by Cabinet Order, that the functions that this Act prescribes as being part of the authority of the competent minister are to be handled by the heads of local governments or by other executive agencies.
+(Delegation of Authority or Functions)
+Article 52  The competent minister may delegate things that are part of the minister's authority or affairs to ministry officials, as prescribed by Cabinet Order.
+(Disclosure of the Extent to Which This Act Is In Effect)
+Article 53  (1) The Prime Minister may collect reports from the heads of the relevant administrative organs (meaning the organs established in the Cabinet pursuant to law (other than the Cabinet Office), organs under the supervision of the Cabinet, the Cabinet Office, the Imperial Household Agency, the institutions prescribed in Article 49, paragraphs (1) and (2) of the Act for Establishment of the Cabinet Office (Act No. 89 of 1999), and the institutions prescribed in Article 3, paragraph (2) of the National Government Organization Act (Act No. 120 of 1948); the same applies in the following Article) about the extent to which this Act is in effect.
+(2) Each year, the Prime Minister must compile the reports set forth in the preceding paragraph and disclose an overview of those reports to the public.
+(Communication and Cooperation)
+Article 54  The Prime Minister and the heads of the administrative organs involved in putting this Act into effect must be in close communication and cooperate with one another.
+(Delegation to Cabinet Order)
+Article 55  Beyond what is prescribed in this Act, particulars that need to be provided for in order for this Act to be implemented are prescribed by Cabinet Order.
+Chapter VI Penal Provisions
+Article 56  A business operator violating an order under Article 34, paragraph (2) or (3) is subject to imprisonment with required labor for not more than six months or to a fine of not more than 300,000 yen.
+Article 57  A business operator failing to make a report under Article 32 or 46 or making a false report is subject to a fine of not more than 300,000 yen.
+Article 58  (1) If the representative of a corporation (or of an association or foundation without legal personality that has made provisions for a representative or manager; hereinafter the same applies in this paragraph) or the agent, employee, or other worker of a corporation or individual commits a violation referred to in one of the preceding two Articles in connection with the business of the corporation or individual, in addition to the offender being subject to punishment, the corporation or individual is subject to the fine prescribed in the relevant Article.
+(2) When the provisions of the preceding paragraph apply to an association or foundation without legal personality, the representative or manager of the association or foundation represents it in respect of procedural actions, and the provisions of laws on criminal proceedings that have a corporation as the defendant or suspect apply mutatis mutandis.
+Article 59  A business operator falling under one of the following items is subject to a non-criminal fine of not more than 100,000 yen:
+(i) a business operator failing to make a notification under Article 40, paragraph (1) or making a false notification;
+(ii) a business operator violating the provisions of Article 45.
+Supplementary Provisions  [Extract]
+(Effective Date)
+Article 1  This Act comes into effect as of the day of its promulgation; provided, however, that the provisions of Chapter IV to Chapter VI and Article 2 to Article 6 of the Supplementary Provisions come into effect as of the date specified by Cabinet Order, which is to fall within two years from the day of promulgation.
+(Transitional Measures Concerning Consent of Persons)
+Article 2  If a Person has consented to the handling of Personal Information prior to this Act coming into effect, and this is equivalent to consent for the Personal Information to be handled for a purpose other than the Purpose of Use specified pursuant to Article 15, paragraph (1), the Person is deemed to have given the consent referred to in Article 16, paragraph (1) or paragraph (2).
+Article 3  If an Person has consented to the handling of Personal Information prior to this Act coming into effect, and this is equivalent to consent for Personal Data to be provided to a third party as under Article 23, paragraph (1), the Person is deemed to have given the consent referred to in that paragraph.
+(Transitional Measures Concerning Notices)
+Article 4  If, prior to this Act coming into effect, a Person has been notified of the information of which the Person must be notified or of the information that must be made readily accessible to the Person pursuant to Article 23, paragraph (2), the Person is deemed to have been notified pursuant to the provisions of that paragraph.
+Article 5  If, prior to this Act coming into effect, a Person has been notified of the information of which the Person must be notified or of the information that must be made readily accessible to the Person pursuant to Article 23, paragraph (4), item (iii), the Person is deemed to have been notified pursuant to the provisions of that paragraph.
+(Transitional Measures Concerning the Restriction on Name Use)
+Article 6  The provisions of Article 45 do not apply for six months after the provisions of that Article come into effect, with respect to a person that is actually using a name that refers to that business operator as an Accredited Personal Information Protection Organization, or any other name that is confusingly similar to this, at the time that this Act comes into effect.

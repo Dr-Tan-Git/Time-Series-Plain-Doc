@@ -1,0 +1,202 @@
+Law of the Republic of Azerbaijan
+On personal data
+The present Law shall regulate relationships associated with collection, processing and protection of personal data, formation of personal data section of national information space as well as matters related to transfrontier transfer of personal data and shall set out rights and obligations of the state and local self-government authorities, legal and natural persons operating in this field.
+Section I. General provisions
+Article 1. Purpose of the Law
+Main purpose of the present Law shall be composed of determination of legislative grounds and general principles of collection, processing and protection of personal data, rules and requirements of the state regulation in that sphere, rules of formation of personal data in information resources, establishment of information systems, issuance and transfer of information, fundamental human and citizens' rights, freedoms and grounds for their liability, including protection of the right to a private and family life.
+Article 2. Basic definitions used in the present Law
+2.1. Basic definitions used in the present Law shall have the following meaning:
+2.1.1. personal data shall mean data enabling to identify, directly or indirectly, identity of the person;
+2.1.2. subject entity of personal data (hereinafter referred to as "the subject entity") shall mean natural person personal data of whom is collected, processed and protected or identity of whom was or is identified;
+2.1.3. information system of personal data shall mean information system which provides, as provided, collection, processing and protection of personal data;
+2.1.4. information resources of personal data shall mean information resources accumulated under procedure and in the volume provided for in the legislation in the information systems of personal data as well as separately;
+2.1.5. personal identification number shall mean an integrated unique code conferred ,as provided, on person, personal data of which are entered into information systems of personal data and enabling to unambiguously determine respective data about the person;
+2.1.6. personal data of specific category shall mean data regarded to race or nationality, family life, religion and religious belief, health or conviction;
+2.1.7. collection of personal data shall mean an acquisition of personal data about subject entity in a documentary form in accordance with the legislation;
+2.1.8. processing of personal data shall mean operations conducted with personal data (record, systematization, updating, alteration, extraction, depersonalization, storage, transfer, deletion);
+2.1.9. owner of personal data (hereinafter referred to as the owner) shall mean state authority or local self-government authority, natural or legal person exercising, as provided for in the legislation, full right of possession, use and disposal of information system or personal data resource which define purpose of personal data processing;
+2.1.10. operator of personal data (hereinafter referred to as the operator) shall mean the owner of personal data exercising collection, processing and protection of personal data or state authority or local self-government authority, natural or legal person, to which it entrusted those functions in certain volume and on certain conditions;
+2.1.11. user of personal data (hereinafter referred to as the user) shall mean state authority or local self-government authority, natural or legal person which or who are provided with the right to use personal data within the frame of their powers and under procedure and in volume provided by the owner with the purpose of acquisition of information required for them only;
+2.1.12. distribution of personal data shall mean disclosure of personal data in the mass media as well as through information systems or creation of possibilities for acquaintance of persons with personal data through other methods;
+2.1.13. transfer of personal data shall mean submission of personal data to users with on material carriers or through the information tehnologies, as provided for in the legislation, on the basis of request;
+2.1.14. prohibition of collection and processing of personal data shall mean suspension of any operations with personal data;
+2.1.15. depersonalization of personal data shall mean bringing of personal data to a state when determination of their belonging to the subject entity is impossible;
+2.1.16. transfrontier data transfer shall mean transfer of personal data, as provided for in the legislation, through the state border of the Republic of Azerbaijan to the respective international organizations, state authorities or local self-government authorities, natural or legal persons;
+2.1.17. deletion of personal data shall mean deletion of personal data from operating system, their bringing to a state when restoration of their content is not subsequently allowed or deletion of material carriers with personal data.
+2.2. Notions of information, information technologies, information systems and resources, corporate information systemsand other notions used in the present Law shall be used in the meanings provided for in laws of the Republic of Azerbaijan regulating relationships in the field of collection, processing and proctection of information.
+Article 3. Legislation of the Republic of Azerbaijan in the sphere of personal data
+3.1. Legislation of the Republic of Azerbaijan in the sphere of personal data shall be composed of the Constitution of the Republic of Azerbaijan, international agreement which the Republic of Azerbaijan is a party to, present Law and other normative legal acts.
+3.2. For the purposes of provision of national security of the Republic of Azerbaijan as well as lawfulness, rules for collection of personal data in connection with enforcement of intelligence and counterintelligence, operative-research activities, protection of personal data regarded to state secret and collected in national archival fund shall be defined by the legislation of the Republic of Azerbaijan.
+3.3. Provisions of the present Law shall not apply to collection and processing of personal data by natural persons for personal and family needs.
+Article 4. Main principles of collection, processing and protection of personal data
+4.1. Formatiion of information resources, establishment of their information systems shall be carried out in accordance with principles of lawfulness, confidentiality, combination of voluntariness with compulsion complying with fundamental human and citizens' rights and freedoms enshrined in the Costitution of the Republic of Azerbaijan.
+4.2. Posing the treat to life and health of person, degrading his/her honour and dignity shall not be allowed in the course of collection, processing and protection of personal data.
+Section II. Categories of personal data, regulation of their collection, processing and protection
+Article 5. Legal regime and protection of personal data
+5.1. Personal data shall be subject to protection from the moment of their collection and, for those purposes, they shall be divided into confidential and public categories depending on type of access (acquisition).
+5.2. Confidential personal data shall be subject to protection on the level corresponding to the requirements provided for in the legislation by owners, operators and users who have acquired a right of access to those data. Except for cases provided for in the legislation, confidential personal data may be transferred to third persons only on the basis of consent of the subject entity.
+5.3. Category of public personal data shall include data on subject entity, which were depersonalized, as provided, disclosed by itself or entered, upon its consent, into information systems established for public use. Surname, given name and patronymic of person shall be regarded to permanently available public personal data. Provision of confidentiality of personal data of public category shall not be required.
+5.4. Data of specific category may be regarded both to the category of confidential and category of public personal data with due regard to their features and requirements of Article 11.1 of the present Law.
+5.5. Protection of personal data shall be ensured by owners and operators. Natural persons acting in the sphere of collection, processing and protection of personal data shall be obliged to undertake written statement for non-disclosure of those data within the period of their activity and upon their retirement.
+5.6. For the purposes of enforcement of informational provision of the society in the sphere of telecommunications, mail service, address and other spheres, data provided by the subject entity about itself (surname, given name, patronymic, date and place of birth, sex, citizenship, phone number and e-mail address, place of residence and seat, qualification and place of employment, type of activity, marital status, photo and other data) may be entered into information systems with the written consent of that subject entity.
+5.7. In the course of entry of personal data into information systems of public use from bare sources, operator shall be obliged to inform the subject entity about composition of those data entered and source of their acquisition. Those data shall be immediately excluded from that information system on the basis of written request of the subject entity, court or relevant authority of executive power.
+5.8. Owner or operator shall be obliged to carry out organizational and technical measures guaranteeing provision of personal data protection (including their accidental and unauthorized deletion, loss, unauthorized access, alteration and other cases).
+5.9. Requirements for protection of personal data shall be defined by the relevant authority of executive power.
+5.10. Rules of archiving of persona data shall be defined by the relevant legislation of the Republic of Azerbaijan.
+Article 6. Main forms of state regulation in the sphere of collection, processing and protection of personal data
+6.0. Measures of state regulation in the sphere of collection, processing and protection of personal data shall be as follows:
+6.0.1. formation of section of personal data in national information space and provision of its protection, assessment of threats and protection level of that sphere;
+6.0.2. determination of legal base of collection and processing of personal data;
+6.0.3. provision of fundamental human and citizens' rights and freedoms in the course of collection and processing of personal data;
+6.0.4. licensing of the activity for collection and processing of personal data;
+6.0.5. performance of the state registration of information systems of personal data;
+6.0.6. certification of information systems of personal data as well as respective maens of information technologies;
+6.0.7. standatrization of legal and technical documenting in the sphere of establishment and application of information systems of personal data;
+6.0.8. exercise of state expert examination of information resources and personal data systems and their project documents;
+6.0.9. state regulation in the sphere of establishment of state interdepartamental information systems of personal data and of their management.
+Section III. Rights of the subject entity
+Article 7. Rights of the subject entity
+7.1. Subject entity shall be entitled to:
+7.1.1. acquire information on availability of personal data about him/her from the owner or operator of the information system;
+7.1.2. require legal substantiation of collection, processing and transfer to third persons of personal data about him/her available in the information system and acquire information about legal consequences which may emerge as a result of collection, processing and transfer to third persons of such personal data;
+7.1.3. get acquainted with the content of personal data about him/her accumulated in the information system;
+7.1.4. be aware of purpose of collection and processing of personal data about him/her in the information system, terms, processing methods, range of persons authorized to get acquainted with his/her personal data, including information systems providing for performance of information exchange;
+7.1.5. require alteration or deletion of any personal data about him/her collected in the information system of personal data as well as lodge applications on transfer of such data, as provided, to the archive, except for cases provided for in the legislation;
+7.1.6. require a prohibition of collection and processing of personal data about him/her;
+7.1.7. acquire information on sources of acquisition of any personal data about him/her collected in the information system, require proof of lawfulness of such data;
+7.1.8. require protection of any personal data about him/her collected in the information system;
+7.1.9. acquire information on availability of certificates of compliance and of passage of state expert examination of information systems where any personal data about him/her are collected;
+7.1.10. enjoy other rights set forth in the present Law and other normative legal acts of the Republic of Azerbaijan.
+7.2. Subject entity shall be entitled to object agains collection and processing of personal data about him/her, except for cases where collection and processing of data are of mandatory nature, as provided for in the legislation. Objection of subject entity shall be communicated in writing to the owner or operator. Substantiation of objection of the subject entity shall not be required. Upon receipt of such objection, owner or operator shall be obliged to suspend the collection and processing of personal data immediately.
+7.3. In the event that decision talen as a result of collection and processing of personal data through information technologies breaches interests of the subject entity, he/she shall be entitled to object against collection and processing of such data by means of mentioned metho, except for cases which are of mandatory nature, as provided for in the legislation. In the event that owner or operator receives an objection against processing of persobal data through information technologies, they shall be obliged to receive consent of the subject entity for processing of data through the other method or to suspend processing of personal data immediately.
+7.4. In the event that rights of the subject entity are breached as a result of illegal collection and processing of personal data about him/her as well as failure to ensure their protection as well as failure to comply with the requirements of the present Law, he/she shall be entitled to lodge complaint to the relevant authority of executive power or to the court as well as require, through the court proceedings, reimbursement of moral amd material damage caused to him/her.
+7.5. Subject entity shall carry out rights set forth in Articles 7.1-7.3 of the present Law through the communication to the owner or operator of written statement drawn up on paper and certifying identity of the document or through the communication of electronic request with reinforced electronic signature.
+Section IV. Collection and processing of personal data
+Article 8. Consent of the subject entity for collection and processing of personal data about him/her
+8.1. Except for cases of mandatory collection and processing of personal data, as provided for in the legislation of the Republic of Azerbaijan, collection and processing of personal data about any person shall be allowed only with the written consent of the subject entity, including consent in the form of electronic document with reinforced electronic signature or on the basis of written data submitted by him/her.
+8.2. Written consent of the subject entity for processing of personal data shall include the following:
+8.2.1. data allowing to identify the identity of the subject entity;
+8.2.2. data allowing to identify the owner or operator acquiring the consent of the subject entity;
+8.2.3. purpose of collection and processing of personal data;
+8.2.4. list of personal data, consent of the subject entity to which is granted and of operations for their processing;
+8.2.5. validity period of consent of the subject entity and terms and conditions of its withdrawal;
+8.2.6. terms and conditions of deletion or archiving of collected personal data about the subject entity, as provided for in the legilation, upon completion of fixed period of storage of personal data in the respective information system or upon his/her death.
+8.3. In case of death of subject entity, or declaration of him/her as dead, as provided for in the legislation of the Republic of Azerbaijan, recognition of him/her as missing, incapable as well as underaged, absence of his/her right to freely express the consent required by the present Law, consent shall be granted by his/her heirs, authorized representatives, parents or guardians.
+8.4. Owner or operator shall be obliged to submit proof of acquisition of consent of the subject entity for collection and processing of his/her personal data. Processing of personal data about dead persons may be carried out in cases provided for in the legislation, if no prohibition was put on processing of such data inter vivos of the subject entity.
+8.5. Owner or operator performing collection and processing of public personal data shall be obliged to submit proof that such data are regarded to the category of public personal data.
+Article 9. Main terms and conditions of collection and processing of personal data
+9.1. Purpose of collection and processing of personal data shall be clearly decleared by the owner or operator and collection and processing of such data shall comply with those purposes as well as with material, technical and organizational capacities of the owner or operator. Personal data shall be processed only through legal and predetermined methods collected for declared purposes and corresponding to those purposes.
+9.2. Volume and nature of collected and processed personal data shall correspond to declared purposes and powers of the owner.
+9.3. Personal data shall be full, accurate and be updated as may be required.
+9.4. In the course of achievement of purposes of colelction and processing of personal data and removal of necessity of their storage, those data shall be subject to immediate deletion.
+9.5. Terms and conditions of collection and processing of personal data set forth in the present Law shall fully apply to collection and processing of data characterizing biological features of human organism and enabling to define it unambiguously - finger-prints and palmatograms, face image, retina and iris, voice fragments and its acoustic parameters, results of deoxyribonucleic acid (DNA), body dimensions, description of specific marks and defects of the body, handwriting and signature as well as other biometric data.
+9.6. Collection and processing of personal data may be carried out only in case of availability of one of the following conditions:
+9.6.1. subject entity has given consent for collection and processing of personal data or those data are regarded to public category;
+9.6.2. personal data are processed on the basis of legislation which defines purposes and methods of processing;
+9.6.3. processing of personal data for scientific and statistical purposes should be carried out subject to their mandatory depersonalization;
+9.6.4. collection and processing of personal data is required for protection of luife and health of the subject entity.
+9.7. Collection and processing of personal data of specific category shall not be allowed, except for the following cases:
+9.7.1. collection and processing of data of specific category is of mandatory nature in cases provided for in the law;
+9.7.2. data of specific category regard to category of public data as provided foe in Article 5.3 of the present Law;
+9.7.3. collection and processing of data of specific category is required for protection of life and health of the subject entity, other person or respective group of persons provided that acquisition of consent of the subject entity for collection of those data is not allowed;
+9.7.4. collection and processing of data of specific data regarded to members of public associations and other non-governmental organizations are carried out by tghose organizations for achievement of their legitimate purposes and provided that if no data is submitted to theoird persons without consent of the subject entity.
+9.8. In the course of removal of reasons of collection and processing of data of specific category in cases provided for in Article 9.7 of the present Law, prohibition shall be immediately put on those data provided that they shald be immediately deleted, if the subject entity of data of specific category failed to give consent for storage of such data in the information system or their transfer to the archive.
+9.9. The owner shall be entitled to entrust collection and processing of personal data on the basis of the agreement to the operator provided that personal data are protected or he/she acts as an operator himself/herself.
+9.10. Personal data collected and processed in onformation systems of personal data of general use and corporate information systems of personal data may be transferred to third persons on paid basis. Procedure of transfer of personal data collected and processed in corporate information systems to third persons on paid basis shall be defined by the relevant authority of executive power.
+9.11. Provision of services to users entitled to use corporate information systems of personal data shall be carried out in such systems.
+9.12. Collection of records on collection and processing of personal data in information systems and resouces, lodging requests and their enforcement, results of registration and examination of appliucations as well as on operations associated with management and protection of information systems in the relevant control and audit logs shall be provided by the owner or operator.
+9.13. In the course of performance of scientific and statistical research, personal data acquired by the operator shall be depersonalized. In the event that results of processing of depersonalized data regard to data constituting state secret, protection of such data shall be carried out in accordance with the legislation of the Republic of Azerbaijan on state secret.
+9.14. Formation of information resources of personal data and establishment of information systems, their maintenance may be carried out only on the basis of special permission (license) in accordance with the legislation of the Republic of Azerbaijan.
+Article 10. Obligations of the owner and operator
+10.1. Obligation of the owner in the course of collection and processing of personal data shall be provision of lawfulness and safety of collection and processing of personal data. Moral and material damage caused to the subject entity as a result of collection and processing of personal data, incomplete provision of safety of such data and its size shall be defined by the court and reimbursed by the owner as provided for in the legislation.
+10.2. In case of performance of obligations by the owner in the course of collection and processing of personal data, obligations set forth in the present Law for the operator shall apply to the owner.
+10.3. Obligations of the operator shall be defined following to provisions of the agreement concluded between the owner and operator in accordance with the present Law and requirements of the legislation of the Republic of Azerbaijan.
+10.4. Obligations of the operator in the course of collection and processing of personal data shall be provision of lawfulness of collection and processing of personal data, their safety as well as compliance with terms and conditions arising from the agreement concluded with the owner.
+10.5. Operator, as provided for in the legislation of the Republic of Azerbaijan, shall be obliged to create conditions for enfocement of intelligence and counterintelligence, operative-research measures, to settle respective organizational and technical matters and to observe confidentiality of methods used in the course of performance of such measures.
+10.6. The owner shall be obliged to comply with the requirements of the relevant authority of executive power on enforcement of obligations entrusted to him/her by the present Law and inform it thereof within the period of 7 working days.
+Article 11. Features of collection of personal data
+11.1. The owner or operator shall be entitled to receive from subject entity only those personal data which are required for achievement of processing purposes.
+11.2. In the course of collection of personal data, the owner or operator shall be obliged to inform the subject entity of the following:
+11.2.1. data identifying the owner or operator;
+11.2.2. purpose of personal data processing and legal substantiation of that purpose;
+11.2.3. level of protection of collected and processed personal data in the information system;
+11.2.4. data on availability of certificate of compliance for information system and on their state expert examination;
+11.2.5. range of provided personal data users, including information systems with which performance of information exchange is foreseen;
+11.2.6. information about rights of the subject entity set forth in the present Law.
+11.3. In the event that submission of personal data is provided for in the law, the owner or operator shall be obliged to inform the subject entity of legal consequences of mandatory submission of personal data.
+Article 12. Request of the subject entity
+12.1. The owner or operator shall be obliged to provide the subject entity with the data about him/her free of charge as well as to ensure his/her rights provided for in Article 7.1 of the present Law.
+12.2. In case of application with the request for purposes of provision of his/her rights set forth in Articles 7.1.5 and 7.1.6, subject entity shall be obliged to submit respective documents for enforcement of required measures.
+12.3. In case of application with the request of the subject entity to the owner or operator in connection with collected and processed data about him/her, his/her request shall be examined by the owner or operator and shall be executed in accordance with the subject matter of the request and those data shall not reflect personal data about other persons.
+12.4. The owner or operator shall be obliged to respond to the request lodged by the subject entity within the period of 7 working days at the latest from the day of its arrival; in case of necessity of application in connection with this to third persons, period of execution may be extended for another 7 working days.
+12.5. The owner or operator shall be obliged to perform required measures with personal data (data clarification, prohibition of data collection and processing etc.) on the basis of request and shall inform third persons, who were earlier provided with the personal data on subject entity, about those measures within the period of 3 working days.
+12.6. In trhe event that the owner or operator rejects to execute the request of the subject entity on grounds provided for in the legislation, the subject entity shall be provided with substantiated response within the period of 5 working days from the day of its acceptance.
+Article 13. Transfer of personal data
+13.1. Except for cases provided for in Article 8.3 of the present Law, transfer of personal data to the owner or operator by third persons as well as transfer of personal data to any third persons by the owner or operator shall be only allowed with the written consent of the subject entity.
+13.2. Transfer of personal data without consent of the subject entity shall be only allowed in the following cases:
+13.2.1. in the course of transfer of personal data of public category;
+13.2.2. in the course of confidential personal data in connection with the enforcement of entrusted obligations by the state authorities or local self-government authorites, provided that the requirements to information systems of personal data set forth in the legislation are complied with;
+13.2.3. in case of necessity of transfer of personal data for protection of life and health of the subject entity and impossibility to acquire his/her consent immediately.
+13.2-1. In accordance with the international treaties of the Republic of Azerbaijan providing for the exchange of tax and financial data, information on financial transactions, carried out by legal entities and individuals of these states on the territory of the Republic of Azerbaijan, directly or through the relevant executive authority, is submitted to the competent authorities of these foreign states, established by the relevant executive authority.
+13.3. Consent for transfer of personal data may be withdrawn by the subject entity. As soon as the woner, operator or third persons are aware of withdrawal by the subject entity of its consent for transfer of personal data, they shall be obliged to suspend the transfer of those data immediately.
+Article 14. Transfrontier transfer of personal data
+14.1. Transfrontier transfer of personal data shall be performed with the compliance with requirements set forth in the present Law and with due regard to features provided for in the present Law.
+14.2. Transfrontier transfer of personal data shall be prohibited in the following cases:
+14.2.1. in case of existence of threat to national security of the Republic of Azerbaijan;
+14.2.2. in case if the legislation of the country, to which personal data is transferred, fails to ensure legal protection of those data in the level provided for in the legislation of the Republic of Azerbaijan.
+14.3. Transfrontier transfer of personal data may be performed regardless of level of legal protection in cases when the subject entity has given his/her consent for transfrontier transfer of personal data as well as if transfer of personal data is required for protection of life and health of the subject entity.
+14.4. In the course of transfrontier transfer of personal data, safety of those data shall be ensured by the owner or operator.
+Section V. Measures of state regulation in the sphere of collection, processing and protection of personal data
+Article 15. Registration of information systems of personal data
+15.1. Information systems of personal data, including information systems which were existing prior to entry of the present Law into force, shall be subject to state registration in the relevant authority of executive power. Rules of state registration and liquidation of state registration of information systems of personal data shall be approved by the relevant authority of executive power.
+15.2. Except for cases provided for in Article 3.2 of the present Law, collection and processing of personal data without state registration of information system of personal data shall be prohibited.
+15.3. Following information systems of personal data shall not require state registration:
+15.3.1. information system of personal data regarded to state secret in accordance with the legislation of the Republic of Azerbaijan on state secret;
+15.3.2. information system of personal data regarded to subject entities who are in labor relationships with the owner or operator or required for their access to the working territory;
+15.3.3. information systems of personal data defined by the relevant authority of executive power and established depending on purpose of processing of personal data and maximal limit of number of subject entities in cases, which do not require state registration.
+15.4. State registration of information system of personal data shall be carried out within the period of 1 month on the basis of written application of the owner. For inclusion of information systems to the state register, the following basic data on information system of personal data shall be reflected in that application:
+15.4.1. data identifying the owner;
+15.4.2. legal base of establishment of information system;
+15.4.3. purpose and provided methods of processing of personal data;
+15.4.4. categories of personal data processed inm the information system;
+15.4.5. categories of subject entities;
+15.4.6. general description of measures for protection of personal data which are undertaken by the owner in the course of exploitation of information system;
+15.4.7. date of commencement of collection and processing of personal data;
+15.4.8. range of personal data users;
+15.4.9. mechanisms of control and audit of collection and processing of personal data;
+15.4.10. other interconnected information systems, methods of information exchange with system data and categories of exchangeable data;
+15.4.11. scope of covered electronic services which may be rendered to the population with the use of information systems;
+15.4.12. rules of provision of rights of the subject entity provided for in Article 7.1 of the present Law;
+15.4.13. categories of personal data which are subject to transfrontier transfer to other countries as well as international organizations.
+15.5. In the event that amendments are made to the data contained in the application for state registration of information system of personal data, the relevant authority of executive power shall be informed thereof in writing within the period of 3 working days.
+15.6. In the event that state registration of information system of personal data is liquidated, prohibition shall be immediately put on data contained in that information system, provided that they should be subject to immediate deletion as provided by the relevant authority of executive power.
+Article 16. State register of information systems of personal data
+16.1. Data submitted in accordance with Article 15.4 of the present Law, data associated with state registration or liquidation of state registration of information systems of personal data shall be included into the state register of informations systems which is managed by the relevant authority of executive power.
+16.2. Rules of management of the state register of information systems of personal data shall be defined by the relevant authority of executive power.
+Article 17. Powers of the relevant authority of executive power in the sphere of collection, processing and protection of personal data
+17.1. Relevant authority of executive power shall examine compliance of collection, processing and protection of personal data in the information systems included into the state register with the requirements of the present Law as well as compliance of those data and methods of their processing with declared purposes of information system.
+17.2. Relevant authority of executive power shall be entitled to:
+17.2.1. make requests to owners or operators as well as acquire, free of charge, required data from state authorities, owners or operators in the course of enforcement of tasks entrusted by the present Law;
+17.2.2. examine data provided by the owner in the course of performance of state registration of information systems of personal data, including compliance of information systems with the project, arrange state expert examination of information systems;
+17.2.3. require state authorities, natural and legal persons dealing with collection, processing and protection of personal data to remove cases of breach of requirements of the present Law;
+17.2.4. take measures for bringing of persons who breached requirements of the respective legislation in the field of collection, processing and protection of personal data to the liability, as provided;
+17.2.5. enjoy other rights set forth in the legislation of the Republic of Azerbaijan.
+17.3. Relevant authority of executive power shall be obliged to ensure confidentiality of personal data acquired in the course of performance of its activity.
+17.4. Acts (omission) of the relevant authority of executive power may be appealed as provided for in the legislation of the Republic of Azerbaijan.
+Article 18. Division of national information space by personal data
+18.1. Formation, use and development of division of national information space by personal data shall be carried out on the basis of integrated scientific and technical concept.
+18.2. For provision of sustainable and protected interaction of information systems of personal data in national information space and prevention of abhesion in their means of provision in this sphere, information technology and safety standards shall apply.
+18.3. With the purpose of agreement of data about the same subject entity located in different information systems distributed in the section of personal data of national information space, provision of prevention of fragmentation and iteration in this field, personal identification number shall apply. Except for cases provided for in the legislation, amalgamation of information systems and resources of personal data belonging to different owners and having different assignment shall not be allowed.
+18.4. Rules of inclusion and use of personal identification number in the information systems of personal data shall be defined by the relevant authority of executive power.
+Article 19. Liability for breach of legislation on personal data
+Persons found guilty in the breach of the present Law shall bear liability as provided for in the legislation of the Republic of Azerbaijan.
+President of the Republic of Azerbaijan
+Ilham ALIYEV
+Baku city, 11 May 2010
+No. 998-IIIQ
+Published in "Azerbaijan" newspaper (6 June 2010, No. 121) ("LegalActs" LLC).
+Published in "Collection of Laws of the Republic of Azerbaijan" (30 June 2010, No. 6 (156), section 480) ("LegalActs" LLC).
+As amended by Laws No. 995-IVQD of 20 June, 2014; No. 1066-VQD of 3 April, 2018 ("LegalActs" LLC).
+(c) "LegalActs" LLC
+Unofficial translation
+

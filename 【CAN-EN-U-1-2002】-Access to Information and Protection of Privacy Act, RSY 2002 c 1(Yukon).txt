@@ -1,0 +1,744 @@
+ACCESS TO INFORMATION AND PROTECTION OF PRIVACY ACT
+
+TABLE OF CONTENTS
+PART 1
+INTRODUCTORY PROVISIONS
+
+Purposes of this Act
+1(1) The purposes of this Act are to make public bodies more accountable to the public and to protect personal privacy by
+(a) giving the public a right of access to records;
+(b) giving individuals a right of access to, and a right to request correction of, personal information about themselves;
+(c) specifying limited exceptions to the rights of access;
+(d) preventing the unauthorized collection, use, or disclosure of personal information by public bodies; and
+(e) providing for an independent review of decisions made under this Act.
+(2) This Act does not replace other procedures for access to information or limit in any way access to information that is not personal information and is available to the public independently of this Act. S.Y. 1995, c.1, s.1.
+
+Scope of this Act
+2(1) This Act applies to all records in the custody, or under the control of a public body, including court administration records, but does not apply to the following
+(a) a record in a court file, a record of a judge of a court established by an Act, a judicial administration record, or a record relating to support services provided to the judges of those courts;
+(b) a personal note, communication, or draft decision of a person who is acting in a judicial or quasi judicial capacity;
+(c) a record that is created by or is in the custody of an officer of the Legislative Assembly and that relates to the exercise of that officer's functions under an Act;
+(d) a record of a question that is to be used on an examination or test;
+(e) material placed in the Yukon Archives by or for a person or agency other than a public body; or
+(f) information published by a public body and still available for purchase or access by the public.
+(2) This Act does not limit the information available by law to a party to a proceeding in court or before an adjudicative body. S.Y. 1995, c.1, s.2.
+
+Definitions
+3 In this Act,
+"adjudicative body" means any person or group of persons before whom a proceeding may be taken for a determination of rights according to established law and procedures;
+"commissioner" means the Information and Privacy Commissioner appointed under section 40;
+"employee", in relation to a public body, includes a person retained under a contract to perform services for the public body;
+"judge" means a judge of any court that has jurisdiction in the Yukon or of any court on appeal from a court that has jurisdiction in the Yukon;
+"judicial administration record" means a record containing information relating to a judge, including
+(a) scheduling of judges and trials,
+(b) content of judicial training programs, and
+(c) statistics of judicial activity prepared by or for a judge;
+"law enforcement" means
+(a) policing, including criminal intelligence operations,
+(b) investigations that lead or could lead to a penalty or punishment being imposed or an order being made under an Act of Parliament or of the Legislature,
+(c) proceedings that lead or could lead to a penalty or punishment being imposed or an order being made under an Act of Parliament or of the Legislature, and
+(d) investigations and proceedings taken or powers exercised for the purpose of requiring or enforcing compliance with the law;
+"personal information" means recorded information about an identifiable individual, including
+(a) the individual's name, address, or telephone number,
+(b) the individual's race, national or ethnic origin, colour, or religious or political beliefs or associations,
+(c) the individual's age, sex, sexual orientation, marital status, or family status,
+(d) an identifying number, symbol, or other particular assigned to the individual,
+(e) the individual's fingerprints, blood type, or inheritable characteristics,
+(f) information about the individual's health care history, including a physical or mental disability,
+(g) information about the individual's educational, financial, criminal, or employment history,
+(h) anyone else's opinions about the individual, and
+(i) the individual's personal views or opinions, except if they are about someone else;
+"public body" means
+(a) each department, secretariat, or other similar executive agency of the Government of the Yukon, and
+(b) each board, commission, foundation, corporation, or other similar agency established or incorporated as an agent of the Government of the Yukon,
+but does not include
+(c) a corporation of which the controlling share capital is owned by a person other than the Government of the Yukon or an agency of the Government of the Yukon, or
+(d) the Legislative Assembly Office or offices of the members of the Legislative Assembly, or
+(e) the chief electoral officer and election officers acting under the Elections Act, or
+(f) a court established by an enactment;
+"record" includes books, documents, maps, drawings, photographs, letters, vouchers, papers and any other thing on which information is recorded or stored by graphic, electronic, mechanical or other means, but does not include a computer program or any other process or mechanism that produces records;
+"records manager" means the Manager of Records Management in the Records Management Branch, Department of Infrastructure, or such other officer as is designated by the Minister.
+"third party", in relation to a request for access to a record or for correction of personal information, means any person, group of persons or organization other than
+(a) the person who made the request, or
+(b) a public body;
+"trade secret" means information, including a formula, pattern, compilation, program, device, product, method, technique or process, that
+(a) is used, or may be used, in business or for any commercial advantage,
+(b) derives independent economic value, actual or potential, from not being generally known to the public or to other persons who can obtain economic value from its disclosure or use,
+(c) is the subject of reasonable efforts to prevent it from becoming generally known, and
+(d) the disclosure of which would result in harm or improper benefit. S.Y. 2002, c.1, s.2; S.Y. 1995, c.1, s.3.
+
+Paramountcy of this Act
+4 If a provision of this Act conflicts with a provision of another Act, then the provision of this Act prevails unless the other Act states that it, or the provision of it in question, is to apply despite this Act or despite any Act. S.Y. 1995, c.1, s.4.
+
+PART 2
+ACCESS TO INFORMATION
+
+Right to information
+5(1) A person who makes a request under section 6 has a right of access to any record in the custody of or under the control of a public body, including a record containing personal information about the applicant.
+(2) The right of access to a record does not extend to information that is excepted from disclosure under this Part, but if that information can reasonably be separated or obliterated from a record an applicant has the right of access to the remainder of the record.
+(3) The right of access to a record is subject to the payment of any fee required by a regulation made under section 68. S.Y. 1995, c.1, s.5.
+
+How to make a request
+6(1) To obtain access to a record, an applicant must make their request to the records manager.
+(2) A request for access to a record may be made orally or in writing verified by the signature or mark of the applicant and must provide enough detail to identify the record. If the request is made orally the person who receives it must make a written record of the request and the request is not complete and does not have to be dealt with until its written form is verified by the signature or mark of the applicant.
+(3) The applicant may ask for a copy of the record or ask to examine the record. S.Y. 2002, c.2, s.3; S.Y. 1995, c.1, s.6.
+
+Duty to assist applicants
+7 The records manager must make every reasonable effort to assist applicants and to respond to each applicant openly, accurately and completely. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.7.
+
+Who decides about access
+8 Although the request under section 6 is to be made to the records manager and the records manager is to communicate the response to the applicant, the public body that has the control or custody of the record has the power to decide in compliance with this Act
+(a) what the response is to be; and
+(b) which of its officers or employees is to deal with the request and decide on the response. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.8.
+
+Passing request on to public body
+9 Having received a request for access to a record, the records manager must pass the request on to the public body which has the control or custody of the record, and the public body must respond to the records manager
+(a) soon enough to enable the records manager to respond to the request within the time required by section 11; and
+(b) with information and comments that enable the records manager to give on behalf of the public body a response that complies with section 13. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.9.
+
+Public body to assist records manager
+10 The public body that has the record in its custody or control must make every reasonable effort to assist the records manager and enable the records manager to respond to each applicant openly, accurately and completely. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.10.
+
+Time limit for responding
+11 The records manager must make every reasonable effort to respond without delay and must respond not later than 30 days after a request is received unless the time limit is extended under section 12. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.11.
+
+Extending the time limit for responding
+12(1) The records manager may extend for a reasonable period the time for responding to a request if
+(a) the applicant does not give enough detail to enable the public body to identify a requested record;
+(b) a large number of records is requested or must be searched and meeting the time limit would unreasonably interfere with the operations of the public body;
+(c) the public body needs more time to consult with a third party or another public body before deciding whether or not to give the applicant access to the record; or
+(d) a third party asks for a review under section 48.
+(2) If the time is extended under subsection (1), the records manager must tell the applicant
+(a) the reason for extending the time;
+(b) when a response can be expected; and
+(c) that under section 48 the applicant may ask for a review of the extension. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.12.
+
+Contents of response
+13(1) In a response under section 11, the records manager must tell the applicant
+(a) whether or not the applicant is entitled to access to the record or to part of the record;
+(b) if the applicant is entitled to access, where, when and how access will be given; and
+(c) if access to the record or to part of the record is refused,
+(i) the reasons for the refusal and the provision of this Act on which the refusal is based,
+(ii) the title, business address and business telephone number of an officer or employee of the public body who can answer the applicant's questions about the refusal, and
+(iii) that the applicant may ask for a review under section 48.
+(2) Despite subparagraph (1)(c)(i), the public body may refuse to confirm or deny the existence of a record containing information described in section 19 or containing personal information about the applicant or a third party. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.13.
+
+How access will be given
+14(1) If an applicant is told under subsection 13(1) that access will be given, the public body concerned must comply with subsection (2) or (3) of this section.
+(2) If the applicant has asked for a copy of the record under subsection 6(3) and the record can reasonably be reproduced,
+(a) a copy of the record or part of the record must be supplied with the response; or
+(b) if there is delay in supplying the copy, the applicant must be given reasons for the delay.
+(3) If the applicant has asked to examine the record under subsection 6(3) or if the record cannot reasonably be reproduced, the applicant must
+(a) be permitted to examine the record or part of the record; or
+(b) be given access to the record in accordance with the regulations.
+(4) The public body that has the record in its custody or control must create a record in a form usable by the applicant if
+(a) the record does not already exist in that form;
+(b) the applicant asks that the record be created in that form;
+(c) the record can be created from a machine readable record in the custody or under the control of the public body using its normal computer hardware and software and technical expertise; and
+(d) creating the record would not unreasonably interfere with the operations of the public body. S.Y. 1995, c.1, s.14.
+
+Cabinet confidence
+15(1) A public body must refuse to disclose to an applicant information that would reveal the substance of deliberations of the Executive Council or any of its committees, including any advice, recommendations, policy considerations, or draft legislation or regulations submitted or prepared for submission to the Executive Council or any of its committees.
+(2) Subsection (1) does not apply to
+(a) information in a record that has been in existence for 15 or more years;
+(b) information in a record of a decision made by the Executive Council or any of its committees on an appeal under an Act; or
+(c) information in a record the purpose of which is to present background information or explanations or analysis to the Executive Council or any of its committees for its consideration in making a decision if
+(i) the decision has been made public,
+(ii) the decision has been implemented, or
+(iii) five or more years have passed since the decision was made or considered. S.Y. 1995, c.1, s.15.
+
+Policy advice, recommendations or draft regulations
+16(1) A public body may refuse to disclose to an applicant information that would reveal advice, recommendations, or draft Acts or regulations developed by or for a public body or a Minister.
+(2) A public body must not refuse to disclose under subsection (1)
+(a) any factual material;
+(b) a public opinion poll;
+(c) a statistical survey;
+(d) an appraisal of the value or condition of property;
+(e) an economic forecast;
+(f) an environmental impact statement or similar information;
+(g) a consumer test report or a report of a test carried out on a product to test equipment of the public body;
+(h) a feasibility or technical study, including a cost estimate, relating to a policy or project of the public body;
+(i) a report on the results of field research undertaken before a policy proposal is formulated;
+(j) a report of a task force, committee, council or similar body that has been established to consider any matter and make reports or recommendations to a public body;
+(k) information that the public body has cited publicly as the basis for making a decision or formulating a policy;
+(l) a decision, including reasons, that is made in the exercise of a discretionary power or an adjudicative function and that affects the rights of the applicant; or
+(m) an instruction or guideline issued to the officers or employees of the public body, or a substantive rule or statement of policy that has been adopted by the public body, for the purpose of interpreting an enactment or administering a program or activity that affects the rights of the applicant.
+(3) Subsection (1) does not apply to information in a record that has been in existence for 15 or more years.
+(4) Despite paragraph (2)(c), a public body
+(a) may refuse to disclose a statistical survey before the gathering of the data for it has been completed, if the disclosure is likely to affect the results of the survey; and
+(b) shall refuse to disclose any portion of a survey that would reveal personal information and likely identify the person the personal information is about. S.Y. 1995, c.1, s.16.
+
+Disclosure harmful to the financial or economic interests of a public body
+17(1) A public body may refuse to disclose to an applicant information the disclosure of which could reasonably be expected to harm the financial or economic interests of a public body or the Government of the Yukon or the ability of that Government to manage the economy, including the following information
+(a) trade secrets of a public body or the Government of the Yukon;
+(b) financial, commercial, scientific or technical information that belongs to a public body or to the Government of the Yukon and that has, or is reasonably likely to have, monetary value;
+(c) plans that relate to the management of personnel of or the administration of a public body and that have not yet been implemented or made public;
+(d) information the disclosure of which could reasonably be expected to result in the premature disclosure of a proposal or project or in undue financial loss or gain to a third party;
+(e) information about negotiations carried on by or for a public body or the Government of the Yukon; or
+(f) plans, procedures, criteria or instructions developed for the purpose of contractual or other negotiations or arbitrations to which the Government of the Yukon or a public body is a party.
+(2) A public body must not refuse to disclose under subsection (1) the results of product or environmental testing carried out by or for that public body, unless the testing was done
+(a) for a fee as a service to a person, a group of persons or an organization other than the public body; or
+(b) for the purpose of developing methods of testing. S.Y. 1995, c.1, s.17.
+
+Legal advice
+18 A public body may refuse to disclose to an applicant a record
+(a) that is subject to solicitor client privilege;
+(b) that was prepared by or for a public body in contemplation of and for the purpose of existing or reasonably expected proceedings in court or before an adjudicative body, regardless of whether it has been communicated to or from a lawyer. S.Y. 1995, c.1, s.18.
+
+Disclosure harmful to law enforcement
+19(1) A public body may refuse to disclose information to an applicant if the disclosure could reasonably be expected to
+(a) interfere with law enforcement;
+(b) interfere with an investigation into activities suspected of threatening public order;
+(c) reveal investigative techniques and procedures currently used, or likely to be used, in law enforcement;
+(d) reveal the identity of a confidential source of law enforcement information or reveal information furnished only by the confidential source;
+(e) endanger the life or physical safety of a law enforcement officer or any other person;
+(f) reveal any information relating to the prosecution of an offence or of any other proceeding in court or before an adjudicative body for the imposition of a penalty or punishment, including a decision not to prosecute;
+(g) deprive a person of a fair trial or impartial adjudication;
+(h) reveal or interfere with gathering information relating to law enforcement or activities suspected of threatening public order;
+(i) reveal a record that has been seized or confiscated from a person by a peace officer in accordance with an enactment;
+(j) facilitate the escape from custody of a person who is under lawful detention;
+(k) facilitate the commission of an unlawful act or hamper the control of crime;
+(l) harm the security of any property or system, including a building, a vehicle, a computer system or a communications system;
+(m) unfairly damage the reputation of a person or organization referred to in a report prepared in the course of law enforcement; or
+(n) prejudice the legal rights of a public body in the conduct of existing or reasonably expected proceedings in court or before an adjudicative body.
+(2) A public body may refuse to disclose information that
+(a) is in a law enforcement record and whose disclosure would be an offence under an Act of Parliament or of the Legislature;
+(b) is in a law enforcement record and whose disclosure could reasonably be expected to expose to civil liability the author of the record or a person who has been quoted or paraphrased in the record; or
+(c) is about the history, supervision or release of a person who is under sentence and the disclosure could reasonably be expected to obstruct the proper custody or supervision of that person.
+(3) A public body must not refuse to disclose under this section
+(a) a report prepared in the course of routine inspections by an agency that is authorized to enforce compliance with an Act; or
+(b) a report, including statistical analysis, on the degree of success achieved in a law enforcement program unless disclosure of the report could reasonably be expected to interfere with or harm any of the matters referred to in subsection (1) or (2). S.Y. 1995, c.1, s.19.
+
+Disclosure harmful to intergovernmental relations or negotiations
+20(1) A public body may refuse to disclose information to an applicant if the disclosure could reasonably be expected to
+(a) harm the conduct by the Government of the Yukon of relations between that Government and any of the following or their agencies
+(i) the Government of Canada or a province or territory of Canada,
+(ii) the council of a municipality,
+(iii) a Yukon First Nation government or similar government established under a land claims settlement,
+(iv) the government of a foreign state, or
+(v) an international organization of states;
+(b) reveal information received in confidence from a government, council or organization listed in paragraph (a) or their agencies; or
+(c) harm the conduct of negotiations relating to aboriginal self government or land claims settlements.
+(2) A public body must not disclose information referred to in subsection (1) without the consent of the Executive Council.
+(3) Subsection (1) does not apply to information in a record that has been in existence for 15 or more years. S.Y. 1995, c.1, s.20.
+
+Disclosure harmful to the conservation of heritage sites, etc.
+21 A public body may refuse to disclose information to an applicant if the disclosure could reasonably be expected to result in damage to, or interfere with the conservation of
+(a) fossil sites, natural sites, or sites that have an anthropological or heritage value;
+(b) a species of plants, animals or invertebrates that is endangered, threatened or vulnerable in the Yukon or in any one or more regions of the Yukon; or
+(c) any other rare, threatened, endangered or vulnerable living resources. S.Y. 1995, c.1, s.21.
+
+Disclosure harmful to individual or public safety
+22(1) A public body may refuse to disclose to an applicant information, including personal information about the applicant, if the disclosure could reasonably be expected to
+(a) threaten anyone else's health or safety, or
+(b) interfere with public safety.
+(2) A public body may refuse to disclose to an applicant personal information about the applicant if, in the opinion of an expert, the disclosure could reasonably be expected to result in immediate and grave harm to the applicant's safety or mental or physical health. S.Y. 1995, c.1, s.22.
+
+Information that will be published or released within 90 days
+23 A public body may refuse to disclose to an applicant information
+(a) that is published and available for purchase by the public; or
+(b) that, within 90 days after the applicant's request is received, is to be published or released to the public. S.Y. 1995, c.1, s.23.
+
+Disclosure harmful to business interests of a third party
+24(1) A public body must refuse to disclose to an applicant information
+(a) that would reveal
+(i) trade secrets of a third party, or
+(ii) commercial, financial, labour relations, scientific or technical information of a third party;
+(b) that is supplied, implicitly or explicitly, in confidence; and
+(c) the disclosure of which could reasonably be expected to
+(i) harm significantly the competitive position, or interfere significantly with the negotiating position of the third party,
+(ii) result in similar information no longer being supplied to the public body when it is in the public interest that similar information continue to be supplied,
+(iii) result in undue financial loss or gain to any person or organization, or
+(iv) reveal information supplied to, or the report of, an arbitrator, mediator, labour relations officer or other person or body appointed to resolve or inquire into a labour relations dispute.
+(2) A public body must refuse to disclose to an applicant information that was obtained on a tax return or gathered for the purpose of determining tax liability or collecting a tax.
+(3) Subsections (1) and (2) do not apply if the third party consents to the disclosure.
+(4) Subsection (2) does not apply to records under the Assessment and Taxation Act that describe a property and the assessment of the property. S.Y. 1995, c.1, s.24.
+
+Disclosure harmful to personal privacy
+25(1) A public body must refuse to disclose personal information about a third party to an applicant if the disclosure would be an unreasonable invasion of the third party's personal privacy.
+(2) A disclosure of personal information is presumed to be an unreasonable invasion of a third party's personal privacy if
+(a) the personal information relates to a medical, psychiatric or psychological history, diagnosis, condition, treatment, or evaluation;
+(b) the personal information was compiled and is identifiable as part of an investigation into or an assessment of what to do about, a possible violation of law or a legal obligation, except to the extent that disclosure is necessary to prosecute the violation or to enforce the legal obligation or to continue the investigation;
+(c) the personal information relates to eligibility for income assistance or social service benefits or to the determination of benefit levels;
+(d) the personal information relates to the third party's employment or educational history;
+(e) the personal information was obtained on a tax return or gathered for the purpose of collecting a tax;
+(f) the personal information describes the third party's finances, income, assets, liabilities, net worth, bank balances, financial history or activities, or credit worthiness;
+(g) the personal information consists of personal recommendations or evaluations, character references or personnel evaluations;
+(h) the personal information indicates the third party's racial or ethnic origin, sexual orientation or religious or political beliefs or associations; or
+(i) the personal information consists of the third party's name together with the third party's address or telephone number and is to be used for mailing lists or solicitations by telephone or other means.
+(3) A disclosure of personal information is not an unreasonable invasion of a third party's personal privacy if
+(a) the third party has, in writing, consented to or requested the disclosure;
+(b) there are compelling circumstances affecting anyone's health or safety and notice of disclosure is mailed to the last known address of the third party;
+(c) an enactment of the Yukon or Canada authorizes the disclosure;
+(d) the disclosure is for a research or statistical purpose in accordance with section 38;
+REVISED STATUTES OF THE YUKON 2002
+CHAPTER 1
+ACCESS TO INFORMATION AND PROTECTION OF PRIVACY ACT
+
+(e) the information is about the third party's position, functions or salary range as an officer, employee or member of a public body or as a member of a Minister's staff;
+(f) the disclosure reveals financial and other details of a contract to supply goods or services to a public body;
+(g) the information is a description of property and its assessment under the Assessment and Taxation Act;
+(h) the information is about expenses incurred by the third party while travelling at the expense of a public body;
+(i) the disclosure reveals details of a licence, permit, or other similar discretionary benefit granted to the third party by a public body, not including personal information supplied in support of the application for the benefit; or
+(j) the disclosure reveals details of a discretionary benefit of a financial nature granted to the third party by a public body, not including personal information that is supplied in support of the application for the benefit or is referred to in paragraph(3)(c).
+
+(4) Before refusing to disclose personal information under this section, a public body must consider all the relevant circumstances, including whether
+(a) the third party will be exposed unfairly to financial or other harm;
+(b) the personal information is unlikely to be accurate or reliable;
+(c) the personal information has been supplied in confidence;
+(d) the disclosure may unfairly damage the reputation of any person referred to in the record requested by the applicant;
+(e) the personal information is relevant to a fair determination of the applicant's rights;
+(f) the disclosure is desirable for the purpose of subjecting the activities of the Government of the Yukon or a public body to public scrutiny; or
+(g) the disclosure is likely to promote public health and safety. S.Y. 1995, c.1, s.25.
+
+Notifying the third party
+
+26(1) Before giving access to a record that a public body believes contains information to which section 24 or 25 applies, the records manager must, if practicable, give the third party a notice
+(a) stating that a request has been made by an applicant for access to a record containing information the disclosure of which might affect the interests or invade the personal privacy of the third party;
+(b) describing the contents of the record; and
+(c) stating that, within 20 days after the notice is given, the third party can make written representations to the records manager explaining why the information should not be disclosed.
+
+(2) When notice is given under subsection (1), the records manager must also give the applicant a notice stating that
+(a) the record requested by the applicant contains information the disclosure of which may affect the interests or invade the personal privacy of a third party;
+(b) the third party is being given an opportunity to make representations concerning disclosure; and
+(c) a decision will be made within 30 days about whether or not to give the applicant access to the record. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.26.
+
+Time limit and notice of decision
+
+27(1) Within 30 days after notice is given under subsection 26(1), the public body must decide whether or not to give access to the record or to part of the record, but no decision may be made before the earlier of
+(a) the day a response is received from the third party; or
+(b) 21 days after the day notice is given.
+
+(2) The records manager must give written notice of the public body's decision under subsection (1) to
+(a) the applicant; and
+(b) the third party.
+
+(3) If the public body decides to give access to the record or to part of the record, the notice must state that the applicant will be given access unless the third party asks for a review under section 48 within 20 days after the day notice is given under subsection (2). S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.27.
+
+Information must be disclosed if health or safety at risk
+
+28(1) Despite any other provision of this Act, a public body must disclose information to the public or an affected group of people if the public body has reasonable grounds to believe that the information would reveal the existence of a serious environmental, health, or safety hazard to the public or group of people.
+
+(2) Before disclosing information under subsection (1), the public body must, if practicable, notify
+(a) any third party to whom the information relates; and
+(b) the commissioner.
+
+(3) If it is not practicable to comply with subsection (2), the public body must mail a notice of disclosure in the prescribed form
+(a) to the last known address of the third party; and
+(b) to the commissioner. S.Y. 1995, c.1, s.28.
+
+PART 3
+PROTECTION OF PRIVACY
+
+Purpose for which personal information may be collected
+
+29 No personal information may be collected by or for a public body unless
+(a) the collection of that information is authorized by an Act of Parliament or of the Legislature;
+(b) that information is collected for the purposes of law enforcement; or
+(c) that information relates to and is necessary for carrying out a program or activity of the public body. S.Y. 1995, c.1, s.29.
+
+How personal information is to be collected
+
+30(1) A public body must collect personal information directly from the individual the information is about unless
+(a) another method of collection is authorized by
+(i) that individual,
+(ii) the commissioner under section 42, or
+(iii) an Act of Parliament or of the Legislature;
+(b) the information may be disclosed to the public body under sections 36 to 39; or
+(c) the information is collected for the purpose of
+(i) determining suitability for an honour or award,
+(ii) a proceeding before a court or a judicial or adjudicative body,
+(iii) collecting a debt or making a payment, or
+(iv) law enforcement.
+
+(2) A public body must tell an individual from whom it collects personal information
+(a) the purpose for collecting it;
+(b) the legal authority for collecting it; and
+(c) the title, business address, and business telephone number of an officer or employee of the public body who can answer the individual's questions about the collection.
+
+(3) Subsection (2) does not apply if
+(a) the information is about law enforcement or anything referred to in section 19; or
+(b) the Minister responsible for this Act excuses the public body from complying with it because compliance would
+(i) result in the collection of inaccurate information, or
+(ii) defeat the purpose or prejudice the use for which the information is collected. S.Y. 1995, c.1, s.30.
+
+Accuracy of personal information
+
+31 If an individual's personal information will be used by a public body to make a decision that affects the individual, the public body must make every reasonable effort to ensure that the information is accurate and complete. S.Y. 1995, c.1, s.31.
+
+Right to request correction of personal information
+
+32(1) A person who believes there is an error or omission in the person's personal information may request the records manager to request the public body that has the information in its custody or under its control to correct the information.
+
+(2) If no correction is made in response to a request under subsection (1), the public body must annotate the record with the correction that was requested but not made.
+
+(3) If personal information is corrected or annotated under this section, the public body must give notice of the correction or annotation to any public body or any third party to whom that information has been disclosed during the year before the correction was requested.
+
+(4) On being notified under subsection (3) of a correction or annotation of personal information, a public body must make the correction or annotation on any record of that information in its custody or under its control. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.32.
+
+Protection of personal information
+
+33 The public body must protect personal information by making reasonable security arrangements against such risks as accidental loss or alteration, and unauthorized access, collection, use, disclosure or disposal. S.Y. 1995, c.1, s.33.
+
+Retention of personal information
+
+34 If a public body uses an individual's personal information to make a decision that directly affects the individual, the public body must retain that information for at least one year after using it so that the individual has a reasonable opportunity to obtain access to it. S.Y. 1995, c.1, s.34.
+
+Use of personal information
+
+35 A public body may use personal information only
+(a) for the purpose for which that information was obtained or compiled, or for a use consistent with that purpose;
+(b) if the individual the information is about has consented to the use; or
+(c) for the purpose for which that information may be disclosed to that public body under sections 36 to 39. S.Y. 1995, c.1, s.35.
+
+Disclosure of personal information
+
+36 A public body may disclose personal information only
+(a) in accordance with Part 2;
+(b) if the individual the information is about has consented, in the prescribed manner, to its disclosure;
+(c) for the purpose for which it was obtained or compiled or for a use consistent with that purpose;
+(d) for the purpose of complying with an enactment of, or with a treaty, arrangement or agreement made under an enactment of Canada or the Yukon;
+(e) for the purpose of complying with a subpoena, warrant or order issued or made by a court, person or body with jurisdiction to compel the production of information;
+(f) to an officer or employee of the public body or to a Minister, if the information is necessary for the performance of the duties of the officer, employee or Minister;
+(g) to the legal counsel for the Government of the Yukon or its insurers for use in civil proceedings involving the Government;
+(h) for the purposes of the Coroners Act, or the Public Administrator's functions under the Judicature Act;
+(i) for the purpose of
+(i) collecting a debt owing by an individual to the Government of the Yukon or to a public body, or
+(ii) making a payment owing by the Government of the Yukon or by a public body to an individual;
+(j) to the auditor general or any other prescribed person or body for audit purposes;
+(k) to the Yukon Archives;
+(l) to a public body or a law enforcement agency in Canada to assist in an investigation
+(i) undertaken with a view to a law enforcement proceeding, or
+(ii) from which a law enforcement proceeding is likely to result;
+(m) if the public body is a law enforcement agency and the information is disclosed
+(i) to another law enforcement agency in Canada, or
+(ii) to a law enforcement agency in a foreign country under an arrangement, written agreement, treaty or legislative authority;
+(n) if the public body determines that compelling circumstances exist that affect anyone's health or safety and if notice of disclosure is mailed to the last known address of the individual the information is about;
+(o) so that the next of kin or a friend of an injured, ill, or deceased individual may be contacted; or
+(p) in accordance with section 38 or 39. S.Y. 1995, c.1, s.36.
+
+Definition of consistent purposes
+
+37 A use of personal information is consistent under sections 35 and 36 with the purposes for which the information was obtained or compiled if the use
+(a) has a reasonable and direct connection to that purpose; and
+(b) is necessary for performing the statutory duties of, or for operating a legally authorized program of, the public body that uses the information or to which the information is disclosed. S.Y. 1995, c.1, s.37.
+
+Disclosure for research or statistical purposes
+
+38 A public body may disclose personal information for a research purpose, including statistical research, only if
+(a) the research purpose cannot reasonably be accomplished unless that information is provided in individually identifiable form;
+(b) any link between the record and any other records is not harmful to the individuals that the information is about and the benefits to be derived from the record linkage are clearly in the public interest;
+(c) the public body concerned has approved conditions relating to
+(i) security and confidentiality,
+(ii) the removal or destruction of individual identifiers at the earliest reasonable time, and
+(iii) the prohibition of any subsequent use or disclosure of that information in individually identifiable form without the express authorization of that public body; and
+(d) the person to whom that information is disclosed has signed an agreement to comply with the approved conditions, this Act and any of the public body's policies and procedures relating to the confidentiality of personal information. S.Y. 1995, c.1, s.38.
+
+Disclosure for archival or historical purposes
+
+39 The Yukon Archives may disclose personal information for archival or historical purposes if
+(a) the disclosure would not be an unreasonable invasion of personal privacy under section 25(3);
+(b) the disclosure is for historical research and is in accordance with section 38;
+(c) the information is in a record that has been in existence for 100 or more years; or
+(d) the information is about a person who has been dead for 25 years or more. S.Y. 1997, c.4, s.1; S.Y. 1995, c.1, s.39.
+
+PART 4
+OFFICE AND FUNCTIONS OF INFORMATION AND PRIVACY COMMISSIONER
+
+Appointment of commissioner
+
+40(1) The Ombudsman appointed under the Ombudsman Act is also the Information and Privacy Commissioner.
+
+(2) An acting Ombudsman appointed under the Ombudsman Act is also the acting Information and Privacy Commissioner for so long as they are the acting Ombudsman. S.Y. 1995, c.1, s.40.
+
+Commissioner's staff and expenses
+
+41 The commissioner's staff and expenses are to be supplied and paid in accordance with the Ombudsman Act, but money appropriated and spent for the purposes of this Act is to be identified in the appropriation and the public accounts separately from money appropriated for the purposes of the Ombudsman Act. S.Y. 1995, c.1, s.41.
+
+General powers of commissioner
+
+42 In addition to the commissioner's powers and duties under Part 5 with respect to reviews, the commissioner is responsible for monitoring how this Act is administered to ensure that its purposes are achieved, and may
+(a) inform the public about this Act;
+(b) receive complaints or comments from the public concerning the administration of this Act, conduct investigations into those complaints and report on those investigations;
+(c) comment on the implications for access to information or for protection of privacy of existing or proposed legislative schemes or programs of public bodies;
+(d) authorize the collection of personal information from sources other than the individual the information is about; and
+(e) report to a Minister information and the commissioner's comments and recommendations about any instance of improper administration of the management or safekeeping of a record or information in the custody of or under the control of a public body. S.Y. 1997, c.4, s.1; S.Y. 1995, c.1, s.42.
+
+Powers to authorize a public body to disregard requests
+
+43(1) If a public body asks, the commissioner may authorize the public body to disregard requests under section 6 that, because of their repetitious or systematic nature, would unreasonably interfere with the operations of the public body.
+
+(2) If the commissioner authorizes the public body to disregard the request and the public body does disregard the request, the applicant may appeal the public body's decision to the Supreme Court under sections 59 to 61 without first requesting a review by the commissioner under section 48. S.Y. 1995, c.1, s.43.
+
+Restrictions on disclosure of information by the commissioner and staff
+
+44(1) The commissioner and anyone acting for or under the direction of the commissioner must not disclose any information obtained in performing their duties, powers and functions under this Act, except as provided in this section.
+
+(2) The commissioner may disclose, or may authorize anyone acting on behalf of or under the direction of the commissioner to disclose, information that is necessary to
+(a) conduct a review under this Act; or
+(b) establish the grounds for findings and recommendations contained in a report under this Act.
+
+(3) In conducting a review under this Act and in a report under this Act, the commissioner and anyone acting for or under the direction of the commissioner must take every reasonable precaution to avoid disclosing and must not disclose
+(a) any information a public body would be required or authorized to refuse to disclose if the information were contained in a record requested under section 6; or
+(b) whether information exists, if the public body in refusing to provide access does not indicate whether the information exists.
+
+(4) The commissioner may disclose to the Minister of Justice information relating to the commission of an offence against an enactment of Canada or the Yukon if the commissioner considers there is evidence of an offence.
+
+(5) The commissioner may disclose, or may authorize anyone acting for or under the direction of the commissioner to disclose, information in the course of a prosecution, application or appeal referred to in section 55.
+
+(6) If the commissioner has reasonable grounds to believe an offense has been committed against an enactment of Canada or of the Yukon, the commissioner must refer the matter to a law enforcement agency that has authority to investigate the matter. S.Y. 1997, c.4, s.1; S.Y. 1995, c.1, s.44.
+
+Protection of commissioner and staff
+
+45 No proceedings lie against the commissioner, or against a person acting on behalf of or under the direction of the commissioner, for anything done, reported or said in good faith and without negligence in the exercise or performance or the intended exercise or performance of a duty, power or function under this Act. S.Y. 1995, c.1, s.45.
+
+Delegation by commissioner
+
+46(1) The commissioner may delegate to any person any duty, power or function of the commissioner under this Act, except
+(a) the power to delegate under this Act;
+(b) the power to examine information described in section 15 or 19; and
+(c) the duties, powers and functions specified in section 43 or 57.
+
+(2) A delegation under subsection (1) must be in writing and may contain any conditions or restrictions the commissioner considers appropriate. S.Y. 1995, c.1, s.46.
+
+Annual report of commissioner
+
+47(1) The commissioner must report annually to the Speaker of the Legislative Assembly on
+(a) the work of the commissioner's office, and
+(b) any complaints and reviews of complaints to the commissioner about the commissioner's decisions, acts or failures to act.
+
+(2) The Speaker must lay each annual report before the Legislative Assembly as soon as possible. S.Y. 1995, c.1, s.47.
+
+PART 5
+COMPLAINTS, REVIEWS AND APPEALS
+
+Right to ask commissioner for a review
+
+48(1) A person who makes a request under section 6 for access to a record may request the commissioner to review
+(a) a refusal by the public body or the records manager to grant access to the record;
+(b) a decision by the public body or the records manager to separate or obliterate information from the record;
+(c) a decision about an extension of time under section 12 for responding to a request for access to a record; or
+(d) a decision by a public body or the records manager to not waive a part or all of a fee imposed under this Act.
+
+(2) A person who requests a public body under section 32 to correct personal information or to annotate a record about them may request the commissioner to review the public body's refusal or failure
+(a) to correct the information; or
+(b) to annotate the record or to give notice of the annotation as required by section 32.
+
+(3) A person about whom a public body has in its custody or control a record of personal information may request the commissioner to review their complaint that the public body has not collected, used, or disclosed the information in compliance with this Act.
+
+(4) A third party notified under section 26 of a request for access may ask for a review of a decision by the public body to disclose personal information about the third party.
+
+(5) If the commissioner is satisfied that
+(a) the commissioner would be in a conflict of interest; or
+(b) there would be a reasonable apprehension that the commissioner would be biased
+if the commissioner undertook or continued a review of a request, the commissioner shall notify the Speaker of the Legislative Assembly who shall consult the Members' Services Board and appoint a person to act as commissioner to deal with the review. The acting commissioner has the same powers, duties and immunities as the commissioner. S.Y. 2002, c.1, s.3; S.Y. 1997, c.4, s.1; S.Y. 1995, c.1, s.48.
+
+How to ask for a review
+
+49(1) To ask for a review under this Part, a written request must be delivered to the commissioner within
+(a) 30 days after the person asking for the review is notified of the decision that they want reviewed;
+(b) 30 days after the date of the act or failure to act that they want reviewed;
+(c) by a third party, 20 days after notice was given if the review is pursuant to subsection 48(4); or
+(d) a longer period allowed by the commissioner.
+
+(2) The failure of the records manager or of a public body to respond in time to a request for access to a record is to be treated as a decision to refuse access to the record. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.49.
+
+Notifying others of review
+
+50 On reviewing a request for a review, the commissioner must give a copy to
+(a) the public body concerned; and
+(b) the third party to whom notice was or should have been given under section 26. S.Y. 1995, c.1, s.50.
+
+Mediation may be authorized
+
+51 The commissioner may try to settle or may authorize a mediator to investigate and to try to settle a matter under review. S.Y. 1995, c.1, s.51.
+
+Inquiry by commissioner
+
+52(1) If the matter is not settled under section 51, the commissioner must conduct an inquiry and may decide all questions of fact and law arising in the course of the inquiry.
+
+(2) An inquiry under subsection (1) may be conducted in private.
+
+(3) The following persons are entitled to make representations to the commissioner in the course of a review
+(a) the person who applies for the review;
+(b) a third party or applicant who is entitled to notice pursuant to this Act; and
+(c) the public body whose decision is the subject of the review.
+
+(4) The commissioner may decide
+(a) whether the representations are to be made orally or in writing; and
+(b) whether a person is entitled to be present during a review or to have access to or comment on representations made to the commissioner by any other person.
+
+(5) Despite paragraph (4)(b), the person who asked for the review, the public body concerned, and any person given a copy of the request for a review may be represented at the inquiry by counsel or an agent.
+
+(6) An inquiry into a matter under review must be completed within 90 days after receiving the request for the review or within an additional period of up to 60 days if the additional time is needed for mediation of the review. S.Y. 1997, c.4, s.1; S.Y. 1995, c.1, s.52.
+
+Powers of commissioner in conducting reviews
+
+53(1) In conducting a review under this Act the commissioner
+(a) has the powers of a board of inquiry under the Public Inquiries Act; and
+(b) may require any record to be produced to the commissioner and may examine any information in a record, including personal information.
+
+(2) Despite any other enactment or any privilege under the law of evidence, a public body must produce to the commissioner within 10 days any record or a copy of any record required under subsection (1).
+
+(3) If a public body is required to produce a record under subsection (1) or (2) and it is not practicable to make a copy of the record, that public body may require the commissioner to examine the original at its site.
+
+(4) After completing a review, the commissioner must return any record or any copy of any record produced by the public body concerned. S.Y. 1995, c.1, s.53.
+
+Burden of proof
+
+54(1) In a review resulting from a request under section 48, it is up to the public body to prove
+(a) that the applicant has no right of access to the record or the part of it in question, or
+(b) that the extension of time is justifiable.
+
+(2) Despite subsection (1), in a review of a decision to give an applicant access to all or part of a record containing information that relates to a third party,
+(a) if the information is personal information, it is up to the applicant to prove that disclosure of the information would not be an unreasonable invasion of the third party's personal privacy; and
+(b) if the information is not personal information, it is up to the third party to prove that the applicant has no right of access to the record or part. S.Y. 1995, c.1, s.54.
+
+Statements made to the commissioner not admissible in evidence
+
+55(1) A statement made or an answer given by a person to the commissioner in a review under this Act is inadmissible in evidence in court or in any other proceeding, except
+(a) in a prosecution for perjury in respect of sworn testimony;
+(b) in a prosecution for an offence under this Act; or
+(c) in an application for judicial review or an appeal from a decision with respect to that application.
+
+(2) Subsection (1) applies also in respect of evidence of the existence of proceedings conducted before the commissioner. S.Y. 1995, c.1, s.55.
+
+Protection against libel or slander actions
+
+56 Anything said, any information supplied, or any record produced by a person during a review by the commissioner under this Act is privileged in the same manner as if the review were a proceeding in a court. S.Y. 1995, c.1, s.56.
+
+Commissioner's report after conducting a review
+
+57(1) After completing a review under section 48, the commissioner must prepare a report setting out the commissioner's findings, recommendations, and reasons for those findings and recommendations.
+
+(2) If the review is of a decision of a public body to give or to refuse access to all or part of a record, the commissioner must decide whether the public body is required or authorized to refuse access and
+(a) if the commissioner determines that the public body is neither authorized nor required to refuse the access, the commissioner must recommend that the public body give the applicant the access the applicant is entitled to;
+(b) if the commissioner determines that the public body is authorized to refuse the access, the commissioner may
+(i) recommend that the public body reconsider its decision, or
+(ii) affirm that the public body should continue to refuse the access; or
+(c) if the commissioner determines that the public body is required to refuse the access, the commissioner must confirm that the public body is required to refuse the access.
+
+(3) If the review is of a decision to not waive a part or all of a fee imposed under this Act, the commissioner may recommend that the public body and the records manager waive part or all of the fee.
+
+(4) If the review is of an extension of time, the commissioner may recommend that an extension of time under section 12 be granted, refused or changed.
+
+(5) If the review is of a public body's refusal or failure to annotate a record or to give notice of the annotation as required by section 32, the commissioner may recommend how the record should be corrected or annotated and what notice of the annotation should be given.
+
+(6) If the review is of a complaint about how a public body has collected, used or disclosed information, the commissioner may recommend
+(a) that the public body destroy information collected in contravention of this Act; and
+(b) what change the public body should make in its conduct so as to avoid using or disclosing the information in contravention of this Act.
+
+(7) The commissioner must give a copy of the report to
+(a) the person who asked for the review;
+(b) the public body involved; and
+(c) any person to whom notice of the review was given under section 50. S.Y. 2002, c.1, s.3; S.Y. 1997, c.4, s.1; S.Y. 1995, c.1, s.57.
+
+Public body's decision after a review
+
+58(1) Within 30 days of receiving the report of the commissioner under section 57, the public body must
+(a) decide whether to follow the recommendations of the commissioner; and
+(b) give written notice of its decision to the commissioner and the persons who were given a copy of the report under section 57.
+
+(2) If the public body does not follow the recommendations of the commissioner, the public body must, in writing, inform the persons to whom the commissioner is required to give a copy of the report of their right to appeal the body's decision to the Supreme Court under section 59.
+
+(3) If the public body does not give notice within the time required by paragraph (1)(b), the public body is deemed to have refused to follow the recommendation of the commissioner. S.Y. 1995, c.1, s.58.
+
+Appeal to Supreme Court
+
+59(1) An applicant may appeal to the Supreme Court
+(a) a decision by a public body under section 58 to not follow the commissioner's recommendation that the public body give the applicant access to a record or to part of a record; or
+(b) a determination by the commissioner under section 57 that the public body is authorized or required to refuse access to all or part of the record.
+
+(2) A third party may appeal to the Supreme Court a decision by a public body under section 27 to disclose personal information about the third party.
+
+(3) An appeal under subsection (1) or (2) must be made by giving written notice of the appeal to the public body within 30 days of the appellant receiving the body's decision.
+
+(4) The public body that has refused a request for access to a record or part of a record must immediately on receipt of notice of an appeal by an applicant, give written notice of the appeal to any third party that the public body
+(a) has notified or should have notified under section 26; or
+(b) would have been required to notify under section 27 if the public body had intended to give access to the record or part of the record.
+
+(5) The public body that has granted a request for access to a record or part of a record must immediately on receipt of notice of an appeal by a third party, give written notice of the appeal to the applicant.
+
+(6) A third party who has been given notice of an appeal and an applicant who has been given notice of an appeal may appear as a party to the appeal.
+
+(7) The commissioner may not be a party to an appeal under subsection (1) or (2), unless the appeal is under paragraph 59(1)(b) against a determination by the commissioner. S.Y. 1995, c.1, s.59.
+
+Appeal hearing
+
+60(1) On an appeal, the Supreme Court may
+(a) conduct a new hearing and consider any matter that the commissioner could have considered; and
+(b) examine any record privately in order to determine the issue involved.
+
+(2) Despite any other Act or any privilege that is available at law, the Supreme Court may, on an appeal, examine any record in the custody or under the control of a public body, and no information shall be withheld from the Supreme Court on any grounds.
+
+(3) The Supreme Court must take every reasonable precaution, including, if appropriate, receiving representations from one party in the absence of others and conducting hearings privately, to avoid disclosure by the Supreme Court or any person of
+(a) any information or other material if the nature of the information or material could justify a refusal by the public body to give access to a record or part of a record; or
+(b) any information as to whether a record exists if the public body, in refusing to give access, does not indicate whether the record exists. S.Y. 1997, c.4, s.1; S.Y. 1995, c.1, s.60.
+
+Disposition of an appeal
+
+61 On an appeal to it, the Supreme Court must decide whether the public body is required or authorized to refuse access and may
+(a) order that the public body give the applicant access to all or part of the record, if the court determines that the public body is not authorized or required to refuse the access; or
+(b) confirm the public body's refusal to give access to all or part of the record, if the court determines that the public body is required or authorized to refuse the access. S.Y. 1995, c.1, s.61.
+
+PART 6
+GENERAL PROVISIONS
+
+Personal representatives
+
+62 Any right or power conferred on an individual by this Act may be exercised
+(a) if the individual is deceased, by the individual's personal representative if the exercise of the right or power relates to the administration of the individual's estate;
+(b) if a guardian or committee has been appointed for the individual, by the guardian or committee if the exercise of the right or power relates to the powers and duties of the guardian or committee;
+(c) if a power of attorney has been granted, by the attorney if the exercise of the right or power relates to the powers and duties of the attorney conferred by the power of attorney;
+(d) if the individual is less than 19 years of age, by the individual's legal custodian in situations where the exercise of the right or power would not constitute an unreasonable invasion of the privacy of the individual; or
+(e) by any person with written authorization from the individual to act on the individual's behalf. S.Y. 1995, c.1, s.62.
+
+Information directory
+
+63 The minister responsible for this Act must publish a directory to assist in identifying and locating records. S.Y. 1995, c.1, s.63.
+
+Records available without request
+
+64(1) A public body may prescribe categories of or records that are in its custody or control and are available to the public without a request for access under this Act.
+
+(2) Subsection (1) does not limit the discretion of the Government of the Yukon or a public body to release records that do not contain personal information. S.Y. 1995, c.1, s.64.
+
+Service of notice
+
+65 A notice that is required to be given to an applicant or a third party under this Act may be given by certified mail addressed to the person at their last recorded address as shown by the records of the records manager, public body or commissioner who is required to give the notice. The notice is deemed to have been given on the day certified by the Canada Post Corporation as the day on which the notice was delivered to that address. S.Y. 2002, c.1, s.3; S.Y. 1995, c.1, s.65.
+
+Protection of public body from legal suit
+
+66 No action or other proceeding lies against the Government of the Yukon or a public body or any person acting on behalf of or under the direction of a public body for damages resulting from
+(a) the disclosure in good faith and without negligence of all or part of a record under this Act or any consequences of that disclosure; or
+(b) the failure to give any notice required under this Act if reasonable care is taken to give the required notice. S.Y. 1995, c.1, s.66.
+
+Offences and penalties
+
+67(1) A person must not wilfully
+(a) make a false statement to, or mislead or attempt to mislead, the commissioner or another person in the performance of the duties, powers or functions of the commissioner or other person under this Act;
+(b) destroy or make a record with the intention to mislead any person to believe
+(i) that something was done, when it was not done, or
+(ii) that something was not done when it was done;
+(c) obstruct the commissioner or another person in the performance of the duties, powers or functions of the commissioner or other person under this Act; or
+(d) fail to comply with an order made by the Supreme Court under section 61.
+
+(2) In subsection (1), "record" refers to a record in the custody or control of a public body.
+
+(3) A person who contravenes subsection (1) commits an offence and is liable to a fine of up to $5,000. S.Y. 1997, c.4, s.1(10) and (11); S.Y. 1995, c.1, s.67.
+
+Power to make regulations
+
+68(1) The Commissioner in Executive Council may make regulations
+(a) prescribing procedures to be followed in making and responding to requests under this Act;
+(b) setting standards to be observed by officers or employees of a public body in fulfilling the duty to assist applicants;
+(c) prescribing for the purposes of section 21 the categories of sites that are considered to have heritage or anthropological value;
+(d) authorizing the disclosure of information relating to the mental or physical health of individuals to medical or other experts for their advice for the purposes of section 22, on whether disclosure of that information could reasonably be expected to result in grave and immediate harm to the safety of or the mental or physical health of those individuals;
+(e) prescribing procedures to be followed or restrictions considered necessary with respect to the disclosure and examination of information referred to in paragraph (d);
+(f) prescribing special procedures for giving individuals access to personal information about their mental or physical health;
+(g) prescribing the fees and procedures and criteria for determining the fees to be paid for the following services
+(i) locating, retrieving, and producing a record,
+(ii) preparing a record for disclosure,
+(iii) shipping and handling the record,
+(iv) providing a copy of the record; and
+(h) for any purpose contemplated by this Act. S.Y. 2000, c.17, s.l; S.Y. 1995, c.1, s.68.

@@ -1,0 +1,239 @@
+Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+
+Dernière mise à jour des données de ce texte : 02 juillet 2025
+
+    Chapitre Ier : Principes et définitions (Articles 1 à 5)
+    Chapitre II : La Commission nationale de l'informatique et des libertés (Articles 6 à 13)
+    LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTES (Article 12)
+    Chapitre III : Formalités préalables à la mise en oeuvre des traitements automatisés. (Articles 14 à 24)
+    Chapitre IV : Collecte, enregistrement et conservation des informations nominatives. (Articles 25 à 33)
+    Chapitre V : Exercice du droit d'accès. (Article 37)
+
+L'Assemblée nationale et le Sénat ont adopté.
+
+Le Président de la République promulgue la loi dont la teneur suit :
+
+Chapitre Ier : Principes et définitions (Articles 1 à 5)
+Article 1
+
+L'informatique doit être au service de chaque citoyen. Son développement doit s'opérer dans le cadre de la coopération internationale. Elle ne doit porter atteinte ni à l'identité humaine, ni aux droits de l'homme, ni à la vie privée, ni aux libertés individuelles ou publiques.
+
+Article 2
+
+Aucune décision de justice impliquant une appréciation sur un comportement humain ne peut avoir pour fondement un traitement automatisé d'informations donnant une définition du profil ou de la personnalité de l'intéressé.
+
+Aucune décision administrative ou privée impliquant une appréciation sur un comportement humain ne peut avoir pour seul fondement un traitement automatisé d'informations donnant une définition du profil ou de la personnalité de l'intéressé.
+
+Article 3
+
+Toute personne a le droit de connaître et de contester les informations et les raisonnements utilisés dans les traitements automatisés dont les résultats lui sont opposés.
+
+Article 4
+
+Sont réputées nominatives au sens de la présente loi les informations qui permettent, sous quelque forme que ce soit, directement ou non, l'identification des personnes physiques auxquelles elles s'appliquent, que le traitement soit effectué par une personne physique ou par une personne morale.
+
+Article 5
+
+Est dénommé traitement automatisé d'informations nominatives au sens de la présente loi tout ensemble d'opérations réalisées par des moyens automatiques, relatif à la collecte, l'enregistrement, l'élaboration, la modification, la conservation et la destruction d'informations nominatives ainsi que tout ensemble d'opérations de même nature se rapportant à l'exploitation de fichiers ou bases de données et notamment les interconnexions ou rapprochements, consultations ou communications d'informations nominatives.
+
+Chapitre II : La Commission nationale de l'informatique et des libertés (Articles 6 à 13)
+Article 6
+
+Une Commission nationale de l'informatique et des libertés est instituée. Elle est chargée de veiller au respect des dispositions de la présente loi, notamment en informant toutes les personnes concernées de leurs droits et obligations, en se concertant avec elles et en contrôlant les applications de l'informatique aux traitements des informations nominatives. La commission dispose à cet effet d'un pouvoir réglementaire, dans les cas prévus par la présente loi.
+
+Article 7
+
+Les crédits nécessaires à la commission nationale pour l'accomplissement de sa mission sont inscrits au budget du ministère de la justice. Les dispositions de la loi du 10 août 1922 relative au contrôle financier ne sont pas applicables à leur gestion. Les comptes de la commission sont présentés au contrôle de la Cour des comptes.
+
+Toutefois, les frais entraînés par l'accomplissement de certaines des formalités visées aux articles 15, 16, 17 et 24 de la présente loi peuvent donner lieu à la perception des redevances.
+
+Article 8
+
+La Commission nationale de l'informatique et des libertés est une autorité administrative indépendante.
+
+Elle est composée de dix-sept membres nommés pour cinq ans ou pour la durée de leur mandat :
+
+- deux députés et deux sénateurs élus, respectivement par l'Assemblée nationale et par le Sénat ;
+
+- deux membres du Conseil économique et social, élus par cette assemblée ;
+
+- deux membres ou anciens membres du Conseil d'Etat, dont l'un d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale du Conseil d'Etat ;
+
+- deux membres ou anciens membres de la Cour de cassation, dont l'un d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale de la Cour de cassation ;
+
+- deux membres ou anciens membres de la Cour des comptes, dont l'un d'un grade au moins égal à celui de conseiller-maître, élus par l'assemblée générale de la Cour des comptes ;
+
+- deux personnes qualifiées pour leur connaissance des applications de l'informatique, nommées par décret sur proposition respectivement du président de l'Assemblée nationale et du président du Sénat ;
+
+- trois personnalités désignées en raison de leur autorité et de leur compétence par décret en Conseil des ministres.
+
+La commission élit en son sein, pour cinq ans, un président et deux vice-présidents.
+
+La commission établit son règlement intérieur.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Si, en cours de mandat, le président ou un membre de la commission cesse d'exercer ses fonctions, le mandat de son successeur est limité à la période restant à courir.
+
+La qualité de membre de la commission est incompatible :
+
+- avec celle de membre du Gouvernement ;
+
+- avec l'exercice de fonctions ou la détention de participation dans les entreprises concourant à la fabrication de matériel utilisé en informatique ou en télécommunication ou à la fourniture de services en informatique ou en télécommunication.
+
+La commission apprécie dans chaque cas les incompatibilités qu'elle peut opposer à ses membres.
+
+Sauf démission, il ne peut être mis fin aux fonctions de membre qu'en cas d'empêchement constaté par la commission dans les conditions qu'elle définit.
+
+Article 9
+
+Un commissaire du Gouvernement, désigné par le Premier ministre, siège auprès de la commission.
+
+Il peut, dans les dix jours d'une délibération, provoquer une seconde délibération.
+
+Article 10
+
+La commission dispose de services qui sont dirigés par le président ou, sur délégation, par un vice-président et placés sous son autorité.
+
+La commission peut charger le président ou le vice-président délégué d'exercer ses attributions en ce qui concerne l'application des articles 16, 17 et 21 (4°, 5° et 6°).
+
+Les agents de la commission nationale sont nommés par le président ou le vice-président délégué.
+
+Article 11
+
+La commission peut demander aux premiers présidents de cour d'appel ou aux présidents de tribunaux administratifs de déléguer un magistrat de leur ressort, éventuellement assisté d'experts, pour des missions d'investigation et de contrôle effectuées sous sa direction.
+
+Article 13
+
+Dans l'exercice de leurs attributions, les membres de la Commission nationale de l'informatique et des libertés ne reçoivent d'instruction d'aucune autorité.
+
+Les informaticiens appelés, soit à donner les renseignements à la commission, soit à témoigner devant elle, sont déliés en tant que de besoin de leur obligation de discrétion.
+
+LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTES (Article 12)
+Article 12
+
+Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions prévues à l'article 75 du code pénal et, sous réserve de ce qui est nécessaire à l'établissement du rapport annuel prévu ci-après, à l'article 378 du code pénal.
+
+Chapitre III : Formalités préalables à la mise en oeuvre des traitements automatisés. (Articles 14 à 24)
+Article 14
+
+La Commission nationale de l'informatique et des libertés veille à ce que les traitements automatisés, publics ou privés, d'informations nominatives, soient effectués conformément aux dispositions de la présente loi.
+
+Article 21
+
+Pour l'exercice de sa mission de contrôle, la commission :
+
+1° Prend des décisions individuelles ou réglementaires dans les cas prévus par la présente loi ;
+
+2° Peut, par décision particulière, charger un ou plusieurs de ses membres ou de ses agents, assistés, le cas échéant, d'experts, de procéder, à l'égard de tout traitement, à des vérifications sur place et de se faire communiquer tous renseignements et documents utiles à sa mission ;
+
+3° Edicte, le cas échéant, des règlements types en vue d'assurer la sécurité des systèmes ; en cas de circonstances exceptionnelles, elle peut prescrire des mesures de sécurité pouvant aller jusqu'à la destruction des supports d'informations ;
+
+4° Adresse aux intéressés des avertissements et dénonce au parquet les infractions dont elle a connaissance, conformément à l'article 40 du code de procédure pénale ;
+
+5° Veille à ce que les modalités de mise en oeuvre du droit d'accès et de rectification indiquées dans les actes et déclarations prévus aux articles 15 et 16 n'entravent pas le libre exercice de ce droit ;
+
+6° Reçoit les réclamations, pétitions et plaintes ;
+
+7° Se tient informée des activités industrielles et de services qui concourent à la mise en oeuvre de l'informatique.
+
+Les ministres, autorités publiques, dirigeants d'entreprises, publiques ou privées, responsables de groupements divers et plus généralement les détenteurs ou utilisateurs de fichiers nominatifs ne peuvent s'opposer à l'action de la commission ou de ses membres pour quelque motif que ce soit et doivent au contraire prendre toutes mesures utiles afin de faciliter sa tâche.
+
+Article 24
+
+Sur proposition ou après avis de la commission, la transmission entre le territoire français et l'étranger, sous quelque forme que ce soit, d'informations nominatives faisant l'objet de traitements automatisés régis par l'article 16 ci-dessus peut être soumise à autorisation préalable ou réglementée selon des modalités fixées par décret en Conseil d'Etat, en vue d'assurer le respect des principes posés par la présente loi.
+
+Chapitre IV : Collecte, enregistrement et conservation des informations nominatives. (Articles 25 à 33)
+Article 25
+
+La collecte de données opérée par tout moyen frauduleux, déloyal ou illicite est interdite.
+
+Article 29
+
+Toute personne ordonnant ou effectuant un traitement d'informations nominatives s'engage de ce fait, vis-à-vis des personnes concernées, à prendre toutes précautions utiles afin de préserver la sécurité des informations et notamment d'empêcher qu'elles ne soient déformées, endommagées ou communiquées à des tiers non autorisés.
+
+Article 32
+
+Abrogé par Loi n°88-227 du 11 mars 1988 - art. 13 () JORF 12 mars 1988
+
+L'accès du fichier électoral est ouvert dans des conditions identiques aux candidats et aux partis politiques sous le contrôle des commissions de progagande électorale.
+
+Article 33
+
+Les dispositions des articles 24, 30 et 31 ne s'appliquent pas aux informations nominatives traitées par les organismes de la presse écrite ou audiovisuelle dans le cadre des lois qui les régissent et dans les cas où leur application aurait pour effet de limiter l'exercice de la liberté d'expression.
+
+Chapitre V : Exercice du droit d'accès. (Article 37)
+Article 37
+
+Un fichier nominatif doit être complété ou corrigé même d'office lorsque l'organisme qui le tient acquiert connaissance de l'inexactitude ou du caractère incomplet d'une information nominative contenue dans ce fichier.
+
+Le président de la République : VALERY GISCARD D'ESTAING.
+
+Le premier ministre : RAYMOND BARRE.
+
+Le garde des sceaux, ministre de la justice : ALAIN PEYREFITTE.
+
+Le ministre de l'intérieur : CHRISTIAN BONNET.
+
+Le ministre de la défense : YVON BOURGES.
+
+Le ministre délégué à l'économie et aux finances : ROBERT BOULIN.
+
+Le ministre de l'équipement et de l'aménagement du territoire :
+
+FERNAND ICART.
+
+Le ministre de l'éducation : RENE HABY.
+
+Le ministre de l'industrie, du commerce et de l'artisanat :
+
+RENE MONORY.
+
+Le ministre du travail : CHRISTIAN BEULLAC.
+
+Le ministre de la santé et de la sécurité sociale : SIMONE VEIL.
+
+Travaux préparatoires. Assemblée nationale :
+
+Projet de loi (n° 2516 et propositions de loi (n° 1004 et 3092) ;
+
+Rapport de M. Foyer, au nom de la commission des lois (n° 3125) ;
+
+Discussion les 4 et 5 octobre 1977 ;
+
+Adoption le 5 octobre 1977. Sénat :
+
+Projet de loi, adopté par l'Assemblée nationale, n° 5 (1977-1978) ;
+
+Rapport de M. Jacques Thyraud, au nom de la commission des lois, n° 72 (1977-1978) ;
+
+Discussion et adoption le 17 novembre 1977. Assemblée nationale :
+
+Projet de loi, modifié par le Sénat (n° 3226) ;
+
+Rapport de M. Foyer, au nom de la commission des lois (n° 3352) ;
+
+Discussion et adoption le 16 décembre 1977. Sénat :
+
+Projet de loi, modifié par l'Assemblée nationale, n° 195 (1977-1978) ;
+
+Rapport de M. Jacques Thyraud, au nom de la commission des lois, n° 199 (1977-1978) ;
+
+Discussion et adoption le 19 décembre 1977. Assemblée nationale :
+
+Rapport de M. Foyer, au nom de la commission mixte paritaire (n° 3432) ;
+
+Discussion et adoption le 21 décembre 1977. Sénat :
+
+Rapport de M. Thyraud, au nom de la commission mixte paritaire, n° 232 (1977-1978) ;
+
+Discussion et rejet le 21 décembre 1977. Assemblée nationale :
+
+Projet de loi, modifié par le Sénat (n° 3384) ;
+
+Discussion et adoption le 21 décembre 1977. Sénat :
+
+Projet de loi, adopté par l'Assemblée nationale, n° 240 (1977-1978) ;
+
+Discussion et adoption le 21 décembre 1977.
+

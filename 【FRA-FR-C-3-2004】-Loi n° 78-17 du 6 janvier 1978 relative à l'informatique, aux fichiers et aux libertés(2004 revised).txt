@@ -1,0 +1,1212 @@
+Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+
+Dernière mise à jour des données de ce texte : 02 juillet 2025
+
+    Chapitre Ier : Principes et définitions (Articles 1 à 5)
+    Chapitre II : Conditions de licéité des traitements de données à caractère personnel (Articles 6 à 10)
+    Chapitre III : La Commission nationale de l'informatique et des libertés. (Articles 14 à 18)
+    Chapitre IV : Formalités préalables à la mise en oeuvre des traitements. (Articles 22 à 31)
+    Chapitre V : Obligations incombant aux responsables de traitements et droits des personnes (Articles 32 à 43)
+    Chapitre VI : Le contrôle de la mise en oeuvre des traitements. (Article 44)
+    Chapitre IV : Collecte, enregistrement et conservation des informations nominatives. (abrogé)
+    Chapitre V bis : Traitements automatisés de données nominatives ayant pour fin la recherche dans le domaine de la santé. (abrogé)
+    Chapitre VI : Dispositions pénales. (abrogé)
+    Chapitre VII : Sanctions prononcées par la Commission nationale de l'informatique et des libertés. (Articles 45 à 49)
+    Chapitre VIII : Dispositions pénales. (Articles 50 à 52)
+    Chapitre IX : Traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé. (Articles 53 à 61)
+    Chapitre X : Traitements de données de santé à caractère personnel à des fins d'évaluation ou d'analyse des pratiques ou des activités de soins et de prévention. (Articles 62 à 66)
+    Chapitre XI : Traitements de données à caractère personnel aux fins de journalisme et d'expression littéraire et artistique. (Article 67)
+    Chapitre XII : Transferts de données à caractère personnel vers des Etats n'appartenant pas à la Communauté européenne. (Articles 68 à 70)
+    Chapitre XIII : Dispositions diverses. (Articles 71 à 72)
+
+L'Assemblée nationale et le Sénat ont adopté.
+
+Le Président de la République promulgue la loi dont la teneur suit :
+
+Chapitre Ier : Principes et définitions (Articles 1 à 5)
+Article 1
+
+L'informatique doit être au service de chaque citoyen. Son développement doit s'opérer dans le cadre de la coopération internationale. Elle ne doit porter atteinte ni à l'identité humaine, ni aux droits de l'homme, ni à la vie privée, ni aux libertés individuelles ou publiques.
+
+Article 2
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 1 () JORF 7 août 2004
+
+La présente loi s'applique aux traitements automatisés de données à caractère personnel, ainsi qu'aux traitements non automatisés de données à caractère personnel contenues ou appelées à figurer dans des fichiers, à l'exception des traitements mis en oeuvre pour l'exercice d'activités exclusivement personnelles, lorsque leur responsable remplit les conditions prévues à l'article 5.
+
+Constitue une donnée à caractère personnel toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d'identification ou à un ou plusieurs éléments qui lui sont propres. Pour déterminer si une personne est identifiable, il convient de considérer l'ensemble des moyens en vue de permettre son identification dont dispose ou auxquels peut avoir accès le responsable du traitement ou toute autre personne.
+
+Constitue un traitement de données à caractère personnel toute opération ou tout ensemble d'opérations portant sur de telles données, quel que soit le procédé utilisé, et notamment la collecte, l'enregistrement, l'organisation, la conservation, l'adaptation ou la modification, l'extraction, la consultation, l'utilisation, la communication par transmission, diffusion ou toute autre forme de mise à disposition, le rapprochement ou l'interconnexion, ainsi que le verrouillage, l'effacement ou la destruction.
+
+Constitue un fichier de données à caractère personnel tout ensemble structuré et stable de données à caractère personnel accessibles selon des critères déterminés.
+
+La personne concernée par un traitement de données à caractère personnel est celle à laquelle se rapportent les données qui font l'objet du traitement.
+
+Article 3
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 1 () JORF 7 août 2004
+
+I. - Le responsable d'un traitement de données à caractère personnel est, sauf désignation expresse par les dispositions législatives ou réglementaires relatives à ce traitement, la personne, l'autorité publique, le service ou l'organisme qui détermine ses finalités et ses moyens.
+
+II. - Le destinataire d'un traitement de données à caractère personnel est toute personne habilitée à recevoir communication de ces données autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, en raison de leurs fonctions, sont chargées de traiter les données. Toutefois, les autorités légalement habilitées, dans le cadre d'une mission particulière ou de l'exercice d'un droit de communication, à demander au responsable du traitement de leur communiquer des données à caractère personnel ne constituent pas des destinataires.
+
+Article 4
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 1 () JORF 7 août 2004
+
+Les dispositions de la présente loi ne sont pas applicables aux copies temporaires qui sont faites dans le cadre des activités techniques de transmission et de fourniture d'accès à un réseau numérique, en vue du stockage automatique, intermédiaire et transitoire des données et à seule fin de permettre à d'autres destinataires du service le meilleur accès possible aux informations transmises.
+
+Article 5
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 1 () JORF 7 août 2004
+
+I. - Sont soumis à la présente loi les traitements de données à caractère personnel :
+
+1° Dont le responsable est établi sur le territoire français. Le responsable d'un traitement qui exerce une activité sur le territoire français dans le cadre d'une installation, quelle que soit sa forme juridique, y est considéré comme établi ;
+
+2° Dont le responsable, sans être établi sur le territoire français ou sur celui d'un autre Etat membre de la Communauté européenne, recourt à des moyens de traitement situés sur le territoire français, à l'exclusion des traitements qui ne sont utilisés qu'à des fins de transit sur ce territoire ou sur celui d'un autre Etat membre de la Communauté européenne.
+
+II. - Pour les traitements mentionnés au 2° du I, le responsable désigne à la Commission nationale de l'informatique et des libertés un représentant établi sur le territoire français, qui se substitue à lui dans l'accomplissement des obligations prévues par la présente loi ; cette désignation ne fait pas obstacle aux actions qui pourraient être introduites contre lui.
+
+Chapitre II : Conditions de licéité des traitements de données à caractère personnel (Articles 6 à 10)
+Section 1 : Dispositions générales (Articles 6 à 7)
+Article 6
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 2 () JORF 7 août 2004
+
+Un traitement ne peut porter que sur des données à caractère personnel qui satisfont aux conditions suivantes :
+
+1° Les données sont collectées et traitées de manière loyale et licite ;
+
+2° Elles sont collectées pour des finalités déterminées, explicites et légitimes et ne sont pas traitées ultérieurement de manière incompatible avec ces finalités. Toutefois, un traitement ultérieur de données à des fins statistiques ou à des fins de recherche scientifique ou historique est considéré comme compatible avec les finalités initiales de la collecte des données, s'il est réalisé dans le respect des principes et des procédures prévus au présent chapitre, au chapitre IV et à la section 1 du chapitre V ainsi qu'aux chapitres IX et X et s'il n'est pas utilisé pour prendre des décisions à l'égard des personnes concernées ;
+
+3° Elles sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et de leurs traitements ultérieurs ;
+
+4° Elles sont exactes, complètes et, si nécessaire, mises à jour ; les mesures appropriées doivent être prises pour que les données inexactes ou incomplètes au regard des finalités pour lesquelles elles sont collectées ou traitées soient effacées ou rectifiées ;
+
+5° Elles sont conservées sous une forme permettant l'identification des personnes concernées pendant une durée qui n'excède pas la durée nécessaire aux finalités pour lesquelles elles sont collectées et traitées.
+
+Article 7
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 2 () JORF 7 août 2004
+
+Un traitement de données à caractère personnel doit avoir reçu le consentement de la personne concernée ou satisfaire à l'une des conditions suivantes :
+
+1° Le respect d'une obligation légale incombant au responsable du traitement ;
+
+2° La sauvegarde de la vie de la personne concernée ;
+
+3° L'exécution d'une mission de service public dont est investi le responsable ou le destinataire du traitement ;
+
+4° L'exécution, soit d'un contrat auquel la personne concernée est partie, soit de mesures précontractuelles prises à la demande de celle-ci ;
+
+5° La réalisation de l'intérêt légitime poursuivi par le responsable du traitement ou par le destinataire, sous réserve de ne pas méconnaître l'intérêt ou les droits et libertés fondamentaux de la personne concernée.
+
+Section 2 : Dispositions propres à certaines catégories de données (Articles 8 à 10)
+Article 8
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 2 () JORF 7 août 2004
+
+I. - Il est interdit de collecter ou de traiter des données à caractère personnel qui font apparaître, directement ou indirectement, les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou l'appartenance syndicale des personnes, ou qui sont relatives à la santé ou à la vie sexuelle de celles-ci.
+
+II. -Dans la mesure où la finalité du traitement l'exige pour certaines catégories de données, ne sont pas soumis à l'interdiction prévue au I :
+
+1° Les traitements pour lesquels la personne concernée a donné son consentement exprès, sauf dans le cas où la loi prévoit que l'interdiction visée au I ne peut être levée par le consentement de la personne concernée ;
+
+2° Les traitements nécessaires à la sauvegarde de la vie humaine, mais auxquels la personne concernée ne peut donner son consentement par suite d'une incapacité juridique ou d'une impossibilité matérielle ;
+
+3° Les traitements mis en oeuvre par une association ou tout autre organisme à but non lucratif et à caractère religieux, philosophique, politique ou syndical :
+
+- pour les seules données mentionnées au I correspondant à l'objet de ladite association ou dudit organisme ;
+
+- sous réserve qu'ils ne concernent que les membres de cette association ou de cet organisme et, le cas échéant, les personnes qui entretiennent avec celui-ci des contacts réguliers dans le cadre de son activité ;
+
+- et qu'ils ne portent que sur des données non communiquées à des tiers, à moins que les personnes concernées n'y consentent expressément ;
+
+4° Les traitements portant sur des données à caractère personnel rendues publiques par la personne concernée ;
+
+5° Les traitements nécessaires à la constatation, à l'exercice ou à la défense d'un droit en justice ;
+
+6° Les traitements nécessaires aux fins de la médecine préventive, des diagnostics médicaux, de l'administration de soins ou de traitements, ou de la gestion de services de santé et mis en oeuvre par un membre d'une profession de santé, ou par une autre personne à laquelle s'impose en raison de ses fonctions l'obligation de secret professionnel prévue par l'article 226-13 du code pénal ;
+
+7° Les traitements statistiques réalisés par l'Institut national de la statistique et des études économiques ou l'un des services statistiques ministériels dans le respect de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques, après avis du Conseil national de l'information statistique et dans les conditions prévues à l'article 25 de la présente loi ;
+
+8° Les traitements nécessaires à la recherche dans le domaine de la santé selon les modalités prévues au chapitre IX.
+
+III.-Si les données à caractère personnel visées au I sont appelées à faire l'objet à bref délai d'un procédé d'anonymisation préalablement reconnu conforme aux dispositions de la présente loi par la Commission nationale de l'informatique et des libertés, celle-ci peut autoriser, compte tenu de leur finalité, certaines catégories de traitements selon les modalités prévues à l'article 25. Les dispositions des chapitres IX et X ne sont pas applicables.
+
+IV.-De même, ne sont pas soumis à l'interdiction prévue au I les traitements, automatisés ou non, justifiés par l'intérêt public et autorisés dans les conditions prévues au I de l'article 25 ou au II de l'article 26.
+
+Article 9
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 2 () JORF 7 août 2004
+
+Les traitements de données à caractère personnel relatives aux infractions, condamnations et mesures de sûreté ne peuvent être mis en oeuvre que par :
+
+1° Les juridictions, les autorités publiques et les personnes morales gérant un service public, agissant dans le cadre de leurs attributions légales ;
+
+2° Les auxiliaires de justice, pour les stricts besoins de l'exercice des missions qui leur sont confiées par la loi ;
+
+3° [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-499 DC du 29 juillet 2004 ;]
+
+4° Les personnes morales mentionnées aux articles L. 321-1 et L. 331-1 du code de la propriété intellectuelle, agissant au titre des droits dont elles assurent la gestion ou pour le compte des victimes d'atteintes aux droits prévus aux livres Ier, II et III du même code aux fins d'assurer la défense de ces droits.
+
+Article 10
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 2 () JORF 7 août 2004
+
+Aucune décision de justice impliquant une appréciation sur le comportement d'une personne ne peut avoir pour fondement un traitement automatisé de données à caractère personnel destiné à évaluer certains aspects de sa personnalité.
+
+Aucune autre décision produisant des effets juridiques à l'égard d'une personne ne peut être prise sur le seul fondement d'un traitement automatisé de données destiné à définir le profil de l'intéressé ou à évaluer certains aspects de sa personnalité.
+
+Ne sont pas regardées comme prises sur le seul fondement d'un traitement automatisé les décisions prises dans le cadre de la conclusion ou de l'exécution d'un contrat et pour lesquelles la personne concernée a été mise à même de présenter ses observations, ni celles satisfaisant les demandes de la personne concernée.
+
+Chapitre III : La Commission nationale de l'informatique et des libertés. (Articles 14 à 18)
+Article 14
+
+Abrogé par LOI n°2017-55 du 20 janvier 2017 - art. 40
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+I. - La qualité de membre de la commission est incompatible avec celle de membre du Gouvernement.
+
+II. - Aucun membre de la commission ne peut :
+
+- participer à une délibération ou procéder à des vérifications relatives à un organisme au sein duquel il détient un intérêt, direct ou indirect, exerce des fonctions ou détient un mandat ;
+
+- participer à une délibération ou procéder à des vérifications relatives à un organisme au sein duquel il a, au cours des trente-six mois précédant la délibération ou les vérifications, détenu un intérêt direct ou indirect, exercé des fonctions ou détenu un mandat.
+
+III. - Tout membre de la commission doit informer le président des intérêts directs ou indirects qu'il détient ou vient à détenir, des fonctions qu'il exerce ou vient à exercer et de tout mandat qu'il détient ou vient à détenir au sein d'une personne morale. Ces informations, ainsi que celles concernant le président, sont tenues à la disposition des membres de la commission.
+
+Le président de la commission prend les mesures appropriées pour assurer le respect des obligations résultant du présent article.
+
+Article 19
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+La commission dispose de services dirigés par le président et placés sous son autorité.
+
+Les agents de la commission sont nommés par le président.
+
+En cas de besoin, le vice-président délégué exerce les attributions du président.
+
+Le secrétaire général est chargé du fonctionnement et de la coordination des services sous l'autorité du président.
+
+Ceux des agents qui peuvent être appelés à participer à la mise en oeuvre des missions de vérification mentionnées à l'article 44 doivent y être habilités par la commission ; cette habilitation ne dispense pas de l'application des dispositions définissant les procédures autorisant l'accès aux secrets protégés par la loi.
+
+Article 20
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions prévues à l'article 413-10 du code pénal et, sous réserve de ce qui est nécessaire à l'établissement du rapport annuel, à l'article 226-13 du même code.
+
+Article 21
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+Dans l'exercice de leurs attributions, les membres de la commission ne reçoivent d'instruction d'aucune autorité.
+
+Les ministres, autorités publiques, dirigeants d'entreprises publiques ou privées, responsables de groupements divers et plus généralement les détenteurs ou utilisateurs de traitements ou de fichiers de données à caractère personnel ne peuvent s'opposer à l'action de la commission ou de ses membres et doivent au contraire prendre toutes mesures utiles afin de faciliter sa tâche.
+
+Sauf dans les cas où elles sont astreintes au secret professionnel, les personnes interrogées dans le cadre des vérifications faites par la commission en application du f du 2° de l'article 11 sont tenues de fournir les renseignements demandés par celle-ci pour l'exercice de ses missions..
+
+Article 11
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+La Commission nationale de l'informatique et des libertés est une autorité administrative indépendante. Elle exerce les missions suivantes :
+
+1° Elle informe toutes les personnes concernées et tous les responsables de traitements de leurs droits et obligations ;
+
+2° Elle veille à ce que les traitements de données à caractère personnel soient mis en oeuvre conformément aux dispositions de la présente loi.
+
+A ce titre :
+
+a) Elle autorise les traitements mentionnés à l'article 25, donne un avis sur les traitements mentionnés aux articles 26 et 27 et reçoit les déclarations relatives aux autres traitements ;
+
+b) Elle établit et publie les normes mentionnées au I de l'article 24 et édicte, le cas échéant, des règlements types en vue d'assurer la sécurité des systèmes ;
+
+c) Elle reçoit les réclamations, pétitions et plaintes relatives à la mise en oeuvre des traitements de données à caractère personnel et informe leurs auteurs des suites données à celles-ci ;
+
+d) Elle répond aux demandes d'avis des pouvoirs publics et, le cas échéant, des juridictions, et conseille les personnes et organismes qui mettent en oeuvre ou envisagent de mettre en oeuvre des traitements automatisés de données à caractère personnel ;
+
+e) Elle informe sans délai le procureur de la République, conformément à l'article 40 du code de procédure pénale, des infractions dont elle a connaissance, et peut présenter des observations dans les procédures pénales, dans les conditions prévues à l'article 52 ;
+
+f) Elle peut, par décision particulière, charger un ou plusieurs de ses membres ou des agents de ses services, dans les conditions prévues à l'article 44, de procéder à des vérifications portant sur tous traitements et, le cas échéant, d'obtenir des copies de tous documents ou supports d'information utiles à ses missions ;
+
+g) Elle peut, dans les conditions définies au chapitre VII, prononcer à l'égard d'un responsable de traitement l'une des mesures prévues à l'article 45 ;
+
+h) Elle répond aux demandes d'accès concernant les traitements mentionnés aux articles 41 et 42 ;
+
+3° A la demande d'organisations professionnelles ou d'institutions regroupant principalement des responsables de traitements :
+
+a) Elle donne un avis sur la conformité aux dispositions de la présente loi des projets de règles professionnelles et des produits et procédures tendant à la protection des personnes à l'égard du traitement de données à caractère personnel, ou à l'anonymisation de ces données, qui lui sont soumis ;
+
+b) Elle porte une appréciation sur les garanties offertes par des règles professionnelles qu'elle a précédemment reconnues conformes aux dispositions de la présente loi, au regard du respect des droits fondamentaux des personnes ;
+
+c) Elle délivre un label à des produits ou à des procédures tendant à la protection des personnes à l'égard du traitement des données à caractère personnel, après qu'elle les a reconnus conformes aux dispositions de la présente loi ;
+
+4° Elle se tient informée de l'évolution des technologies de l'information et rend publique le cas échéant son appréciation des conséquences qui en résultent pour l'exercice des droits et libertés mentionnés à l'article 1er ;
+
+A ce titre :
+
+a) Elle est consultée sur tout projet de loi ou de décret relatif à la protection des personnes à l'égard des traitements automatisés ;
+
+b) Elle propose au Gouvernement les mesures législatives ou réglementaires d'adaptation de la protection des libertés à l'évolution des procédés et techniques informatiques ;
+
+c) A la demande d'autres autorités administratives indépendantes, elle peut apporter son concours en matière de protection des données ;
+
+d) Elle peut être associée, à la demande du Premier ministre, à la préparation et à la définition de la position française dans les négociations internationales dans le domaine de la protection des données à caractère personnel. Elle peut participer, à la demande du Premier ministre, à la représentation française dans les organisations internationales et communautaires compétentes en ce domaine.
+
+Pour l'accomplissement de ses missions, la commission peut procéder par voie de recommandation et prendre des décisions individuelles ou réglementaires dans les cas prévus par la présente loi.
+
+La commission présente chaque année au Président de la République, au Premier ministre et au Parlement un rapport public rendant compte de l'exécution de sa mission.
+
+Article 12
+
+Abrogé par LOI n°2017-55 du 20 janvier 2017 - art. 40
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+La Commission nationale de l'informatique et des libertés dispose des crédits nécessaires à l'accomplissement de ses missions. Les dispositions de la loi du 10 août 1922 relative au contrôle financier ne sont pas applicables à leur gestion. Les comptes de la commission sont présentés au contrôle de la Cour des comptes.
+
+Article 13
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+I. - La Commission nationale de l'informatique et des libertés est composée de dix-sept membres :
+
+1° Deux députés et deux sénateurs, désignés respectivement par l'Assemblée nationale et par le Sénat ;
+
+2° Deux membres du Conseil économique et social, élus par cette assemblée ;
+
+3° Deux membres ou anciens membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale du Conseil d'Etat ;
+
+4° Deux membres ou anciens membres de la Cour de cassation, d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale de la Cour de cassation ;
+
+5° Deux membres ou anciens membres de la Cour des comptes, d'un grade au moins égal à celui de conseiller maître, élus par l'assemblée générale de la Cour des comptes ;
+
+6° Trois personnalités qualifiées pour leur connaissance de l'informatique ou des questions touchant aux libertés individuelles, nommées par décret ;
+
+7° Deux personnalités qualifiées pour leur connaissance de l'informatique, désignées respectivement par le Président de l'Assemblée nationale et par le Président du Sénat.
+
+La commission élit en son sein un président et deux vice-présidents, dont un vice-président délégué. Ils composent le bureau.
+
+La formation restreinte de la commission est composée du président, des vice-présidents et de trois membres élus par la commission en son sein pour la durée de leur mandat.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+II. - Le mandat des membres de la commission mentionnés aux 3°, 4°, 5°, 6° et 7° du I est de cinq ans ; il est renouvelable une fois. Les membres mentionnés aux 1° et 2° siègent pour la durée du mandat à l'origine de leur désignation ; leurs mandats de membre de la Commission nationale de l'informatique et des libertés ne peuvent excéder une durée de dix ans.
+
+Le membre de la commission qui cesse d'exercer ses fonctions en cours de mandat est remplacé, dans les mêmes conditions, pour la durée de son mandat restant à courir.
+
+Sauf démission, il ne peut être mis fin aux fonctions d'un membre qu'en cas d'empêchement constaté par la commission dans les conditions qu'elle définit.
+
+La commission établit un règlement intérieur. Ce règlement fixe les règles relatives à l'organisation et au fonctionnement de la commission. Il précise notamment les règles relatives aux délibérations, à l'instruction des dossiers et à leur présentation devant la commission.
+
+Article 15
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+Sous réserve des compétences du bureau et de la formation restreinte, la commission se réunit en formation plénière.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+La commission peut charger le président ou le vice-président délégué d'exercer celles de ses attributions mentionnées :
+
+- au troisième alinéa du I de l'article 23 ;
+
+- aux e et f du 2° de l'article 11 ;
+
+- au c du 2° de l'article 11 ;
+
+- au d du 4° de l'article 11 ;
+
+- aux articles 41 et 42 ;
+
+- à l'article 54 ;
+
+- aux articles 63, 64 et 65 ;
+
+- au dernier alinéa de l'article 69 ;
+
+- au premier alinéa de l'article 70.
+
+Article 16
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+Le bureau peut être chargé par la commission d'exercer les attributions de celle-ci mentionnées :
+
+- au dernier alinéa de l'article 19 ;
+
+- à l'article 25, en cas d'urgence ;
+
+- au second alinéa de l'article 70.
+
+Le bureau peut aussi être chargé de prendre, en cas d'urgence, les décisions mentionnées au premier alinéa du I de l'article 45.
+
+Article 17
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+La formation restreinte de la commission prononce les mesures prévues au I et au 1° du II de l'article 45.
+
+Article 18
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 3 () JORF 7 août 2004
+
+Un commissaire du Gouvernement, désigné par le Premier ministre, siège auprès de la commission. Des commissaires adjoints peuvent être désignés dans les mêmes conditions.
+
+Le commissaire du Gouvernement assiste à toutes les délibérations de la commission réunie en formation plénière ou en formation restreinte, ainsi qu'à celles des réunions de son bureau qui ont pour objet l'exercice des attributions déléguées en vertu de l'article 16 ; il est rendu destinataire de tous ses avis et décisions.
+
+Il peut, sauf en matière de sanctions, provoquer une seconde délibération, qui doit intervenir dans les dix jours de la délibération initiale.
+
+Chapitre IV : Formalités préalables à la mise en oeuvre des traitements. (Articles 22 à 31)
+Article 22
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - A l'exception de ceux qui relèvent des dispositions prévues aux articles 25, 26 et 27 ou qui sont visés au deuxième alinéa de l'article 36, les traitements automatisés de données à caractère personnel font l'objet d'une déclaration auprès de la Commission nationale de l'informatique et des libertés.
+
+II. - Toutefois, ne sont soumis à aucune des formalités préalables prévues au présent chapitre :
+
+1° Les traitements ayant pour seul objet la tenue d'un registre qui, en vertu de dispositions législatives ou réglementaires, est destiné exclusivement à l'information du public et est ouvert à la consultation de celui-ci ou de toute personne justifiant d'un intérêt légitime ;
+
+2° Les traitements mentionnés au 3° du II de l'article 8.
+
+III. - Les traitements pour lesquels le responsable a désigné un correspondant à la protection des données à caractère personnel chargé d'assurer, d'une manière indépendante, le respect des obligations prévues dans la présente loi sont dispensés des formalités prévues aux articles 23 et 24, sauf lorsqu'un transfert de données à caractère personnel à destination d'un Etat non membre de la Communauté européenne est envisagé.
+
+La désignation du correspondant est notifiée à la Commission nationale de l'informatique et des libertés. Elle est portée à la connaissance des instances représentatives du personnel.
+
+Le correspondant est une personne bénéficiant des qualifications requises pour exercer ses missions. Il tient une liste des traitements effectués immédiatement accessible à toute personne en faisant la demande et ne peut faire l'objet d'aucune sanction de la part de l'employeur du fait de l'accomplissement de ses missions. Il peut saisir la Commission nationale de l'informatique et des libertés des difficultés qu'il rencontre dans l'exercice de ses missions.
+
+En cas de non-respect des dispositions de la loi, le responsable du traitement est enjoint par la Commission nationale de l'informatique et des libertés de procéder aux formalités prévues aux articles 23 et 24. En cas de manquement constaté à ses devoirs, le correspondant est déchargé de ses fonctions sur demande, ou après consultation, de la Commission nationale de l'informatique et des libertés.
+
+IV. - Le responsable d'un traitement de données à caractère personnel qui n'est soumis à aucune des formalités prévues au présent chapitre communique à toute personne qui en fait la demande les informations relatives à ce traitement mentionnées aux 2° à 6° du I de l'article 31.
+
+Section 1 : Déclaration. (Articles 23 à 24)
+Article 23
+
+Abrogé par LOI n°2018-493 du 20 juin 2018 - art. 11
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - La déclaration comporte l'engagement que le traitement satisfait aux exigences de la loi.
+
+Elle peut être adressée à la Commission nationale de l'informatique et des libertés par voie électronique.
+
+La commission délivre sans délai un récépissé, le cas échéant par voie électronique. Le demandeur peut mettre en oeuvre le traitement dès réception de ce récépissé ; il n'est exonéré d'aucune de ses responsabilités.
+
+II. - Les traitements relevant d'un même organisme et ayant des finalités identiques ou liées entre elles peuvent faire l'objet d'une déclaration unique. Dans ce cas, les informations requises en application de l'article 30 ne sont fournies pour chacun des traitements que dans la mesure où elles lui sont propres.
+
+Article 24
+
+Abrogé par LOI n°2018-493 du 20 juin 2018 - art. 11
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - Pour les catégories les plus courantes de traitements de données à caractère personnel, dont la mise en oeuvre n'est pas susceptible de porter atteinte à la vie privée ou aux libertés, la Commission nationale de l'informatique et des libertés établit et publie, après avoir reçu le cas échéant les propositions formulées par les représentants des organismes publics et privés représentatifs, des normes destinées à simplifier l'obligation de déclaration.
+
+Ces normes précisent :
+
+1° Les finalités des traitements faisant l'objet d'une déclaration simplifiée ;
+
+2° Les données à caractère personnel ou catégories de données à caractère personnel traitées ;
+
+3° La ou les catégories de personnes concernées ;
+
+4° Les destinataires ou catégories de destinataires auxquels les données à caractère personnel sont communiquées ;
+
+5° La durée de conservation des données à caractère personnel.
+
+Les traitements qui correspondent à l'une de ces normes font l'objet d'une déclaration simplifiée de conformité envoyée à la commission, le cas échéant par voie électronique.
+
+II. - La commission peut définir, parmi les catégories de traitements mentionnés au I, celles qui, compte tenu de leurs finalités, de leurs destinataires ou catégories de destinataires, des données à caractère personnel traitées, de la durée de conservation de celles-ci et des catégories de personnes concernées, sont dispensées de déclaration.
+
+Dans les mêmes conditions, la commission peut autoriser les responsables de certaines catégories de traitements à procéder à une déclaration unique selon les dispositions du II de l'article 23.
+
+Section 2 : Autorisation. (Articles 25 à 29)
+Article 25
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - Sont mis en oeuvre après autorisation de la Commission nationale de l'informatique et des libertés, à l'exclusion de ceux qui sont mentionnés aux articles 26 et 27 :
+
+1° Les traitements, automatisés ou non, mentionnés au 7° du II, au III et au IV de l'article 8 ;
+
+2° Les traitements automatisés portant sur des données génétiques, à l'exception de ceux d'entre eux qui sont mis en oeuvre par des médecins ou des biologistes et qui sont nécessaires aux fins de la médecine préventive, des diagnostics médicaux ou de l'administration de soins ou de traitements ;
+
+3° Les traitements, automatisés ou non, portant sur des données relatives aux infractions, condamnations ou mesures de sûreté, sauf ceux qui sont mis en oeuvre par des auxiliaires de justice pour les besoins de leurs missions de défense des personnes concernées ;
+
+4° Les traitements automatisés susceptibles, du fait de leur nature, de leur portée ou de leurs finalités, d'exclure des personnes du bénéfice d'un droit, d'une prestation ou d'un contrat en l'absence de toute disposition législative ou réglementaire ;
+
+5° Les traitements automatisés ayant pour objet :
+
+- l'interconnexion de fichiers relevant d'une ou de plusieurs personnes morales gérant un service public et dont les finalités correspondent à des intérêts publics différents ;
+
+- l'interconnexion de fichiers relevant d'autres personnes et dont les finalités principales sont différentes ;
+
+6° Les traitements portant sur des données parmi lesquelles figure le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques et ceux qui requièrent une consultation de ce répertoire sans inclure le numéro d'inscription à celui-ci des personnes ;
+
+7° Les traitements automatisés de données comportant des appréciations sur les difficultés sociales des personnes ;
+
+8° Les traitements automatisés comportant des données biométriques nécessaires au contrôle de l'identité des personnes.
+
+II. - Pour l'application du présent article, les traitements qui répondent à une même finalité, portent sur des catégories de données identiques et ont les mêmes destinataires ou catégories de destinataires peuvent être autorisés par une décision unique de la commission. Dans ce cas, le responsable de chaque traitement adresse à la commission un engagement de conformité de celui-ci à la description figurant dans l'autorisation.
+
+III. - La Commission nationale de l'informatique et des libertés se prononce dans un délai de deux mois à compter de la réception de la demande. Toutefois, ce délai peut être renouvelé une fois sur décision motivée de son président. Lorsque la commission ne s'est pas prononcée dans ces délais, la demande d'autorisation est réputée rejetée.
+
+Article 26
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - Sont autorisés par arrêté du ou des ministres compétents, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés, les traitements de données à caractère personnel mis en oeuvre pour le compte de l'Etat et :
+
+1° Qui intéressent la sûreté de l'Etat, la défense ou la sécurité publique ;
+
+2° Ou qui ont pour objet la prévention, la recherche, la constatation ou la poursuite des infractions pénales ou l'exécution des condamnations pénales ou des mesures de sûreté.
+
+L'avis de la commission est publié avec l'arrêté autorisant le traitement.
+
+II. - Ceux de ces traitements qui portent sur des données mentionnées au I de l'article 8 sont autorisés par décret en Conseil d'Etat pris après avis motivé et publié de la commission ; cet avis est publié avec le décret autorisant le traitement.
+
+III. - Certains traitements mentionnés au I et au II peuvent être dispensés, par décret en Conseil d'Etat, de la publication de l'acte réglementaire qui les autorise ; pour ces traitements, est publié, en même temps que le décret autorisant la dispense de publication de l'acte, le sens de l'avis émis par la commission.
+
+IV. - Pour l'application du présent article, les traitements qui répondent à une même finalité, portent sur des catégories de données identiques et ont les mêmes destinataires ou catégories de destinataires peuvent être autorisés par un acte réglementaire unique. Dans ce cas, le responsable de chaque traitement adresse à la commission un engagement de conformité de celui-ci à la description figurant dans l'autorisation.
+
+Article 27
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - Sont autorisés par décret en Conseil d'Etat, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés :
+
+1° Les traitements de données à caractère personnel mis en oeuvre pour le compte de l'Etat, d'une personne morale de droit public ou d'une personne morale de droit privé gérant un service public, qui portent sur des données parmi lesquelles figure le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques ;
+
+2° Les traitements de données à caractère personnel mis en oeuvre pour le compte de l'Etat qui portent sur des données biométriques nécessaires à l'authentification ou au contrôle de l'identité des personnes.
+
+II. - Sont autorisés par arrêté ou, en cas de traitement opéré pour le compte d'un établissement public ou d'une personne morale de droit privé gérant un service public, par décision de l'organe délibérant chargé de leur organisation, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés :
+
+1° Les traitements mis en oeuvre par l'Etat ou les personnes morales mentionnées au I qui requièrent une consultation du répertoire national d'identification des personnes physiques sans inclure le numéro d'inscription à ce répertoire ;
+
+2° Ceux des traitements mentionnés au I :
+
+- qui ne comportent aucune des données mentionnées au I de l'article 8 ou à l'article 9 ;
+
+- qui ne donnent pas lieu à une interconnexion entre des traitements ou fichiers correspondant à des intérêts publics différents ;
+
+- et qui sont mis en oeuvre par des services ayant pour mission, soit de déterminer les conditions d'ouverture ou l'étendue d'un droit des administrés, soit d'établir l'assiette, de contrôler ou de recouvrer des impositions ou taxes de toute nature, soit d'établir des statistiques ;
+
+3° Les traitements relatifs au recensement de la population, en métropole et dans les collectivités situées outre-mer ;
+
+4° Les traitements mis en oeuvre par l'Etat ou les personnes morales mentionnées au I aux fins de mettre à la disposition des usagers de l'administration un ou plusieurs téléservices de l'administration électronique, si ces traitements portent sur des données parmi lesquelles figurent le numéro d'inscription des personnes au répertoire national d'identification ou tout autre identifiant des personnes physiques.
+
+III. - Les dispositions du IV de l'article 26 sont applicables aux traitements relevant du présent article.
+
+Article 28
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - La Commission nationale de l'informatique et des libertés, saisie dans le cadre des articles 26 ou 27, se prononce dans un délai de deux mois à compter de la réception de la demande. Toutefois, ce délai peut être renouvelé une fois sur décision motivée du président.
+
+II. - L'avis demandé à la commission sur un traitement, qui n'est pas rendu à l'expiration du délai prévu au I, est réputé favorable.
+
+Article 29
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+Les actes autorisant la création d'un traitement en application des articles 25, 26 et 27 précisent :
+
+1° La dénomination et la finalité du traitement ;
+
+2° Le service auprès duquel s'exerce le droit d'accès défini au chapitre VII ;
+
+3° Les catégories de données à caractère personnel enregistrées ;
+
+4° Les destinataires ou catégories de destinataires habilités à recevoir communication de ces données ;
+
+5° Le cas échéant, les dérogations à l'obligation d'information prévues au V de l'article 32.
+
+Section 3 : Dispositions communes. (Articles 30 à 31)
+Article 30
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - Les déclarations, demandes d'autorisation et demandes d'avis adressées à la Commission nationale de l'informatique et des libertés en vertu des dispositions des sections 1 et 2 précisent :
+
+1° L'identité et l'adresse du responsable du traitement ou, si celui-ci n'est établi ni sur le territoire national ni sur celui d'un autre Etat membre de la Communauté européenne, celle de son représentant et, le cas échéant, celle de la personne qui présente la demande ;
+
+2° La ou les finalités du traitement, ainsi que, pour les traitements relevant des articles 25, 26 et 27, la description générale de ses fonctions ;
+
+3° Le cas échéant, les interconnexions, les rapprochements ou toutes autres formes de mise en relation avec d'autres traitements ;
+
+4° Les données à caractère personnel traitées, leur origine et les catégories de personnes concernées par le traitement ;
+
+5° La durée de conservation des informations traitées ;
+
+6° Le ou les services chargés de mettre en oeuvre le traitement ainsi que, pour les traitements relevant des articles 25, 26 et 27, les catégories de personnes qui, en raison de leurs fonctions ou pour les besoins du service, ont directement accès aux données enregistrées ;
+
+7° Les destinataires ou catégories de destinataires habilités à recevoir communication des données ;
+
+8° La fonction de la personne ou le service auprès duquel s'exerce le droit d'accès prévu à l'article 39, ainsi que les mesures relatives à l'exercice de ce droit ;
+
+9° Les dispositions prises pour assurer la sécurité des traitements et des données et la garantie des secrets protégés par la loi et, le cas échéant, l'indication du recours à un sous-traitant ;
+
+10° Le cas échéant, les transferts de données à caractère personnel envisagés à destination d'un Etat non membre de la Communauté européenne, sous quelque forme que ce soit, à l'exclusion des traitements qui ne sont utilisés qu'à des fins de transit sur le territoire français ou sur celui d'un autre Etat membre de la Communauté européenne au sens des dispositions du 2° du I de l'article 5.
+
+II. - Le responsable d'un traitement déjà déclaré ou autorisé informe sans délai la commission :
+
+- de tout changement affectant les informations mentionnées au I ;
+
+- de toute suppression du traitement.
+
+Article 31
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+
+I. - La commission met à la disposition du public la liste des traitements automatisés ayant fait l'objet d'une des formalités prévues par les articles 23 à 27, à l'exception de ceux mentionnés au III de l'article 26.
+
+Cette liste précise pour chacun de ces traitements :
+
+1° L'acte décidant la création du traitement ou la date de la déclaration de ce traitement ;
+
+2° La dénomination et la finalité du traitement ;
+
+3° L'identité et l'adresse du responsable du traitement ou, si celui-ci n'est établi ni sur le territoire national ni sur celui d'un autre Etat membre de la Communauté européenne, celles de son représentant ;
+
+4° La fonction de la personne ou le service auprès duquel s'exerce le droit d'accès prévu à l'article 39 ;
+
+5° Les catégories de données à caractère personnel faisant l'objet du traitement, ainsi que les destinataires et catégories de destinataires habilités à en recevoir communication ;
+
+6° Le cas échéant, les transferts de données à caractère personnel envisagés à destination d'un Etat non membre de la Communauté européenne.
+
+II. - La commission tient à la disposition du public ses avis, décisions ou recommandations.
+
+III. - La Commission nationale de l'informatique et des libertés publie la liste des Etats dont la Commission des Communautés européennes a établi qu'ils assurent un niveau de protection suffisant à l'égard d'un transfert ou d'une catégorie de transferts de données à caractère personnel.
+
+Chapitre V : Obligations incombant aux responsables de traitements et droits des personnes (Articles 32 à 43)
+Section 1 : Obligations incombant aux responsables de traitements. (Articles 32 à 37)
+Article 32
+
+Création Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+I.-La personne auprès de laquelle sont recueillies des données à caractère personnel la concernant est informée, sauf si elle l'a été au préalable, par le responsable du traitement ou son représentant :
+
+1° De l'identité du responsable du traitement et, le cas échéant, de celle de son représentant ;
+
+2° De la finalité poursuivie par le traitement auquel les données sont destinées ;
+
+3° Du caractère obligatoire ou facultatif des réponses ;
+
+4° Des conséquences éventuelles, à son égard, d'un défaut de réponse ;
+
+5° Des destinataires ou catégories de destinataires des données ;
+
+6° Des droits qu'elle tient des dispositions de la section 2 du présent chapitre ;
+
+7° Le cas échéant, des transferts de données à caractère personnel envisagés à destination d'un Etat non membre de la Communauté européenne.
+
+Lorsque de telles données sont recueillies par voie de questionnaires, ceux-ci doivent porter mention des prescriptions figurant aux 1°, 2°, 3° et 6°.
+
+II.-Toute personne utilisatrice des réseaux de communications électroniques doit être informée de manière claire et complète par le responsable du traitement ou son représentant :
+
+-de la finalité de toute action tendant à accéder, par voie de transmission électronique, à des informations stockées dans son équipement terminal de connexion, ou à inscrire, par la même voie, des informations dans son équipement terminal de connexion ;
+
+-des moyens dont elle dispose pour s'y opposer.
+
+Ces dispositions ne sont pas applicables si l'accès aux informations stockées dans l'équipement terminal de l'utilisateur ou l'inscription d'informations dans l'équipement terminal de l'utilisateur :
+
+-soit a pour finalité exclusive de permettre ou faciliter la communication par voie électronique ;
+
+-soit est strictement nécessaire à la fourniture d'un service de communication en ligne à la demande expresse de l'utilisateur.
+
+III.-Lorsque les données à caractère personnel n'ont pas été recueillies auprès de la personne concernée, le responsable du traitement ou son représentant doit fournir à cette dernière les informations énumérées au I dès l'enregistrement des données ou, si une communication des données à des tiers est envisagée, au plus tard lors de la première communication des données.
+
+Lorsque les données à caractère personnel ont été initialement recueillies pour un autre objet, les dispositions de l'alinéa précédent ne s'appliquent pas aux traitements nécessaires à la conservation de ces données à des fins historiques, statistiques ou scientifiques, dans les conditions prévues au livre II du code du patrimoine ou à la réutilisation de ces données à des fins statistiques dans les conditions de l'article 7 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques. Ces dispositions ne s'appliquent pas non plus lorsque la personne concernée est déjà informée ou quand son information se révèle impossible ou exige des efforts disproportionnés par rapport à l'intérêt de la démarche.
+
+IV.-Si les données à caractère personnel recueillies sont appelées à faire l'objet à bref délai d'un procédé d'anonymisation préalablement reconnu conforme aux dispositions de la présente loi par la Commission nationale de l'informatique et des libertés, les informations délivrées par le responsable du traitement à la personne concernée peuvent se limiter à celles mentionnées au 1° et au 2° du I.
+
+V.-Les dispositions du I ne s'appliquent pas aux données recueillies dans les conditions prévues au III et utilisées lors d'un traitement mis en oeuvre pour le compte de l'Etat et intéressant la sûreté de l'Etat, la défense, la sécurité publique ou ayant pour objet l'exécution de condamnations pénales ou de mesures de sûreté, dans la mesure où une telle limitation est nécessaire au respect des fins poursuivies par le traitement.
+
+VI.-Les dispositions du présent article ne s'appliquent pas aux traitements de données ayant pour objet la prévention, la recherche, la constatation ou la poursuite d'infractions pénales.
+
+Article 33
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Sauf consentement exprès de la personne concernée, les données à caractère personnel recueillies par les prestataires de services de certification électronique pour les besoins de la délivrance et de la conservation des certificats liés aux signatures électroniques doivent l'être directement auprès de la personne concernée et ne peuvent être traitées que pour les fins en vue desquelles elles ont été recueillies.
+
+Article 34
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Le responsable du traitement est tenu de prendre toutes précautions utiles, au regard de la nature des données et des risques présentés par le traitement, pour préserver la sécurité des données et, notamment, empêcher qu'elles soient déformées, endommagées, ou que des tiers non autorisés y aient accès.
+
+Des décrets, pris après avis de la Commission nationale de l'informatique et des libertés, peuvent fixer les prescriptions techniques auxquelles doivent se conformer les traitements mentionnés au 2° et au 6° du II de l'article 8.
+
+Article 35
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Les données à caractère personnel ne peuvent faire l'objet d'une opération de traitement de la part d'un sous-traitant, d'une personne agissant sous l'autorité du responsable du traitement ou de celle du sous-traitant, que sur instruction du responsable du traitement.
+
+Toute personne traitant des données à caractère personnel pour le compte du responsable du traitement est considérée comme un sous-traitant au sens de la présente loi.
+
+Le sous-traitant doit présenter des garanties suffisantes pour assurer la mise en oeuvre des mesures de sécurité et de confidentialité mentionnées à l'article 34. Cette exigence ne décharge pas le responsable du traitement de son obligation de veiller au respect de ces mesures.
+
+Le contrat liant le sous-traitant au responsable du traitement comporte l'indication des obligations incombant au sous-traitant en matière de protection de la sécurité et de la confidentialité des données et prévoit que le sous-traitant ne peut agir que sur instruction du responsable du traitement.
+
+Article 36
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Les données à caractère personnel ne peuvent être conservées au-delà de la durée prévue au 5° de l'article 6 qu'en vue d'être traitées à des fins historiques, statistiques ou scientifiques ; le choix des données ainsi conservées est opéré dans les conditions prévues à l'article L. 212-4 du code du patrimoine.
+
+Les traitements dont la finalité se limite à assurer la conservation à long terme de documents d'archives dans le cadre du livre II du même code sont dispensés des formalités préalables à la mise en oeuvre des traitements prévues au chapitre IV de la présente loi.
+
+Il peut être procédé à un traitement ayant des finalités autres que celles mentionnées au premier alinéa :
+
+- soit avec l'accord exprès de la personne concernée ;
+
+- soit avec l'autorisation de la Commission nationale de l'informatique et des libertés ;
+
+- soit dans les conditions prévues au 8° du II et au IV de l'article 8 s'agissant de données mentionnées au I de ce même article.
+
+Article 37
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Les dispositions de la présente loi ne font pas obstacle à l'application, au bénéfice de tiers, des dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal et des dispositions du livre II du code du patrimoine.
+
+En conséquence, ne peut être regardé comme un tiers non autorisé au sens de l'article 34 le titulaire d'un droit d'accès aux documents administratifs ou aux archives publiques exercé conformément à la loi n° 78-753 du 17 juillet 1978 précitée et au livre II du même code.
+
+Section 2 : Droits des personnes à l'égard des traitements de données à caractère personnel. (Articles 38 à 43)
+Article 38
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Toute personne physique a le droit de s'opposer, pour des motifs légitimes, à ce que des données à caractère personnel la concernant fassent l'objet d'un traitement.
+
+Elle a le droit de s'opposer, sans frais, à ce que les données la concernant soient utilisées à des fins de prospection, notamment commerciale, par le responsable actuel du traitement ou celui d'un traitement ultérieur.
+
+Les dispositions du premier alinéa ne s'appliquent pas lorsque le traitement répond à une obligation légale ou lorsque l'application de ces dispositions a été écartée par une disposition expresse de l'acte autorisant le traitement.
+
+Article 39
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+Modifié par Loi n°2003-239 du 18 mars 2003 - art. 22
+
+I.-Toute personne physique justifiant de son identité a le droit d'interroger le responsable d'un traitement de données à caractère personnel en vue d'obtenir :
+
+1° La confirmation que des données à caractère personnel la concernant font ou ne font pas l'objet de ce traitement ;
+
+2° Des informations relatives aux finalités du traitement, aux catégories de données à caractère personnel traitées et aux destinataires ou aux catégories de destinataires auxquels les données sont communiquées ;
+
+3° Le cas échéant, des informations relatives aux transferts de données à caractère personnel envisagés à destination d'un Etat non membre de la Communauté européenne ;
+
+4° La communication, sous une forme accessible, des données à caractère personnel qui la concernent ainsi que de toute information disponible quant à l'origine de celles-ci ;
+
+5° Les informations permettant de connaître et de contester la logique qui sous-tend le traitement automatisé en cas de décision prise sur le fondement de celui-ci et produisant des effets juridiques à l'égard de l'intéressé. Toutefois, les informations communiquées à la personne concernée ne doivent pas porter atteinte au droit d'auteur au sens des dispositions du livre Ier et du titre IV du livre III du code de la propriété intellectuelle.
+
+Une copie des données à caractère personnel est délivrée à l'intéressé à sa demande. Le responsable du traitement peut subordonner la délivrance de cette copie au paiement d'une somme qui ne peut excéder le coût de la reproduction.
+
+En cas de risque de dissimulation ou de disparition des données à caractère personnel, le juge compétent peut ordonner, y compris en référé, toutes mesures de nature à éviter cette dissimulation ou cette disparition.
+
+II.-Le responsable du traitement peut s'opposer aux demandes manifestement abusives, notamment par leur nombre, leur caractère répétitif ou systématique. En cas de contestation, la charge de la preuve du caractère manifestement abusif des demandes incombe au responsable auprès duquel elles sont adressées.
+
+Les dispositions du présent article ne s'appliquent pas lorsque les données à caractère personnel sont conservées sous une forme excluant manifestement tout risque d'atteinte à la vie privée des personnes concernées et pendant une durée n'excédant pas celle nécessaire aux seules finalités d'établissement de statistiques ou de recherche scientifique ou historique. Hormis les cas mentionnés au deuxième alinéa de l'article 36, les dérogations envisagées par le responsable du traitement sont mentionnées dans la demande d'autorisation ou dans la déclaration adressée à la Commission nationale de l'informatique et des libertés.
+
+Article 42
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Les dispositions de l'article 41 sont applicables aux traitements mis en oeuvre par les administrations publiques et les personnes privées chargées d'une mission de service public qui ont pour mission de prévenir, rechercher ou constater des infractions, ou de contrôler ou recouvrer des impositions, si un tel droit a été prévu par l'autorisation mentionnée aux articles 25, 26 ou 27.
+
+Article 40
+
+Création Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Toute personne physique justifiant de son identité peut exiger du responsable d'un traitement que soient, selon les cas, rectifiées, complétées, mises à jour, verrouillées ou effacées les données à caractère personnel la concernant, qui sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l'utilisation, la communication ou la conservation est interdite.
+
+Lorsque l'intéressé en fait la demande, le responsable du traitement doit justifier, sans frais pour le demandeur, qu'il a procédé aux opérations exigées en vertu de l'alinéa précédent.
+
+En cas de contestation, la charge de la preuve incombe au responsable auprès duquel est exercé le droit d'accès sauf lorsqu'il est établi que les données contestées ont été communiquées par l'intéressé ou avec son accord.
+
+Lorsqu'il obtient une modification de l'enregistrement, l'intéressé est en droit d'obtenir le remboursement des frais correspondant au coût de la copie mentionnée au I de l'article 39.
+
+Si une donnée a été transmise à un tiers, le responsable du traitement doit accomplir les diligences utiles afin de lui notifier les opérations qu'il a effectuées conformément au premier alinéa.
+
+Les héritiers d'une personne décédée justifiant de leur identité peuvent, si des éléments portés à leur connaissance leur laissent présumer que les données à caractère personnel la concernant faisant l'objet d'un traitement n'ont pas été actualisées, exiger du responsable de ce traitement qu'il prenne en considération le décès et procède aux mises à jour qui doivent en être la conséquence.
+
+Lorsque les héritiers en font la demande, le responsable du traitement doit justifier, sans frais pour le demandeur, qu'il a procédé aux opérations exigées en vertu de l'alinéa précédent.
+
+Article 41
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Par dérogation aux articles 39 et 40, lorsqu'un traitement intéresse la sûreté de l'Etat, la défense ou la sécurité publique, le droit d'accès s'exerce dans les conditions prévues par le présent article pour l'ensemble des informations qu'il contient.
+
+La demande est adressée à la commission qui désigne l'un de ses membres appartenant ou ayant appartenu au Conseil d'Etat, à la Cour de cassation ou à la Cour des comptes pour mener les investigations utiles et faire procéder aux modifications nécessaires. Celui-ci peut se faire assister d'un agent de la commission. Il est notifié au requérant qu'il a été procédé aux vérifications.
+
+Lorsque la commission constate, en accord avec le responsable du traitement, que la communication des données qui y sont contenues ne met pas en cause ses finalités, la sûreté de l'Etat, la défense ou la sécurité publique, ces données peuvent être communiquées au requérant.
+
+Lorsque le traitement est susceptible de comprendre des informations dont la communication ne mettrait pas en cause les fins qui lui sont assignées, l'acte réglementaire portant création du fichier peut prévoir que ces informations peuvent être communiquées au requérant par le gestionnaire du fichier directement saisi.
+
+Article 43
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+
+Lorsque l'exercice du droit d'accès s'applique à des données de santé à caractère personnel, celles-ci peuvent être communiquées à la personne concernée, selon son choix, directement ou par l'intermédiaire d'un médecin qu'elle désigne à cet effet, dans le respect des dispositions de l'article L. 1111-7 du code de la santé publique.
+
+Chapitre VI : Le contrôle de la mise en oeuvre des traitements. (Article 44)
+Article 44
+
+Création Loi n°2004-801 du 6 août 2004 - art. 6 () JORF 7 août 2004
+
+I. - Les membres de la Commission nationale de l'informatique et des libertés ainsi que les agents de ses services habilités dans les conditions définies au dernier alinéa de l'article 19 ont accès, de 6 heures à 21 heures, pour l'exercice de leurs missions, aux lieux, locaux, enceintes, installations ou établissements servant à la mise en oeuvre d'un traitement de données à caractère personnel et qui sont à usage professionnel, à l'exclusion des parties de ceux-ci affectées au domicile privé.
+
+Le procureur de la République territorialement compétent en est préalablement informé.
+
+II. - En cas d'opposition du responsable des lieux, la visite ne peut se dérouler qu'avec l'autorisation du président du tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter ou du juge délégué par lui.
+
+Ce magistrat est saisi à la requête du président de la commission. Il statue par une ordonnance motivée, conformément aux dispositions prévues aux articles 493 à 498 du nouveau code de procédure civile. La procédure est sans représentation obligatoire.
+
+La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Celui-ci peut se rendre dans les locaux durant l'intervention. A tout moment, il peut décider l'arrêt ou la suspension de la visite.
+
+III. - Les membres de la commission et les agents mentionnés au premier alinéa du I peuvent demander communication de tous documents nécessaires à l'accomplissement de leur mission, quel qu'en soit le support, et en prendre copie ; ils peuvent recueillir, sur place ou sur convocation, tout renseignement et toute justification utiles ; ils peuvent accéder aux programmes informatiques et aux données, ainsi qu'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
+
+Ils peuvent, à la demande du président de la commission, être assistés par des experts désignés par l'autorité dont ceux-ci dépendent.
+
+Seul un médecin peut requérir la communication de données médicales individuelles incluses dans un traitement nécessaire aux fins de la médecine préventive, de la recherche médicale, des diagnostics médicaux, de l'administration de soins ou de traitements, ou à la gestion de service de santé, et qui est mis en oeuvre par un membre d'une profession de santé.
+
+Il est dressé contradictoirement procès-verbal des vérifications et visites menées en application du présent article.
+
+IV. - Pour les traitements intéressant la sûreté de l'Etat et qui sont dispensés de la publication de l'acte réglementaire qui les autorise en application du III de l'article 26, le décret en Conseil d'Etat qui prévoit cette dispense peut également prévoir que le traitement n'est pas soumis aux dispositions du présent article.
+
+Chapitre IV : Collecte, enregistrement et conservation des informations nominatives. (abrogé)
+Article 29-1 (abrogé)
+
+Abrogé par Loi n°2004-801 du 6 août 2004 - art. 4 () JORF 7 août 2004
+Création Loi n°2000-321 du 12 avril 2000 - art. 5 () JORF 13 avril 2000
+
+Les dispositions de la présente loi ne font pas obstacle à l'application, au bénéfice de tiers, des dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal et des dispositions du titre II de la loi n° 79-18 du 3 janvier 1979 précitée.
+
+En conséquence, ne peut être regardé comme un tiers non autorisé au sens de l'article 29 le titulaire d'un droit d'accès aux documents administratifs ou aux archives publiques exercé conformément aux lois n° 78-753 du 17 juillet 1978 précitée et n° 79-18 du 3 janvier 1979 précitée.
+
+Article 32 (abrogé)
+
+Abrogé par Loi n°88-227 du 11 mars 1988 - art. 13 () JORF 12 mars 1988
+
+L'accès du fichier électoral est ouvert dans des conditions identiques aux candidats et aux partis politiques sous le contrôle des commissions de progagande électorale.
+
+Article 33-1 (abrogé)
+
+Abrogé par Loi n°2004-801 du 6 août 2004 - art. 5 () JORF 7 août 2004
+Création Loi n°2000-321 du 12 avril 2000 - art. 5 () JORF 13 avril 2000
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat pris après avis de la commission.
+
+Chapitre V bis : Traitements automatisés de données nominatives ayant pour fin la recherche dans le domaine de la santé. (abrogé)
+Article 40-9 (abrogé)
+
+Création Loi n°94-548 du 1 juillet 1994 - art. 1 () JORF 2 juillet 1994
+Abrogé par Loi 2004-801 2004-08-07 art. 9 III JORF 7 août 2004
+
+La transmission hors du territoire français de données nominatives non codées faisant l'objet d'un traitement automatisé ayant pour fin la recherche dans le domaine de la santé n'est autorisée, dans les conditions prévues à l'article 40-2, que si la législation de l'Etat destinataire apporte une protection équivalente à la loi française.
+
+Article 40-10 (abrogé)
+
+Création Loi n°94-548 du 1 juillet 1994 - art. 1 () JORF 2 juillet 1994
+Abrogé par Loi 2004-801 2004-08-07 art. 9 III JORF 7 août 2004
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre.
+
+Chapitre VI : Dispositions pénales. (abrogé)
+Article 43 (abrogé)
+
+Modifié par Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+Abrogé par Loi 2004-801 2004-08-07 art. 5 JORF 7 août 2004
+
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait d'entraver l'action de la Commission nationale de l'informatique et des libertés :
+
+1° Soit en s'opposant à l'exercice de vérifications sur place ;
+
+2° Soit en refusant de communiquer à ses membres, à ses agents ou aux magistrats mis à sa disposition les renseignements et documents utiles à la mission qui leur est confiée par la commission ou en dissimulant lesdits documents ou renseignements, ou encore en les faisant disparaître ;
+
+3° Soit en communiquant des informations qui ne sont pas conformes au contenu des enregistrements au moment où la demande a été formulée ou qui ne le présentent pas sous une forme directement intelligible.
+
+Article 44 (abrogé)
+
+Abrogé par Loi n°92-1336 du 16 décembre 1992 - art. 261 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+Sera puni d'un emprisonnement d'un an à cinq ans et d'une amende de 20.000 à 2.000.000 de francs quiconque, étant détenteur d'informations nominatives à l'occasion de leur enregistrement, de leur classement, de leur transmission ou de toute autre forme de traitement, les aura détournées de leur finalité telle qu'elle est définie dans l'acte réglementaire prévu à l'article 15 ci-dessus, ou dans les déclarations faites en application des articles 16 et 17 ou par une disposition législative.
+
+Chapitre VII : Sanctions prononcées par la Commission nationale de l'informatique et des libertés. (Articles 45 à 49)
+Article 45
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 7 () JORF 7 août 2004
+
+I. - La Commission nationale de l'informatique et des libertés peut prononcer un avertissement à l'égard du responsable d'un traitement qui ne respecte pas les obligations découlant de la présente loi. Elle peut également mettre en demeure ce responsable de faire cesser le manquement constaté dans un délai qu'elle fixe.
+
+Si le responsable d'un traitement ne se conforme pas à la mise en demeure qui lui est adressée, la commission peut prononcer à son encontre, après une procédure contradictoire, les sanctions suivantes :
+
+1° Une sanction pécuniaire, dans les conditions prévues par l'article 47, à l'exception des cas où le traitement est mis en oeuvre par l'Etat ;
+
+2° Une injonction de cesser le traitement, lorsque celui-ci relève des dispositions de l'article 22, ou un retrait de l'autorisation accordée en application de l'article 25.
+
+II. - En cas d'urgence, lorsque la mise en oeuvre d'un traitement ou l'exploitation des données traitées entraîne une violation des droits et libertés mentionnés à l'article 1er, la commission peut, après une procédure contradictoire :
+
+1° Décider l'interruption de la mise en oeuvre du traitement, pour une durée maximale de trois mois, si le traitement n'est pas au nombre de ceux qui sont mentionnés au I et au II de l'article 26, ou de ceux mentionnés à l'article 27 mis en oeuvre par l'Etat ;
+
+2° Décider le verrouillage de certaines des données à caractère personnel traitées, pour une durée maximale de trois mois, si le traitement n'est pas au nombre de ceux qui sont mentionnés au I et au II de l'article 26 ;
+
+3° Informer le Premier ministre pour qu'il prenne, le cas échéant, les mesures permettant de faire cesser la violation constatée, si le traitement en cause est au nombre de ceux qui sont mentionnés au I et au II de l'article 26 ; le Premier ministre fait alors connaître à la commission les suites qu'il a données à cette information au plus tard quinze jours après l'avoir reçue.
+
+III. - En cas d'atteinte grave et immédiate aux droits et libertés mentionnés à l'article 1er, le président de la commission peut demander, par la voie du référé, à la juridiction compétente d'ordonner, le cas échéant sous astreinte, toute mesure de sécurité nécessaire à la sauvegarde de ces droits et libertés.
+
+Article 46
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 7 () JORF 7 août 2004
+
+Les sanctions prévues au I et au 1° du II de l'article 45 sont prononcées sur la base d'un rapport établi par l'un des membres de la Commission nationale de l'informatique et des libertés, désigné par le président de celle-ci parmi les membres n'appartenant pas à la formation restreinte. Ce rapport est notifié au responsable du traitement, qui peut déposer des observations et se faire représenter ou assister. Le rapporteur peut présenter des observations orales à la commission mais ne prend pas part à ses délibérations. La commission peut entendre toute personne dont l'audition lui paraît susceptible de contribuer utilement à son information.
+
+La commission peut rendre publics les avertissements qu'elle prononce. Elle peut également, en cas de mauvaise foi du responsable du traitement, ordonner l'insertion des autres sanctions qu'elle prononce dans des publications, journaux et supports qu'elle désigne. Les frais sont supportés par les personnes sanctionnées.
+
+Les décisions prises par la commission au titre de l'article 45 sont motivées et notifiées au responsable du traitement. Les décisions prononçant une sanction peuvent faire l'objet d'un recours de pleine juridiction devant le Conseil d'Etat.
+
+Article 47
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 7 () JORF 7 août 2004
+
+Le montant de la sanction pécuniaire prévue au I de l'article 45 est proportionné à la gravité des manquements commis et aux avantages tirés de ce manquement.
+
+Lors du premier manquement, il ne peut excéder 150 000 Euros. En cas de manquement réitéré dans les cinq années à compter de la date à laquelle la sanction pécuniaire précédemment prononcée est devenue définitive, il ne peut excéder 300 000 euros ou, s'agissant d'une entreprise, 5 % du chiffre d'affaires hors taxes du dernier exercice clos dans la limite de 300 000 euros.
+
+Lorsque la Commission nationale de l'informatique et des libertés a prononcé une sanction pécuniaire devenue définitive avant que le juge pénal ait statué définitivement sur les mêmes faits ou des faits connexes, celui-ci peut ordonner que la sanction pécuniaire s'impute sur l'amende qu'il prononce.
+
+Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+Article 48
+
+Modifié par Loi n°2004-801 du 6 août 2004 - art. 7 () JORF 7 août 2004
+
+La commission peut exercer les pouvoirs prévus à l'article 44 ainsi qu'au I, au 1° du II et au III de l'article 45 à l'égard des traitements dont les opérations sont mises en oeuvre, en tout ou partie, sur le territoire national, y compris lorsque le responsable du traitement est établi sur le territoire d'un autre Etat membre de la Communauté européenne.
+
+Article 49
+
+Création Loi n°2004-801 du 6 août 2004 - art. 7 () JORF 7 août 2004
+
+La commission peut, à la demande d'une autorité exerçant des compétences analogues aux siennes dans un autre Etat membre de la Communauté européenne, procéder à des vérifications dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que celles prévues à l'article 45, sauf s'il s'agit d'un traitement mentionné au I ou au II de l'article 26.
+
+La commission est habilitée à communiquer les informations qu'elle recueille ou qu'elle détient, à leur demande, aux autorités exerçant des compétences analogues aux siennes dans d'autres Etats membres de la Communauté européenne.
+
+Chapitre VIII : Dispositions pénales. (Articles 50 à 52)
+Article 50
+
+Création Loi n°2004-801 du 6 août 2004 - art. 8 () JORF 7 août 2004
+
+Les infractions aux dispositions de la présente loi sont prévues et réprimées par les articles 226-16 à 226-24 du code pénal.
+
+Article 51
+
+Création Loi n°2004-801 du 6 août 2004 - art. 8 () JORF 7 août 2004
+
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait d'entraver l'action de la Commission nationale de l'informatique et des libertés :
+
+1° Soit en s'opposant à l'exercice des missions confiées à ses membres ou aux agents habilités en application du dernier alinéa de l'article 19 ;
+
+2° Soit en refusant de communiquer à ses membres ou aux agents habilités en application du dernier alinéa de l'article 19 les renseignements et documents utiles à leur mission, ou en dissimulant lesdits documents ou renseignements, ou en les faisant disparaître ;
+
+3° Soit en communiquant des informations qui ne sont pas conformes au contenu des enregistrements tel qu'il était au moment où la demande a été formulée ou qui ne présentent pas ce contenu sous une forme directement accessible.
+
+Article 52
+
+Création Loi n°2004-801 du 6 août 2004 - art. 8 () JORF 7 août 2004
+
+Le procureur de la République avise le président de la Commission nationale de l'informatique et des libertés de toutes les poursuites relatives aux infractions aux dispositions de la section 5 du chapitre VI du titre II du livre II du code pénal et, le cas échéant, des suites qui leur sont données. Il l'informe de la date et de l'objet de l'audience de jugement par lettre recommandée adressée au moins dix jours avant cette date.
+
+La juridiction d'instruction ou de jugement peut appeler le président de la Commission nationale de l'informatique et des libertés ou son représentant à déposer ses observations ou à les développer oralement à l'audience.
+
+Chapitre IX : Traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé. (Articles 53 à 61)
+Article 53
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+Les traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé sont soumis aux dispositions de la présente loi, à l'exception des articles 23 à 26, 32 et 38.
+
+Les traitements de données ayant pour fin le suivi thérapeutique ou médical individuel des patients ne sont pas soumis aux dispositions du présent chapitre. Il en va de même des traitements permettant d'effectuer des études à partir des données ainsi recueillies si ces études sont réalisées par les personnels assurant ce suivi et destinées à leur usage exclusif.
+
+Article 54
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+Pour chaque demande de mise en oeuvre d'un traitement de données à caractère personnel, un comité consultatif sur le traitement de l'information en matière de recherche dans le domaine de la santé, institué auprès du ministre chargé de la recherche et composé de personnes compétentes en matière de recherche dans le domaine de la santé, d'épidémiologie, de génétique et de biostatistique, émet un avis sur la méthodologie de la recherche au regard des dispositions de la présente loi, la nécessité du recours à des données à caractère personnel et la pertinence de celles-ci par rapport à l'objectif de la recherche, préalablement à la saisine de la Commission nationale de l'informatique et des libertés.
+
+Le comité consultatif dispose d'un mois pour transmettre son avis au demandeur. A défaut, l'avis est réputé favorable. En cas d'urgence, ce délai peut être ramené à quinze jours.
+
+Le président du comité consultatif peut mettre en oeuvre une procédure simplifiée.
+
+La mise en oeuvre du traitement de données est ensuite soumise à l'autorisation de la Commission nationale de l'informatique et des libertés, qui se prononce dans les conditions prévues à l'article 25.
+
+Pour les catégories les plus usuelles de traitements automatisés ayant pour finalité la recherche dans le domaine de la santé et portant sur des données ne permettant pas une identification directe des personnes concernées, la commission peut homologuer et publier des méthodologies de référence, établies en concertation avec le comité consultatif ainsi qu'avec les organismes publics et privés représentatifs, et destinées à simplifier la procédure prévue aux quatre premiers alinéas du présent article.
+
+Ces méthodologies précisent, eu égard aux caractéristiques mentionnées à l'article 30, les normes auxquelles doivent correspondre les traitements pouvant faire l'objet d'une demande d'avis et d'une demande d'autorisation simplifiées.
+
+Pour les traitements répondant à ces normes, seul un engagement de conformité à l'une d'entre elles est envoyé à la commission. Le président de la commission peut autoriser ces traitements à l'issue d'une procédure simplifiée d'examen.
+
+Pour les autres catégories de traitements, le comité consultatif fixe, en concertation avec la Commission nationale de l'informatique et des libertés, les conditions dans lesquelles son avis n'est pas requis.
+
+Article 55
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+Nonobstant les règles relatives au secret professionnel, les membres des professions de santé peuvent transmettre les données à caractère personnel qu'ils détiennent dans le cadre d'un traitement de données autorisé en application de l'article 53.
+
+Lorsque ces données permettent l'identification des personnes, elles doivent être codées avant leur transmission. Toutefois, il peut être dérogé à cette obligation lorsque le traitement de données est associé à des études de pharmacovigilance ou à des protocoles de recherche réalisés dans le cadre d'études coopératives nationales ou internationales ; il peut également y être dérogé si une particularité de la recherche l'exige. La demande d'autorisation comporte la justification scientifique et technique de la dérogation et l'indication de la période nécessaire à la recherche. A l'issue de cette période, les données sont conservées et traitées dans les conditions fixées à l'article 36.
+
+La présentation des résultats du traitement de données ne peut en aucun cas permettre l'identification directe ou indirecte des personnes concernées.
+
+Les données sont reçues par le responsable de la recherche désigné à cet effet par la personne physique ou morale autorisée à mettre en oeuvre le traitement. Ce responsable veille à la sécurité des informations et de leur traitement, ainsi qu'au respect de la finalité de celui-ci.
+
+Les personnes appelées à mettre en oeuvre le traitement de données ainsi que celles qui ont accès aux données sur lesquelles il porte sont astreintes au secret professionnel sous les peines prévues à l'article 226-13 du code pénal.
+
+Article 56
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+Toute personne a le droit de s'opposer à ce que des données à caractère personnel la concernant fassent l'objet de la levée du secret professionnel rendue nécessaire par un traitement de la nature de ceux qui sont visés à l'article 53.
+
+Dans le cas où la recherche nécessite le recueil de prélèvements biologiques identifiants, le consentement éclairé et exprès des personnes concernées doit être obtenu préalablement à la mise en oeuvre du traitement de données.
+
+Les informations concernant les personnes décédées, y compris celles qui figurent sur les certificats des causes de décès, peuvent faire l'objet d'un traitement de données, sauf si l'intéressé a, de son vivant, exprimé son refus par écrit.
+
+Article 57
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+Les personnes auprès desquelles sont recueillies des données à caractère personnel ou à propos desquelles de telles données sont transmises sont, avant le début du traitement de ces données, individuellement informées :
+
+1° De la nature des informations transmises ;
+
+2° De la finalité du traitement de données ;
+
+3° Des personnes physiques ou morales destinataires des données ;
+
+4° Du droit d'accès et de rectification institué aux articles 39 et 40 ;
+
+5° Du droit d'opposition institué aux premier et troisième alinéas de l'article 56 ou, dans le cas prévu au deuxième alinéa de cet article, de l'obligation de recueillir leur consentement.
+
+Toutefois, ces informations peuvent ne pas être délivrées si, pour des raisons légitimes que le médecin traitant apprécie en conscience, le malade est laissé dans l'ignorance d'un diagnostic ou d'un pronostic grave.
+
+Dans le cas où les données ont été initialement recueillies pour un autre objet que le traitement, il peut être dérogé à l'obligation d'information individuelle lorsque celle-ci se heurte à la difficulté de retrouver les personnes concernées. Les dérogations à l'obligation d'informer les personnes de l'utilisation de données les concernant à des fins de recherche sont mentionnées dans le dossier de demande d'autorisation transmis à la Commission nationale de l'informatique et des libertés, qui statue sur ce point.
+
+Article 58
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+Sont destinataires de l'information et exercent les droits prévus aux articles 56 et 57 les titulaires de l'autorité parentale, pour les mineurs, ou le représentant légal pour les personnes faisant l'objet d'une mesure de tutelle.
+
+Article 59
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+Une information relative aux dispositions du présent chapitre doit être assurée dans tout établissement ou centre où s'exercent des activités de prévention, de diagnostic et de soins donnant lieu à la transmission de données à caractère personnel en vue d'un traitement visé à l'article 53.
+
+Article 60
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+La mise en oeuvre d'un traitement de données en violation des conditions prévues par le présent chapitre entraîne le retrait temporaire ou définitif, par la Commission nationale de l'informatique et des libertés, de l'autorisation délivrée en application des dispositions de l'article 54.
+
+Il en est de même en cas de refus de se soumettre aux vérifications prévues par le f du 2° de l'article 11.
+
+Article 61
+
+Création Loi n°2004-801 du 6 août 2004 - art. 9 () JORF 7 août 2004
+
+La transmission vers un Etat n'appartenant pas à la Communauté européenne de données à caractère personnel non codées faisant l'objet d'un traitement ayant pour fin la recherche dans le domaine de la santé n'est autorisée, dans les conditions prévues à l'article 54, que sous réserve du respect des règles énoncées au chapitre XII.
+
+Chapitre X : Traitements de données de santé à caractère personnel à des fins d'évaluation ou d'analyse des pratiques ou des activités de soins et de prévention. (Articles 62 à 66)
+Article 62
+
+Abrogé par LOI n°2016-41 du 26 janvier 2016 - art. 193
+Création Loi n°2004-801 du 6 août 2004 - art. 10 () JORF 7 août 2004
+
+Les traitements de données de santé à caractère personnel qui ont pour fin l'évaluation des pratiques de soins et de prévention sont autorisés dans les conditions prévues au présent chapitre.
+
+Les dispositions du présent chapitre ne s'appliquent ni aux traitements de données à caractère personnel effectuées à des fins de remboursement ou de contrôle par les organismes chargés de la gestion d'un régime de base d'assurance maladie, ni aux traitements effectués au sein des établissements de santé par les médecins responsables de l'information médicale dans les conditions prévues au deuxième alinéa de l'article L. 6113-7 du code de la santé publique.
+
+Article 63
+
+Abrogé par LOI n°2016-41 du 26 janvier 2016 - art. 193
+Création Loi n°2004-801 du 6 août 2004 - art. 10 () JORF 7 août 2004
+
+Les données issues des systèmes d'information visés à l'article L. 6113-7 du code de la santé publique, celles issues des dossiers médicaux détenus dans le cadre de l'exercice libéral des professions de santé, ainsi que celles issues des systèmes d'information des caisses d'assurance maladie, ne peuvent être communiquées à des fins statistiques d'évaluation ou d'analyse des pratiques et des activités de soins et de prévention que sous la forme de statistiques agrégées ou de données par patient constituées de telle sorte que les personnes concernées ne puissent être identifiées.
+
+Il ne peut être dérogé aux dispositions de l'alinéa précédent que sur autorisation de la Commission nationale de l'informatique et des libertés dans les conditions prévues aux articles 64 à 66. Dans ce cas, les données utilisées ne comportent ni le nom, ni le prénom des personnes, ni leur numéro d'inscription au Répertoire national d'identification des personnes physiques.
+
+Article 64
+
+Abrogé par LOI n°2016-41 du 26 janvier 2016 - art. 193
+Création Loi n°2004-801 du 6 août 2004 - art. 10 () JORF 7 août 2004
+
+Pour chaque demande, la commission vérifie les garanties présentées par le demandeur pour l'application des présentes dispositions et, le cas échéant, la conformité de sa demande à ses missions ou à son objet social. Elle s'assure de la nécessité de recourir à des données à caractère personnel et de la pertinence du traitement au regard de sa finalité déclarée d'évaluation ou d'analyse des pratiques ou des activités de soins et de prévention. Elle vérifie que les données à caractère personnel dont le traitement est envisagé ne comportent ni le nom, ni le prénom des personnes concernées, ni leur numéro d'inscription au Répertoire national d'identification des personnes physiques. En outre, si le demandeur n'apporte pas d'éléments suffisants pour attester la nécessité de disposer de certaines informations parmi l'ensemble des données à caractère personnel dont le traitement est envisagé, la commission peut interdire la communication de ces informations par l'organisme qui les détient et n'autoriser le traitement que des données ainsi réduites.
+
+La commission détermine la durée de conservation des données nécessaires au traitement et apprécie les dispositions prises pour assurer leur sécurité et la garantie des secrets protégés par la loi.
+
+Article 65
+
+Abrogé par LOI n°2016-41 du 26 janvier 2016 - art. 193
+Création Loi n°2004-801 du 6 août 2004 - art. 10 () JORF 7 août 2004
+
+La commission dispose, à compter de sa saisine par le demandeur, d'un délai de deux mois, renouvelable une seule fois, pour se prononcer. A défaut de décision dans ce délai, ce silence vaut décision de rejet.
+
+Les traitements répondant à une même finalité portant sur des catégories de données identiques et ayant des destinataires ou des catégories de destinataires identiques peuvent faire l'objet d'une décision unique de la commission.
+
+Article 66
+
+Abrogé par LOI n°2016-41 du 26 janvier 2016 - art. 193
+Création Loi n°2004-801 du 6 août 2004 - art. 10 () JORF 7 août 2004
+
+Les traitements autorisés conformément aux articles 64 et 65 ne peuvent servir à des fins de recherche ou d'identification des personnes. Les personnes appelées à mettre en oeuvre ces traitements, ainsi que celles qui ont accès aux données faisant l'objet de ces traitements ou aux résultats de ceux-ci lorsqu'ils permettent indirectement d'identifier les personnes concernées, sont astreintes au secret professionnel sous les peines prévues à l'article 226-13 du code pénal.
+
+Les résultats de ces traitements ne peuvent faire l'objet d'une communication, d'une publication ou d'une diffusion que si l'identification des personnes sur l'état desquelles ces données ont été recueillies est impossible.
+
+Chapitre XI : Traitements de données à caractère personnel aux fins de journalisme et d'expression littéraire et artistique. (Article 67)
+Article 67
+
+Création Loi n°2004-801 du 6 août 2004 - art. 11 () JORF 7 août 2004
+
+Le 5° de l'article 6, les articles 8, 9, 22, les 1° et 3° du I de l'article 25, les articles 32, 39, 40 et 68 à 70 ne s'appliquent pas aux traitements de données à caractère personnel mis en oeuvre aux seules fins :
+
+1° D'expression littéraire et artistique ;
+
+2° D'exercice, à titre professionnel, de l'activité de journaliste, dans le respect des règles déontologiques de cette profession.
+
+Toutefois, pour les traitements mentionnés au 2°, la dispense de l'obligation de déclaration prévue par l'article 22 est subordonnée à la désignation par le responsable du traitement d'un correspondant à la protection des données appartenant à un organisme de la presse écrite ou audiovisuelle, chargé de tenir un registre des traitements mis en oeuvre par ce responsable et d'assurer, d'une manière indépendante, l'application des dispositions de la présente loi. Cette désignation est portée à la connaissance de la Commission nationale de l'informatique et des libertés.
+
+En cas de non-respect des dispositions de la loi applicables aux traitements prévus par le présent article, le responsable du traitement est enjoint par la Commission nationale de l'informatique et des libertés de se mettre en conformité avec la loi. En cas de manquement constaté à ses devoirs, le correspondant est déchargé de ses fonctions sur demande, ou après consultation, de la Commission nationale de l'informatique et des libertés.
+
+Les dispositions des alinéas précédents ne font pas obstacle à l'application des dispositions du code civil, des lois relatives à la presse écrite ou audiovisuelle et du code pénal, qui prévoient les conditions d'exercice du droit de réponse et qui préviennent, limitent, réparent et, le cas échéant, répriment les atteintes à la vie privée et à la réputation des personnes.
+
+Chapitre XII : Transferts de données à caractère personnel vers des Etats n'appartenant pas à la Communauté européenne. (Articles 68 à 70)
+Article 68
+
+Création Loi n°2004-801 du 6 août 2004 - art. 12 () JORF 7 août 2004
+
+Le responsable d'un traitement ne peut transférer des données à caractère personnel vers un Etat n'appartenant pas à la Communauté européenne que si cet Etat assure un niveau de protection suffisant de la vie privée et des libertés et droits fondamentaux des personnes à l'égard du traitement dont ces données font l'objet ou peuvent faire l'objet.
+
+Le caractère suffisant du niveau de protection assuré par un Etat s'apprécie en fonction notamment des dispositions en vigueur dans cet Etat, des mesures de sécurité qui y sont appliquées, des caractéristiques propres du traitement, telles que ses fins et sa durée, ainsi que de la nature, de l'origine et de la destination des données traitées.
+
+Article 69
+
+Création Loi n°2004-801 du 6 août 2004 - art. 12 () JORF 7 août 2004
+
+Toutefois, le responsable d'un traitement peut transférer des données à caractère personnel vers un Etat ne répondant pas aux conditions prévues à l'article 68 si la personne à laquelle se rapportent les données a consenti expressément à leur transfert ou si le transfert est nécessaire à l'une des conditions suivantes :
+
+1° A la sauvegarde de la vie de cette personne ;
+
+2° A la sauvegarde de l'intérêt public ;
+
+3° Au respect d'obligations permettant d'assurer la constatation, l'exercice ou la défense d'un droit en justice ;
+
+4° A la consultation, dans des conditions régulières, d'un registre public qui, en vertu de dispositions législatives ou réglementaires, est destiné à l'information du public et est ouvert à la consultation de celui-ci ou de toute personne justifiant d'un intérêt légitime ;
+
+5° A l'exécution d'un contrat entre le responsable du traitement et l'intéressé, ou de mesures précontractuelles prises à la demande de celui-ci ;
+
+6° A la conclusion ou à l'exécution d'un contrat conclu ou à conclure, dans l'intérêt de la personne concernée, entre le responsable du traitement et un tiers.
+
+Il peut également être fait exception à l'interdiction prévue à l'article 68, par décision de la Commission nationale de l'informatique et des libertés ou, s'il s'agit d'un traitement mentionné au I ou au II de l'article 26, par décret en Conseil d'Etat pris après avis motivé et publié de la commission, lorsque le traitement garantit un niveau de protection suffisant de la vie privée ainsi que des libertés et droits fondamentaux des personnes, notamment en raison des clauses contractuelles ou règles internes dont il fait l'objet.
+
+La Commission nationale de l'informatique et des libertés porte à la connaissance de la Commission des Communautés européennes et des autorités de contrôle des autres Etats membres de la Communauté européenne les décisions d'autorisation de transfert de données à caractère personnel qu'elle prend au titre de l'alinéa précédent.
+
+Article 70
+
+Abrogé par LOI n°2018-493 du 20 juin 2018 - art. 34
+Création Loi n°2004-801 du 6 août 2004 - art. 12 () JORF 7 août 2004
+
+Si la Commission des Communautés européennes a constaté qu'un Etat n'appartenant pas à la Communauté européenne n'assure pas un niveau de protection suffisant à l'égard d'un transfert ou d'une catégorie de transferts de données à caractère personnel, la Commission nationale de l'informatique et des libertés, saisie d'une déclaration déposée en application des articles 23 ou 24 et faisant apparaître que des données à caractère personnel seront transférées vers cet Etat, délivre le récépissé avec mention de l'interdiction de procéder au transfert des données.
+
+Lorsqu'elle estime qu'un Etat n'appartenant pas à la Communauté européenne n'assure pas un niveau de protection suffisant à l'égard d'un transfert ou d'une catégorie de transferts de données, la Commission nationale de l'informatique et des libertés en informe sans délai la Commission des Communautés européennes. Lorsqu'elle est saisie d'une déclaration déposée en application des articles 23 ou 24 et faisant apparaître que des données à caractère personnel seront transférées vers cet Etat, la Commission nationale de l'informatique et des libertés délivre le récépissé et peut enjoindre au responsable du traitement de suspendre le transfert des données. Si la Commission des Communautés européennes constate que l'Etat vers lequel le transfert est envisagé assure un niveau de protection suffisant, la Commission nationale de l'informatique et des libertés notifie au responsable du traitement la cessation de la suspension du transfert. Si la Commission des Communautés européennes constate que l'Etat vers lequel le transfert est envisagé n'assure pas un niveau de protection suffisant, la Commission nationale de l'informatique et des libertés notifie au responsable du traitement l'interdiction de procéder au transfert de données à caractère personnel à destination de cet Etat.
+
+Chapitre XIII : Dispositions diverses. (Articles 71 à 72)
+Article 71
+
+Création Loi n°2004-801 du 6 août 2004 - art. 13 () JORF 7 août 2004
+
+Des décrets en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixent les modalités d'application de la présente loi.
+
+Article 72
+
+Création Loi n°2004-801 du 6 août 2004 - art. 13 () JORF 7 août 2004
+
+La présente loi est applicable en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article 54, le comité consultatif dispose d'un délai de deux mois pour transmettre son avis au demandeur lorsque celui-ci réside dans l'une de ces collectivités. En cas d'urgence, ce délai peut être ramené à un mois.
+
+Le président de la République : VALERY GISCARD D'ESTAING.
+
+Le premier ministre : RAYMOND BARRE.
+
+Le garde des sceaux, ministre de la justice : ALAIN PEYREFITTE.
+
+Le ministre de l'intérieur : CHRISTIAN BONNET.
+
+Le ministre de la défense : YVON BOURGES.
+
+Le ministre délégué à l'économie et aux finances : ROBERT BOULIN.
+
+Le ministre de l'équipement et de l'aménagement du territoire :
+
+FERNAND ICART.
+
+Le ministre de l'éducation : RENE HABY.
+
+Le ministre de l'industrie, du commerce et de l'artisanat :
+
+RENE MONORY.
+
+Le ministre du travail : CHRISTIAN BEULLAC.
+
+Le ministre de la santé et de la sécurité sociale : SIMONE VEIL.
+
+Travaux préparatoires. Assemblée nationale :
+
+Projet de loi (n° 2516 et propositions de loi (n° 1004 et 3092) ;
+
+Rapport de M. Foyer, au nom de la commission des lois (n° 3125) ;
+
+Discussion les 4 et 5 octobre 1977 ;
+
+Adoption le 5 octobre 1977. Sénat :
+
+Projet de loi, adopté par l'Assemblée nationale, n° 5 (1977-1978) ;
+
+Rapport de M. Jacques Thyraud, au nom de la commission des lois, n° 72 (1977-1978) ;
+
+Discussion et adoption le 17 novembre 1977. Assemblée nationale :
+
+Projet de loi, modifié par le Sénat (n° 3226) ;
+
+Rapport de M. Foyer, au nom de la commission des lois (n° 3352) ;
+
+Discussion et adoption le 16 décembre 1977. Sénat :
+
+Projet de loi, modifié par l'Assemblée nationale, n° 195 (1977-1978) ;
+
+Rapport de M. Jacques Thyraud, au nom de la commission des lois, n° 199 (1977-1978) ;
+
+Discussion et adoption le 19 décembre 1977. Assemblée nationale :
+
+Rapport de M. Foyer, au nom de la commission mixte paritaire (n° 3432) ;
+
+Discussion et adoption le 21 décembre 1977. Sénat :
+
+Rapport de M. Thyraud, au nom de la commission mixte paritaire, n° 232 (1977-1978) ;
+
+Discussion et rejet le 21 décembre 1977. Assemblée nationale :
+
+Projet de loi, modifié par le Sénat (n° 3384) ;
+
+Discussion et adoption le 21 décembre 1977. Sénat :
+
+Projet de loi, adopté par l'Assemblée nationale, n° 240 (1977-1978) ;
+
+Discussion et adoption le 21 décembre 1977.
+

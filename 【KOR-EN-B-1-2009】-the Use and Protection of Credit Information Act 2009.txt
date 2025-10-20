@@ -1,0 +1,538 @@
+CREDIT INFORMATION USE AND PROTECTION ACT
+
+
+
+Wholly Amended by Act No. 9617, Apr.   1, 2009
+
+
+
+CHAPTER I GENERAL PROVISIONS
+
+Article 1 (Purpose)
+The purpose of this Act is to contribute to the establishment of sound order in credit by soundly promoting credit information business and pursuing the efficient utilization and systematic management of credit information, and by adequately protecting privacy, etc. from the misuse and abuse of credit information.
+
+Article 2 (Definitions)
+The definitions of terms used in this Act shall be as follows:
+1. The term "credit information" means information prescribed by Presidential Decree, which is necessary to determine the credit rating, credit transaction capacity, etc. of a counterparty in commercial transactions, including financial transactions;
+2. The term "personal credit information" means credit information prescribed by Presidential Decree, which is necessary to determine the credit rating, credit transaction capacity, etc. of an individual;
+3. The term "credit information subject" means a person identified by processed credit information, who is a subject of such credit information;
+4. The term "credit information business" means doing all or some of activities set forth in any subparagraph of Article 4 (1) as a business;
+5. The term "credit information company" means a person who has been licensed by the Financial Services Commission pursuant to the provisions of Article 4 to engage in credit information business;
+6. The term "credit information collection agency" means a person registered with the Financial Services Commission pursuant to the provisions of Article 25 (1), who centrally manages and utilizes credit information;
+7. The term "credit information provider/user" means a person prescribed by Presidential Decree, who provides any third party with credit information obtained or produced in relation to his/her own business for purposes of commercial transactions, such as financial transactions with customers, or who has been continuously supplied with credit information from any third party to use such information for his/her own business, or person in a similar position;
+8. The term "credit inquiry service" means collecting and processing credit information, producing credit information that represents credit worthiness, credit transaction capacity, etc. of the credit information subject, and furnishing such credit information to clients upon their request;
+9. The term "credit investigation service" means investigating credit information to furnish it to clients upon their request;
+10. The term "claims collection service" means recovering claims on behalf of and with the authorization of creditors, through asset investigation into persons who fail to repay claims within the agreed deadline, dunning, or recovery of payments from debtors;
+11. The term "claims" which are the object of claims collection, means monetary claims that accrue from commercial practices under the Commercial Act; civil claims prescribed by Presidential Decree, the title of which has been acknowledged by judgments, etc.; monetary claims arising from loan and guarantee, and other credit facilities and insurance businesses for union members and members of cooperatives, mutual aid associations, savings and finance companies, and their national federations and associations established under special Acts; and any other claims, the collection of which is allowed to be entrusted to a credit information company pursuant to other Acts;
+12. The term "credit rating service" means assessing the probability of repayment of the principal and interest in connection with financial instruments, credit facilities, etc. and the credit worthiness of companies, legal entities, indirect investment vehicles, etc. for the purpose of protecting investors;
+13. The term "processing" means any act falling under any of the following items:
+(a) Entering, saving, processing, editing, searching, deleting or printing any credit information using computers;
+(b) Providing credit information to a third party via delivery, postal service, electronic transmission, etc.;
+(c) Other acts similar to those set forth in items (a) and (b).
+
+Article 3 (Promotion of Credit Information Business)
+(1) The Financial Services Commission may, if deemed necessary to improve credit information companies' capability to provide credit information and to facilitate utilization of credit information, develop plans in relation to promotion of credit information business.
+(2) The Financial Services Commission may, if deemed necessary to smoothly implement the plans under paragraph (1), request cooperation of the head of a related administrative agency, who, in turn, shall comply with such request in the absence of any justifiable ground to the contrary.
+
+CHAPTER II LICENSING, ETC. OF CREDIT INFORMATION BUSINESS
+
+Article 4 (Type and Licensing of Credit Information Business)
+(1) The type and operations of a credit information business shall be as follows and, in such cases, any other service incidental thereto referred to in the following subparagraphs shall be determined by Presidential Decree:
+1. Credit inquiry business: Credit inquiry services and any other service incidental thereto;
+2. Credit investigation business: Credit investigation services and any other service incidental thereto;
+3. Claims collection business: Claims collection services any other service incidental thereto;
+4. Credit rating business: Credit rating services and other service incidental thereto.
+(2) Any person who intends to engage in credit information business shall obtain a license from the Financial Services Commission in accordance with the type of services under subparagraphs of paragraph (1).
+(3) Any person who intends to obtain a license under paragraph (2) shall file an application with the Financial Services Commission, as prescribed by Presidential Decree.
+(4) The Financial Services Commission may attach conditions to a license under paragraph (2).
+(5) Any matter concerning an application for a license, including methods to fill out a license application form in relation to a license pursuant to paragraph (2) and the procedure and standard for license review, and any other matter required shall be determined by Ordinance of the Prime Minister.
+
+Article 5 (Qualified Licensee by Type of Credit Information Business)
+(1) A person who may be licensed to engage in credit inquiry business, credit investigation business and claims collection business, shall be limited to any person falling under any of the following subparagraphs:
+1. A corporation, at least 50/100 of the capital of which is invested by financial institutions, etc. prescribed by Presidential Decree;
+2. The Korea Credit Guarantee Fund established pursuant to the Credit Guarantee Fund Act;
+3. The Korea Technology Credit Guarantee Fund established pursuant to the Korea Technology Credit Guarantee Fund Act;
+4. A credit guarantee foundation established pursuant to the Regional Credit Guarantee Foundation Act;
+5. The Korea Export Insurance Corporation established pursuant the Export Insurance Act;
+6. A corporation, at least 50/100 of the capital of which is invested by a person who is licensed to engage in all or some of the operations referred to in Article 4 (1) 1 through 3: Provided, That cases where an investor engages in the same kind of operation with the corporation invested, shall be excluded.
+(2) Any person who falls under any of the following subparagraphs and any person who does not constitute a juristic person shall be prohibited from being licensed to render credit rating services:
+1. A corporation, at least 10/100 of the capital of which is invested by a company which belongs to an enterprise group subject to the limitations on mutual investment, as prescribed by Article 9 (1) of the Monopoly Regulation and Fair Trade Act (including an affiliated person under Article 7 (1) of the same Act; hereinafter referred to as "company affiliated with an enterprise group subject to limitations on mutual investment");
+2. A corporation, at least 10/100 of the capital of which is invested by financial institutions, etc. prescribed by Presidential Decree (including an affiliated person under Article 7 (1) of the Monopoly Regulation and Fair Trade Act; hereinafter referred to as "investment financial institutions, etc.");
+3. A corporation, the largest investor in which is a corporation falling under any of the following items:
+(a) A corporation, at least 10/100 of the capital of which is invested by a company affiliated with an enterprise group subject to limitations on mutual investment;
+(b) A corporation, at least 10/100 of the capital of which is invested by investment financial institutions, etc.
+
+Article 6 (Licensing Requirements)
+(1) Any person who intends to obtain a license for credit information business under Article 4 (2), shall satisfy requirements referred to in each of the following subparagraphs:
+1. He/she shall be equipped with sufficient human resources and physical facilities, including computer equipment, to carry out credit information business;
+2. He/she shall have reasonable and sound business plans;
+3. Major investors prescribed by Presidential Decree shall have sufficient investment capacity, viable financial standing and social credibility;
+4. He/she shall have a sufficient level of expertise to perform credit information business.
+(2) Any person who intends to be licensed to engage in credit information business shall possess capital or basic property classified in the following subparagraphs:
+1. Five billion won or more, where he/she intends to carry out credit inquiry business and credit rating business, separately or jointly;
+2. Not more than five billion won, but not less than the amount determined by Presidential Decree, where he/she intends to carry out credit investigation business and claims collection business, separately or jointly.
+(3) Any matter necessary for the detailed licensing requirements referred to in paragraph (1) shall be determined by Presidential Decree.
+(4) A credit information company shall continue to satisfy the requirements set forth in paragraph (1) 1 while it conducts credit information business.
+
+Article 7 (Public Notification on License, etc.)
+The Financial Services Commission shall, when it grants a license in accordance with the provisions of Article 4 (2) or cancels a license or authorization in accordance with the provisions of Article 14 (1), publicly announce such action in the Official Gazette without delay and make it known to the public by means of Internet web page, etc.
+
+Article 8 (Matters to Declare and Report)
+Where a credit information company intends to modify any matter prescribed by Presidential Decree, which has been licensed under Article 4 (2), it shall make a prior declaration to the Financial Services Commission: Provided, That if it intends to modify insignificant matters prescribed by Presidential Decree, it shall report any reason for modification to the Financial Services Commission within seven days from the date when such reason occurs.
+
+Article 9 (Approval for Change in Controlling Shareholder, etc.)
+(1) Any person who intends to acquire shares of a credit information company (including equity interest; hereafter in this Article the same shall apply) to become a controlling shareholder prescribed by Presidential Decree shall satisfy the requirements determined by Presidential Decree to promote sound management under Article 6 (1) 3 and obtain prior approval from the Financial Services Commission.
+(2) The Financial Services Commission may order a credit information company to dispose of the shares obtained without approval under paragraph (1) within a specified period of not more than six months.
+(3) Any person who obtains shares without approval under paragraph (1) must not exercise voting rights for such shares.
+(4) Any detailed matter necessary for the approval under paragraph (1) and the disposition order under paragraph (2) shall be determined by Presidential Decree.
+
+Article 10 (Authorization of Transfer, Acquisition by Transfer, etc. of Credit Information Business)
+(1) Where a credit information company intends to wholly or partially transfer, take over, or divide its business, or merge with another juristic person (including division and merger under Article 530-2 of the Commercial Act; hereinafter the same shall apply), it shall obtain authorization from the Financial Services Commission, as prescribed by Presidential Decree.
+(2) Where a credit information company transfers or divides its business or merges it with another juristic person under authorization in accordance with paragraph (1), a transferee, a juristic person to be established after division, a juristic person which survives the merger (except for cases where a credit information company carries out a statutory merger with another juristic person which is not a credit information company), or a juristic person newly formed through the merger shall succeed to the status of the transferrer or the juristic person before merger or division as a credit information company. In such cases, a license granted to the existing credit information company prior to such event shall become null and void (in cases of the partial transfer or division under paragraph (1), it applies only to the transferred or divided business).
+(3) With regard to any transferee, any juristic person which survives merger, and any juristic person newly established in accordance with division or merger, as prescribed by paragraphs (1) and (2), the provisions of Articles 5, 6, 22 (1), 27 (1) through (7), and 28 shall apply mutatis mutandis.
+(4) Where a credit information company intends to temporarily suspend or close all or some of its business activities, it shall file a prior report to the Financial Services Commission, as prescribed by Ordinance of the Prime Minister.
+
+Article 11 (Concurrent Operation of Business Activities)
+A credit information company may concurrently operate the business activities that have been reported to and authorized by the Financial Services Commission as well as their related business activities, as prescribed by Ordinance of the Prime Minister, except for any of the following subparagraphs. In such cases, any business activity, which requires authorization, licensing, registration, approval, etc. of an administrative agency in accordance with any applicable individual Act, shall obtain prior authorization, license, registration, approval, etc. in accordance to such individual Act:
+1. Business activities to provide an individual with another person's credit information and the processed credit information thereof;
+2. Business activities to act as a proxy in issuing a liability certificate in relation to another company's claims (excluding cases prescribed by Presidential Decree);
+3. Business activities deemed out of the scope of operations carried out by a credit information company; for instance, agency business activities, including a lawsuit for another person's exercise of rights, such as purchase of bad debts and collection of claims, or a credit rating agency's business activities to assess an individual's credit rating;
+4. Other business activities prescribed by Presidential Decree, which may definitely exert a harmful influence on a credit information subject or society.
+
+Article 12 (Prohibition of Use of Similar Title)
+No person, other than a credit information company, licensed under this Act, shall use such titles as credit information, credit investigation, credit rating or any title similar thereto for his/her trade name.
+
+Article 13 (Prohibition of Concurrent Office Holding by Executives)
+No full-time executive of a credit information company may undertake the position of managing director of another profit-making juristic person without approval of the Financial Services Commission.
+
+Article 14 (Cancellation of License, etc. and Suspension of Business)
+(1) The Financial Services Commission may cancel any license or authorization of a credit information company if it falls under any of the following subparagraphs: Provided, That if a ground prescribed by Presidential Decree exists, despite the fact that a credit information company falls under any of the following subparagraphs, the Financial Services Commission may issue, prior to such cancellation, an order to correct within a specified period of not more than six months:
+1. If it has been licensed under Article 4 (2) or authorized under Article 10 (1) by fraudulent or other wrongful means;
+2. If it has violated investment requirements of financial institutions, etc. under Article 5 (1) 1: Provided, That cases where the shares of a credit information company are listed in the stock market in accordance with Article 9 (13) of the Financial Investment Services and Capital Markets Act shall be excluded;
+3. If it has violated Article 5 (2) (applicable only to credit rating business);
+4. If the equity capital (referring to the sum of total assets less total liabilities on the balance sheet as of the end of the latest business year; hereinafter the same shall apply) of a credit information company [excluding cases where three business years (five years if credit inquiry business or credit rating business is included) have not elapsed since the credit information company was granted a license] falls short of the capital or basic asset requirements referred to in Article 6 (2);
+5. If a credit information company, which has violated an order of practice suspension or committed any act that constitutes the grounds for practice suspension, had been imposed the disposition of practice suspension within one year from the date when such grounds for practice suspension occurred;
+6. If it has violated any of subparagraphs 1 through 4 of Article 40 (excluding credit rating business);
+7. If it has violated subparagraph 1, 4, or 6 of Article 40 (applicable only to credit rating business);
+8. If it has carried out claims collection activities, in violation of any subparagraph of Article 9 of the Fair Debt Collection Practices Act (applicable only to claims collection business);
+9. If it has violated the terms or conditions of a license or authorization;
+10. If it has failed to perform the licensed operations for one or more years consecutively without justifiable grounds;
+11. If it has carried out claims collection activities, in violation of Article 41 (1) (applicable only to claims collection business).
+(2) The Financial Services Commission may issue an order to wholly or partially suspend business within a specified period of not more than six months, if a credit information company falls under any of the following subparagraphs:
+1. If it has violated Article 6 (4);
+2. If it has violated Article 11;
+3. If it has violated the restrictions concerning collection, investigation, etc. under Article 16 (excluding credit rating business);
+4. If it has violated Articles 22 (1), 27 (1) and 28;
+5. If it has violated subparagraph 5 of Article 40;
+6. If it has carried out claims collection activities, in violation of subparagraphs 2 and 5 of Article 12 of the Fair Debt Collection Practices Act (applicable only to claims collection business);
+7. If a case constitutes grounds for the disposition set forth in Appendix;
+8. Any other case where it has violated other Acts and subordinate statutes or articles of incorporation, or its management is inviable so that it severely damages or threatens to damage public interests.
+
+CHAPTER III COLLECTION, INVESTIGATION AND PROCESSING OF CREDIT INFORMATION
+
+Article 15 (Principles of Collection and Investigation)
+In collecting and investigating credit information, a credit information company, credit information collection agency and credit information provider/user (hereinafter referred to as "credit information company, etc.") shall clarify the purposes of such collection and investigation within the scope of operations determined by this Act or the articles of incorporation and employ reasonable and fair means to the extent required to serve such purposes.
+
+Article 16 (Restrictions on Collection, Investigation and Processing)
+(1) No credit information company, etc. shall collect and investigate the information falling under any of the following subparagraphs:
+1. Information pertaining to national security and classified information;
+2. A company's trade secret or initiative research and development information;
+3. An individual's political belief, religious faith, or other personal information irrelevant to credit information;
+4. Personal credit information not ascertained;
+5. Any information prohibited from being collected in accordance with other Acts;
+6. Other information prescribed by Presidential Decree.
+(2) A credit information company, etc. which intends to collect and investigate the information pertaining to an individual's disease or provide it to a third party, shall obtain prior approval from such individual under Article 32 (1), and such information shall be used only for purposes prescribed by Presidential Decree.
+
+Article 17 (Entrustment of Collection, Investigation and Processing)
+(1) A credit information company, etc. may entrust, within the scope of its operations, collection and investigation of credit information to another credit information company, etc. with the consent of its clients.
+(2) A credit information company, etc. may entrust the processing of the collected credit information to another person who satisfies given requirements prescribed by Presidential Decree, including a given amount of capital, and any matter concerning the processing of entrusted operations shall be subject to Articles 19 through 21, 40, 43 and 45 (including penal and fines provisions in relation to such Articles).
+(3) A credit information company, etc. prescribed by Presidential Decree, who intends to entrust the processing of credit information under paragraph (2), shall notify the Financial Services Commission of the scope of the provided credit information, etc., as prescribed by Presidential Decree.
+
+CHAPTER IV DISTRIBUTION, USE AND MANAGEMENT OF CREDIT INFORMATION
+
+Article 18 (Keeping Credit Information Accurate and Up-to-Date)
+(1) A credit information company, etc. shall register, modify, and manage credit information, as prescribed by Presidential Decree, so as to keep credit information accurate and up-to-date.
+(2) A credit information company, etc. shall delete out-dated credit information that may disadvantage a credit information subject, as prescribed by Presidential Decree.
+
+Article 19 (Protection of Security of Credit Information Computer System)
+(1) A credit information company, etc. shall formulate technological, physical and administrative security measures, as prescribed by Presidential Decree, with respect to the unlawful access by a third party to the credit information computer system (including the common computer network for credit information under Article 25 (6); hereinafter the same shall apply) and alteration, damage and destruction or other danger in relation to the information entered.
+(2) Where a credit information provider/user exchanges credit information with another credit information provider/user or any credit bureau subject to this Act, such credit information provider/user shall enter into an agreement containing measures to manage security of credit information, as prescribed and publicly notified by the Financial Services Commission.
+
+Article 20 (Clarification of Accountability of Credit Information Management and Archiving of Business Records)
+(1) A credit information company, etc. shall establish internal management regulations with regard to collection, processing, use, etc. of credit information, as determined by the Financial Services Commission.
+(2) A credit information company, etc. shall archive the records concerning the following matters for three years:
+1. Addresses and names of the clients or of institutions that such information is provided for or exchanged with;
+2. Details of the operations requested and date of request;
+3. Processing results of the operations requested or details of the credit information provided and date of provision;
+4. Other matters determined by Presidential Decree.
+(3) A credit information company, a credit information collection agency, and a credit information provider/user determined by Presidential Decree shall appoint one or more credit information administrators/protectors who undertake the tasks prescribed by Presidential Decree, including protection of credit information, handling of complaints raised by the credit information subject in connection with credit information.
+(4) The qualifications for and other matters necessary to appoint a credit information administrator/protector pursuant to paragraph (3) shall be determined by Presidential Decree.
+(5) Where a credit information manager appointed in accordance with Article 48-2 (4) of the Financial Holding Companies Act meets the qualifications set forth in paragraph (4), such credit information administrator shall be deemed a credit information administrator/protector appointed under paragraph (3).
+
+Article 21 (Disposition of Archived Information upon Closure of Business)
+Where a credit information company or credit information collection agency intends to close its business, it shall dispose of or destroy information in its possession, as determined and publicly notified by the Financial Services Commission.
+
+CHAPTER V CREDIT INFORMATION BUSINESS
+
+Section 1 Credit Inquiry Business, etc.
+
+Article 22 (Persons Engaged in Credit Inquiry Business)
+(1) No credit bureau (referring to a person licensed for credit inquiry business; hereinafter the same shall apply) shall appoint or hire any person falling under any of the following subparagraphs as executives:
+1. A minor;
+2. A quasi-incompetent person or incompetent person;
+3. A person who has yet to be rehabilitated after having been declared bankrupt;
+4. A person in whose case three years have not elapsed since the completion of, or exemption from, a sentence of imprisonment without labor, or heavier punishment, as so declared by a court (including cases where such execution is deemed to have been completed);
+5. A person who is under a suspended sentence of imprisonment without labor or a heavier punishment as declared by a court;
+6. A person who has been dismissed or discharged from office under this Act or other Acts and subordinate statutes, and for whom five years have not passed after such incident;
+7. A person who had worked as an executive or employee of a juristic person or company, license, authorization, etc. of which was revoked under this Act or other Acts and subordinate statutes, and for whom five years have not passed after such revocation (applicable only to any person prescribed by Presidential Decree, who is directly responsible for the grounds for such revocation or any person in the position corresponding thereto).
+(2) Where executives or employees who engage in credit inquiry business, intend to collect credit information, they shall carry a certificate indicating their engagement in credit inquiry business to present it to persons concerned.
+
+Article 23 (Requests, etc. for Perusal and Provision of Credit Information of Public Institutions)
+(1) A credit bureau or credit information collection agency may request the State, local governments, or public organizations prescribed by Presidential Decree (hereinafter referred to "public institution") to provide for or offer public reading of credit information in their possession that may be disclosed under related Acts and subordinate statutes. In such cases, the public institution requested shall comply with such requests unless any special reason exists to the contrary.
+(2) Where a credit bureau or credit information collection agency requests the head of a public institution to provide credit information prescribed by Presidential Decree, which is necessary to determine credit worthiness, credit transaction capacity, etc. of the credit information subject, the head of a public institution requested may, notwithstanding the Acts set forth in the following subparagraphs, provide credit information for the requesting credit bureau or credit information collection agency. The standards, procedures, etc. for the head of public institutions to provide information for a credit bureau or credit information collection agency shall be determined by Presidential Decree:
+1. Official Information Disclosure Act;
+2. Act on the Protection of Personal Information Maintained by Public Institutions;
+3. National Health Insurance Act;
+4. National Pension Act;
+5. Korea Electric Power Corporation Act;
+6. Resident Registration Act.
+(3) A credit bureau or credit information collection agency may supply credit information provided by public institutions in accordance with paragraph (2) to any credit information provider/user prescribed by Presidential Decree.
+(4) In supplying personal credit information to a credit information provider/user under paragraphs (2) and (3), a credit bureau or credit information collection agency shall verify whether the credit information provider/user has obtained consent from the individual concerned in relation to the provision and use of credit information thereof in accordance with Article 32 (3).
+(5) No credit information provider/user supplied with credit information under paragraph (3) shall provide it to any other person.
+(6) Any person who requests perusal or provision of credit information under paragraph (1) shall pay fees or commissions for perusal in accordance with related Acts and subordinate statutes.
+(7) Where the head of a public institution requests, in writing, the provision of credit information to use it for business prescribed by related Acts and subordinate statutes, the credit information company, etc. requested may provide such credit information.
+
+Article 24 (Use of Computer Data of Resident Registration)
+(1) Where a case falls under any of the following subparagraphs, any credit information collection agency and any credit information provider/user prescribed by Presidential Decree may request the Minister of Public Administration and Security to provide resident registration data in the computer system under Article 30 (1) of the Resident Registration Act. In such cases, the Minister of Public Administration and Security shall comply with such request unless any special reason exists to the contrary:
+1. Where the payment of deposits, insurance benefits, etc., the extinction prescription of which is completed in accordance with other Acts, including Article 64 of the Commercial Act, shall be notified to the original right holder thereof;
+2. Where matters that affect the rights and obligations of a counterparty, including the occurrence of events resulting in change to contracts, such as maturity, lapse, termination, etc. of financial transaction contracts, shall be notified.
+(2) Any request for resident registration data in the computer system pursuant to paragraph (1) shall undergo the review by the Chairman of the Financial Services Commission.
+(3) Where a request has undergone review by the Chairman of the Financial Services Commission under paragraph (2), it shall be deemed to have undergone the review by the heads of relevant central administrative institutions under Article 30 (1) of the Resident Registration Act. Any matter pertaining to processing procedures, usage fees, commissions, etc. shall be determined by the Resident Registration Act.
+
+Article 25 (Credit Information Collection Agency)
+(1) A person who intends to centrally collect and store credit information to manage it in a systematic and comprehensive manner and exchange and utilize credit information between credit information companies, etc. (hereinafter referred to as "central management and utilization"), shall be registered with the Financial Services Commission as a credit information collection agency.
+(2) A credit information collection agency under paragraph (1) may be registered as classified in the following subparagraphs:
+1. Centralized credit information collection agency: A credit information collection agency that carries out the central management and utilization of credit information obtained from all financial institutions prescribed by Presidential Decree;
+2. Individual credit information collection agency: A credit information collection agency that carries out the central management and utilization of credit information obtained from the same type of financial institutions among the financial institutions under subparagraph 1 or that carries out the central management and utilization of credit information in accordance with agreements, etc. made by associations, etc. established by the same type of business owners other than financial institutions.
+(3) A person who intends to be registered as a credit information collection agency pursuant to paragraph (1), shall satisfy the requirements of the following subparagraphs:
+1. Making profits shall not become the purpose of doing business;
+2. The facility, equipment and human resources prescribed by Presidential Decree shall be furnished.
+(4) Any matter necessary for registration and revocation under paragraphs (1) and (2), the scope of credit information subject to central management and utilization, and the persons to exchange credit information with shall be determined by Presidential Decree.
+(5) A centralized credit information collection agency subject to paragraph (2) 1, for the purpose of ensuring the accuracy and timeliness of credit information centrally collected, may investigate as to whether a financial institution duly performs its obligations to provide credit information, as prescribed by the Credit Information Council under Article 26.
+(6) A credit information collection agency may establish a common computer network for credit information (hereinafter referred to as "Common Computer Network"), as prescribed by Presidential Decree, and any person who participates in the Common Computer Network shall provide cooperation required to maintain and manage it. In such cases, a credit information collection agency shall be a telecommunication business owner under Article 2 (1) 1 of the Telecommunications Business Act.
+
+Article 26 (Credit Information Council)
+(1) A credit information council shall be established under a centralized credit information collection agency under Article 25 (2) 1 so as to discuss and determine any of the following subparagraphs:
+1. Matters concerning the allocation of ordinary expenditure for central management and utilization of credit information, investment funds for new projects, etc.;
+2. Matters concerning investigation on a financial institution's performance of its obligations for the provision of credit information under Article 25 (2) 1 and imposition of sanctions in connection therewith, as prescribed by Presidential Decree;
+3. Matters concerning preventive measures against the disclosure or use of credit information for a non-business purpose;
+4. Other matters necessary for the central management and utilization of credit information.
+(2) Matters concerning the formation and operation of a Credit Information Council under paragraph (1) shall be determined by the head of a centralized credit information collection agency, as prescribed by Presidential Decree.
+(3) Where a Credit Information Council discusses and determines any matter in connection with paragraph (1) 2 through 4, it shall report such fact to the Financial Services Commission.
+
+Section 2 Credit Investigation Business and Claims Collection Business
+
+Article 27 (Persons who are Engaged in Business, Delegated Claims Collectors, etc.)
+(1) A credit investigation company (referring to any person licensed to engage in credit investigation business; hereinafter the same shall apply) or a claims collection agency (referring to any person licensed to engage in claims collection business; hereinafter the same shall apply) shall not appoint or hire any person who falls under any of the following subparagraphs, as its executive and employee, and nor it shall delegate, or in a manner corresponding to delegation, the claims collection service to such person:
+1. A minor: Provided, That cases where he/she is appointed or hired for operations determined and publicly notified by the Financial Services Commission shall be excluded;
+2. A quasi-incompetent person or incompetent person;
+3. A person who has yet to be rehabilitated after having been declared bankrupt;
+4. A person in whose case three years have not elapsed since the completion of, or exemption from, a sentence of imprisonment without labor, or greater punishment, as so declared by a court (including cases where such execution is deemed to have been completed);
+5. A person who is subject to a suspended sentence of imprisonment without labor or a heavier punishment as declared by a court;
+6. A person who has been dismissed or discharged from office under this Act or other Acts and subordinate statutes, and for whom five years have not passed after such incident;
+7. A person who had worked as an executive or employee of a juristic person or company, license, authorization, etc. of which was revoked under this Act or other Acts and subordinate statutes, and for whom five years have not passed after such revocation (applicable only to any person prescribed by Presidential Decree, who is directly responsible for the grounds for such revocation or any person in the position corresponding thereto);
+8. A person whose registration as a delegated claims collector under paragraph (2) 2 has been revoked, and for whom five years have not passed after such revocation.
+(2) A claims collection agency shall perform its claims collection business through a person falling under any of the following subparagraphs:
+1. Any executive or employee of a claims collection agency;
+2. A person who has been delegated, or in a manner corresponding to delegation, to render claims collection services by a claims collection agency (hereinafter referred to as "delegated claims collector").
+(3) A claims collection agency shall register a person who intends to become its delegated claims collector, with the Financial Services Commission.
+(4) No delegated claims collector may render claims collection services for a claims collection agency where he/she is not employed.
+(5) A claims collection agency may not collect claims that are not the object of collection and shall not render claims collection services through a delegated claims collector falling under any of the following subparagraphs:
+1. A delegated claims collector who is not registered under paragraph (3);
+2. A delegated claims collector who has been registered with another claims collection agency;
+3. A delegated claims collector who is suspended from his/her business under paragraph (7).
+(6) The Financial Services Commission may cancel the registration of delegated claims collectors, if they:
+1. Have been registered under paragraph (3) in a fraudulent or any other unlawful means;
+2. Have violated an order for practice suspension or performed acts amounting to practice suspension under paragraph (7) after having received the disposition of practice suspension within one year from the date when such violation occurred;
+3. Have breached any provision of subparagraphs 1 through 4 of Article 40;
+4. Have performed claims collection activities in violation of any subparagraph of Article 9 of the Fair Debt Collection Practices Act;
+5. Have violated any term or condition of registration;
+6. Have failed to perform the registered business continuously for one year or more without justifiable grounds.
+(7) The Financial Services Commission may order the practice suspension, in whole or in part, within a specified period of not more than six months, if delegated claims collectors:
+1. Have violated paragraph (4);
+2. Have violated the restrictions on collection, investigation, etc. under Article 16;
+3. Have performed the acts set forth in subparagraph 5 of Article 40;
+4. Have violated subparagraphs 2 and 5 of Article 12 of the Fair Debt Collection Practices Act;
+5. Have violated other Acts and subordinate statutes or articles of association of their claims collection agency to severely harm or be likely to harm public interests.
+(8) Where executives and employees who engage in credit investigation business or claims collection business or delegated claims collectors intend to render credit information collection and investigation services or claims collection services, they shall carry a certificate demonstrating their engagement in credit investigation business or claims collection business and present it to persons concerned.
+(9) Qualifications and registration procedures for delegated claims collectors shall be determined by Presidential Decree.
+(10) Where a person who intends to become a delegated claims collector, has applied for registration, he/she shall pay fees, as prescribed by Ordinance of the Prime Minister.
+
+Section 3 Credit Rating Business
+
+Article 28 (Persons Engaged in Credit Rating Business)
+No credit rating agency (referring to a person licensed to perform credit rating business; hereinafter the same shall apply) shall appoint or hire any person who falls under any of the following subparagraphs as its executive:
+1. A minor;
+2. A quasi-incompetent person or incompetent person;
+3. A persons who has yet to be rehabilitated after having been declared bankrupt;
+4. A person in whose case three years have not elapsed since the completion of, or exemption from, a sentence of imprisonment without labor, or heavier punishment, as so declared by a court (including cases where such execution is deemed to have been completed);
+5. A person who is subject to a suspended sentence of imprisonment without labor or a heavier punishment as declared by a court;
+6. A person who has been dismissed or discharged from office under this Act or other Acts and subordinate statutes, and for whom five years have not passed after such incident;
+7. A person who had worked as an executive or employee of a juristic person or company, license, authorization, etc. of which was revoked under this Act or other Acts and subordinate statutes, and for whom five years have not passed after such revocation (applicable only to any person prescribed by Presidential Decree, who is directly responsible for the grounds for such revocation or any person in a position corresponding thereto).
+
+Article 29 (Matters to be Observed by Credit Rating Agency)
+(1) In assessing credit worthiness of a client, a credit rating agency shall consider, in a comprehensive manner, both its current status, including its financial standing and business performance, and its outlook, including business risk, management risk, and financial risk.
+(2) No credit rating agency may perform credit rating activities on any person in a special relationship prescribed by Presidential Decree, including a person having relationship of investment exceeding a given ratio.
+(3) Where a credit rating agency performs credit rating activities on any person having investment relationship with the relevant credit rating agency, who is not prescribed by Presidential Decree under paragraph (2), it shall specify, in a credit report, the matters in connection with the investment relationship.
+(4) Where a credit rating agency provides a credit report for a client, it shall append documents containing the matters determined and publicly notified by the Financial Services Commission as deemed necessary to identify the rating capabilities of the credit rating agency, including a credit rating performance report (referring to a document describing the principal and interest redemption rate of securities for each credit rating that the credit rating agency has assessed) (hereinafter referred to as "credit rating performance report, etc.").
+(5) A credit rating agency shall submit to the Financial Services Commission documents containing the matters determined by the Financial Services Commission as deemed necessary to identify the rating capabilities of the credit rating agency, including a credit rating performance report, etc., and furnish such documents in the Korea Exchange and the Korea Financial Investment Association under the Financial Investment Services and Capital Markets Act to make it available to the public.
+(6) In the credit rating process, no credit rating agency shall force or solicit a client to purchase or use goods or services of its own or its affiliated companies.
+(7) A credit rating agency shall prescribe the appropriate standards and procedures that shall be observed by its executives and employees (hereinafter referred to as "internal control standards") and verify compliance therewith.
+(8) The internal control standards shall contain the following matters:
+1. Matters concerning the separation of rating organization and sales organization;
+2. Matters concerning the prohibition of conflict of interests;
+3. Matters concerning the prohibition of unfair practices;
+4. Matters concerning the introduction of credit rating criteria appropriate for the nature of rated entities;
+5. Other necessary matters in relation to internal control standards, as prescribed by Presidential Decree.
+(9) No person who is or was an executive or employee of a credit rating agency shall disclose any client's trade secrets obtained during the course of business: Provided, That in cases falling under any of the following subparagraphs, the same shall not apply:
+1. If a trade secret is provided and used for such purposes as agreed by the client;
+2. If a trade secret is provided subject to court order for submission thereof or a warrant issued by a judicial officer;
+3. If a trade secret is provided pursuant to other Acts.
+
+Article 30 (Limits on Voting Rights)
+(1) In the event that a company affiliated with an enterprise group subject to limitations on mutual investment or an investment financial institution, etc. holds stocks of a credit rating agency (including equity interest; hereafter in this Article the same shall apply) in excess of the relevant investment limit under each subparagraph of Article 5 (2), the extent of the exercise of voting rights on such stocks shall be restricted to the limit set forth in each subparagraph of the said paragraph and be brought into conformity with such limit without delay.
+(2) The Financial Services Commission may order a company affiliated with an enterprise group subject to limitations on mutual investment or an investment financial institution, etc. that holds the stocks of a credit rating agency in excess of the relevant investment limit under each subparagraph of Article 5 (2) to dispose of such excessive stocks within a specified period of six months.
+
+CHAPTER VI PROTECTION OF CREDIT INFORMATION SUBJECT
+
+Article 31 (Public Notification of Credit Information Utilization Status)
+A credit information company, a credit information collection agency, and a credit information provider/user determined by Presidential Decree shall publicly announce the matters concerning the type, use, and receivers of credit information that they manage, and the rights of a credit information subject, etc., as prescribed by Presidential Decree.
+
+Article 32 (Consent to Provision and Use of Personal Credit Information)
+(1) If a credit information provider/user intends to provide personal credit information determined by Presidential Decree, including information on loan, guarantee, etc., to any other person, he/she shall obtain prior consent from the individual concerned by using the method set out in any of the following subparagraphs:
+1. In writing;
+2. Electronic documents bearing a certified digital signature under subparagraph 3 of Article 2 of the Digital Signature Act (referring to electronic documents under subparagraph 1 of Article 2 of the Framework Act on Electronic Commerce);
+3. Entering the personal identification number by wire or wireless communication that may ensure stability and reliability of the consent to provide such information, in consideration of the details and purpose of the personal credit information to be provided;
+4. Obtaining consent from an individual after notifying him/her of the consent by wire and wireless communication. In such cases, evidential material shall be obtained and maintained by, for instance, recording the verbal dialogue concerning identification of the individual, questions as to whether the individual consents and his/her answers thereto, etc., and post-notification procedures shall be carried out, as prescribed by Presidential Decree;
+5. Other means determined by Presidential Decree.
+(2) A person who intends to be provided with the personal credit information prescribed by Presidential Decree by a credit bureau or a credit information collection agency, shall obtain consent from the individual concerned by a means set forth in any subparagraph of paragraph (1), as prescribed by Presidential Decree. In such cases, the person who intends to be provided with personal credit information shall notify the individual concerned that credit rating may be degraded at the time of such inquiry.
+(3) Where a credit bureau or a credit information collection agency provides personal credit information under paragraph (2), it shall confirm whether the person who intends to receive such personal credit information has obtained consent under paragraph (2), as prescribed by Presidential Decree.
+(4) Where any credit information company, etc. provides personal credit information in cases falling under any of the following subparagraphs, paragraphs (1) through (3) shall not apply:
+1. When a credit information company provides such information for the purpose of performing central management and utilization thereof with another credit information company or credit information collection agency;
+2. When such provision is required to perform a contract, and to entrust the processing of credit information under Article 17 (2);
+3. When the relevant personal credit information is provided as all or part of rights and obligations are transferred by way of business transfer, division, merger, etc.;
+4. When personal credit information is provided for a person who uses the information for purposes prescribed by Presidential Decree, including claims collection (applicable only to the credit which is an object of collection), license and authorization, determination of a company's credit worthiness, and transfer of securities;
+5. When personal credit information is provided in accordance with a court order for submission thereof or a warrant issued by a judicial officer;
+6. When such information is provided upon the request of a prosecutor or judicial police officer, in the event of occurrence of an emergency where a victim's life is in danger or he/she is expected to suffer bodily injury, etc., so that no time is available to issue a judicial warrant under subparagraph 5. In such cases, the prosecutor offered with personal credit information shall, without delay, seek a warrant from a judicial officer, and the judicial police officer shall apply for a warrant to the prosecutor, who in turn seeks it from a judicial officer. Where the warrant is not issued within 36 hours from receipt of the personal credit information, the personal credit information provided shall be scrapped without delay;
+7. When such information is provided as the head of a competent government office requests, in writing, for the purpose of inquiry and examination in accordance with Acts pertaining to taxes or demands the taxation data required to be provided in accordance with Acts pertaining to taxes;
+8. When personal credit information held by a financial institution is provided to a foreign financial supervisory body in accordance with international conventions, etc.;
+9. When such information is otherwise provided in accordance with other Acts.
+(5) Persons who intend to provide personal credit information to any other person and who are provided with such information under any subparagraph of paragraph (4) shall notify or publicly disclose the credit information subject concerned of the fact of and reason for such provision, as prescribed by Presidential Decree.
+(6) Any credit information provider/user prescribed by Presidential Decree, who provides personal credit information to any other person subject to paragraph (4) 3, shall obtain approval from the Financial Services Commission with regard to the matters determined by Presidential Decree, including the scope of credit information provided.
+(7) Where a credit information company, etc. provides personal credit information, it shall verify the identity of the person who is provided with the personal credit information and purpose of use thereof, as determined and publicly notified by the Financial Services Commission.
+(8) If there exist conflicts as to whether prior consent has been obtained under paragraph (1), etc., the credit information provider/user who has provided with the personal credit information, shall prove such fact.
+
+Article 33 (Use of Personal Credit Information)
+Personal credit information shall be used only for the purpose of determining whether a commercial transaction relationship requested by the relevant credit information subject, including the financial transaction, (excluding employment relationship; hereinafter the same shall apply) is established and maintained: Provided, That in cases falling under any of the following subparagraphs, the same shall not apply:
+1. Where an individual consents, in a manner prescribed by any subparagraph of Article 32 (1), to use his/her personal credit information for purposes other than determined in the main sentence, excluding each subparagraph of this Article;
+2. Where the personal credit information, which has been directly provided by an individual (including the credit information obtained through commercial transactions with the individual) is used for the original purposes that it was provided for (excluding the purposes of introducing or soliciting goods and services);
+3. Cases under subparagraphs of Article 32 (4);
+4. Other cases corresponding with provisions of subparagraphs 1 through 3, determined by Presidential Decree.
+
+Article 34 (Provision and Use of Personal Identification Information)
+(1) Where a credit information provider/user intends to provide personal identification information prescribed by Presidential Decree (hereinafter referred to as "personal identification information") for a credit information company, etc., it shall obtain prior consent from the person concerned.
+(2) Personal identification information shall be used only for the purposes agreed by the person concerned or, if such information has been provided directly by the person concerned, it shall be used only for the original purposes that it was provided for.
+(3) Where personal identification information is provided and used for the purpose of identifying a credit information subject to provide personal credit information in accordance with this Act, paragraphs (1) and (2) shall not apply. In such cases, the person provided with personal identification information shall not use such information or provide it for any other third party for purposes other than to meet the provision requirements.
+(4) Where personal identification information is provided and used in accordance with the provisions of Article 32 (4) 4 through 9, paragraphs (1) and (2) shall not apply.
+
+Article 35 (Requirement to Notify Provision of Credit Information)
+Where a credit information company, etc. provides a credit information subject's credit information (hereinafter referred to as "his/her own information"), he/she may require the credit information company, etc. to notify him/her of the person who receives such information, purposes of use thereof, date of provision thereof, main contents of his/her own information provided, etc. or to allow him/her to search such information through an Internet homepage, as prescribed by Presidential Decree. In such cases, the credit information company, etc. shall meet the requirement unless any special reason exists to the contrary.
+
+Article 36 (Notification, etc. of Credit Information Giving Rise to Refusal of Commercial Transaction)
+(1) Where a credit information provider/user refuses or cancels a commercial transaction relationship with its counterparty on the basis of personal credit information prescribed by Presidential Decree, which has been provided by a credit bureau and a credit information collection agency, the credit information provider/user shall, upon the request of the credit information subject concerned, notify the credit information subject concerned of the matters prescribed by Presidential Decree, including the credit information that gave rise to the refusal or cancellation thereof.
+(2) Where a credit information subject has any objection to the details of his/her own information notified under paragraph (1), he/she may request, within 60 days from the receipt of such notification under paragraph (1), the credit bureau and the credit information collection agency, which have collected and provided such information, to verify the accuracy of such information.
+(3) With regard to the procedures for verification under paragraph (2), Article 38 shall apply mutatis mutandis.
+
+Article 37 (Rights, etc. to Revoke Consent to Provide and Use Personal Credit Information)
+(1) An individual credit information subject may revoke, as prescribed by Presidential Decree, the consent which has been provided to a credit information provider/user in ways prescribed by any subparagraph of Article 32 (1) to provide his/her personal credit information for purposes other than assessing the individual's credit worthiness, etc. by forwarding such information to a credit bureau or a credit information collection agency: Provided, That where it becomes difficult to perform a contract or serve the purposes set out in the main sentence exceeding each subparagraph of Article 33, including failure to perform certain services agreed with the credit information subject, unless the personal credit information concerned is provided to another credit information provider/user that has not obtained his/her consent, if the customer intends to revoke consent, he/she shall clarify his/her intention not to be provided with the services concerned.
+(2) An individual credit information subject may, as prescribed by Presidential Decree, request a credit information provider/user to stop contacting him/her for the purpose of introducing or soliciting goods or services.
+(3) A credit information provider/user shall notify the individual who is a counterparty, of the details of the rights and means to exercise such rights under paragraphs (1) and (2), in writing, via electronic documents, or orally, and, if he/she makes a demand under paragraphs (1) and (2), it shall immediately comply with such demand. In such cases, if such notification has been made orally, the additional post-notification procedures prescribed by Presidential Decree shall be followed.
+(4) A credit information provider/user shall have a procedure in place to perform the obligations under paragraph (3), as prescribed by Presidential Decree.
+(5) A credit information provider/user shall take necessary measures, as prescribed by Presidential Decree, to prevent an individual credit information subject from bearing the monetary costs arising from such demand under paragraph (2), including telephone bills.
+
+Article 38 (Demand for Perusal and Correction of Credit Information, etc.)
+(1) A credit information subject may request a credit information company, etc. to provide him/her with his/her own information retained by the credit information company, etc. or allow him/her to make a perusal thereof by presenting a certificate identifying them or having their identity checked in ways prescribed by Presidential Decree, including telephone, Internet homepage, etc. If his/her own information is incorrect, he/she may demand correction thereof, as determined and publicly notified by the Financial Services Commission.
+(2) A credit information company, etc. requested to make such correction under paragraph (1) shall, if justifiable grounds are deemed to exist, immediately fill in phrases stating that the credit information in question is being requested for correction or subject to fact-finding inquiries. It shall stop providing and using the credit information concerned, without delay, and examine as to whether it is true. If such information turns out to be incorrect or unverifiable, the credit information shall be deleted or corrected.
+(3) A credit information company, etc. which made a deletion or correction under paragraph (2), shall notify any person who has been provided with such information within the last six months and any person who the credit information subject requests to be advised of the details of the deleted or corrected credit information.
+(4) A credit information company, etc. shall inform the credit information subject of the results of the actions taken under paragraphs (2) and (3) within seven days, and if any objection to such result of the actions exists, the credit information subject may request the Financial Services Commission to make a correction thereto, as prescribed by Presidential Decree.
+(5) Upon the receipt of a request for correction under paragraph (4), the Financial Services Commission shall have the Governor of the Financial Supervisory Services established under Article 24 of the Act on the Establishment, etc. of Financial Services Commission (hereinafter referred to as the "FSS Governor") examine as to whether such information is correct and, according to its findings, may order the credit information company, etc. to make a correction or take other necessary measures.
+(6) A person who examines factuality under paragraph (5) shall carry a certificate indicating his/her authority to present it to persons concerned.
+(7) Where a credit information company, etc. has implemented corrective measures in accordance with a corrective order by the Financial Services Commission under paragraph (5), it shall report the results to the Financial Services Commission.
+
+Article 39 (Right to Free Perusal)
+A credit bureau shall allow an individual credit information subject to be provided with his/her own information or make a perusal thereof on a free-of-charge basis, once or more, at regular intervals prescribed by Presidential Decree, not exceeding one year.
+
+Article 40 (Prohibited Matters for Credit Information Company, etc.)
+No credit information company, etc. shall engage in conducting the acts under the following subparagraphs, and no person, other than a credit information company, etc., shall perform the act set forth in the main sentence of subparagraph 4 as its business or conduct the act set forth in subparagraph 5:
+1. Providing the client with false information;
+2. Coercing anyone into requesting investigation of credit information;
+3. Coercing an investigation subject into providing investigative data and answering questions;
+4. Finding out a certain person's whereabouts and contacts (hereinafter referred to as "whereabouts, etc.") or investigating his/her private life, other than commercial transaction relationships, including financial transactions: Provided, That in cases where a credit information company licensed to engage in claims collection business finds out a certain person's whereabouts, etc. to conduct its business or it is allowed to find out a certain person's whereabouts, etc. pursuant to other Acts and subordinate statutes, the same shall apply;
+5. Using titles, including "intelligence service agent", "detective", or other titles similar thereto;
+6. Inflicting material loss on any investor, lender, etc. in relation to financial instruments, legal entities and indirect investment vehicles by intention or gross negligence while engaging in credit rating services.
+
+Article 41 (Prohibited Matters for Claims Collection Agency)
+(1) No claims collection agency shall lend its name to another person to allow him/her to do claims collection business.
+(2) No claims collection agency shall use words other than the phrase containing "credit information" for its trade name unless otherwise allowed by other Acts and subordinate statutes: Provided, That in cases where a claims collection agency engages in credit inquiry business or credit rating business as well, the same shall apply.
+
+Article 42 (Prohibition of Disclosure, etc. for Non-Business Purposes)
+(1) No person who is or was an executive or employee of a credit information company, etc. and a person entrusted with the processing of credit information under Article 17 (2) (hereinafter referred to as "person related with credit information business") shall disclose or use any personal confidential information, including credit information and privacy (hereinafter referred to as "personal confidential information") acquired during the course of business for non-business purposes.
+(2) No act that a credit information company, etc. and a person related with credit information business provide credit information for a credit information company, etc. under this Act shall be deemed to be the disclosure or use of credit information for non-business purposes under paragraph (1).
+(3) If a person who has obtained personal confidential information disclosed, in violation of paragraph (1) (including another person who obtains such disclosed personal confidential information from such person) learns that such personal confidential information has been divulged in breach of paragraph (1), the person shall not supply or use such personal confidential information.
+(4) No person who has been provided with personal credit information from a credit information company, etc. and a person related with credit information business, shall not provide such personal credit information to any other person: Provided, That in cases where such provision is allowed by this Act or other Acts, the same shall not apply.
+
+Article 43 (Liability to Compensate for Damages)
+(1) Where a credit information company, etc. and other credit information users have violated this Act and inflicted damage on a credit information subject, they shall be liable to compensate such damage: Provided, That in cases where a credit information company, etc. and other credit information users have proven an absence of intention or negligence, the same shall not apply.
+(2) Where a claims collection agency or a delegated claims collector has inflicted damage on obligators and persons related therewith, it/he/she shall compensate such damage: Provided, That in cases where it/he/she has proven an absence of intention or negligence, the same shall not apply.
+(3) Where a credit information company which was requested to do the business set forth in Article 4 (1) has inflicted damage on a client for reasons attributable to the credit information company, it shall compensate such damage.
+(4) Where a person entrusted with the processing of credit information under Article 17 (2) has violated and inflicted damage on a credit information subject, the person entrusted with the business and the consignee shall be jointly and severally liable to compensate such damage.
+(5) Where a delegated claims collector has violated this Act or the Fair Debt Collection Practices Act and inflicted damage on obligators or persons related therewith, the claims collection agency and delegated claims collector shall be jointly and severally liable to compensate such damage: Provided, That in cases where the claims collection agency has proven an absence of intention or negligence, the same shall apply.
+
+Article 44 (Credit Information Companies Association)
+(1) Credit information companies may establish a Credit Information Companies Association for the purposes of promoting sound development of credit information business and maintaining order in business among credit information companies.
+(2) The Credit Information Companies Association shall be a juristic person.
+(3) The Credit Information Companies Association shall carry out the business set forth in the following subparagraphs, as prescribed by its articles of association:
+1. Maintaining sound order in business among credit information companies;
+2. Engaging in research and study to develop credit information business;
+3. Counseling and handling complaints filed by credit information business users;
+4. Any other business prescribed by Presidential Decree.
+(4) Other matters concerning the Credit Information Companies Association not provided for in this Act shall apply mutatis mutandis the provisions on incorporated associations under the Civil Act.
+
+CHAPTER VII SUPPLEMENTARY PROVISIONS
+
+Article 45 (Supervision, Inspection, etc.)
+(1) The Financial Services Commission shall supervise as to whether a credit information company, etc. complies with this Act or orders under this Act.
+(2) The Financial Services Commission may, if deemed necessary for the supervision under paragraph (1), order a credit information company, etc. to report in relation to its business, financial standing, etc.
+(3) The FSS Governor may have the personnel of the FSS inspect the business and financial standing of a credit information company, etc. under this Act.
+(4) The FSS Governor may, if deemed necessary for an inspection under paragraph (3), request a credit information company, etc. to submit data and have persons concerned attend meetings and state their opinions.
+(5) A person who conducts an inspection under paragraph (3) shall carry a certificate indicating his/her authority to present it to persons concerned.
+(6) The FSS Governor shall report the findings of an inspection under paragraph (3) to the Financial Services Commission, as prescribed by the Financial Services Commission.
+(7) If a credit information company, etc. is deemed likely to damage sound management of credit information business and the rights and interests of a credit information subject by breaching this Act or orders under this Act, the Financial Services Commission shall take measures set forth in any of the following subparagraphs or have the FSS Governor take any action falling under the provisions set forth in subparagraphs 1 through 3:
+1. Caution or warning to a credit information company, etc.;
+2. Caution or warning to executives;
+3. Request for disciplinary action, including caution, suspension from office, reduction in salary, and official reprimand, against employees;
+4. Recommendation for dismissal or request for suspension from office against executives, or demand for dismissal from office against employees;
+5. Corrective order against violations;
+6. Suspension of provision of credit information.
+
+Article 46 (Applicable Special Cases for Credit Rating Agency)
+The provisions of Articles 20 (1) and (3), Articles 31, 38, and 42 shall not apply to a credit rating agency.
+
+Article 47 (Submission of Business Report)
+(1) A credit information company and a credit information collection agency shall prepare a quarterly business report in the format set forth by the FSS Governor and submit it to the FSS Governor by the last day of the month following the last month of every quarter.
+(2) The report under paragraph (1) shall state names and be affixed with seals of the representative, in-charge personnel or agent thereof.
+(3) Details and other matters necessary to prepare the business report under paragraph (1) shall be determined by the FSS Governor.
+
+Article 48 (Hearings)
+Where the Financial Services Commission intends to revoke the license or authorization of a credit information company pursuant to Article 14 (1) or cancel the registration of a delegated claims collector pursuant to Article 27 (6), it shall hold a hearing.
+
+Article 49 (Delegation and Entrustment of Authority)
+The Financial Services Commission's authorities prescribed by Presidential Decree under this Act may be delegated or entrusted to the Special Metropolitan City Mayor, a Metropolitan City Mayor, Do Governor, the Governor of a Special Self-Governing Province, the FSS Governor, the Credit Information Companies Association, or other persons determined by Presidential Decree, as prescribed by Presidential Decree.
+
+Article 50 (Penal Provisions)
+(1) Any person who falls under any of the following subparagraphs shall be punished by imprisonment for not more than five years or by a fine not exceeding 50 million won:
+1. Any person who performs a service provided for in subparagraphs of Article 4 (1) without obtaining a license or authorization therefor, in violation of Article 4 (2) or 10 (1);
+2. Any person who obtains a license or authorization under Article 4 (2) or 10 (1) by false or other fraudulent means;
+3. Any person who violates Article 29 (9);
+4. Any person who violates Article 32 (1) or (2);
+5. Any person who violates Article 33;
+6. Any person who violates Article 42 (1), (3) or (4).
+(2) Any person who falls under any of the following subparagraphs shall be punished by imprisonment for not more than three years or by a fine not exceeding 30 million won:
+1. Any person who conducts business during a period of suspension under Article 14 (2);
+2. Any person who violates Article 16;
+3. Any person who, without authorization, changes or deletes information in a credit information computer system under Article 19 (1) or make it unusable in other ways, or a person who, without authorization, retrieves, duplicates or uses in other ways such credit information;
+4. Any person, not being a credit information collection agency, who establishes the Common Computer Network under Article 25 (6);
+5. Any person who violates Article 29 (2);
+6. Any person who violates Article 34 (1), (2), or (3) (latter part);
+7. Any person who violates any subparagraph of Article 40;
+8. Any person who violates Article 41 (1).
+(3) Any person who falls under any of the following subparagraphs shall be punished by imprisonment for not more than one year or by a fine not exceeding ten million won:
+1. Any person who obtains stocks without approval, in violation of Article 9 (1);
+2. Any person who fails to dispose of stocks obtained without approval, in violation of an order under Article 9 (2);
+3. Any person who entrusts the processing of credit information to a person who failed to meet the given requirements, in violation of Article 17 (2) and a person who is entrusted therewith;
+4. Any person who violates Article 18 (2);
+5. Any person who violates Article 20 (2);
+6. Any person who violates Article 21;
+7. Any person who renders claims collection services without registering with the Financial Services Commission as a delegated claims collector, in violation of Article 27 (3);
+8. Any person who violates Article 27 (4);
+9. Any person who, in violation of Article 27 (5), collects claims that are not the object of collection, or who renders claims collection services through a delegated claims collector who is not registered, or who has been registered with another claims collection agency, or who is suspended from his/her business;
+10. Any person who renders claims collection services during a period of suspension under Article 27 (7);
+11. Any person who violates Article 29 (6);
+12. Any person who fails to perform an order to dispose of stocks by the Financial Services Commission under Article 30 (2).
+
+Article 51 (Joint Penal Provisions)
+Where the representative of a juristic person, or the agents, employees, or any other person employed by a juristic person or individual violates the provisions of Article 50 in connection with business of the juristic person or individual, the fine referred to in the relevant Article shall be imposed upon the juristic person or individual concerned in addition to the violator: Provided, That in cases where the juristic person or individual has not been negligent in exercising due care and oversight in relation to the relevant business to prevent such violation, the same shall not apply.
+
+Article 52 (Fines for Negligence)
+(1) Any person who, in violation of Article 32 (7), fails to verify the identity of a person provided with personal credit information and the purpose of use thereof shall be punished by a fine for negligence not exceeding thirty million won.
+(2) A person who violates Article 10 (4) shall be punished by a fine for negligence not exceeding 20 million won.
+(3) Any person who falls under any of the following subparagraphs shall be punished by a fine for negligence not exceeding ten million won:
+1. Any person who violates Article 8;
+2. Any person who violates any provision set forth in Articles 11 through 13;
+3. Any person who, in violation of Article 17 (1), entrusts the collection and investigation of credit information without consent of the client;
+4. Any person who violates Article 18 (1);
+5. Any person who violates Article 19;
+6. Any person who violates Article 20 (3);
+7. Any person who violates Article 23 (5);
+8. Any person who violates Article 29 (3) through (5), (7) or (8);
+9. Any person who violates Article 31;
+10. Any person who violates Article 32 (3), (5) or (6);
+11. Any person who violates the latter part of Article 35;
+12. Any person who violates Article 36 (1) or (3);
+13. Any person who violates Article 37 (3);
+14. Any person who violates Article 38 (2) through (5) or (7);
+15. Any person who fails to comply with the orders or refuses, obstructs, or evades the inspection and request set forth in Article 45 (2) through (4);
+16. Any person who, in violation of Article 47, fails to submit a report or submits a report containing false information.
+(4) Any person who falls under any of the following subparagraphs shall be punished by a fine for negligence not exceeding five million won:
+1. Any person who violates Article 20 (1);
+2. Any person, who in violation of Article 27 (8), fails to present a certificate hen rendering claims collection services;
+3. Any person who violates Article 39.
+(5) Fines for negligence under paragraphs (1) through (4) shall be imposed and collected by the Financial Services Commission, as prescribed by Presidential Decree.
+
+¡¡¡¡ADDENDA
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Article 2 (Applicability to Use of Similar Names)
+No person who has used the title "credit rating" or similar in his/her trade name before the Use and Protection of Credit Information Act enters into force as amended by Act No. 6428, shall be governed by the amended provisions of Article 12.
+Article 3 (Special Cases concerning Provision and Utilization of Personal Credit Information)
+Where a credit information provider/user has established commercial transaction relationships, including financial transactions, with a credit information subject by verifying his/her personal credit information and obtaining consent therefrom under the amended provisions of Article 32 (1) before this Act enters into force, if a credit information provider/user intends to be provided with personal credit information of the credit information subject for the purpose of maintaining and managing such commercial transaction relationship, including financial transactions, the amended provisions of Article 32 (2) shall not apply.
+Article 4 (Transitional Measures concerning Credit Information Business Owner)
+A credit information business owner licensed to engage in credit information business pursuant to the previous provisions at the time this Act enters into force shall be deemed to have been licensed as a credit information company under this Act.
+Article 5 (Transitional Measures concerning Penal Provisions and Fines for Negligence)
+Where penal provisions or fines for negligence have been imposed against any act conducted before this Act enters into force, the previous provisions shall apply.
+Article 6 (Transitional Measures concerning Credit Investigation Company)
+(1) Where a person who has been licensed to engage in credit investigation business in accordance with the Credit Investigation Business Act repealed by the Use and Protection of Credit Information Act (Act No. 4866), meets the capital requirements under the amended provisions of Article 6 (2) 1, notwithstanding the amended provisions of Article 5 (1), he/she may be licensed to engage in credit inquiry business. If he/she meets the capital requirements under the amended provisions of Article 6 (2) 2, notwithstanding the amended provisions of Article 5 (1), he/she may be licensed to engage in claims collection business.
+(2) Where a person who has been licensed to engage in credit investigation business under paragraph (1), intends to transfer such business, the transferee shall be a juristic person licensed to engage in credit information business under the amended provisions of Article 4 (2).
+Article 7 (Transitional Measures concerning Permit for Modification)
+A person licensed for modification of his/her credit information business in accordance with the previous provisions at the time this Act enters into force shall be deemed to have declared or reported such modification under the amended provisions of Article 8.
+Article 8 (Transitional Measures concerning Approval for Change in Controlling Shareholder)
+The controlling shareholder of a credit information company at the time this Act enters into force shall be deemed to have been approved for the change in controlling shareholder under the amended provisions of Article 9.
+Article 9 (Transitional Measures concerning Disqualifications for Persons Engaged in Credit Information Business)
+Where any person engaged in credit information business at the time this Act enters into force is disqualified under the amended provisions of Articles 22 (1), 27 (1) and 28, on grounds that occurred before this Act enters into force, notwithstanding such amended provisions, the previous provisions shall apply.
+Article 10 (Transitional Measures concerning Registration of Delegated Claims Collector)
+Notwithstanding the amended provisions of Article 27 (5), a claims collection agency may render claims collection services through its own delegated claims collectors unregistered in accordance with the amended provisions of Article 27 (3) as of the date this Act enters into force: Provided, That they shall be registered pursuant to the amended provisions of Article 27 (3) within three months from the date this Act enters into force, and no claims collection agency shall render any claims collection services through any delegated claims collector unregistered after the aforementioned period lapses.
+Article 11 (Transitional Measures concerning Establishment of Association, etc.)
+An incorporated credit information association established by the Civil Act before this Act enters into force shall be deemed the Credit Information Companies Association established under the amended provisions of Article 44.
+Article 12 Omitted.
+Article 13 (Relationship with other Acts and Subordinate Statutes)
+In the event that other Acts and subordinate statutes cite the previous provisions of the Use and Protection of Credit Information Act at the time this Act enters into force, if the cited provisions exist in this Act, the provisions of this Act shall be deemed to have been cited in lieu of the previous provisions.
+
+
+
+Last updated : 2010-04-24
+
+
+2
+
+
+

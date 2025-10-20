@@ -1,0 +1,885 @@
+Decreto Presidencial n.º 108/16 de 25 de maio
+Assunto
+Aprova o Regulamento Geral das Comunicações Electrónicas. - Revoga toda a legislação que contrarie o disposto no presente Diploma, nomeadamente, o Decreto Presidencial n.º 225/11, de 15 de Agosto, que aprova o Regulamento Geral das Comunicações Electrónicas.
+
+Conteúdo do Diploma
+Considerando que o Sector das Comunicações Electrónicas está em constante evolução e é fundamental que o quadro legal acompanhe e acomode essa evolução, adaptando-se ao surgimento de novos modelos de negócio, serviços inovadores e produtos que constituam novidade no mercado nacional: Constatando que o quadro normativo das TIC em Angola, nomeadamente o Regulamento Geral das Comunicações Electrónicas, aprovado em anexo ao Decreto Presidencial n.º 225/11, de 15 de Agosto, teve e tem um papel muito importante na consolidação da liberalização do mercado e na promoção da concorrência, sendo um Diploma inovador e reformador que colocou Angola na rota das melhores práticas a nível internacional: Reconhecendo que volvidos quase 5 (cinco) anos desde a publicação do pacote normativo das TIC, foram publicados diversos documentos de carácter político e estratégico que reclamam uma reanálise ao quadro normativo em vigor, por forma a verificar se alguns dos mecanismos ali consagrados podem ser actualizados para melhor responder à evolução do sector e alavancar, ainda mais, a contribuição das TIC para o desenvolvimento da economia nacional: Tendo em conta a aprovação do Plano Estratégico Sobre o Regime de Licenciamento dos Operadores de Comunicações Electrónicas, o qual veio propor um novo enquadramento regulamentar para a oferta de redes e serviços de comunicações electrónicas em Angola, estabelecendo, entre outras coisas, dois novos títulos gerais para o exercício da actividade, as chamadas Licenças Unificadas Globais e as Licenças Multisserviços. Considerando a necessidade de se proceder a um ajustamento ao actual Regulamento Geral das Comunicações Electrónicas, visando harmonizá-lo com os objectivos estratégicos do Governo; O Presidente da República decreta, nos termos da alínea l) do artigo 120.º e do n.º 3 do artigo 125.º, ambos da Constituição da República de Angola, o seguinte:
+
+Artigo 1.º (Aprovação)
+É aprovado o Regulamento Geral das Comunicações Electrónicas, em anexo ao presente Decreto Presidencial e que dele é parte integrante.
+
+Artigo 2.º (Revogação)
+É revogada toda a legislação que contrarie o disposto no presente Diploma, nomeadamente, o Decreto Presidencial n.º 225/11, de 15 de Agosto, que aprova Regulamento Geral das Comunicações Electrónicas e respectivo anexo.
+
+Artigo 3.º (Regime Transitório)
+Enquanto não forem aprovados os Diplomas de desenvolvimento referidos no Regulamento anexo ao presente Decreto Presidencial, mantêm-se em vigor, na parte em que forem compatíveis com o regime agora afixado, os seguintes actos normativos:
+
+a)- Decreto n.º 10/03, de 7 de Março - Aprova o Regulamento do Plano Nacional de Frequências;
+b)- Decreto n.º 3/04, de 9 de Janeiro - Aprova o Regulamento de Preços dos Serviços Públicos de Telecomunicações de Uso Público;
+c)- Decreto n.º 13/04, de 12 de Março - Aprova o Regulamento Geral de Interligação de Redes e Serviços de Telecomunicações de Uso Público.
+Artigo 4.º (Dúvidas e Omissões)
+As dúvidas e omissões suscitadas na interpretação e aplicação do presente Diploma são resolvidas pelo Presidente da República.
+
+Artigo 5.º (Entrada em Vigor)
+O presente Decreto Presidencial entra em vigor na data da sua publicação. -Apreciado em Conselho de Ministros, em Luanda, aos 30 de Março de 2016.
+
+Publique-se. Luanda, aos 10 de Maio de 2016. O Presidente da República José Eduardo dos Santos.
+REGULAMENTO GERAL DAS COMUNICAÇÕES ELECTRÓNICAS
+TÍTULO I DISPOSIÇÕES GERAIS
+Artigo 1.º (Objecto)
+O presente Regulamento estabelece o regime jurídico aplicável às redes e serviços de comunicações electrónicas, às frequências e numeração e ao serviço universal.
+
+Artigo 2.º (Âmbito Objectivo de Aplicação)
+A oferta de redes e serviços de comunicações electrónicas, assim como a atribuição, exploração e utilização de frequências e numeração ficam sujeitas ao disposto neste Regulamento e nos respectivos Diplomas de desenvolvimento.
+Excluem-se do âmbito de aplicação do presente Regulamento:
+a)- Os serviços que prestam ou exerçam controlo editorial sobre conteúdos transmitidos através de redes de comunicações electrónicas, nomeadamente os serviços de áudio texto e os serviços da sociedade da informação;
+b)- As redes privativas dos órgãos de Defesa e Segurança;
+c)- A rede privativa do Estado;
+d)- Os serviços de telecomunicações administrativas.
+O disposto no presente Regulamento não prejudica o regime aplicável à:
+a)- Utilização do domínio público para efeitos de construção, expansão, instalação ou manutenção de infra-estruturas e redes de comunicações electrónicas;
+b)- Instalação de infra-estruturas em edifícios e outros espaços;
+c)- Colocação no mercado de equipamentos terminais de telecomunicações;
+d)- O regime aplicável ao licenciamento das estações e redes de radiocomunicações;
+e)- A actividade dos radioamadores.
+As matérias elencadas no número anterior são especificadas por Diploma da Autoridade das Comunicações Electrónicas ou por Diploma conjunto deste com outras entidades do Executivo, em função da conjugação específica dos domínios a regular.
+Artigo 3.º (Âmbito Subjectivo de Aplicação)
+Ficam sujeitas ao disposto neste Regulamento e nos respectivos Diplomas de desenvolvimento todas as entidades que oferecem redes ou serviços de comunicações electrónicas, assim como todas as entidades que utilizem frequências ou recursos de numeração para efeitos da exploração de redes ou serviços de comunicações electrónicas.
+No caso de acordos de interligação transfronteiriços, a entidade que requer o acesso não está sujeita ao presente Regulamento, desde que não ofereça redes ou serviços de comunicações electrónicas em território angolano.
+Artigo 4.º (Objectivos de Intervenção)
+Os objectivos específicos de intervenção pública no Sector das Comunicações Electrónicas são os seguintes:
+a)- Promoção da concorrência na oferta de redes e serviços de comunicações electrónicas;
+b)- Defesa dos interesses económicos e sociais dos utilizadores;
+c)- Garantia da existência, disponibilidade e qualidade de redes e serviços de comunicações electrónicas em todo o território nacional, de forma a satisfazer as necessidades de comunicação dos cidadãos e das actividades económicas e sociais;
+d)- Prestação do serviço universal em todo o território nacional e a adequação do seu âmbito à realidade tecnológica, social e económica de Angola em cada momento;
+e)- Protecção da privacidade e dos dados pessoais dos utilizadores;
+f)- Promoção do investimento privado;
+g)- Garantia da disponibilidade e qualidade das ligações internacionais;
+h)- Promoção da inovação e desenvolvimento;
+i)- Disponibilidade, na medida do possível, de frequências e de recursos de numeração adequados para a oferta de redes e serviços de comunicações electrónicas de qualidade em todo o território;
+j)- Promoção do desenvolvimento do sector, assim como a utilização de novos serviços e novas redes;
+k)- Garantia da utilização transparente, objectiva e não discriminatória do domínio público;
+l)- Promoção da divulgação de informações claras, especialmente nos tarifários e nas condições de utilização dos serviços de comunicações electrónicas acessíveis ao público.
+Os objectivos de intervenção identificados no número anterior são prosseguidos pelas autoridades públicas com competência nesses domínios.
+Artigo 5.º (Definições)
+Para efeitos do disposto no presente Regulamento, entende-se por:
+a)- «Acesso», disponibilização de recursos ou serviços de um operador ou prestador de serviços de comunicações electrónicas a outra empresa para efeitos de prestação de serviços ou de exploração de redes de comunicações electrónicas, abrangendo, nomeadamente, o acesso a elementos de rede, a recursos conexos e a infra-estruturas físicas;
+b)- «Acordo de interligação», acordo celebrado entre dois ou mais operadores de comunicações electrónicas cujo objecto é garantir a interoperabilidade das respectivas redes;
+c)- «Circuitos», alugados meios de uma rede de comunicações electrónicas que proporcionam capacidade de transmissão transparente e dedicada entre pontos terminais, sem envolvimento de funções de comutação controladas pelo utilizador;
+d)- «Comunicações electrónicas», conjunto de sinais suportados e transportados através das plataformas de redes de comunicações electrónicas, incluindo os serviços de telecomunicações e de transmissão de radiodifusão;
+e)- «Concessão», atribuição pelo Poder Executivo, a uma entidade pública ou privada, mediante contrato, do direito de instalar, manter e explorar uma rede ou serviço de comunicações electrónicas, por prazo determinado, sujeitando-se a concessionária aos riscos empresariais, remunerando-se pela cobrança de tarifas aos utilizadores ou por outras receitas alternativas e respondendo directamente pelas suas obrigações e pelos prejuízos que causar;
+f)- «Interferência prejudicial», qualquer interferência que comprometa o funcionamento de um serviço de radionavegação ou de outros serviços de segurança ou que, de outra forma, degrade seriamente, obstrua ou interrompa repetidamente um serviço de radiocomunicações que opere de acordo com as normas internacionais ou nacionais aplicáveis;
+g)- «Interoperabilidade», funcionalidade que permite a manutenção da comunicação e serviços de forma transparente (ou similar) entre os operadores de comunicações electrónicas;
+h)- «Número», série de dígitos que indica um ponto de terminação de uma rede de comunicações electrónicas e que contém a informação necessária para encaminhar a chamada até esse ponto de terminação;
+i)- «Número de emergência», série de dígitos atribuídos com a finalidade de disponibilizar serviços de comunicações electrónicas de emergência, incluindo, bombeiros, informação pública, polícia, saúde e protecção civil;
+j)- «Número geográfico», número do Plano Nacional de Numeração que contém alguns dígitos com significado geográfico e cuja função é encaminhar as chamadas para o local físico do ponto de terminação da rede;
+k)- «Número não geográfico», número do Plano Nacional de Numeração que não seja um número geográfico, incluindo, nomeadamente, os números móveis, de chamada gratuita ou de tarifa de valor acrescentado;
+l)- «Numeração IP», número não geográfico, estabelecido como número especial, constituído normalmente por quatro ou mais números ou dígitos separados por pontos, que servem para a identificação de computadores, impressoras, routers e/ou mais dispositivos que formam parte de uma rede de comunicações electrónicas;
+m)- «Oferta de redes de comunicações electrónicas», estabelecimento, gestão ou exploração de uma rede de comunicações electrónicas, para efeitos da sua disponibilização, a pessoas singulares ou colectivas, no mercado grossista ou retalhista, tendo em vista a prestação de ou o acesso a serviços de comunicações electrónicas;
+n)- «Oferta de serviços de comunicações electrónicas», disponibilização ou prestação de um serviço de comunicações electrónicas, a pessoas singulares ou colectivas, no mercado grossista ou retalhista;
+o)- «Recursos conexos», serviços associados, as infra-estruturas físicas e outros recursos ou elementos associados a uma rede de comunicações electrónicas ou a um serviço de comunicações electrónicas que permitem ou servem de suporte à oferta de serviços através dessa rede ou serviço, ou que têm potencial para fazê-lo, e incluem, nomeadamente, edifícios ou entradas de edifícios, cablagem de edifícios, antenas, torres e outras estruturas de apoio, condutas, tubagens, postos, câmaras de visita e armários;
+p)- «Selecção e pré-selecção de operador», conjunto de dígitos atribuídos a um operador de comunicações electrónicas que permite ao utilizador escolher o operador que encaminha o curso da chamada nacional e internacional;
+q)- «Serviços de áudio-texto», serviços que se suportam no serviço de comunicações electrónicas, nomeadamente no serviço fixo de telefone ou em serviços telefónicos móveis, e que são destes diferenciáveis em razão do seu conteúdo e natureza específicos;
+r)- «Serviços conexos», serviços associados a uma rede de comunicações electrónicas ou a um serviço de comunicações electrónicas que permitem ou servem de suporte à oferta de serviços através dessa rede ou serviço, ou que têm potencial para fazê-lo, e incluem nomeadamente os sistemas de conversão de números ou os sistemas que ofereçam uma funcionalidade equivalente, os sistemas de acesso condicional e os guias electrónicos de programas, assim como serviços de identidade, localização e presença;
+s)- «Serviço universal de comunicações electrónicas», conjunto mínimo de serviços de comunicações electrónicas considerados essenciais para o desenvolvimento económico e social, de qualidade especificada, disponível para todos os utilizadores, independentemente da sua localização geográfica e, em função das condições nacionais, a um preço acessível;
+t)- «IPA», software de interface entre aplicações, disponibilizado por operadores de rádio, televisão ou de distribuição ou fornecedores de serviços, e os recursos no equipamento avançado de televisão digital para serviços de rádio e televisão digitais;
+u)- «Oferta de rede aberta», disponibilização, em termos regulados, de um conjunto de serviços e recursos suportados na rede básica, com a finalidade de promover a oferta de redes ou serviços de comunicações electrónicas em todo o território nacional;
+v)- «Dispositivo ilícito», um equipamento ou programa informático concebido ou adaptado com vista a permitir o acesso ou a visualização de um serviço protegido, sob forma inteligível, sem autorização do prestador do serviço;
+w)- «Serviço protegido», qualquer conteúdo audiovisual, prestado mediante remuneração e com base em acesso condicional.
+Para efeitos do presente Regulamento, são aplicáveis as definições constantes do artigo 3.º da Lei n.º 23/11, de 20 de Junho, das Comunicações Electrónicas e dos Serviços da Sociedade da Informação, designadamente, assinante, Autoridade das Comunicações Electrónicas, consumidor, interligação, operador com poder significativo de mercado, Órgão Regulador das Comunicações Electrónicas, operador de comunicações electrónicas acessíveis ao público, operador com poder significativo de mercado, operador de comunicações electrónicas, recursos de numeração, rede privativa, rede básica, rede de comunicações electrónicas, redes públicas de comunicações electrónicas, rede de comunicações electrónicas privativas, rede privativa do Estado, serviço de comunicações electrónica, serviço de comunicações electrónicas acessível ao público, serviço de telecomunicações administrativas, serviço universal de comunicações electrónicas, serviço telefónico, serviços de consultas telefónicas e utilizador ou usuário.
+TÍTULO II OFERTA DE REDES E SERVIÇOS DE COMUNICAÇÕES ELECTRÓNICAS
+CAPÍTULO I REQUISITOS GERAIS
+Artigo 6.º (Redes, Serviços e Operadores de Comunicações Electrónicas)
+A oferta de redes públicas de comunicações electrónicas ou de serviços de comunicações electrónicas acessíveis ao público é condicionada e carece da atribuição de um título habilitante, nos termos previstos no artigo 9.º do presente Regulamento.
+A oferta de redes de comunicações electrónicas privativas ou de serviços de comunicações electrónicas não acessíveis ao público não carece de atribuição de título habilitante, mas deve ser comunicada ao Órgão Regulador das Comunicações Electrónicas, antes do início da actividade, para efeitos de registo, nos termos previstos no artigo 33.º do presente Regulamento.
+Os formulários e procedimentos aplicáveis ao regime de acesso à actividade de operador de comunicações electrónicas são periodicamente aprovados e publicados pelo Órgão Regulador das Comunicações Electrónicas.
+Compete ao Órgão Regulador das Comunicações Electrónicas aprovar e periodicamente actualizar uma categorização de redes e serviços de comunicações electrónicas, devendo publicar essa informação, pelo menos, no seu sítio electrónico.
+Artigo 7.º (Serviços de Comunicações Electrónicas Especiais)
+Sem prejuízo do disposto nos capítulos seguintes, a oferta de determinados serviços de comunicações electrónicas pode ficar sujeita a disposições específicas, inscritas em Diplomas de desenvolvimento do presente Regulamento.
+Compete à Autoridade das Comunicações Electrónicas elaborar e aprovar os Diplomas necessários para regular os serviços referidos no presente artigo.
+Artigo 8.º (Redes de Comunicações Electrónicas Privativas)
+As redes de comunicações electrónicas privativas apenas podem ser utilizadas para o suporte de comunicações para uso próprio do respectivo titular ou de um grupo fechado de utilizadores.
+As redes de comunicações electrónicas privativas não podem envolver qualquer exploração comercial, incluindo a revenda da capacidade existente, salvo autorização prévia do Órgão Regulador das Comunicações Electrónicas.
+O disposto no número anterior não prejudica o cumprimento de outros requisitos que sejam necessários de acordo com a legislação em vigor.
+A utilização de redes de comunicações electrónicas privativas para a prestação de serviços de comunicações electrónicas acessíveis ao público fica sujeita ao cumprimento das regras de acesso previstas no artigo 9.º do presente Regulamento.
+CAPÍTULO II REGIME DE ACESSO À ACTIVIDADE DE OPERADOR DE COMUNICAÇÕES ELECTRÓNICAS
+SECÇÃO I MODALIDADES E REQUISITOS
+Artigo 9.º (Modalidades)
+A oferta de redes públicas de comunicações electrónicas ou de serviços de comunicações electrónicas acessíveis ao público obedece às seguintes modalidades:
+a)- Concessão no caso de exploração de infra-estruturas ou serviços de importância essencial para o Estado Angolano;
+b)- Licença nos casos que não sejam abrangidas pela alínea anterior.
+Para efeitos do disposto na alínea a) do n.º 1 do presente artigo, compete ao Titular do Poder Executivo determinar as infra-estruturas ou serviços de importância essencial para o Estado Angolano.
+O titular de uma licença não pode oferecer as redes ou serviços de comunicações electrónicas sujeitas à concessão.
+Artigo 10.º (Frequências e Numeração)
+Independentemente da modalidade de acesso à actividade, a oferta de redes ou serviços de comunicações electrónicas que careça da atribuição de direitos de utilização individual de frequências ou de numeração, deve igualmente obedecer ao disposto no Título IV do presente Regulamento.
+Caso a entidade interessada solicite a atribuição de direitos de utilização individuais de frequências ou numeração, os processos de acesso à actividade e de atribuição destes recursos são instruídos conjuntamente.
+Artigo 11.º (Requisitos)
+Sem prejuízo de outros requisitos aplicáveis, só podem oferecer redes e serviços de comunicações electrónicas as entidades que:
+a)- No caso de pessoas colectivas, estejam legalmente constituídas em Angola, devendo ter no seu objecto social o exercício da actividade de comunicações electrónicas;
+b)- Detenham capacidade técnica, financeira e humana adequada para o exercício da actividade pretendida e para o cumprimento das obrigações previstas neste Regulamento e nos respectivos Diplomas de desenvolvimento;
+c)- Não sejam devedores do Estado de qualquer imposto, quotizações, contribuições ou outras importâncias.
+A participação directa ou indirecta de pessoas singulares ou colectivas estrangeiras no capital social dos operadores de comunicações electrónicas acessíveis ao público fica sujeita às regras previstas na Lei n.º 14/15, de 11 de Agosto, do Investimento Privado.
+Os operadores de redes públicas de comunicações electrónicas de âmbito nacional não podem deter, de forma directa ou indirecta, mais de 25% do capital social de outro operador de redes públicas de comunicações electrónicas de âmbito nacional, salvo autorização da Autoridade das Comunicações Electrónicas.
+Compete ao Órgão Regulador das Comunicações Electrónicas apreciar estes elementos aquando da sua submissão pela entidade notificante.
+SECÇÃO II REGIME DE CONCESSÃO
+Artigo 12.º (Regime Jurídico)
+Nos casos referidos na alínea a) do n.º 1 do artigo 9.º do presente Diploma, compete ao Titular do Poder Executivo aprovar as directrizes gerais tendentes à atribuição de uma concessão, designadamente, a oportunidade e justificação, o procedimento a seguir e os trâmites gerais, os órgãos competentes para instruir e dirigir o procedimento, bem como as condições e objectivos a atingir com a atribuição da concessão.
+As concessões podem ser atribuídas através de um procedimento concursal ou, em casos devidamente justificados, directamente a uma entidade específica, competindo ao Titular do Poder Executivo definir o procedimento a seguir.
+Após a aprovação das directrizes referidas no n.º 1 do presente artigo, compete ao Órgão Regulador das Comunicações electrónicas, salvo quando determinado de forma diferente pelo Titular do Poder Executivo, recolher os elementos relevantes, dirigir o procedimento relativo à atribuição da concessão, designadamente, quando aplicável, elaborar as peças e publicar o procedimento, verificar os requisitos de candidatura e propor a adjudicação do contrato a determinada entidade.
+Concluídos os procedimentos referidos no número anterior, o órgão regulador deve remeter uma proposta de atribuição da concessão à Autoridade das Comunicações Electrónicas, devendo esta, por seu turno, remeter a proposta para ao Titular do Poder Executivo, para aprovação final.
+Uma vez aprovada a atribuição da concessão nos termos do número anterior, compete ao Órgão Regulador das Comunicações Electrónicas negociar e celebrar o contrato de concessão em representação da entidade concedente, entendendo-se esta, na falta de determinação em contrário, como a Autoridade das Comunicações Electrónicas.
+Artigo 13.º (Modalidades de Concessão)
+A concessão pode ser atribuída:
+a)- Como um título unificado global, permitindo ao respectivo titular a prestação de qualquer serviço de comunicações electrónicas, independentemente da tecnologia utilizada, sem prejuízo do disposto no artigo 88.º do presente Diploma;
+b)- Para a prestação de um determinado serviço ou para a exploração de uma rede de comunicações electrónicas específica.
+Compete às entidades interessadas apresentar todos os elementos que sejam requeridos para a atribuição de uma concessão.
+Artigo 14.º (Elementos do Contrato de Concessão)
+No contrato de concessão constam obrigatoriamente, pelo menos, os seguintes elementos:
+a)- Identificação da entidade concessionária;
+b)- Identificação da entidade concedente;
+c)- Objecto e âmbito de concessão;
+d)- Zona geográfica do serviço;
+e)- Previsão de existência de um inventário da concessão actualizado, distinguindo de forma clara os bens do domínio público e privado do concedente, dos bens do concessionário indicando ainda os bens afectos à concessão e o seu respectivo valor contabilístico;
+f)- Possibilidade de oneração ou não dos bens da concessão, designadamente para efeitos de financiamento da mesma;
+g)- Regulamentos e normativos aplicáveis;
+h)- Condições de prestação de serviço e definição dos padrões e indicadores de qualidade de serviço;
+i)- Direitos e obrigações da entidade concessionária;
+j)- Direitos de utilização individuais de frequências;
+k)- Direitos de utilização individuais de números;
+l)- Taxas aplicáveis;
+m)- Fiscalização da concessão;
+n)- Prazo e termo de validade;
+o)- Sequestro da concessão;
+p)- Extinção da concessão;
+q)- Multas contratuais;
+r)- Regras de resolução de litígios.
+Na eventualidade de, durante a vigência do contrato de concessão, ocorrerem circunstâncias que, pela sua importância e efeitos, exijam uma alteração ao contrato, a mesma deve ser promovida entre as partes de acordo com os princípios da boa-fé e da equidade.
+Na falta de acordo entre as partes, por um prazo superior a 90 (noventa) dias, a contar da comunicação de uma das partes à outra da alteração das circunstâncias, há recurso ao processo de resolução de litígios estipulado no contrato.
+Artigo 15.º (Início, Validade e Extinção do Contrato)
+Os contratos de concessão entram em vigor na data neles previstos e têm um período de validade não superior a 15 (quinze) anos, fixado de acordo com a natureza, especificidade e âmbito dos serviços concessionados.
+A actividade que constitui o objecto e o âmbito da concessão deve ter início no prazo máximo de 12 (doze) meses, contados a partir da data da sua outorga, salvo motivo de força maior devidamente justificado e como tal reconhecido pelo Órgão Regulador das Comunicações Electrónicas, findo o qual o contrato é considerado nulo e sem efeito.
+Os contratos podem ser renovados sucessivamente por períodos idênticos ao seu prazo inicial, mediante acordo entre as, devendo qualquer delas, interessada na prorrogação, notificar a outra para esse efeito com a antecedência mínima de um ano, em relação ao termo do contrato inicial ou de qualquer das suas renovações.
+No caso de não haver acordo no prazo de 6 (seis) meses quanto à renovação do contrato, contados a partir da data da notificação referida no número anterior, o concedente reserva-se o direito de acompanhar, através de representantes por si nomeados, a gestão do concessionário, em ordem a assegurar o pleno funcionamento da concessão.
+A concessão extingue-se por acordo entre o concedente e a concessionária e ainda por rescisão, por resgate e pelo decurso do respectivo prazo, não havendo renovação.
+Artigo 16.º (Subconcessão)
+Decorridos 3 (três) anos desde a data da celebração do respectivo contrato é permitido ao concessionário, mediante prévia autorização da Autoridade das Comunicações Electrónicas, subconceder, no todo ou em parte, a exploração do serviço específico objecto da concessão, bem como as respectivas infra- estruturas.
+A autorização da subconcessão está sujeita a parecer favorável do Órgão Regulador das Comunicações Electrónicas sempre que envolva a utilização do espectro de frequências ou numeração atribuída ao concessionário.
+Nos casos em que seja autorizada a subconcessão, o concessionário mantém os direitos e continua, directa e pessoalmente, sujeito às obrigações decorrentes do contrato de concessão.
+Artigo 17.º (Alterações na Natureza da Concessionária)
+Sem prejuízo de outras limitações que venham a ser incluídas no respectivo contrato de concessão, a concessionária não pode, sem autorização expressa do concedente, tomar qualquer deliberação social que, directa ou indirectamente, tenha por fim ou possa conduzir a uma das seguintes situações:
+
+a)- Alteração do objecto da sociedade;
+b)- Transformação, fusão ou dissolução da sociedade;
+c)- Alteração na composição do capital social da sociedade e/ou do valor do capital social;
+d)- Suspensão ou cessação, temporária ou definitiva, total ou parcial do serviço concessionado.
+Artigo 18.º (Multas Contratuais e outras Responsabilidades)
+Sem prejuízo das situações de incumprimento que podem dar origem à intervenção do Estado, rescisão ou sequestro da concessão, o incumprimento pela concessionária das obrigações emergentes da concessão ou das determinações do concedente emitidas nos termos da lei ou do contrato de concessão, é passível da aplicação, pelo Órgão Regulador das Comunicações Electrónicas, de multas de montante variável entre um mínimo de 0,001 % e um máximo de 0,5%, calculado sobre o volume anual de receitas realizadas no ano civil anterior à data da prática do facto, consoante a gravidade das infracções cometidas, dos prejuízos delas resultantes, bem como da culpa do concessionário.
+As multas referidas no número anterior devem ser comunicadas por escrito ao concessionário, produzindo os seus efeitos independentemente de qualquer outra formalidade.
+O procedimento de aplicação de multas assegurará sempre, nos termos da lei geral, o direito de defesa da concessionária.
+O pagamento das multas aplicadas nos termos do n.º 1 do presente artigo não isenta a concessionária da eventual responsabilidade civil e criminal por perdas e danos resultantes da infracção.
+A concessionária responde, nos termos da lei, por quaisquer prejuízos causados a terceiros no exercício das actividades que constituem o objecto de concessão.
+Artigo 19.º (Intervenção do Estado)
+Nos termos previstos na lei, a Autoridade das Comunicações Electrónicas pode decretar a intervenção, mediante despacho, na operação concessionada em caso de incumprimento grave por parte da concessionária que ponha em causa os objectivos de interesse público, como tal declarados na lei e no contrato de concessão.
+Verificada a intervenção, a concessionária suporta todos os encargos resultantes da manutenção dos serviços e as despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração.
+O limite do período de intervenção do Estado é de 180 (cento e oitenta) dias, prorrogáveis por um único período de 60 (sessenta) dias.
+A prorrogação prevista no número anterior verifica-se mediante despacho da Autoridade das Comunicações Electrónicas.
+Logo que cessem as razões que motivaram a intervenção, ou se esgote o período legal de intervenção, sob parecer do órgão regulador, a Autoridade das Comunicações Electrónicas decretará o fim da intervenção.
+Artigo 20.º (Rescisão da Concessão)
+A intervenção do Estado prevista no presente Regulamento conduz à rescisão da concessão sempre que se verificarem as seguintes situações:
+a)- Abandono da exploração;
+b)- Atraso superior a seis meses no pagamento de importâncias devidas nos termos do respectivo contrato de concessão;
+c)- Declaração judicial de falência do concessionário;
+d)- Cessão, total ou parcial, da concessão, temporária ou definitiva, directa ou indirecta, sem prévia autorização do concedente;
+e)- Alteração do objecto social do concessionário, sem prévia autorização do concedente;
+f)- Recusa injustificada em permitir o acesso de outros operadores de comunicações electrónicas às suas redes ou circuitos ou não eliminação injustificada de dificuldades administrativas ou operacionais, com o intuito de adquirir vantagens concorrenciais;
+g)- Incumprimento reiterado e injustificado de qualquer dos deveres constantes do contrato de concessão.
+A rescisão da concessão é ordenada por despacho da Autoridade das Comunicações Electrónicas.
+No acto referido no número anterior, nomeia-se a comissão de rescisão e indica-se o período de execução, o tratamento dos utilizadores, bem como o tratamento das demais obrigações do concessionário.
+Compete à comissão de rescisão propor o destino das obrigações resultantes da concessão em conformidade com o número anterior.
+Artigo 21.º (Sequestro)
+Quando ocorrer violação ou cumprimento defeituoso das obrigações da concessionária que ponham em risco a continuidade da exploração ou perturbem gravemente a prestação dos serviços concessionados, o concedente assume a coordenação da gestão da concessão.
+Os proveitos auferidos durante o sequestro, decorrentes do serviço prestado, são afectos prioritariamente à manutenção dos bens e ao funcionamento dos serviços da concessão, bem como ao restabelecimento da sua normal exploração.
+Os encargos acima referidos, que não podem ser cobertos pelas receitas cobradas, constituem responsabilidade do concessionário.
+Artigo 22.º (Resgate da Concessão)
+O concedente pode resgatar a concessão sempre que tal seja justificado por motivo de interesse público, mediante notificação ao concessionário, com a antecedência mínima de um ano, decorridos que sejam, pelo menos, cinco anos a contar da data do início do respectivo prazo de vigência.
+No caso de regaste, o concedente assume todos os direitos e obrigações contraídas pelo concessionário anteriormente à data da notificação de resgate e indemniza o concessionário em valor correspondente ao das infra-estruturas e outros bens utilizados na exploração do serviço concessionado à data do resgate, calculadas as devidas amortizações, acrescido de um montante referente ao número de anos que faltarem para o termo da concessão, avaliada através do valor médio dos resultados líquidos apurados nos 5 (cinco) anos anteriores à notificação do resgate.
+Artigo 23.º (Reversão de Bens)
+No termo da concessão, revertem gratuita e automaticamente para o concedente os bens do domínio público e privado do Estado que tenham sido concessionados, obrigando-se a concessionária a entregá-los em perfeitas condições de funcionamento, conservação e segurança, sem prejuízo do normal desgaste resultante da sua utilização, e livres de quaisquer ónus ou encargos, não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
+Caso a reversão de bens para o concedente não se processe nas condições previstas no número anterior, a concessionária indemniza o concedente, devendo a indemnização ser calculada nos termos legais.
+No termo da concessão, o concedente procede a uma vistoria dos bens a que se alude no n.º 1, na qual participa um representante da concessionária, destinada à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado auto da vistoria realizada.
+O concedente tem o direito de adquirir os bens afectos à concessão que sejam da propriedade do concessionário de acordo com o respectivo valor contabilístico.
+Artigo 24.º (Força Maior)
+A ocorrência de casos de força maior que impeçam o cumprimento das obrigações de qualquer das partes durante a vigência do contrato de concessão dá lugar à suspensão, total ou parcial, das obrigações de prestação dos serviços concessionados durante o período de duração da força maior, ou à revisão por contrato de concessão, quando tal se justifique.
+A parte que pretende invocar casos de força maior deve, logo que dele tenha conhecimento, avisar por escrito a outra, indicando os seus efeitos na execução do contrato.
+Artigo 25.º (Fiscalização do Contrato de Concessão)
+Os serviços da concessionária e quaisquer actividades por ela exercidas no âmbito do contrato de concessão são sujeitos a fiscalização do concedente, sendo as competências deste exercidas pelo Órgão Regulador das Comunicações Electrónicas, e por outras entidades competentes para o efeito.
+Para os efeitos do disposto no número anterior, a concessionária deve prestar à às entidades com competência de fiscalização toda a colaboração que lhe seja determinada, obrigando-se a facultar o acesso às suas instalações, equipamentos de qualquer natureza e toda a documentação e arquivos, a prestar todas as informações e a disponibilizar todos e quaisquer elementos que lhe sejam solicitados, designadamente as estatísticas e os registos de gestão utilizados, e prestar sobre todos esses documentos os esclarecimentos que lhe forem solicitados.
+Podem ser efectuados, por parte das entidades com competência para fiscalizar a concessão, e de acordo com critérios de razoabilidade e na presença de representantes da concessionária, ensaios que permitam avaliar quer as condições de funcionamento, segurança e estado de conservação das infra- estruturas afectas à concessão quer os níveis de qualidade prestados nos diferentes serviços incluídos na concessão.
+As determinações que vierem a ser emitidas, de acordo com critérios de razoabilidade, no âmbito dos poderes de fiscalização são imediatamente aplicáveis e vinculam a concessionária, sem prejuízo do recurso ao tribunal competente.
+As entidades com competência de fiscalização, bem como os seus agentes, estão obrigados a manter sob sigilo todas as informações recolhidas, designadamente as de natureza comercial, no âmbito de acções de fiscalização desenvolvida, não as podendo utilizar ou divulgar para outras finalidades que não as da própria acção de fiscalização ou outra que a lei considere relevante.
+Quando a concessionária não tenha respeitado determinações emitidas no âmbito dos poderes de fiscalização, assiste ao concedente a faculdade de proceder à correcção da situação, directamente ou através de terceiro, correndo os correspondentes custos por conta da concessionária.
+SECÇÃO III REGIME DE LICENCIAMENTO
+Artigo 26.º (Regime Jurídico)
+Ao Órgão Regulador das Comunicações Electrónicas compete atribuir as licenças para a oferta de redes públicas de comunicações electrónicas ou de serviços de comunicações electrónicas acessíveis ao público a que se refere a alínea b) do n.º 1 do artigo 9.º 2. A atribuição de licença a que se refere o número anterior não depende de procedimento concursal e é decidida com base em requerimento a ser apresentado, pela entidade interessada, junto do Órgão Regulador das Comunicações electrónicas, nos termos previstos no artigo 27.º 3. As licenças têm a natureza de licenças multisserviço e são emitidas para a prestação dos serviços indicados pela entidade requerente, com base na classificação de redes e serviços de comunicações electrónicas aprovada pelo órgão regulador ou, não existindo esta, com base nas classificações existentes de organismos internacionais relevantes.
+O titular da licença pode prestar os serviços indicados no respectivo título independentemente da tecnologia utilizada, sem prejuízo do disposto artigo 88.º do presente Regulamento.
+Artigo 27.º (Procedimento de Atribuição)
+Sem prejuízo de outros elementos exigidos por lei ou pelo Órgão Regulador das Comunicações Electrónicas, o requerimento referido no artigo anterior deve, pelo menos, ser instruído com os seguintes elementos:
+a)- Descrição detalhada da actividade a prosseguir;
+b)- Descrição das infra-estruturas a utilizar;
+c)- Âmbito geográfico dos serviços a oferecer;
+d)- Descrição dos meios humanos afectos à operação;
+e)- Documentos comprovativos de cumprimento do disposto no artigo 11.º do presente Regulamento;
+f)- Estudo de viabilidade do projecto;
+g)- Se aplicável, frequências ou recursos de numeração pretendidos;
+h)- Indicação da data pretendida para o início da actividade.
+O órgão regulador pode solicitar informações ou elementos complementares, e outros que considere relevantes, e efectuar averiguações que considerem necessárias ou úteis à instrução do procedimento de atribuição da licença.
+A decisão sobre o pedido do interessado deve ser tomada no prazo de 30 (trinta) dias a contar da data de recebimento do mesmo, sendo a falta de pronúncia, neste prazo, por parte do Órgão Regulador das Comunicações Electrónicas, equivalente ao indeferimento do pedido.
+O pedido do interessado deve ser indeferido no caso de, nomeadamente:
+a)- Não estar instruído com os elementos exigidos por lei ou pelo Órgão Regulador das Comunicações Electrónicas;
+b)- Não cumprir os requisitos técnicos, jurídicos e económicos aplicáveis:
+c)- Caso seja aplicável, quando não estejam preenchidas as condições para satisfazer o pedido para a atribuição dos direitos de utilização individuais de frequências ou de numeração pretendidos e esse elemento seja essencial para a oferta de redes e serviços.
+Na situação prevista na alínea a) do número anterior, quando o pedido não deva ser indeferido com outros fundamentos, o Órgão Regulador das Comunicações Electrónicas pode estabelecer um prazo para a apresentação dos elementos sem falta.
+As decisões do Órgão Regulador das Comunicações Electrónicas devem ser fundamentadas e notificadas à entidade interessada.
+Artigo 28.º (Conteúdo da Licença)
+Em caso de deferimento, o Órgão Regulador das Comunicações Electrónicas deve emitir um título habilitante no qual se descrevam as condições relevantes e necessárias para o exercício da actividade, nomeadamente as seguintes informações:
+
+a)- Identificação completa do operador;
+b)- Redes ou serviços de comunicações electrónicas a oferecer;
+c)- Âmbito geográfico da rede ou serviços;
+d)- Prazo de validade;
+e)- Direitos e obrigações do operador, nos termos previstos neste Regulamento.
+Artigo 29.º (Prazo e Renovação das Licenças)
+As licenças são atribuídas por um período inicial de 10 (dez) anos.
+As licenças podem ser renovadas, por iguais períodos, mediante pedido dirigido, pelo respectivo titular, ao Órgão Regulador das Comunicações Electrónicas com a antecedência mínima de 120 (cento e vinte) dias sobre o termo do período inicial ou de qualquer uma das suas renovações.
+O Órgão Regulador das Comunicações Electrónicas pode decidir renovar a licença ou opor-se ao pedido de renovação do interessado, devendo adoptar uma decisão até 30 (trinta) dias antes do termo do prazo de vigência da licença, sob pena de se considerar a falta de oposição expressa como deferimento do pedido.
+A renovação da licença implica a emissão, por parte do Órgão Regulador das Comunicações Electrónicas, de um novo título habilitante.
+Ao decidir renovar a licença, o Órgão Regulador das Comunicações Electrónicas deve assegurar que estão verificados todos os requisitos legais, regulamentares e técnicos relativos à licença e pode decidir associar-lhe novas condições, nos termos previstos neste Regulamento.
+Artigo 30.º (Alteração das Licenças)
+A pedido do respectivo titular, o conteúdo das licenças pode ser alterado, nomeadamente para modificar o âmbito geográfico da oferta de redes ou serviços ou para alterar o tipo ou número de serviços a disponibilizar.
+Para efeitos do disposto no número anterior, cabe ao titular da licença submeter um pedido de alteração da licença ao Órgão Regulador das Comunicações Electrónicas, fundamentando a alteração pretendida e evidenciado o cumprimento da legislação aplicável.
+O Órgão Regulador das Comunicações Electrónicas deve avaliar o pedido do requerente no prazo máximo de 90 (noventa) dias, no caso de pedido de alteração do âmbito geográfico da licença, ou de 30 (trinta) dias, para os restantes pedidos de alteração, incluindo a alteração ao tipo e número de serviços a prestar, aplicando-se o prazo maior em caso de acumulação de pedidos.
+Ao apreciar o pedido do requerente, o Órgão Regulador das Comunicações Electrónicas deve assegurar que a alteração pretendida:
+a)- Não viola o disposto no presente Regulamento ou nos Diplomas de desenvolvimento;
+b)- Não provoca distorções de concorrência.
+Até ao termo dos prazos previstos no n.º 3 do presente artigo, o Órgão Regulador das Comunicações Electrónicas pode opor-se, de forma fundamentada, ao pedido do requerente ou deferir o seu pedido, devendo notificar a sua decisão ao interessado.
+Em caso de deferimento do pedido, o Órgão Regulador das Comunicações Electrónicas deve actualizar o conteúdo da licença emitida, através de uma adenda, podendo determinar, de forma fundamentada, novas condições nos termos previstos neste Regulamento.
+Caso o Órgão Regulador das Comunicações Electrónicas não adopte uma decisão de oposição até ao termo dos prazos estabelecidos no n.º 3 do presente artigo, considera-se a pretensão do requerente deferida, cabendo depois ao órgão regulador assegurar a actualização do título nos termos referidos no número anterior.
+Artigo 31.º (Transmissibilidade)
+As licenças atribuídas nos termos da presente secção podem ser transmitidas pelo respectivo titular, desde que previamente autorizado pelo Órgão Regulador das Comunicações Electrónicas.
+Para efeitos do disposto no número anterior, o titular da licença deve comunicar ao Órgão Regulador das Comunicações Electrónicas a sua intenção de transmitir, por qualquer meio, a sua licença, a identidade do transmissário, bem como as condições em que o pretende fazer.
+Ao apreciar o pedido do interessado, o órgão regulador sectorial deve assegurar que:
+a)- A transmissão não viola o disposto no presente Regulamento ou nos Diplomas de desenvolvimento;
+b)- A transmissão não provoca distorções de concorrência, nomeadamente um nível elevado de concentração do mercado;
+c)- O transmissário da licença reúne os requisitos legais exigidos para o exercício da actividade, nomeadamente o previsto no n.º 1 do artigo 11.º do presente Regulamento.
+O Órgão Regulador das Comunicações Electrónicas deve pronunciar-se sobre o pedido do interessado no prazo de 30 (trinta) dias a contar da data do pedido, podendo determinar, caso seja justificado, as condições necessárias para garantir o cumprimento do disposto neste Regulamento ou opor-se ao pedido de transmissão.
+A decisão do Órgão Regulador das Comunicações Electrónicas deve ser sempre fundamentada e notificado ao interessado.
+A falta de decisão do Órgão Regulador das Comunicações Electrónicas no prazo referido no n.º 4 do presente artigo equivale ao indeferimento do pedido.
+Artigo 32.º (Suspensão e Extinção da Licença)
+Sem prejuízo de outros casos previstos na lei, a licença suspende-se em caso de interdição temporária para o exercício da actividade determinada pelo Órgão Regulador das Comunicações Electrónicas, nos termos previstos neste Regulamento.
+A licença extingue-se por caducidade ou revogação.
+A licença caduca:
+a)- No termo do prazo, não havendo pedido de renovação ou, havendo pedido, no caso de oposição à renovação por parte do Órgão Regulador das Comunicações Electrónicas;
+b)- Aquando da cessação da actividade, ou interdição definitiva, por parte do respectivo titular;
+c)- Em caso de impossibilidade objectiva para a oferta de serviços de comunicações electrónicas, nomeadamente a inexistência de frequências ou recursos de numeração necessários para o exercício da actividade.
+A licença pode ser revogada por decisão fundamentada do Órgão Regulador das Comunicações Electrónicas em caso de:
+a)- Incumprimento das normas consignadas no presente Regulamento;
+b)- Incumprimento das condições indicadas no respectivo título habilitante.
+Em caso de caducidade ou revogação da licença, compete ao Órgão Regulador das Comunicações Electrónicas adoptar as medidas necessárias de forma a garantir a protecção do utilizador e a salvaguarda da concorrência.
+SECÇÃO IV COMUNICAÇÃO
+Artigo 33.º (Requisitos Gerais)
+A oferta de redes de comunicações electrónicas privativas ou de serviços de comunicações electrónicas não acessíveis ao público deve ser comunicada ao órgão regulador, no modelo a aprovar por esta entidade, com uma antecedência de 15 (quinze) dias em relação à data de início da respectiva actividade.
+Após o decurso do prazo referido no número anterior, a entidade notificante pode iniciar imediatamente a actividade.
+As entidades que ofereçam redes de comunicações electrónicas privativas ou que disponibilizem serviços de comunicações electrónicas não acessíveis ao público têm de cumprir o disposto no presente Regulamento e nos Diplomas de desenvolvimento, nas partes que lhes forem aplicáveis, e ficam sujeitas à fiscalização do Órgão Regulador das Comunicações Electrónicas.
+Artigo 34.º (Suspensão e Interdição da Actividade)
+A oferta de redes de comunicações electrónicas privativas ou de serviços de comunicações electrónicas não acessíveis ao público pode ser suspensa ou interdita por decisão fundamentada do órgão regulador de comunicações electrónicas, nomeadamente em caso de incumprimento das regras consignadas neste Regulamento ou nos Diplomas de desenvolvimento.
+
+SECÇÃO V REGISTO
+Artigo 35.º (Registo de Operadores de Comunicações Electrónicas)
+Compete ao Órgão Regulador das Comunicações Electrónicas manter, actualizar de forma regular e divulgar, nomeadamente no seu sítio da internet, um registo dos operadores de comunicações electrónicas com actividade em Angola, o qual, no mínimo, deve conter a seguinte informação:
+a)- Identificação completa do operador;
+b)- Morada da sede e sítio electrónico do respectivo operador, se aplicável;
+c)- Título habilitante emitido e respectivo prazo de duração;
+d)- Serviços prestados;
+e)- Zona geográfica de actuação;
+f)- Direitos de utilização individual de frequências e de numeração atribuídos.
+Compete aos operadores de comunicações electrónicas fornecerem a informação necessária ao Órgão Regulador das Comunicações Electrónicas para efeitos de inscrição ou actualização do registo, tendo este o poder de solicitar aos operadores em causa as informações que considerar relevantes para estes efeitos.
+CAPÍTULO III CONDIÇÕES E DIREITOS
+Artigo 36.º (Condições Gerais)
+Sem prejuízo de outras condições previstas na legislação aplicável, a oferta de redes e serviços de comunicações electrónicas acessíveis ao público fica sujeita às seguintes condições:
+a)- Respeito das condições e limites definidos na legislação aplicável;
+b)- Interoperabilidade dos serviços e interligação das redes;
+c)- Obrigações de acesso;
+d)- Garantia da integridade das redes públicas de comunicações electrónicas, nomeadamente, mediante condições que impeçam a interferência electromagnética entre redes e serviços de comunicações electrónicas e respectivas medidas regulamentares;
+e)- Garantia de comunicações durante calamidades, catástrofes, guerras, entre serviços de emergência e as autoridades;
+f)- Segurança das redes públicas contra o acesso não autorizado, nos termos da legislação aplicável à protecção de dados pessoais e da privacidade no domínio das comunicações electrónicas e de outra legislação aplicável;
+g)- Requisitos de protecção do ambiente ou de ordenamento urbano e territorial, incluindo requisitos de partilha de locais, recursos ou infra- estruturas;
+h)- Protecção de dados pessoais e da privacidade no domínio específico das comunicações electrónicas, em conformidade com a legislação aplicável;
+i)- Regras específicas de protecção dos utilizadores no Sector das Comunicações Electrónicas;
+j)- Medidas relativas à limitação da exposição da população aos campos electromagnéticos criados pelas redes de comunicações electrónicas;
+k)- Instalação, a expensas próprias, e disponibilização de sistemas de intercepção legal de comunicações às autoridades nacionais competentes, bem como fornecimento dos meios de desencriptação ou decifração sempre que ofereçam essas facilidades;
+l)- Obrigações de transporte nos termos previstos neste Regulamento;
+m)- Restrições respeitantes à transmissão de conteúdos ilegais, em conformidade com a legislação aplicável;
+n)- Contribuições financeiras para o Fundo de Apoio ao Desenvolvimento das Comunicações;
+o)- Pagamento de taxas;
+p)- Informações a fornecer nos termos previstos neste Regulamento;
+q)- Abster-se de práticas restritivas da concorrência no âmbito da oferta de redes ou serviços de comunicações electrónicas.
+Compete ao Órgão Regulador das Comunicações Electrónicas especificar, de entre as referidas no número anterior, as condições aplicáveis consoante o tipo de título habilitante aplicável, devendo fazê-lo de uma forma adequada, não discriminatória, objectiva, transparente e proporcionada.
+Para efeitos do disposto no número anterior, o Órgão Regulador das Comunicações Electrónicas pode categorizar as condições aplicáveis consoante o tipo de título aplicável, bem como determinar quais as condições aplicáveis à oferta de redes privativas ou serviços de comunicações electrónicas não acessíveis ao público, devendo publicitar tal decisão.
+Artigo 37.º (Condições Específicas)
+A definição de condições gerais, ao abrigo do artigo anterior, não prejudica a imposição, a determinadas entidades, de condições ou obrigações específicas, nos termos previstos neste Regulamento, nomeadamente no Título III.
+
+Artigo 38.º (Direitos Gerais dos Operadores)
+Constituem direitos dos operadores de comunicações electrónicas acessíveis ao público, os seguintes:
+a)- Negociar a interligação e obter o acesso ou a interligação de entidades que oferecem redes ou serviços de comunicações electrónicas acessíveis ao público;
+b)- Aceder à rede básica;
+c)- Requerer a expropriação e a constituição de servidões indispensáveis à instalação, protecção e conservação dos respectivos sistemas, equipamentos e demais recursos;
+d)- Utilizar o domínio público, em condições de igualdade, para efeitos de instalação, passagem ou atravessamento de sistemas, equipamentos e outros recursos;
+e)- Utilizar o espectro radioeléctrico e os recursos de numeração;
+f)- Ser remunerado pelos serviços, grossistas e retalhistas, que prestar.
+Constituem direitos dos operadores de comunicações não acessíveis ao público:
+a)- Negociar a interligação e o acesso com outros operadores:
+eb)- Requerer a utilização do domínio público, nos termos gerais.
+Artigo 39.º (Direitos de Utilização de Bens do Domínio Público)
+A atribuição de direitos de utilização sobre bens do domínio público, no âmbito das comunicações electrónicas, obedece ao disposto no presente Regulamento e em legislação específica.
+Os procedimentos para a utilização de bens do domínio público nas comunicações electrónicas devem ser transparentes, publicitados, céleres e não discriminatórios, devendo as condições aplicáveis ao exercício desses direitos obedecer aos princípios da transparência e da não discriminação.
+Todas a entidades com jurisdição sobre bens do domínio público devem aplicar procedimentos transparentes, céleres e não discriminatórios no que respeita ao exercício do direito de utilização de bens do domínio público, devendo tais condições ser comunicadas ao Órgão Regulador das Comunicações Electrónicas.
+CAPÍTULO IV EXPLORAÇÃO
+SECÇÃO I REGRAS GERAIS
+Artigo 40.º (Normas Executivas)
+Compete à Autoridade das Comunicações Electrónicas aprovar os Diplomas necessários para dar cumprimento ao disposto no presente capítulo.
+
+Artigo 41.º (Integridade da Rede e Disponibilidade de Serviços)
+Os operadores de comunicações electrónicas acessíveis ao público estão obrigados a assegurar a integridade das respectivas redes e a assegurar a disponibilidade das mesmas em situações de emergência e de força maior.
+Para efeitos do disposto no número anterior, as entidades ali referidas devem adoptar medidas técnicas e organizacionais apropriadas para gerir de forma adequada os riscos para a segurança das redes e serviços, em particular no que diz respeito à minimização do impacto dos incidentes de segurança nos utilizadores e nas redes interligadas, devendo assegurar, tendo em conta o estado da técnica, um nível de segurança permanentemente adequado.
+Os operadores de comunicações electrónicas acessíveis ao público devem notificar o Órgão Regulador das Comunicações Electrónicas em caso de violação da segurança ou perda da integridade que tenha um impacto significativo no funcionamento da rede ou serviços.
+Os operadores de comunicações electrónicas acessíveis ao público devem garantir o acesso ininterrupto aos serviços de emergência.
+Artigo 42.º (Obrigações de Informação)
+Os operadores de comunicações electrónicas acessíveis ao público ficam obrigados a publicar e a disponibilizar informações claras, completas, actualizadas sobre os níveis de qualidade de serviço que praticam, preços aplicáveis e termos e condições contratuais habituais.
+Para efeitos do disposto no número anterior, devem aquelas entidades, no mínimo, publicar e disponibilizar, na forma a definir pelo Órgão Regulador das Comunicações Electrónicas, as seguintes informações:
+a)- Identificação social;
+b)- Descrição detalhada dos serviços oferecidos;
+c)- Preços aplicáveis, abrangendo impostos aplicáveis, todos os tipos de encargos, bem como informações detalhadas sobre os descontos disponíveis;
+d)- Sistemas de indemnização ou reembolso;
+e)- Tipos e serviços de manutenção oferecidos;
+f)- Informações técnicas e de tráfego;
+g)- Condições contratuais típicas, incluindo períodos mínimos de fidelização, se existentes:
+h)- Mecanismos de resolução de litígios, incluindo os criados pela empresa que oferece o serviço.
+As entidades referidas no n.º 1 do presente artigo devem disponibilizar regularmente à Autoridade das Comunicações Electrónicas e ao Órgão Regulador das Comunicações Electrónicas informações actualizadas incluindo os elementos referidos no presente artigo, sendo o formato, conteúdo e periodicidade definidos pelo Órgão Regulador das Comunicações Electrónicas.
+Artigo 43.º (Obrigatoriedade e Prioridades de Transmissão)
+Constitui obrigação de todos os operadores de comunicações electrónicas acessíveis ao público a transmissão, com prioridade absoluta, de mensagens motivadas por circunstâncias de força maior, nomeadamente, em caso de catástrofes, calamidades, epidemias ou alteração da ordem pública.
+Os operadores de redes de comunicações electrónicas privativas ficam igualmente obrigados a transmitir por essa rede, com prioridade absoluta, toda e qualquer mensagem nas condições do número anterior.
+As comunicações electrónicas do Estado gozam de prioridade sobre as outras comunicações, desde que o pedido seja fundamentado e fique salvaguardado o estabelecido no n.º 1 do presente artigo.
+Artigo 44.º (Obrigações de Transporte)
+As entidades que oferecem redes de comunicações electrónicas utilizadas para a distribuição de emissões de serviços de radiodifusão e televisão ao público podem ficar obrigadas, por decisão da Autoridade das Comunicações Electrónicas, a transportar determinados canais e serviços de rádio ou de televisão, nomeadamente os canais e serviços de radiodifusão e televisão de serviço público.
+As obrigações previstas no número anterior apenas podem ser impostas quando tal seja necessário para a realização de objectivos de interesse geral claramente definidos e devem ser razoáveis, proporcionais, transparentes e sujeitas a uma revisão periódica.
+O Órgão Regulador das Comunicações Electrónicas pode determinar uma remuneração adequada como contrapartida pelas obrigações de transporte impostas, a qual deve ser aplicada de modo proporcional e transparente.
+O Órgão Regulador das Comunicações Electrónicas deve ainda estabelecer mecanismos de coordenação com as entidades públicas com jurisdição sobre conteúdos televisivos ou radiofónicos.
+SECÇÃO II PROTECÇÃO DOS UTILIZADORES E ASSINANTES
+Artigo 45.º (Direitos Gerais dos Utilizadores e Assinantes)
+Constituem direitos dos utilizadores de serviços de comunicações electrónicas acessíveis ao público:
+
+a)- Utilizar as redes e serviços de comunicações electrónicas acessíveis ao público em condições de igualdade, transparência e não discriminação com os níveis de qualidade obrigatórios;
+b)- Dispor, em tempo útil e previamente à celebração de qualquer contrato, de informação clara e acessível sobre as condições de acesso e utilização da rede ou serviço;
+c)- Obter facturação detalhada, quando assim o solicitem;
+d)- Obter acesso a serviços aúdio-texto originariamente barrados;
+e)- Aceder, gratuitamente, ao número único de emergência;
+f)- Manter o seu número em caso de alteração de operador;
+g)- Protecção da sua privacidade e dados pessoais.
+Artigo 46.º (Contratos de Oferta de Redes ou Serviços de Comunicações Electrónicas)
+Sem prejuízo da legislação aplicável à defesa do consumidor, a oferta de serviços de comunicações electrónicas acessíveis ao público deve ser objecto de contrato do qual constam obrigatoriamente os seguintes elementos mínimos:
+a)- Identidade e endereço do prestador;
+b)- Serviços fornecidos e os níveis de qualidade de serviço praticados;
+c)- Tipos de serviços de manutenção oferecidos;
+d)- Detalhes dos preços e os meios de obtenção de informações actualizadas sobre preços e encargos de manutenção;
+e)- Duração do contrato, condições de renovação, suspensão e cessação dos serviços e do contrato;
+f)- Sistemas de indemnização ou de reembolso aplicáveis;
+g)- Informação sobre sistemas de resolução de litígios:
+eh)- Condições de disponibilização da facturação detalhada.
+Sempre que se proceda à alteração de uma das condições contratuais referidas no número anterior, a entidade em causa deve notificar os assinantes da proposta de alteração, por forma adequada, com uma antecedência mínima de um mês, devendo informar os mesmos do direito a rescindirem o contrato sem qualquer penalidade no caso de não-aceitação das novas condições, no prazo razoável definido no contrato.
+As entidades referidas no n.º 1 do presente artigo devem enviar os respectivos contratos de adesão ao Órgão Regulador das Comunicações Electrónicas.
+É da responsabilidade do Órgão Regulador das Comunicações Electrónicas pormenorizar os elementos mínimos dos contratos referidos no n.º 1 do presente artigo.
+Artigo 47.º (Suspensão e Cessação de Serviços a Assinantes Concretos)
+Sem prejuízo do disposto no n.º 4 do presente artigo, os operadores de comunicações electrónicas acessíveis ao público apenas podem suspender a prestação dos respectivos serviços, em caso de incumprimento do assinante, após pré-aviso mínimo de 8 (oito) dias.
+Caso seja possível em termos técnicos, a suspensão deve limitar-se ao serviço em causa.
+Durante o período de suspensão e até à extinção do serviço, deve ser garantido ao assinante o acesso a chamadas que não impliquem custos, nomeadamente, as realizadas para o número único de emergência.
+Em casos de fraude ou de pagamento sistematicamente atrasado ou em falta, os operadores de comunicações electrónicas acessíveis ao público podem cessar a prestação dos respectivos serviços sem que seja necessário suspender provisoriamente a prestação, desde que avisem o assinante com a antecedência mínima de 8 (oito) dias.
+Artigo 48.º (Cessação Geral da Oferta)
+A cessação, a título definitivo, da oferta de redes ou serviços de comunicações electrónicas acessíveis ao público deve ser comunicada aos respectivos assinantes e ao Órgão Regulador das Comunicações Electrónicas, de uma forma adequada, com uma antecedência mínima de 60 (sessenta) dias.
+Os operadores de comunicações electrónicas devem diligenciar no sentido de assegurar uma alternativa aos seus assinantes, se necessário, em cooperação com o Órgão Regulador das Comunicações Electrónicas.
+Artigo 49.º (Diferendos entre Operadores e Assinantes)
+Os operadores de comunicações electrónicas acessíveis ao público devem estabelecer um mecanismo de resolução das reclamações dos seus assinantes e devem publicitar tais mecanismos, devendo ainda providenciar, a título gratuito, uma explicação desses procedimentos a qualquer pessoa que assim o solicite.
+O Órgão Regulador das Comunicações Electrónicas pode exigir de qualquer uma das entidades acima referidas a modificação dos seus mecanismos de resolução das reclamações e litígios.
+Artigo 50.º (Barramento de Serviços de Áudio-texto)
+Os operadores de comunicações electrónicas, que prestem serviços de suporte a produtos de áudio-texto, devem garantir, como regra, que o acesso à estes se encontre originariamente barrado sem quaisquer encargos para os seus assinantes, só podendo ser activado, genérica ou selectivamente, após pedido escrito efectuado pelos respectivos assinantes.
+Exceptua-se do disposto no número anterior os serviços de áudio-texto de interesse público, como o televoto.
+Artigo 51.º (Número Único de Emergência)
+Constitui direito dos utilizadores de serviços telefónicos acessíveis ao público, incluindo os utilizadores de postos públicos, aceder gratuitamente aos serviços de emergência.
+Na medida em que tal seja tecnicamente viável, as entidades que oferecem redes ou serviços telefónicos acessíveis ao público devem disponibilizar às autoridades responsáveis pelos serviços de emergência as informações sobre a localização do originador da chamada.
+Artigo 52.º (Portabilidade dos Números)
+É garantido a todos os assinantes de serviços telefónicos acessíveis ao público, que o solicitem, o direito de manterem o seu número ou números, no âmbito do mesmo serviço, em caso de mudança de operador, no caso de números geográficos, num determinado local, e no caso dos restantes números, em todo o território nacional.
+Compete ao Órgão Regulador das Comunicações Electrónicas garantir que os operadores de comunicações electrónicas disponibilizem aos assinantes informações adequadas e transparentes sobre os preços aplicáveis às operações de portabilidade, bem como às chamadas para números portados.
+É da responsabilidade do Órgão Regulador das Comunicações Electrónicas determinar as regras necessárias à execução do processo de portabilidade de números.
+SECÇÃO III ACESSO E INTERLIGAÇÃO
+Artigo 53.º (Regras Gerais)
+A interligação entre redes públicas de comunicações electrónicas é obrigatória.
+Compete à Autoridade das Comunicações Electrónicas a criação de um ponto de convergência nacional de comunicações e serviços onde todos os operadores de comunicações electrónicas acessíveis ao público devem estar obrigatoriamente conectados.
+A interligação entre as várias redes públicas de comunicações electrónicas deve resultar numa rede nacional de comunicações electrónicas plenamente integrada e com acessibilidade universal, para benefício dos seus utilizadores e do público em geral.
+O acesso aos recursos e serviços de qualquer rede pública de comunicações electrónicas deve ser concedido numa base não discriminatória e equitativa.
+Sem prejuízo das competências do Órgão Regulador das Comunicações Electrónicas e das suas deliberações, os operadores de comunicações electrónicas são livres de negociar e acordar entre si modalidades técnicas e comerciais de acesso e interligação.
+Os serviços de acesso e interligação devem ser prestados em termos não discriminatórios e transparentes.
+Os preços dos serviços de interligação não podem constituir uma barreira à livre comunicação entre utilizadores de diferentes operadores de comunicações electrónicas acessíveis ao público.
+Toda e qualquer recusa de um pedido de interligação deve ser expressamente fundamentada.
+Na falta de acordo, qualquer operador pode remeter o caso para o Órgão Regulador das Comunicações Electrónicas, para que seja tomada uma decisão vinculativa nos termos do artigo seguinte.
+Os acordos de interligação celebrados devem ser enviados ao Órgão Regulador das Comunicações Electrónicas, garantindo este a confidencialidade dos mesmos.
+Artigo 54.º (Competências do Órgão Regulador das Comunicações Electrónicas)
+De forma a garantir o acesso e a interligação nos termos previstos neste Regulamento, compete ao Órgão Regulador das Comunicações Electrónicas:
+a)- Incentivar o acesso e a interligação, assim como a interoperabilidade de serviços, tendo em vista promover a eficiência e a concorrência sustentável e proporcionar o máximo de benefício aos utilizadores;
+b)- Determinar as obrigações em matéria de acesso e interligação aos operadores de comunicações electrónicas, incluindo no que se refere os acordos já celebrados;
+c)- Assegurar a disponibilidade de interligação em todos os pontos em que tal seja tecnicamente viável;
+d)- Intervir, a pedido ou por iniciativa própria, em caso de falta de acordo entre os operadores, a fim de garantir o cumprimento dos objectivos referidos no artigo 4.º do presente Regulamento.
+Os operadores de comunicações electrónicas visados devem cumprir as determinações do Órgão Regulador das Comunicações Electrónicas, na forma, modo e prazo estabelecidos.
+Compete à Autoridade das Comunicações Electrónicas responsável detalhar, em Diploma próprio, os requisitos técnicos, procedimentais e as modalidades de interligação entre as diferentes redes, incluindo regras sobre IP.
+Artigo 55.º (Propriedade do Tráfego)
+Salvo acordo em contrário, a propriedade do tráfego pertence à entidade que explora a rede ou presta o serviço de comunicações electrónicas onde o tráfego é originado, podendo o respectivo encaminhamento, bem como o ponto de entrega, ser livremente negociado entre as partes.
+
+Artigo 56.º (Confidencialidade)
+1.Os operadores de comunicações electrónicas devem respeitar a confidencialidade das informações recebidas, transmitidas ou armazenadas na negociação e durante a execução de acordos de acesso ou interligação e utilizá-las exclusivamente para os fins a que se destinam. 2. As informações recebidas não devem ser transmitidas a outras partes, incluindo outros departamentos, filiais ou empresas associadas, relativamente às quais o conhecimento destas possa constituir uma vantagem competitiva. 3. O disposto nos números anteriores não prejudica o exercício dos poderes de supervisão e fiscalização do Órgão Regulador das Comunicações Electrónicas.
+
+SECÇÃO IV PARTILHA DE LOCAIS E RECURSOS
+Artigo 57.º (Acordos de Partilha)
+Os operadores de comunicações electrónicas devem promover entre si a celebração de acordos com vista à partilha de locais, recursos instalados ou a instalar, e infra-estruturas.
+Artigo 58.º (Obrigatoriedade de Partilha)
+O Órgão Regulador das Comunicações Electrónicas pode determinar a partilha de locais, recursos ou infra-estruturas indicadas no número anterior sempre que, por razões relacionadas com a protecção do ambiente, a saúde ou a segurança pública, o património cultural, o ordenamento do território e a defesa da paisagem urbana e rural não existam alternativas viáveis numa situação concreta à instalação de novas infra-estruturas, ou seja excepcionalmente oneroso assegurar tal instalação, independentemente da respectiva titularidade sobre tais recursos ou infra-estruturas.
+No caso mencionado no número anterior, as determinações emitidas pelo Órgão Regulador das Comunicações Electrónicas podem incluir regras de repartição de espaços e custos, sempre tendo em atenção os objectivos indicados no artigo 4.º do presente Regulamento.
+As medidas tomadas pelo Órgão Regulador das Comunicações Electrónicas ao abrigo do presente artigo devem ser objectivas, transparentes, não discriminatórias e proporcionais e devem, sempre que adequado, ser aplicadas em coordenação com as autoridades locais.
+SECÇÃO V EQUIPAMENTOS DE TELECOMUNICAÇÕES
+Artigo 59.º (Colocação no Mercado)
+A importação, fabrico, venda, revenda e a simples cedência de equipamentos de rádio e equipamentos de telecomunicações está sujeita às condições estabelecidas na lei.
+Compete ao Órgão Regulador das Comunicações Electrónicas estabelecer e assegurar o cumprimento dos requisitos técnicos necessários, tendo em consideração os seguintes factores:
+a)- Atender aos padrões internacionais aplicáveis, tendo em conta à saúde ambiental, segurança, limites e níveis de radiação e emissões electromagnéticas;
+b)- Garantir a protecção da saúde pública e a integridade das redes públicas de comunicações electrónicas;
+c)- Assegurar a utilização do espectro de forma efectiva e eficiente;
+d)- Garantir a compatibilidade técnica com as redes.
+Artigo 60.º (Equipamentos Terminais)
+Os equipamentos destinados a serem ligados, directa ou indirectamente, às redes públicas de comunicações electrónicas devem ser objecto de certificação de conformidade destinada a salvaguardar a integridade dessas redes e a adequada interoperabilidade dos serviços.
+Os operadores de comunicações electrónicas devem assegurar ligações adequadas aos pontos terminais das suas redes, independentemente de o equipamento terminal ser ou não da propriedade do assinante.
+Artigo 61.º (Manutenção)
+A prestação de serviços de instalação e de manutenção de equipamentos de rádio e de equipamentos de telecomunicações de uso público só pode ser efectuada por entidades, singulares ou colectivas, com a necessária qualificação técnica e devidamente autorizados pelo Órgão Regulador das Comunicações Electrónicas.
+
+SECÇÃO VI Conteúdos Audiovisuais
+Artigo 62.º (Transmissão de Conteúdos Audiovisuais)
+Os operadores de redes públicas de comunicações electrónicas devem garantir os requisitos técnicos e a neutralidade tecnológica da sua rede para a transmissão de conteúdos audiovisuais em condições adequadas e, sempre que possível, de forma a permitir a interactividade dos conteúdos.
+A emissão e recepção de conteúdos audiovisuais através da televisão em mobilidade obedecem às regras estabelecidas pelo Órgão Regulador das Comunicações Electrónicas.
+Os operadores de comunicações electrónicas podem transmitir conteúdos audiovisuais através de televisão em alta definição, salvaguardando a compatibilização dos programas e dos conteúdos de resolução tradicionais, dentro do limite da capacidade técnica.
+Artigo 63.º (Serviços de Televisão Digital)
+Para promover o livre fluxo de informações, o pluralismo dos meios de comunicação e a diversidade cultural:
+a)- Os fornecedores de serviços de televisão devem favorecer a utilização de uma Interface de Programas de Aplicação (IPA) aberta;
+b)- Os fornecedores de equipamentos utilizados para a recepção de serviços de televisão digital interactiva devem favorecer a conformidade com uma IPA aberta de acordo com os requisitos mínimos das normas ou especificações pertinentes;
+c)- Os fornecedores de serviços e equipamentos de televisão digital devem cooperar na oferta de serviços de televisão interoperáveis para os utilizadores finais com deficiência.
+Para efeitos do disposto no número um do presente artigo, as entidades referenciadas devem cumprir as regras em matéria de normalização adoptadas pelo Órgão Regulador das Comunicações Electrónicas ou por outro organismo público.
+Os equipamentos de consumo destinados à recepção de sinais de televisão digital com capacidade para descodificar aqueles sinais, colocados no mercado para venda, aluguer ou postos à disposição de qualquer outra forma, devem possuir capacidade para permitir a descodificação dos sinais de televisão digital de acordo com o padrão de televisão digital terrestre escolhido para o território nacional.
+Artigo 64.º (Dispositivos Ilícitos)
+São proibidas as seguintes actividades:
+
+a)- Fabrico, importação, distribuição, venda, locação ou detenção, para fins comerciais, de dispositivos ilícitos;
+b)- Instalação, manutenção ou substituição, para fins comerciais, de dispositivos ilícitos;
+c)- Utilização de publicidade para a promoção de dispositivos ilícitos;
+d)- Aquisição, utilização, propriedade ou mera detenção, a qualquer título, de dispositivos ilícitos para fins privados do adquirente, do utilizador, do proprietário ou do detentor, bem como de terceiro.
+TÍTULO III REGULAÇÃO
+CAPÍTULO I REGULAÇÃO DE PREÇOS E REGIME DE TARIFAÇÃO
+Artigo 65.º (Objectivos de Regulação)
+Os objectivos de regulação do Sector das Comunicações Electrónicas são os definidos na Lei n.º 23/11, de 20 de Junho e no presente Regulamento.
+Compete à Autoridade das Comunicações Electrónicas detalhar, periodicamente, as linhas de orientação gerais da política de regulação para o Sector das Comunicações Electrónicas.
+Sem prejuízo do disposto nos números anteriores e das competências de outras entidades, o Sector das Comunicações Electrónicas, bem como os recursos do domínio público relacionados com o sector, são supervisionados e fiscalizados pelo órgão regulador.
+Artigo 66.º (Princípios Gerais de Regulação Assimétrica)
+A regulação assimétrica e a imposição de condições específicas previstas no artigo 33.º do presente Regulamento têm por finalidade assegurar, em especial, a promoção dos seguintes objectivos:
+
+a)- Eliminar as barreiras ou obstáculos à entrada no mercado;
+b)- Promover a concorrência na oferta de redes e serviços de comunicações electrónicas;
+c)- Garantir a interoperabilidade entre redes públicas de comunicações electrónicas;
+d)- Combater as práticas restritivas da concorrência;
+e)- Garantir a prestação do serviço universal.
+Artigo 67.º (Preços e Operadores Sujeitos à Regulação)
+Os preços supervisionados pelo Órgão Regulador das Comunicações Electrónicas, nos termos do presente Regulamento, compreendem as seguintes categorias gerais:
+a)- Preços de venda ao público;
+b)- Preços praticados entre os operadores de comunicações electrónicas.
+O regime de regulação de preços previsto neste Regulamento aplica-se a todos os operadores de comunicações electrónicas.
+São gratuitos os seguintes serviços de:
+a)- Emergência;
+b)- Reclamação e informação do operador;
+c)- Consulta a débitos e créditos resultantes da facturação do serviço;
+d)- Serviço de consultas telefónicas;
+e)- Consulta ao correio de voz.
+Artigo 68.º (Regulação e Sistema de Preços)
+Os princípios, critérios e metodologia de regulação de preços no Sector das Comunicações Electrónicas são fixados pelos titulares dos departamentos ministeriais que superintendem as comunicações electrónicas e as finanças.
+Para garantir a eficiência da regulação e sistema de preços do Sector das Comunicações Electrónicas é criado o Comité de Preços das Comunicações Electrónicas, cuja organização e funcionamento são fixadas por Decreto Executivo Conjunto.
+Para efeitos do disposto no n.º 1, o sistema de preços dos serviços de comunicações electrónicas acessíveis ao público deve obedecer à aplicação dos seguintes princípios:
+a)- Orientação para os custos da prestação de serviços, incluindo mecanismos de controlo de preços, devidamente demonstrado por um sistema de contabilidade analítica, em que a estrutura de preços dos serviços reflicta a estrutura de custos a que está associada;
+b)- Não discriminação na sua aplicação, garantindo que a todos os utilizadores, em igualdade de circunstâncias, seja conferida igualdade de tratamento;
+c)- Uniformidade na aplicação do regime tarifário em vigor;
+d)- Simplicidade das tarifas nacionais;
+e)- Transparência, através da disponibilização detalhada dos vários componentes dos preços cobrados;
+f)- A abstenção da prática de subsidiar o cruzamento entre serviços de telecomunicações.
+Compete ao Órgão Regulador das Comunicações Electrónicas implementar os princípios, critérios e metodologia de regulação dos preços no Sector das Comunicações Electrónicas fixados nos termos do n.º 1.
+Os operadores de comunicações electrónicas acessíveis ao público obrigam-se a apresentar um plano do qual resulte a adequação da sua estrutura financeira aos princípios enunciados no número anterior, nomeadamente no que respeita às delimitações geográficas das zonas de preços, atendendo a parâmetros de uniformização e racionalidade económica.
+Compete ao Órgão Regulador das Comunicações Electrónicas assegurar o acesso e a utilização da rede básica e das ofertas de rede aberta pelos operadores de comunicações electrónicas acessíveis ao público através de um tarifário adequado, justo e uniforme.
+Artigo 69.º (Tarifação)
+Pela prestação de serviços de comunicações electrónicas tarifados em unidades de tempo, os operadores e provedores de serviço obrigam-se à taxação cronometrada ao segundo.
+A facturação dos serviços de comunicações electrónicas acessíveis ao público deve efectuar- se por registos automáticos informatizados, sendo da competência do Órgão Regulador das Comunicações Electrónicas a verificação dos sistemas de tarifação e facturação.
+Constitui obrigação dos provedores de serviços de comunicações electrónicas públicos harmonizar os seus sistemas de facturação ao sistema nacional de pagamentos.
+CAPÍTULO II REGULAÇÃO DA QUALIDADE
+Artigo 70.º (Regulação da Qualidade de Serviço)
+A regulação da qualidade de serviço tem por objectivo, promover a melhoria da relação entre preço e qualidade.
+Os operadores de comunicações electrónicas acessíveis ao público, incluindo os prestadores de serviço universal, são obrigados a publicar informações comparáveis, claras, completas e actualizadas sobre a qualidade do serviço que prestam.
+Ao Órgão Regulador das Comunicações Electrónicas compete definir e implementar um sistema de acompanhamento e vigilância da qualidade de serviço dos operadores presentes no mercado, intervindo sempre que necessário para corrigir comportamentos contrários ao disposto na lei e no presente Regulamento.
+Compete ao Órgão Regulador das Comunicações Electrónicas no âmbito do sistema de acompanhamento e vigilância, o seguinte:
+a)- Recolher e tratar a informação estatística sobre a qualidade de serviço;
+b)- Elaborar um relatório trimestral sobre a qualidade de serviço das comunicações electrónicas e torná-lo acessível gratuitamente ao público;
+c)- Fornecer informação sobre a qualidade de serviço a outros departamentos ministeriais.
+CAPÍTULO III OFERTA DE REDE ABERTA
+SECÇÃO I REGIME JURÍDICO
+Artigo 71.º (Oferta de Rede Aberta)
+São beneficiários da oferta de rede aberta todos os operadores de comunicações electrónicas acessíveis ao público que cumpram o disposto no presente Regulamento e na respectiva legislação em vigor.
+A entidade concessionária da rede básica fica obrigada a cumprir o disposto no presente Regulamento e a assegurar a execução dos objectivos subjacentes à oferta de rede aberta.
+Artigo 72.º (Ofertas de Referência)
+Para garantir a efectividade da oferta de rede aberta, a concessionária da rede básica fica obrigada a elaborar e publicar, nos casos indicados no presente Título, uma oferta de referência.
+Sem prejuízo de outras obrigações indicadas neste Regulamento, as ofertas de referência devem:
+a)- Respeitar os princípios da transparência, adequação e não discriminação;
+b)- Respeitar a oferta de preços por serviços de forma transparente e uniforme a todos os beneficiários de um determinado serviço;
+c)- Conter, no mínimo, informação detalhada sobre os serviços oferecidos, características técnicas, os preços aplicáveis, os níveis de qualidade oferecidos, penalidades aplicáveis em caso de incumprimento e as condições contratuais a aplicar;
+d)- Ser suficientemente desagregadas de modo a assegurar que os beneficiários não são obrigados a pagar por recursos ou serviços de que não necessitem;
+e)- Estar permanentemente disponíveis para acesso por parte dos potenciais beneficiários, devendo ser periodicamente actualizadas, por iniciativa da concessionária da rede básica ou do Órgão Regulador das Comunicações Electrónicas.
+Compete ao Órgão Regulador das Comunicações Electrónicas especificar os elementos mínimos que devem constar de cada oferta de referência, detalhando as informações exactas a disponibilizar, o nível de pormenor exigido e o modo de publicitação e, ainda, fiscalizar o seu cumprimento.
+O Órgão Regulador das Comunicações Electrónicas pode ainda determinar:
+a)- Alterações às ofertas de referências publicitadas a qualquer tempo e, se necessário, com efeito retroactivo;
+b)- A incorporação imediata nos acordos celebrados das alterações impostas, desde que as mesmas sejam de conteúdo certo e suficiente;
+c)- A aplicação de princípios tarifários compatíveis com os objectivos referidos no artigo 4.º, devendo sempre ser assegurada uma rentabilidade razoável sobre o capital investido, tendo em conta os riscos incorridos.
+Artigo 73.º (Procedimento de Aprovação das Ofertas de Referência)
+As ofertas de referências, incluindo as respectivas alterações, devem ser enviadas, para aprovação, ao Órgão Regulador das Comunicações Electrónicas.
+O Órgão Regulador das Comunicações Electrónicas deve pronunciar-se sobre o projecto enviado no prazo de 30 (trinta) dias a contar da data da recepção, podendo determinar a introdução de modificações de forma a garantir o cumprimento dos objectivos indicados no presente Regulamento.
+No caso de indicação de alterações a introduzir na oferta de referência, interrompe-se o prazo previsto no n.º 2 do presente artigo, recomeçando a contar aquando da apresentação de nova proposta.
+Sem prejuízo da prerrogativa do Órgão Regulador das Comunicações Electrónicas estabelecida no n.º 4 do artigo anterior, na falta de decisão no prazo referido no número anterior, considera-se o projecto de oferta de referência, ou as suas alterações, aprovado.
+Artigo 74.º (Oferta de Rede Aberta e Natureza da Rede Básica)
+Os serviços da oferta de rede aberta devem respeitar a natureza da rede básica, competindo ao Órgão Regulador das Comunicações Electrónicas e à concessionária garantir que a utilização da referida rede e dos seus componentes, por parte dos beneficiários, não altere nem modifique a sua natureza.
+
+SECÇÃO II SERVIÇOS DA OFERTA DE REDE ABERTA
+SUBSECÇÃO I INTERLIGAÇÃO E ACESSO
+Artigo 75.º (Obrigações de Interligação)
+A concessionária da rede básica fica obrigada a prestar serviços de interligação aos restantes operadores.
+O Órgão Regulador das Comunicações Electrónicas deve assegurar a disponibilidade de interligação em todos os pontos da rede básica em que seja tecnicamente viável.
+Constituem obrigações específicas da concessionária da rede básica:
+a)- Respeitar os princípios da transparência e orientação para os custos na fixação dos preços de interligação;
+b)- Fixar e publicitar, de forma detalhada, os vários componentes dos preços de interligação cobrados;
+c)- Publicar uma oferta de referência, nos termos exigidos no presente Regulamento;
+d)- Dispor de contabilidade separada para a actividade de interligação, por um lado, e para as outras actividades, por outro, devendo a primeira incluir os serviços de interligação prestados à própria entidade e os serviços prestados a outras entidades;
+e)- Dispor de um sistema de contabilidade analítica para a actividade de interligação:
+ef)- Dispor de interface para conexão com os órgãos judiciais, de segurança e ordem pública.
+Para efeitos do disposto na alínea a) do número anterior, compete à entidade que oferece a interligação demonstrar que os preços de interligação são calculados a partir dos custos reais do serviço, incluindo uma taxa razoável de remuneração do capital investido, tendo em conta os riscos assumidos.
+O Órgão Regulador das Comunicações Electrónicas pode solicitar à entidade que oferece a interligação que justifique os preços de interligação praticados e, quando adequado, pode determinar o seu ajustamento aos custos, com base na informação da contabilidade analítica.
+Para efeitos do disposto na alínea d) do n.º 1, a contabilidade da interligação deve identificar todos os custos e proveitos relativos a esta actividade, incluindo uma discriminação dos custos de estrutura e os associados aos activos fixos, bem como identificar pormenorizadamente as bases dos cálculos efectuados e os métodos de afectação utilizados na obtenção daquela informação.
+Artigo 76.º (Outras Obrigações de Acesso)
+De forma a garantir o cumprimento dos objectivos mencionados no artigo 4.º do presente Regulamento e as finalidades da rede básica, o Órgão Regulador das Comunicações Electrónicas pode, desde que o faça de forma fundamentada, objectiva e razoável, impor outras obrigações de acesso e interligação para além das previstas nesta secção, nomeadamente obrigações de partilha de recursos e serviços conexos.
+
+SUBSECÇÃO II CIRCUITOS ALUGADOS
+Artigo 77.º (Oferta de Circuitos Alugados)
+A empresa concessionária da rede básica fica obrigada a disponibilizar uma oferta de circuitos alugados.
+Compete ao Órgão Regulador das Comunicações Electrónicas definir as condições da oferta de circuitos alugados nos termos exigidos neste Regulamento.
+Os preços a cobrar pelo fornecimento de circuitos, bem como os descontos a realizar, devem obedecer aos princípios fundamentais de orientação para os custos, da transparência e da não discriminação.
+Deve ser implementado um sistema de contabilidade analítica adequado à aplicação do sistema de preços previsto no artigo anterior, sendo da responsabilidade do Órgão Regulador das Comunicações Electrónicas a sua aprovação.
+CAPÍTULO IV OPERADORES COM PODER DE MERCADO SIGNIFICATIVO
+Artigo 78.º (Requisitos Gerais)
+Compete ao Órgão Regulador das Comunicações Electrónicas determinar, declarar e publicar, anualmente, a lista dos operadores que dispõem de poder de mercado significativo, com base numa avaliação, de direito e de facto, realizada segundo os seguintes critérios:
+a)- Capacidade de influenciar as condições de mercado;
+b)- Quotas de mercado;
+c)- Relação entre o volume de vendas e a dimensão de mercado;
+d)- Controlo de meios de acesso aos utilizadores finais;
+e)- Facilidade de acesso a recursos financeiros.
+Podem ser declaradas com poder de mercado significativo duas ou mais empresas que actuam concertadamente num mercado (ou região) ou um conjunto de empresas que, embora juridicamente distintas, mantêm entre si laços de interdependência ou subordinação.
+Sem prejuízo do disposto no n.º 1 do presente artigo, caso se verifiquem alterações significativas nas condições de direito e de facto que estiveram na base da definição dos operadores com poder de mercado significativo, pode o Órgão Regulador das Comunicações electrónicas, antes de decorrido um ano sobre a última declaração, reavaliar o poder de mercado de determinado operador, publicando uma nova lista.
+Para efeitos do disposto nos números anteriores, devem os operadores, anualmente, até ao termo do mês de Junho, remeter ao Órgão Regulador das Comunicações Electrónicas o relatório de gestão e contas do exercício referentes ao ano anterior ou, na falta deste, declaração anual de rendimentos apresentada para efeitos fiscais, nos termos a definir pelo Órgão Regulador das Comunicações Electrónicas, bem como os demais elementos que para o efeito lhes sejam solicitados.
+Artigo 79.º (Obrigações)
+Os operadores com poder de mercado significativo podem ficar obrigados a prestar os serviços de interligação e acesso referidos no capítulo anterior.
+Para além do que se dispõe no artigo 68.º do presente Regulamento, os operadores com poder de mercado significativo podem ficar sujeitos a obrigações mais específicas de regulação de preços, nomeadamente nos mercados grossistas.
+Compete ao Órgão Regulador das Comunicações Electrónicas elaborar e determinar as obrigações a impor aos operadores com poder de mercado significativo, devendo fazê-lo de forma objectiva, transparente, não discriminatória, proporcional e adequada, atendendo à actividade prosseguida, devendo assegurar uma taxa razoável de rendibilidade sobre o capital investido, tendo em conta os riscos incorridos.
+TÍTULO IV FREQUÊNCIAS E NUMERAÇÃO
+CAPÍTULO I FREQUÊNCIAS
+Artigo 80.º (Âmbito)
+A atribuição e gozo de direitos individuais de utilização de frequências ou de recursos de numeração ficam sujeitas ao disposto no presente Título.
+
+Artigo 81.º (Domínio Público Radioeléctrico)
+Por Diploma próprio do Titular do Poder Executivo é definido o Plano Nacional de Frequências (PNF), o qual deve conter, pelo menos:
+a)- Faixas de frequência e o número de canais já consignados, incluindo o período de atribuição e a data de termo;
+b)- Faixas de frequências reservadas e as disponíveis;
+c)- Frequências livres.
+As faixas de frequências consignadas ou reservadas no PNF para as forças armadas, serviços de segurança e de ordem pública não devem ser do domínio público.
+A planificação de frequências deve obedecer a critérios de concorrência, garantia de utilização efectiva e eficiente e maximização da disponibilidade de recursos espectrais.
+A administração, gestão e controlo do domínio público radioeléctrico compete ao Órgão Regulador das Comunicações Electrónicas, sem prejuízo das competências do Titular do Poder Executivo previstas neste Regulamento.
+No âmbito das suas atribuições de administração e de gestão, o Órgão Regulador das Comunicações electrónicas é responsável por:
+a)- Definir as condições de utilização e recuperação de direitos de utilização individual;
+b)- Atribuir os direitos de utilização individual;
+c)- Promover a actualização e a publicitação periódica do PNF;
+d)- Em casos justificados, revogar os direitos de utilização individual.
+No âmbito das suas competências de controlo, compete ao Órgão Regulador das Comunicações Electrónicas:
+a)- Fiscalizar o cumprimento das condições associadas à utilização de frequências;
+b)- Identificar e eliminar interferências prejudiciais, irregularidades ou perturbações no funcionamento das redes ou serviços de comunicações electrónicas;
+c)- Identificar e diligenciar no sentido de cessarem as emissões não autorizadas.
+Artigo 82.º (Utilização do Domínio Público Radioeléctrico)
+A utilização do domínio público radioeléctrico está dependente da atribuição de direitos de utilização individual quando tal estiver identificado no PNF.
+Compete ao Titular do Poder Executivo autorizar a atribuição das faixas de frequências que pelo seu valor, pela sua relevância, por limitações de disponibilização ou por outros imperativos técnicos se revestem de importância essencial para a economia nacional.
+Para efeitos do disposto no número anterior, compete ao Titular do Poder Executivo, auxiliado pelo Órgão Regulador das Comunicações Electrónicas, decidir os casos em que as faixas de frequências se revestem de importância essencial para a economia nacional.
+A limitação do número de direitos de utilização a atribuir apenas é admissível quando tal seja necessário para garantir a utilização eficiente e eficaz do domínio público radioeléctrico, em termos económicos ou técnicos.
+A limitação do número de direito de utilização deve ter em atenção os objectivos indicados no artigo 4.º do presente Regulamento.
+Sem prejuízo do disposto na alínea b) do n.º 1 e no n.º 2 do artigo 81.º, quando o número de direitos de utilização for limitado, os procedimentos e critérios de atribuição devem ser transparentes, objectivos e proporcionais.
+O disposto no n.º 1 do presente artigo não se aplica às frequências livres, como tal identificadas no PNF, nem às frequências reservadas para os serviços de defesa, segurança e emergência, os quais seguem o disposto em legislação especial.
+A utilização de frequências livres e de frequências reservadas para os serviços de defesa, segurança e emergência, deve sempre cumprir com requisitos gerais de exploração, como sejam a não produção de interferências prejudiciais e a limitação da exposição da população a campos electromagnéticos.
+Artigo 83.º (Redes e Estações de Radiocomunicações)
+Nenhuma rede ou estação de radiocomunicações pode ser explorada sem a competente autorização do Órgão Regulador das Comunicações Electrónicas, com excepção das redes e estações para fins militares, de segurança e de emergência.
+O regime aplicável ao licenciamento de redes e estações de radiocomunicações e à fiscalização das referidas estações é definido em Diploma próprio da Autoridade das Comunicações Electrónicas.
+As estações de radiocomunicações localizadas em embaixadas ou representações permanentes são consideradas, para efeito de aplicação da legislação nacional, como estabelecidas em território nacional e ficam sujeitas a licenciamento.
+Quando especiais razões de interesse público o requeiram, e sempre de modo fundamentado, a Autoridade das Comunicações Electrónicas pode determinar a suspensão, por tempo indeterminado, de estações ou redes de radiocomunicações.
+CAPÍTULO II NUMERAÇÃO
+Artigo 84.º (Recursos de Numeração)
+No domínio da planificação dos recursos de numeração, compete ao Titular do Poder Executivo:
+a)- Definir as linhas orientadoras e os princípios gerais do Plano Nacional de Numeração
+(PNN);
+b)- Aprovar o PNN do qual deve constar, no mínimo, os recursos atribuídos, as entidades beneficiárias e os recursos disponíveis.
+A planificação da numeração deve obedecer a critérios de concorrência, garantia de utilização efectiva e eficiente e maximização da disponibilidade deste tipo de recursos.
+Os recursos de numeração associados aos serviços de segurança nacional não constam do
+PNN.
+A administração, gestão e controlo dos recursos de numeração pertence ao Órgão Regulador das Comunicações Electrónicas, sem prejuízo das competências do Titular do Poder Executivo previstas neste Regulamento.
+No âmbito das suas atribuições de administração e gestão, compete ao Órgão Regulador das Comunicações Electrónicas:
+a)- Gerir o PNN, incluindo a definição das condições de utilização e de recuperação dos recursos de numeração;
+b)- Atribuir os direitos de utilização individual de numeração;
+c)- Promover a publicação e a actualização periódica do PNN e dos seus princípios gerais:
+ed)- Revogar os direitos de utilização individual de números, em casos justificados.
+No âmbito das atribuições de controlo, compete ao Órgão Regulador das Comunicações Electrónicas:
+a)- Fiscalizar o cumprimento das condições associadas à utilização de recursos de numeração:
+b)- Garantir a inexistência de irregularidades e interferências na utilização de recursos de numeração.
+Artigo 85.º (Utilização de Recursos de Numeração)
+A utilização de recursos de numeração está dependente da atribuição de direitos de utilização individual.
+Compete ao Titular do Poder Executivo autorizar a atribuição dos recursos de numeração que pelo seu valor, pela sua relevância, por limitações de disponibilização ou por outros imperativos técnicos se revestem de importância essencial para a economia nacional.
+Para efeitos do disposto no número anterior, compete ao Titular do Poder Executivo, auxiliado pelo Órgão Regulador das Comunicações Electrónicas, decidir os casos em que os recursos de numeração se revestem de importância essencial para a economia nacional.
+CAPÍTULO III DIREITOS DE UTILIZAÇÃO INDIVIDUAL DE FREQUÊNCIAS E NUMERAÇÃO
+Artigo 86.º (Procedimentos de Atribuição dos Direitos de Utilização Individual)
+Os direitos de utilização individual de frequências ou de números são atribuídos, alternativamente:
+a)- Através de procedimento concursal, nomeadamente o concurso público ou o leilão;
+b)- Em casos devidamente justificados, através de decisão de atribuição individual a determinada entidade;
+c)- Através de pedido a apresentar ao Órgão Regulador das Comunicações Electrónicas, o qual deve ser apresentado e instruído de acordo com os elementos a definir por esta entidade.
+No caso das faixas de frequências ou de recursos de numeração de importância essencial para a economia nacional, compete ao Titular do Poder Executivo decidir, ao autorizar a sua atribuição, a oportunidade e justificação para a sua atribuição, as condições de atribuição, o procedimento a ser seguido e as condições e objectivos a atingir.
+Nas demais situações não referidas no número anterior, compete ao Órgão Regulador das Comunicações Electrónicas decidir as condições de atribuição e o procedimento a ser seguido.
+Artigo 87.º (Instrução dos Procedimentos)
+A instrução dos procedimentos previstos neste capítulo é da competência dos serviços do Órgão Regulador das Comunicações Electrónicas, incluindo nas situações previstas no n.º 2 do artigo 81.º.
+Nos casos em que a atribuição de direitos individuais de frequências e numeração está sujeita a procedimento concursal, aplicam-se as condições definidas nas respectivas peças do procedimento, que devem ser elaboradas e publicadas pelo Órgão Regulador das Comunicações Electrónicas.
+Nos casos em que o procedimento de atribuição está dependente de pedido a apresentar ao Órgão Regulador das Comunicações Electrónicas, a decisão sobre a atribuição de direitos de utilização individual deve ser proferida no prazo máximo de 30 (trinta) dias a contar da data do pedido.
+O pedido do interessado deve, nomeadamente, ser indeferido no caso de:
+a)- Não instrução com os elementos exigidos por lei ou pelo Órgão Regulador das Comunicações Electrónicas;
+b)- Não cumprimento dos requisitos técnicos, jurídicos e económicos aplicáveis.
+A falta de resposta no prazo referido no n.º 3 equivale a indeferimento do pedido.
+O Órgão Regulador das Comunicações Electrónicas deve emitir um título de atribuição que descreva, em pormenor, os termos e condições aplicáveis ao respectivo direito de utilização individual, de acordo com o definido neste Regulamento.
+Artigo 88.º (Condições Associadas aos Direitos de Utilização Individual)
+Sem prejuízo de outras condições fixadas por lei, os direitos de utilização de frequências e números ficam sujeitos às seguintes condições gerais:
+a)- Utilização efectiva e eficiente dos respectivos recursos;
+b)- Pagamento de taxas de ocupação do espectro e da numeração, a estabelecer através de Diplomas próprios;
+c)- Eventuais compromissos que o titular do direito tenha assumido no decurso de um procedimento concursal;
+d)- Obrigações decorrentes de acordos internacionais que vinculem o Estado angolano:
+ee)- Transmissibilidade dos direitos nos termos do n.º 4 do presente artigo.
+Os direitos de utilização de frequências podem ainda ficar sujeitos às seguintes condições específicas:
+a)- Designação do serviço ou género de rede ou tecnologia para os quais são atribuídos, incluindo, sempre que necessário, a utilização exclusiva de uma frequência para a transmissão de um conteúdo específico;
+b)- Requisitos técnicos e operacionais necessários à não produção de interferências prejudiciais e à limitação da exposição da população a campos electromagnéticos:
+ec)- Duração máxima, sob reserva de alterações introduzidas no PNF.
+Os direitos de utilização de números podem ainda ficar sujeitos às seguintes condições específicas:
+a)- Designação do serviço para o qual o número é utilizado;
+b)- Exigências relativas à portabilidade dos números:
+c)- Não discriminação de outras entidades que prestem serviços de comunicações electrónicas acessíveis ao público no que respeita às sequências de números disponibilizadas para permitir o acesso aos seus serviços.
+Ao atribuir o direito de utilização individual, compete ao Órgão Regulador das Comunicações Electrónicas especificar as condições aplicáveis em cada caso, devendo fazê-lo de forma fundamentada, não discriminatória, transparente, objectiva e adequada.
+Artigo 89.º (Prazo e Renovação dos Direitos de Utilização Individual de Frequências)
+Sem prejuízo do disposto nos números seguintes, os direitos de utilização individual de frequências são atribuídos, em regra, pelo prazo de 10 (dez) anos.
+Os direitos de utilização individual de frequências que sejam abrangidos por um procedimento que envolva igualmente a atribuição de uma concessão são atribuídos pelo prazo de 15 (quinze) anos.
+Os direitos de utilização individuais são renováveis por iguais períodos, mediante pedido do respectivo titular, apresentado ao Órgão Regulador das Comunicações Electrónicas, com uma antecedência mínima de 120 (cento e vinte) dias sobre o termo do prazo de vigência, inicial ou subsequente.
+O Órgão Regulador das Comunicações Electrónicas pode opor-se à renovação do direito de utilização, desde que o faça de forma fundamentada e até um mês antes do termo do respectivo prazo de vigência, valendo a falta de oposição expressa como deferimento do pedido.
+Ao renovar o direito de utilização de frequências, o Órgão Regulador das Comunicações Electrónicas pode alterar as condições de utilização.
+No caso de direitos de utilização que respeitem a faixas de frequências de importância essencial para a economia nacional, a decisão de renovação está dependente de autorização do Titular do Poder Executivo, não se aplicando neste caso a regra de deferimento tácito prevista no n.º 5 deste artigo.
+Artigo 90.º (Prazo dos Direitos de Utilização Individual de Números)
+Os direitos de utilização de números são atribuídos por tempo indeterminado, sem prejuízo da sua suspensão ou extinção nos termos previstos neste Regulamento.
+
+Artigo 91.º (Transmissibilidade)
+É admissível a transmissão, parcial ou total, de direitos de utilização individual, desde que prévia e expressamente autorizada pelo Órgão Regulador das Comunicações Electrónicas.
+Para efeitos do número anterior, o titular do direito de utilização deve comunicar previamente ao Órgão Regulador das Comunicações Electrónicas a sua intenção de transmitir o direito, bem como as condições em que o pretende fazer.
+Incumbe ao Órgão Regulador das Comunicações Electrónicas, ao apreciar o pedido do titular, garantir que:
+a)- A transmissão não provoque distorções de concorrência;
+b)- As frequências ou recursos de numeração continuam a ser utilizados em estrita obediência ao disposto neste Regulamento, nos Diplomas de desenvolvimento e nos respectivos títulos, nomeadamente ao nível da sua utilização efectiva e eficiente e, se aplicável, restrições de exploração;
+c)- A transmissão não viola acordos internacionais que vinculem o Estado angolano no que toca a utilização de frequências ou números.
+O Órgão Regulador das Comunicações Electrónicas deve pronunciar-se sobre o pedido do interessado no prazo de 30 (trinta) dias a contar da data do pedido, podendo determinar, caso seja justificado, as condições necessárias para garantir o cumprimento do disposto neste Regulamento, ou opor-se à transmissão.
+A decisão do Órgão Regulador das Comunicações Electrónicas deve ser sempre fundamentada e notificado ao interessado.
+A falta de decisão do Órgão Regulador das Comunicações Electrónicas no prazo referido no n.º 4 deste artigo equivale a indeferimento do pedido.
+No caso de direitos de utilização que respeitem a faixas de frequências de importância essencial para a economia nacional, a decisão de não oposição por parte do Órgão Regulador das Comunicações Electrónicas está dependente de autorização do Titular do Poder Executivo.
+Artigo 92.º (Suspensão dos Direitos de Utilização Individual)
+Em caso de interdição para o exercício da actividade, o gozo de direitos de utilização individual fica suspenso durante todo o tempo em que persistir a referida interdição, continuando o respectivo titular obrigado a efectuar o pagamento das respectivas taxas.
+
+Artigo 93.º (Extinção dos Direitos de Utilização Individual)
+Os direitos de utilização individual extinguem-se por caducidade ou revogação.
+Os direitos de utilização caducam, nomeadamente:
+a)- No termo do prazo, não havendo pedido de renovação ou, havendo pedido, no caso de oposição à renovação por parte do Órgão Regulador das Comunicações Electrónicas ou não autorização por parte do Titular do Poder Executivo;
+b)- Aquando da cessação da actividade por parte do respectivo titular;
+c)- Em caso de impossibilidade objectiva para a oferta de redes e serviços de comunicações electrónicas, nomeadamente por extinção do título habilitante.
+Os direitos de utilização podem ainda ser revogados, total ou parcialmente, por decisão fundamentada do Órgão Regulador das Comunicações Electrónicas, em caso de:
+a)- Incumprimento das normas consignadas no presente Regulamento;
+b)- Incumprimento das condições indicadas no respectivo título de atribuição;
+c)- Não exploração por um período igual ou superior a 24 meses, ininterrupto ou intercalado, entendendo-se por não exploração a ausência de prestação de serviços de comunicações electrónicas durante o referido período.
+A revogação dos direitos individuais de utilização não dá lugar ao reembolso das taxas liquidadas até à data da revogação, nem exime o respectivo titular de efectuar o pagamento das taxas que sejam devidas até essa data.
+Em caso de revogação, compete ao Órgão Regulador das Comunicações Electrónicas adoptar as decisões necessárias de forma a garantir a protecção e salvaguarda da concorrência e dos interesses dos assinantes.
+TÍTULO V SERVIÇO UNIVERSAL
+CAPÍTULO I ÂMBITO DO SERVIÇO UNIVERSAL
+Artigo 94.º (Disposições Preliminares)
+O âmbito do serviço universal deve evoluir de forma a acompanhar o progresso da tecnologia, o desenvolvimento do mercado e as modificações da procura, sendo o seu âmbito modificado sempre que tal evolução o justifique.
+Compete ao Titular do Poder Executivo definir periodicamente o conjunto mínimo de serviços que integra o âmbito do serviço universal, de acordo com os princípios referidos no artigo 95.º.
+Compete à Autoridade das Comunicações Electrónicas propor ao Titular do Poder Executivo o conjunto mínimo de serviços que deve integrar, em cada momento, o âmbito do serviço universal, bem como estabelecer os objectivos anuais a atingir.
+Compete ao Órgão Regulador das Comunicações Electrónicas, na prossecução das respectivas atribuições:
+a)- Adoptar as soluções mais eficientes e adequadas para assegurar a realização do serviço universal, no respeito pelos princípios da objectividade, transparência, não discriminação e proporcionalidade;
+b)- Reduzir ao mínimo as distorções de mercado, em especial a prestação de serviços a preços ou em termos e condições que se afastem das condições normais, sem prejuízo da salvaguarda do interesse público;
+c)- Acompanhar e fiscalizar a prestação do serviço universal e assegurar o cumprimento dos objectivos e metas definidos pela Autoridade das Comunicações Electrónicas.
+Todos os operadores de comunicações electrónicas podem ficar sujeitos a obrigações de universalização.
+Artigo 95.º (Âmbito do Serviço Universal)
+O conjunto mínimo de serviços que integra o âmbito do serviço universal deve ser definido atendendo, nomeadamente aos seguintes princípios:
+
+a)- Necessidade de garantir a qualquer utilizador uma ligação às redes de comunicações electrónicas e o acesso a um conjunto mínimo de serviços telefónicos;
+b)- Promover o acesso aos serviços de acesso à internet e transmissão de dados;
+c)- Assegurar um nível de protecção adequado aos utilizadores com necessidades especiais.
+CAPÍTULO II DESIGNAÇÃO DOS PRESTADORES DO SERVIÇO UNIVERSAL
+Artigo 96.º (Mecanismo de Designação dos Prestadores do Serviço Universal)
+O processo de designação dos prestadores do serviço universal deve ser eficaz, objectivo, transparente e não discriminatório, assegurando-se que todas as empresas possam, à partida, ser designadas.
+Compete à Autoridade das Comunicações Electrónicas designar as empresas responsáveis pela prestação.
+Os termos do processo devem, entre outros aspectos, respeitar as condições dispostas na lei sobre o âmbito e conceito do serviço universal, qualidade de serviço e assegurar a oferta de modo economicamente eficiente e juridicamente eficaz em todo o território nacional, assim como os mecanismos de adaptação e revisão do âmbito do serviço universal de acordo com a evolução tecnológica.
+Os termos do processo devem ainda prever prazos e condições de renovação da licença a atribuir e as condições técnicas, financeiras e jurídicas aplicáveis.
+Artigo 97.º (Prestadores do Serviço Universal)
+O serviço universal pode ser prestado por mais do que uma empresa, quer distinguindo as prestações que integram este serviço, quer as zonas geográficas de prestação.
+O procedimento para a designação dos prestadores de serviço universal pode ser através de procedimento autónomo para cada prestação ou pode agregar todas ou algumas prestações caso seja mais eficiente e eficaz em termos económicos e técnicos.
+Os requisitos aplicáveis aos interessados são definidos nos documentos do processo a aprovar pela Autoridade das Comunicações Electrónicas.
+CAPÍTULO III REGIME DE PRESTAÇÃO
+Artigo 98.º (Oferta do Serviço Universal)
+Caso os prestadores do serviço universal considerem que determinado pedido incluído no âmbito do serviço universal não é razoável, devem submeter a questão ao Órgão Regulador das Comunicações Electrónicas, expondo a respectiva fundamentação, para que seja tomada uma decisão vinculativa.
+No âmbito compreendido pelo serviço universal, o lançamento de novos serviços, tarifários ou produtos, ou a alteração dos existentes, está sujeito à aprovação prévia do Órgão Regulador das Comunicações Electrónicas, a qual deve ser decidida no prazo máximo de 30 (trinta) dias a contar da data da notificação pelo respectivo prestador.
+Os prestadores do serviço universal devem disponibilizar ao Órgão Regulador das Comunicações Electrónicas todas as informações relevantes, de forma a determinar o cumprimento das regras impostas neste Regulamento.
+Naquilo que se justificar, são aplicáveis aos prestadores do serviço universal as regras definidas nos Títulos II e III deste Regulamento, nomeadamente ao nível das condições e direitos de prestação de serviços de comunicações electrónicas e ao nível das regras de qualidade de serviço.
+Artigo 99.º (Controlo de Preços)
+Os preços das prestações compreendidas no serviço universal são alvo de regulação por parte do Órgão Regulador das Comunicações Electrónicas.
+Compete ao Órgão Regulador das Comunicações Electrónicas zelar para que seja garantida a acessibilidade dos preços do serviço universal, tendo em conta o índice de preços no consumidor e o rendimento nacional per capita.
+Para efeito do disposto no número anterior, o Órgão Regulador das Comunicações Electrónicas deve avaliar e decidir sobre os meios mais adequados à garantia da acessibilidade dos preços, podendo determinar, entre outros:
+a)- A disponibilização de opções ou pacotes tarifários diferentes dos oferecidos em condições de mercado normais;
+b)- A imposição de limites máximos de preços e a aplicação de tarifas comuns, incluindo o nivelamento geográfico dos preços em todo o território nacional.
+A qualquer momento, o Órgão Regulador das Comunicações Electrónicas pode determinar a alteração das condições praticadas pelos prestadores de serviço universal.
+Sem prejuízo do disposto nos números anteriores, a qualquer momento podem ser definidas outras medidas de apoio aos consumidores com baixos rendimentos ou com necessidade sociais especiais.
+As determinações do Órgão Regulador das Comunicações Electrónicas nesta matéria devem permitir uma taxa razoável de rendibilidade sobre o capital investido, atendendo aos riscos incorridos.
+Artigo 100.º (Controlo de Despesas)
+Para que os assinantes possam verificar e controlar os seus encargos de utilização da rede e dos serviços telefónicos acessíveis ao público a ela associados, os prestadores do serviço universal devem disponibilizar o seguinte conjunto mínimo de recursos e mecanismos:
+a)- Facturação com o nível de detalhe a definir pelo Órgão Regulador das Comunicações Electrónicas;
+b)- Barramento selectivo e gratuito de chamadas, mediante pedido do assinante, competindo ao Órgão Regulador das Comunicações Electrónicas definir os tipos de chamadas susceptíveis de barramento, após audição dos prestadores de serviços de comunicações electrónicas acessíveis ao público;
+c)- Sistemas de pré-pagamento do acesso à rede telefónica pública e da utilização dos serviços telefónicos acessíveis ao público;
+d)- Pagamento escalonado do preço de ligação à rede telefónica pública;
+e)- Outras medidas semelhantes.
+Compete ao Órgão Regulador das Comunicações Electrónicas dispensar a aplicação do número anterior quando verifique que os interesses tutelados pela disponibilização dos recursos e mecanismos neles previstos estão suficientemente acautelados.
+Os prestadores do serviço universal devem estabelecer termos e condições de modo a assegurar que os utilizadores não são obrigados a pagar recursos ou serviços desnecessários para o serviço solicitado.
+CAPÍTULO IV FINANCIAMENTO
+Artigo 101.º (Fundo de Apoio ao Desenvolvimento das Comunicações)
+O suporte financeiro para garantia da prestação do serviço universal é assegurado pelo Fundo de Apoio ao Desenvolvimento das Comunicações (FADCOM).
+Constituem fontes de financiamento do FADCOM, as seguintes:
+a)- Uma quota das receitas do Órgão Regulador das Comunicações Electrónicas, estabelecida por Diploma da Autoridade das Comunicações Electrónicas;
+b)- As receitas resultantes dos pagamentos anuais dos operadores de comunicações electrónicas acessíveis ao público;
+c)- O produto de taxas de juro dos depósitos bancários e de outras aplicações financeiras;
+d)- As receitas obtidas por empréstimos, bem como os rendimentos do FADCOM;
+e)- Os saldos dos exercícios anteriores;
+f)- Quaisquer outras receitas que provenham da sua actividade ou que por lei ou contrato lhe venham a pertencer ou a ser atribuídos, bem como quaisquer subsídios ou outras formas de apoio financeiro.
+No que se refere a alínea b) do disposto no número anterior, os operadores de comunicações electrónicas acessíveis ao público obrigam-se a contribuir para o FADCOM em montante equivalente a 1% das suas receitas brutas referentes ao exercício do ano civil anterior.
+TÍTULO VI TAXAS E REGIME SANCIONATÓRIO
+CAPÍTULO I TAXAS
+Artigo 102.º (Incidência Objectiva e Subjectiva)
+A oferta de redes e serviços de comunicações electrónicas fica sujeita ao pagamento das taxas previstas neste Regulamento.
+Estão sujeitos à taxa os seguintes factos:
+a)- A emissão de título habilitante para o exercício da actividade de operador de comunicações electrónicas;
+b)- O exercício da actividade de operador de comunicações electrónicas;
+c)- A atribuição de direitos de utilização individual de frequências do espectro radioeléctrico;
+d)- A atribuição de direitos de utilização individual de recursos de numeração;
+e)- A emissão dos títulos de atribuição de direitos de utilização individual de frequências e de numeração;
+f)- A utilização de frequências do espectro radioeléctrico;
+g)- A utilização de recursos de numeração.
+O disposto no número anterior não prejudica a aplicação:
+a)- Da contribuição prevista para o FADCOM por parte dos operadores de comunicações electrónicas;
+b)- De taxas específicas aplicáveis ao licenciamento de redes e estações de radiocomunicações;
+c)- De outras taxas que venham a ser previstas em Diplomas de desenvolvimento do regime legal aplicável às actividades dos operadores de comunicações electrónicas;
+d)- De taxas ou montantes específicos que venham a ser definidas no âmbito de procedimentos específicos de atribuição de títulos habilitantes para o exercício da actividade.
+Ficam sujeitas ao pagamento de taxas todas as entidades que ofereçam redes ou serviços de comunicações electrónicas no território nacional.
+Artigo 103.º (Taxas)
+Os montantes das taxas previstas no n.º 2 do artigo anterior são fixados e periodicamente actualizados por decreto executivo conjunto dos Titulares dos Departamentos Ministeriais que superintendem as comunicações electrónicas e as finanças, tomando em consideração:
+a)- O custo da actividade pública desenvolvida e o benefício auferido pelo particular;
+b)- O aproveitamento de bens do domínio público;
+c)- A necessidade de promover uma utilização efectiva e eficiente dos recursos escassos;
+d)- As necessidades de financiamento do Órgão Regulador das Comunicações Electrónicas.
+Os montantes a aprovar podem prever critérios distintos consoante o operador em causa beneficie de uma concessão ou de uma licença, podendo ainda determinar isenções em casos devidamente justificados.
+O Órgão Regulador das Comunicações Electrónicas é a entidade competente para liquidar e exigir o pagamento das taxas definidas no presente Regulamento, ficando investido nos necessários poderes de autoridade para o efeito, nos termos previstos nos seus estatutos.
+O Órgão Regulador das Comunicações Electrónicas deve publicar anualmente o relatório e contas que reflicta as receitas resultantes da cobrança das taxas.
+CAPÍTULO II SUPERVISÃO E FISCALIZAÇÃO
+Artigo 104.º (Prestação de Informações)
+As entidades sujeitas a obrigações nos termos do presente Regulamento devem prestar ao Órgão Regulador das Comunicações Electrónicas todas as informações relacionadas com a sua actividade, incluindo informações financeiras, para que esta possa desempenhar todas as suas atribuições.
+Os pedidos de informação do Órgão Regulador das Comunicações Electrónicas devem ser fundamentados, objectivos e adequados ao fim a que se destinam.
+As informações solicitadas devem ser prestadas nos termos e no prazo indicado, podendo ser definido pelo Órgão Regulador das Comunicações Electrónicas o modelo de prestação de informações e a respectiva periodicidade.
+As entidades respondentes devem identificar, de modo fundamentado, as informações que consideram confidenciais e juntar, ao original, uma cópia expurgada dos elementos considerados confidenciais.
+Artigo 105.º (Fiscalização)
+Compete ao Órgão Regulador das Comunicações Electrónicas fiscalizar o cumprimento do disposto neste Regulamento e nos respectivos Diplomas de desenvolvimento através dos seus agentes de fiscalização ou de mandatários devidamente credenciados.
+
+Artigo 106.º (Mecanismos de Reacção)
+Sempre que o Órgão Regulador das Comunicações Electrónicas verifique ou seja alertado para o facto de uma entidade estar a desrespeitar o disposto neste Regulamento deve analisar imediatamente a situação, podendo solicitar os esclarecimentos necessários, e, caso conclua que existe uma efectiva ilegalidade, deve notificar a referida entidade desse facto e dar-lhe a oportunidade de, no prazo máximo de um mês, pôr termo ao facto ilícito.
+Se a entidade notificada não puser termo ao facto ilícito no prazo fixado, compete ao Órgão Regulador das Comunicações Electrónicas tomar as medidas adequadas e proporcionais para garantir a observância das regras previstas neste Regulamento, podendo determinar a suspensão da actividade ou proceder à suspensão ou revogação, total ou parcial, dos respectivos direitos de utilização individual.
+As medidas impostas e a respectiva fundamentação são comunicadas à entidade em causa.
+O disposto nos números anteriores não se aplica em caso de incumprimento grave do disposto neste Regulamento, casos em que o Órgão Regulador das Comunicações Electrónicas pode, desde logo, determinar as medidas adequadas referidas no n.º 2 deste artigo.
+Artigo 107.º (Medidas Provisórias)
+Quando o Órgão Regulador das Comunicações Electrónicas tenha verificado indícios sérios da prática de factos ilícitos que representem uma ameaça imediata e grave à ordem, segurança ou saúde pública, ou que possa criar problemas económicos e operacionais sérios e inultrapassáveis a outras empresas, pode tomar medidas provisórias urgentes para sanar a situação antes de tomar uma decisão final, fixando, de forma objectiva e não discriminatória, o respectivo prazo de vigência das medidas adoptadas.
+Nos casos referidos no número anterior, o Órgão Regulador das Comunicações Electrónicas deve, após a adopção das medidas em causa, dar à entidade em causa a oportunidade de se pronunciar.
+O Órgão Regulador das Comunicações Electrónicas deve revogar as medidas provisórias quando já não tenham razão de ser, renová-las ou convertê-las em definitivo caso o motivo que as originou se mantenha válido após o prazo de vigência definido.
+Artigo 108.º (Contravenções e Multas)
+Sem prejuízo de outras sanções que se mostrem aplicáveis, as violações ao disposto no presente Regulamento constituem contravenções puníveis com multas de valor equivalente a:
+a)- USD 1.500.000,00 a USD 5.000.000,00, no caso de violação ou incumprimento do disposto no n.º 1 do artigo 6.º: no n.º 1 do artigo 12.º: nos n.os 1, 2, 3 e 4 do artigo 41.º: nos n.os 1 e 2 do artigo 43.º: no n.º 1 do artigo 51.º: no n.º 1 do artigo 82.º: no n.º 1 do artigo 85.º: no n.º 3 do artigo 101.º: no n.º 1 do artigo 102.º e nos n.os 1 e 3 do artigo 104.º;
+b)- USD 250.000,00 a USD 1.000.000,00, no caso de violação ou incumprimento do disposto no n.º 2 do artigo 6.º: nos n.os 1 e 2 do artigo 8.º: no n.º 2 do artigo 15.º: no n.º 1 do artigo 31.º: no n.º 3 do artigo 33.º: nos n.os 1 e 2 do artigo 36: nos n.os 1, 2 e 3 do artigo 42.º: no n.º 1 do artigo 44.º: no n.º 1 do artigo 46.º: nos n.os 1, 2, 3 e 4 do artigo 47.º: nos n.os 1 e 2 do artigo 48.º: no n.º 1 do artigo 49.º: no n.º 2 do artigo 51.º: nos n.os 1 e 2 do artigo 52.º: nos n.os 1, 4, 6, 7 e 8 do artigo 53.º: no artigo 57.º: nos n.os 3 e 5 do artigo 68.º: nos n.os 1, 2 e 3 do artigo 69.º: no n.º 2 do artigo 70.º: nos n.os 1, 2 e 3 do artigo 88: no n.º 1 do artigo 91.º: nos n.os 2 e 3 do artigo 98.º e nos n.os 1 e 3 do artigo 100.º;
+c)- USD 50.000,00 a USD 200.000,00, no caso de violação ou incumprimento do disposto no n.º 1 do artigo 31.º: no n.º 2 do artigo 35.º: no n.º 1 do artigo 50.º, no n.º 10 do artigo 53.º, nos n.os 1 e 2 do artigo 56.º, no n.º 1 do artigo 59.º, nos n.os 1 e 2 do artigo 60.º, no artigo 61.º, nos n.os 1 e 2 do artigo 62.º: nos n.os 1 e 3 do artigo 63.º: no n.º 1 do artigo 64.º: no n.º 2 do artigo 71.º: nos n.os 1 e 2 do artigo 72.º: no n.º 1 do artigo 73.º: nos n.os 1 e 3 do artigo 75.º: nos n.os 1, 3 e 4 do artigo 77.º e no n.º 4 do artigo 78.º;
+d)- USD 1.000.000,00 a 1.500.000,00, no caso de incumprimento de ordens, determinações ou mandados legítimos do Órgão Regulador das Comunicações Electrónicas.
+Compete ao Órgão Regulador das Comunicações Electrónicas o processamento e aplicação de multas previstas no número anterior.
+Sempre que a contravenção resulte da omissão do cumprimento de um dever jurídico ou de uma ordem do Órgão Regulador das Comunicações Electrónicas, a aplicação das sanções ou o seu cumprimento não dispensam o infractor do cumprimento do dever ou da ordem, se ainda for exequível.
+Nos casos referidos no número anterior, o infractor pode ser sujeito pelo Órgão Regulador das Comunicações Electrónicas a ordem para cumprimento do dever ou deliberação em causa, cujo incumprimento no prazo fixado pode determinar a aplicação de uma sanção pecuniária compulsória.
+Nas contravenções previstas neste Regulamento são puníveis a tentativa e a negligência.
+Em caso de negligência, os limites mínimo e máximo das multas aplicáveis são reduzidos a metade.
+Artigo 109.º (Determinação da Medida da Multa)
+A determinação da medida da multa é feita em função da ilicitude concreta do facto, da culpa do agente e dos benefícios obtidos com a prática da contravenção e das exigências de prevenção.
+Na determinação da ilicitude concreta do facto e da culpa deve atender-se, entre outras, às seguintes circunstâncias:
+a)- Ao perigo ou ao dano causado;
+b)- Ao carácter ocasional ou reiterado da infracção;
+c)- À existência de actos de ocultação tendentes a dificultar a descoberta da infracção;
+d)- À existência de actos do agente destinados a, por sua livre iniciativa, a reparar os danos ou obviar os perigos causados pela infracção;
+e)- À intenção do agente de obter, para si ou para outrem, um benefício ilegítimo ou de causar danos;
+f)- Existência de especial dever de não cometer a infracção.
+Na determinação da multa aplicável são ainda ponderadas a situação económica do infractor e o volume de negócios consolidado no ano civil anterior.
+Artigo 110.º (Sanções Acessórias)
+Para além das multas aplicadas ao abrigo do artigo anterior, podem ainda ser aplicadas, sempre que a gravidade da infracção e a culpa do agente o justifique, ponderadas nos termos do mesmo artigo, as seguintes sanções acessórias:
+a)- Perda a favor do Estado de objectos, equipamentos e dispositivos ilícitos;
+b)- Interdição do exercício da respectiva actividade até ao máximo de 2 (dois) anos;
+c)- Privação do direito de participar em concursos ou arrematações promovidos no âmbito do presente Diploma até ao máximo de 2 (dois) anos.
+Revertem para o Órgão Regulador das Comunicações Electrónicas os objectos declarados perdidos por força da aplicação da alínea a) do número anterior, devendo ser posteriormente entregues, na medida do justificado, às instituições particulares de solidariedade social.
+Artigo 111.º (Sanções Pecuniárias Compulsórias)
+Sem prejuízo de outras sanções aplicáveis, em caso de incumprimento de decisões do Órgão Regulador das Comunicações Electrónicas que imponham a adopção ou a abstenção de determinados comportamentos, pode esta entidade, quando tal se justifique, aplicar uma sanção pecuniária compulsória à entidade infractora.
+A sanção pecuniária compulsória consiste na aplicação de uma quantia pecuniária, a definir pelo Órgão Regulador das Comunicações Electrónicas, por cada dia de incumprimento após a data limite para adoptar a decisão desta entidade.
+A sanção é fixada segundo critérios de razoabilidade e proporcionalidade e deve atender aos critérios fixados no artigo 109.º, podendo o montante diário oscilar entre 0,0001% e 0,001% calculados sobre o volume anual de receitas realizadas no ano civil anterior, e ser definidos em termos crescentes consoante o tempo do incumprimento.
+A totalidade do montante aplicado reverte para o Estado em 20% e para o Órgão Regulador das Comunicações Electrónicas em 80%.
+Artigo 112.º (Receitas das Taxas e Multas)
+A totalidade do montante das taxas e multas cobradas ao abrigo do presente Regulamento reverte para o Estado em 20% e para o Órgão Regulador das Comunicações Electrónicas em 80%.
+
+Artigo 113.º (Procedimento de Aplicação)
+A abertura e arquivamento de processos de contravenção e a aplicação de multas, sanções acessórias e sanções pecuniárias compulsórias, são da competência da direcção do Órgão Regulador das Comunicações Electrónicas.
+A instrução dos procedimentos referidos no número anterior compete aos serviços do Órgão Regulador das Comunicações Electrónicas.
+As competências previstas nos números anteriores podem ser delegadas.
+TÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Artigo 114.º (Alteração de Direitos e Obrigações)
+As condições, os direitos e os procedimentos aplicáveis à oferta de redes e serviços de comunicações electrónicas podem ser alterados ou revogados em casos objectivamente justificados e de acordo com o princípio da proporcionalidade.
+Sem prejuízo do disposto no artigo 115.º, salvo nos casos em que as alterações propostas não sejam substanciais ou tenham sido acordadas com o respectivo titular, a intenção de proceder as tais alterações devem ser comunicadas aos interessados e ser definido um prazo suficiente para que estes se pronunciem sobre o projecto de decisão.
+O prazo referido no número anterior, não deve, salvo circunstâncias excepcionais, devidamente justificadas, ser inferior a 20 (vinte) dias.
+Artigo 115.º (Plano Nacional de Frequências e Plano Nacional de Numeração)
+Até à aprovação do Plano Nacional de Frequências e do Plano Nacional de Numeração referidos no presente Regulamento compete à Autoridade das Comunicações Electrónicas determinar os casos em que a utilização de recursos de frequências e de numeração está sujeita à atribuição de direitos individuais de utilização.
+A competência prevista no número anterior pode ser delegada ao Órgão Regulador das Comunicações Electrónicas. O Presidente da República, José Eduardo dos Santos. O Presidente da República determina, nos termos da alínea d) do artigo 120.º e do n.º 5 do artigo 125.º, ambos da Constituição da República de Angola, o seguinte: 1.º - É aprovado o Projecto para a Realização das Obras de Reabilitação dos Equipamentos da Central Hidroeléctrica da Matala, Subestação e Rede Eléctrica. 2.º - É aprovada a minuta de Contrato de Empreitada das Obras de Reabilitação dos Equipamentos da Central Hidroeléctrica da Matala, Subestação e Rede Eléctrica, no valor total de € 106.940.676,12 (cento e seis milhões, novecentos e quarenta mil, seiscentos e setenta e seis Euros e doze cêntimos), a ser celebrado entre a Empresa Nacional de Produção de Electricidade, E.P. e a Empresa Elecnor S.A. 3.º - O Ministério das Finanças deve assegurar os recursos financeiros necessários à implementação do Projecto. 4.º - As dúvidas e omissões resultantes da interpretação e aplicação do presente Diploma são resolvidas pelo Presidente da República. 5.º - O presente Despacho entra em vigor na data da sua publicação.
+Publique-se. Luanda, aos 20 de Maio de 2016. O Presidente da República, José Eduardo dos Santos

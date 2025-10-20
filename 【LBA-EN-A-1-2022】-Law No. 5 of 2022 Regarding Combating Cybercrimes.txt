@@ -1,0 +1,421 @@
+Law No. 5 of 2022 Regarding Combating Cybercrimes
+
+House of Representatives
+
+
+Upon Reviewing:
+
+The Interim Constitutional Declaration and its amendments were issued on August 3, 2011.
+Law No. 10 of 2014 on the election of the House of Representatives during the transitional period and its amendments.
+Law No. 4 of 2014 on approving the internal regulations of the House of Representatives.
+The Civil Code and its amendments.
+The Code of Civil Procedure and its amendments.
+The Penal Code and its amendments, and the complementary laws.
+Law No. 4 of 1990 on the national information and documentation system.
+Law No. 22 of 2010 on communications.
+Law No. 23 of 2010 on commercial activity and its amendments.
+Law No. 76 of 1972 on publications.
+Law No. 9 of 1968 on copyright.
+Law No. 1 of 2005 on banks.
+Law No. 13 of 2010 on the Libyan Investment Authority.
+The resolution of the House of Representatives in its meeting held on Monday, October 26, 2021.
+The following law has been enacted:
+
+Table of Contents
+
+Definitions
+Objectives of the Law
+Applicability of the Law
+Lawful Use of Technology
+Privacy of Websites
+Literary, Artistic, or Scientific Works
+Monitoring of Modern Technology Publications
+Blocking Pornographic or Indecent Websites
+Possession of Encryption Means
+Influencing the Electronic System
+Unlawful Access
+Penalty for Unlawful Access
+Interception or Tampering
+Possession and Use of Decoding Programs
+Damaging an Information System to Obtain Financial Benefit
+Infringing upon an Information System and Using its Outputs
+Promoting Undesired Goods
+Unauthorised Use of Identification and Identity Tools
+Production and Promotion of Pornographic Materials
+Incitement to Prostitution
+Mixing or Editing Voice and Images
+Harassment of Others
+Exploiting Minors or the Psychologically or Mentally Disabled in Pornographic Acts
+Infringement on Copyrights
+Imitating Digital Works and Technical Programs
+Selling Counterfeit Digital Works
+Trafficking in Antiquities and Historical Artifacts
+Imitating Electronic Banking Cards and Using Them
+Inciting Racial, Regional, or Sectarian Discord
+Attacking People Based on Their Affiliations
+Gambling
+Promoting Alcohol and Intoxicants
+Promoting Drugs and Psychotropic Substances
+Disrupting Governmental Operations
+Failure to Report
+Destruction of Digital Forensic Evidence
+Threatening Public Security or Safety
+Incitement to Murder or Suicide
+Possession and Use of Encryption Means
+Destruction of Medical Test Results
+Unauthorised Use of Electronic Cards for Services
+Insulting Sacred or Religious Rituals
+Human Trafficking
+Money Laundering
+Assisting Terrorist Groups
+Unauthorised Use of a Registered Trademark in the State
+Unlawful Eavesdropping
+Liability of Legal Entities
+Application of the Penal Code and Complementary Laws
+Confiscation
+Deportation of Foreigners
+Judicial Police Officers
+Enforcement of the Law
+Definitions
+Article 1
+
+With due consideration to the meanings of the terms outlined in the Libyan Electronic Transactions Law, the following words and phrases shall have the meanings set forth against each of them unless the context indicates otherwise:
+
+Cybercrime: any act committed using computer systems, the international information network, or any other means of information technology in violation of the provisions of this law.
+
+Hacking: The ability to access any means of information technology unlawfully through vulnerabilities in its security system.
+
+Electronic Piracy: The unlawful use or copying of operating systems or various computer programs in the security system.
+
+Computer Virus: A malicious software that damages information systems or data.
+
+Encryption: is the process of converting electronic data into unknown or unintelligible codes that cannot be read or recognised without restoring it to its original form.
+
+Denial of Service or Jamming: Disrupting the service, including controlling its functioning and movement.
+
+Digital Forensic Evidence: The results of data analysis from various computer systems, communication networks, or digital storage devices.
+
+Digital Identity: The digital representation of an individual's information within the international information society in the manner that this individual adopted and is expected by others. An individual or entity may have multiple digital identities in various electronic communities.
+
+Identification and Identity Tools: Any mechanism, digital system, or digital tool used to represent individuals' digital identities, enabling them to operate securely with consistent user interfaces across different international information systems.
+
+Electronic Money: Monetary value stored on an electronic medium, prepaid and not linked to a bank account, widely accepted by parties other than the issuer, and used as a payment tool for various purposes.
+
+Electronic Banking Card: A tool issued by a bank or financial institution that allows its holder to withdraw and transfer funds.
+
+Interception or Interference: Viewing or obtaining data or information.
+
+The Authority: The National Authority for Information Security and Safety was established by the Council of Ministers Decision No. 28 of 2013.
+
+Article 2 
+
+Objectives of the Law
+The purpose of this law is to protect electronic transactions and reduce the occurrence of cybercrimes by defining these crimes and prescribing deterrent penalties for them, aiming to achieve the following:
+
+Assisting in achieving justice and information security.
+Protecting public order and public morals.
+Protecting the national economy.
+Safeguarding the rights resulting from the lawful use of modern technology.
+Enhancing public trust in the validity and safety of electronic transactions.
+Article 3
+
+Applicability of the Law
+The provisions of this law apply to any of the crimes specified herein whether all or some of the acts were committed within Libya or whether all the acts were committed outside Libya. Still, their results and effects extend within Libya, even if the act is not punishable in the country where it was committed.
+
+Article 4
+
+Lawful Use of Technology
+The use of the international information network and modern technology is lawful unless it violates public order or public morals or harms or damages others.
+
+Article 5
+
+Privacy of Websites
+Websites and digital information systems are owned by their proprietors. Without the owner's explicit written or electronic consent, unauthorised access, deletion, destruction, disabling, alteration, transfer, or copying of their data is prohibited.
+
+Article 6
+
+Literary, Artistic, or Scientific Works
+All literary, artistic, or scientific works published on the international information network or any other technical system belong to their authors. They cannot be imitated, copied, or republished without written or electronic permission from the owner. Appropriating information systems or software or copying them, in cases not permitted by law, is considered imitation.
+
+Article 7
+
+Monitoring of Modern Technology Publications
+The National Authority for Information Security and Safety may monitor what is published and displayed on the international information network or any other technical system and block any content that incites discord or ideas that may destabilise society's security and stability or harm its social peace. Monitoring of electronic messages or conversations is permitted only by judicial order issued by the competent district judge.
+
+Article 8
+
+Blocking Pornographic or Indecent Websites
+The National Authority for Information Security and Safety must block websites or electronic pages that display pornographic materials or materials contrary to public morals or that incite or promote prostitution or immorality and prevent access to them.
+
+Article 9
+
+Possession of Encryption Means
+No person or entity shall produce, possess, provide, distribute, market, manufacture, import, or export means of encryption without a license or permit from the National Authority for Information Security and Safety.
+
+Article 10
+
+Influencing the Electronic System
+It is prohibited to influence any self-electronic system, electronic information system, information network, electronic document, electronic record, information technology means, computer system, electronic signature, or information or electronic means by programming or obtaining, disclosing, transmitting or publishing a number, password, secret code, or other confidential data, or other characteristic, with the intent of obtaining an unauthorised benefit or harming others.
+
+Article 11
+
+Unlawful Access
+Accessing computer systems, information systems, information networks, or websites is considered unlawful if the protection measures are intentionally breached, wholly or partially, without authorisation or violating authorisation.
+
+Article 12
+
+Penalty for Unlawful Access
+Penalty for Violation of Article 11:
+Punishment: Imprisonment for up to one year or a fine of no less than 100 Libyan Dinars and not more than 500 Libyan Dinars, or both penalties.
+Penalty for Malicious Actions:
+If the unlawful access is intended for any of the following actions:
+Deleting, destroying, or disclosing data,
+Adding, altering, or copying data,
+Disabling an information system,
+Changing or eliminating a website,
+Destroying or altering its contents,
+Impersonating its owner,
+Punishment: Imprisonment for at least one year and a fine of no less than 500 Libyan Dinars and not more than 5,000 Libyan Dinars.
+Penalty for System Disruption:
+If the unlawful access results in disabling the information system, disrupting the information network website operation, or corrupting their contents,
+Punishment: Imprisonment and a fine of no less than 10,000 Libyan Dinars.
+Article 13
+
+Interception or Tampering
+Anyone who intercepts an information system with the intent of obtaining digital data or connecting with other electronic systems shall be punished with imprisonment for at least one year and a fine of no less than 1,000 Libyan Dinars and not more than 5,000 Libyan Dinars.
+
+Article 14
+
+Possession and Use of Decoding Programs
+Anyone who offers, produces, plants, imports, exports, promotes, or possesses with the intent of unlawful use, a device or software program or any information data prepared to reveal passwords, access codes, or to break the protection shall be punished with imprisonment for at least one year and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 15
+
+Damaging an Information System to Obtain Financial Benefit
+Anyone who unlawfully causes material harm to another by entering, modifying, deleting, or destroying information data in any form of infringement upon an information system to obtain a financial benefit for themselves or others unlawfully shall be punished with imprisonment for at least one year and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 16
+
+Infringing upon an Information System and Using its Outputs
+Anyone who unlawfully enters, modifies, deletes, or destroys information data resulting in incorrect data with the intent of using or relying on it for legal purposes as if the data were correct, whether the data is directly or indirectly readable or understandable, shall be punished with imprisonment for at least one year and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Additionally, anyone who uses such information data as described in the preceding paragraph, knowing it to be incorrect, shall be punished with imprisonment and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 17
+
+Promoting Undesired Goods
+Anyone who sends promotional or marketing messages for undesired goods to others without enabling the recipients to stop receiving such messages at their discretion without incurring expenses shall be punished with imprisonment or a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 18
+
+Unauthorised Use of Identification and Identity Tools
+Anyone who seizes identification and identity tools belonging to another person used in an information system shall be imprisoned and fined no less than 1,000 Libyan Dinars and not more than 3,000 Libyan Dinars.
+Anyone who unlawfully uses identification and identity tools belonging to another person in an information system, knowing it to be unauthorised, shall be imprisoned for at least one year and fined no less than 1,000 Libyan Dinars and no more than 10,000 Libyan Dinars.
+Article 19
+
+Production and Promotion of Pornographic Materials
+Anyone who:
+
+Produces for others pornographic materials with the intent of distributing or broadcasting them through an information system;
+Displays or presents pornographic materials to others via an information system;
+Distributes, broadcasts, or transmits pornographic materials to others via an information system;
+Obtains pornographic materials for others via an information system for themselves or others;
+Possesses pornographic materials for others on an electronic medium or information system,
+Shall be punished with imprisonment and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 20
+
+Incitement to Prostitution
+Anyone who encourages or incites others to engage in sexual activities or contributes to preparing them for such acts through the international information network or by any other electronic means shall be punished with imprisonment and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 21
+
+Mixing or Editing Voice and Images
+Anyone who mixes or edits the voice or image of a person using the international information network or by any other electronic means with the intent to harm others without written or electronic permission from the concerned party shall be punished with imprisonment for at least one year unless this act is permitted by the laws governing journalism, rights, and public freedoms.
+Suppose the mixing or editing involves pornographic images or sounds and is published through the international information network or by any other electronic means. In that case, the punishment shall be imprisonment for at least five years.
+Article 22
+
+Harassment of Others
+Anyone who harasses others on the international information network or by any other electronic means with the intent to satisfy their sexual desire shall be punished with imprisonment and a fine of no less than 1,000 Libyan Dinars and not more than 3,000 Libyan Dinars.
+
+Article 23
+
+Exploiting Minors or the Psychologically or Mentally Disabled in Pornographic Acts
+Anyone who uses the international information network or any other electronic system to exploit minors or those psychologically or mentally disabled in pornographic acts shall be punished with imprisonment for at least five years and a fine of no less than 5,000 Libyan Dinars and not more than 15,000 Libyan Dinars.
+
+Article 24
+
+Infringement on Copyrights
+Anyone who infringes or directs others to infringe on any copyright through electronic means shall be imprisoned for at least one year and fined no less than 1,000 Libyan Dinars and no more than 10,000 Libyan Dinars. The same punishment applies to anyone who imitates the author's electronic signature, seal, or mark.
+
+Article 25
+
+Imitating Digital Works and Technical Programs
+Anyone who imitates a digital literary, artistic, or scientific work or engages in software piracy shall be imprisoned for at least one year and fined no less than 1,000 Libyan Dinars and no more than 10,000 Libyan Dinars. Copying software is considered an act of imitation.
+
+Article 26
+
+Selling Counterfeit Digital Works
+Anyone who sells, offers for sale, circulates, or presents a counterfeit literary, artistic, or scientific work, knowing it to be counterfeit, shall be punished with imprisonment for at least six months and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 27
+
+Trafficking in Antiquities and Historical Artifacts
+Anyone who creates or operates a website using the international information network or other electronic means to traffic in antiquities or historical artefacts or deals in them unlawfully shall be punished with imprisonment.
+
+Article 28
+
+Imitating Electronic Banking Cards and Using Them
+Anyone who:
+
+Counterfeits an electronic banking card,
+Seizes a counterfeit electronic card or uses it without obtaining funds,
+Uses a stolen electronic banking card without obtaining funds,
+Accepts payment with a counterfeit electronic banking card, knowing its true nature, or
+Forgeries electronic money or uses it knowing it to be forged,
+Shall be punished with imprisonment for at least one year and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 29
+
+Inciting Racial, Regional, or Sectarian Discord
+Anyone who publishes or distributes information that incites racial, regional, or sectarian discord aiming to discriminate against specific individuals through the international information network or other electronic means shall be punished with imprisonment for at least one year and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 30
+
+Attacking People Based on Their Affiliations
+Anyone who threatens, insults, or assaults a person based on their racial, religious, sectarian affiliation, or colour using the international information network or other electronic means shall be punished with imprisonment and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 31
+
+Gambling
+Anyone who owns or operates a gambling business or offers, facilitates, encourages, or promotes the establishment of a gambling business on the international information network or other electronic means shall be punished with imprisonment for at least two years and a fine of no less than 10,000 Libyan Dinars and not more than 20,000 Libyan Dinars.
+Anyone who gambles on the international information network or other electronic means shall be punished with imprisonment.
+Article 32
+
+Promoting Alcohol and Intoxicants
+Anyone who promotes alcohol or intoxicants or advertises for them on the international information network or by using any other electronic means shall be punished with imprisonment for at least two years and a fine of no less than 1,000 Libyan Dinars and not more than 10,000 Libyan Dinars.
+
+Article 33
+
+Promoting Drugs and Psychotropic Substances
+Anyone who promotes, sells, or explains the production methods of narcotic or psychotropic substances on the international information network or using any other electronic means shall be punished with imprisonment and a fine of no less than 30,000 Libyan Dinars and not more than 100,000 Libyan Dinars.
+
+Article 34
+
+Disrupting Governmental Operations
+Anyone who disrupts governmental or public authority operations or obstructs them using any electronic means shall be imprisoned and fined no less than 10,000 Libyan Dinars and no more than 100,000 Libyan Dinars. The same punishment applies to anyone who produces, plants or possesses programs intended for this purpose.
+
+Article 35
+
+Failure to Report
+Anyone who knows of the commission or attempted commission of any of the crimes specified in this law and could have reported it to the competent authorities but did not shall be punished with imprisonment and a fine not exceeding 3,000 Libyan Dinars.
+Suppose the offender is a public employee or entrusted with public service, and the crime occurred due to neglecting the duties of his position or service. In that case, the punishment shall be imprisonment for at least six months and a fine of no less than 3,000 Libyan Dinars and no more than 5,000 Libyan Dinars.
+The court may exempt a person who refrains from reporting from punishment if the offender is the person's spouse, parent, child, or sibling.
+Article 36
+
+Destruction of Digital Forensic Evidence
+Anyone who destroys, hides, alters, erases, or tampers with digital forensic evidence in any way shall be punished with imprisonment for at least five years and a fine of no less than 10,000 Libyan Dinars and not more than 100,000 Libyan Dinars.
+
+Article 37
+
+Threatening Public Security or Safety
+Anyone who spreads rumours or publishes data or information that threatens public security or safety in the state or any other state through the international information network or using any other electronic means shall be punished with imprisonment for at least five years and a fine of no less than 10,000 Libyan Dinars and not more than 100,000 Libyan Dinars.
+
+Article 38
+
+Incitement to Murder or Suicide
+Anyone who incites another person to murder or suicide using the international information network or any other electronic means shall be punished with imprisonment.
+
+Article 39
+
+Possession and Use of Encryption Means
+Anyone who produces, possesses, provides, plants, markets, manufactures, exports, or imports encryption means without a license or permit from the competent authority in the state shall be punished with imprisonment and a fine of no less than 20,000 Libyan Dinars and not more than 100,000 Libyan Dinars.
+The punishment shall be imprisonment for at least ten years and a fine of no less than 50,000 Libyan Dinars and no more than 100,000 Libyan Dinars if the previous actions relate to encryption means belonging to the government, banks, military, or security institutions.
+Article 40
+
+Destruction of Medical Test Results
+Anyone who destroys, alters, or conceals medical tests, diagnoses, treatments, or care results without justification or facilitates such actions for others using the international information network or any other electronic means shall be punished with imprisonment.
+
+Article 41
+
+Unauthorised Use of Electronic Cards for Services
+Anyone who uses service sale cards or their numbers without authorisation to obtain the services they provide shall be punished with imprisonment for at least one year.
+
+Article 42
+
+Insulting Sacred or Religious Rituals
+Anyone who insults any sacred or religious rituals using the international information network or any other electronic means or system shall be punished with imprisonment.
+
+Article 43
+
+Human Trafficking
+Anyone who creates a website or publishes information on the international information network or any electronic system with the intent of human trafficking or facilitating such dealings shall be punished with imprisonment.
+
+Article 44
+
+Money Laundering
+Subject to the provisions of the Money Laundering Law, anyone who:
+
+Transfers, transports, disguises, or conceals the illicit origin of funds or
+Uses, acquires, or possesses such funds, knowing they are derived from an illegal source,
+If these acts are committed using the international information network or any other electronic means to legitimise such funds, they shall be punished with imprisonment for up to seven years and a fine of no less than 30,000 Libyan Dinars and no more than 60,000 Libyan Dinars.
+
+Anyone who creates or publishes information or a website to commit any of these acts will be punished the same way.
+
+Article 45
+
+Assisting Terrorist Groups
+Anyone who creates a website or publishes information on the international information network or any electronic means for a terrorist group under camouflage names to facilitate communication with its leadership or members, to promote its ideas, to fund it, or to disseminate information on how to manufacture incendiary or explosive devices or any tools used in prohibited activities, shall be punished with imprisonment.
+
+Article 46
+
+Unauthorised Use of a Registered Trademark in the State
+Anyone who uses or facilitates the use of a registered trademark in the state belonging to others or uses state-specific emblems or logos as the address for their website on the international information network shall be punished with imprisonment and a fine of no less than 1,000 Libyan Dinars and not more than 5,000 Libyan Dinars, with an obligation to change the website address.
+
+Anyone who cancels, deletes, destroys, curses, damages, seizes, benefits from, or exploits any industrial property of beneficial value, such as a design or patent, shall be punished by imprisonment.
+
+Article 47
+
+Unlawful Eavesdropping
+Anyone who unlawfully eavesdrops on communications carried out over the international information network or any other electronic means for their benefit or for the benefit of others shall be punished with imprisonment for at least one year.
+
+If the eavesdropping is intended to obtain government, security, military, or banking secrets, the punishment shall be imprisonment.
+
+If the secrets above are published on the international information network or any other electronic means, or if a person or entity can obtain them, the punishment shall be life imprisonment.
+
+Article 48
+
+Liability of Legal Entities
+Any person responsible for the actual management of a legal entity shall be punished with imprisonment for at least one year if any of the crimes specified in this law are committed by one of its employees in its name and for its benefit if the crime occurred due to the individual's breach of their duties.
+
+The court shall order the legal entity's dissolution if it determines its true purpose is to commit cybercrimes.
+
+Article 49
+
+Application of the Penal Code and Complementary Laws
+In crimes not specified in this law, anyone who commits a crime punishable under the Penal Code and complementary laws using the information network or any information system or participates in its commission shall be punished with the penalty specified in that law.
+
+Applying the penalties specified in this law does not preclude any harsher penalty provided for in the Penal Code and its complementary laws.
+
+Article 50
+
+Confiscation
+Without prejudice to the rights of bona fide third parties, all devices, programs, or means used to commission any of the crimes specified in this law or the proceeds thereof, shall be confiscated in all cases. The court shall also order the closure of the establishment or website where any of these crimes are committed, either entirely or for a duration determined by the court if the crime was committed with the knowledge of its owner.
+
+Article 51
+
+Deportation of Foreigners
+In addition to the penalties specified in this law, the court shall order the deportation of any foreigner who is sentenced according to its provisions.
+
+Article 52
+
+Judicial Police Officers
+Employees designated by a decision of the Prime Minister, based on a proposal from the authority, shall have the status of judicial police officers in detecting crimes committed in violation of the provisions of this law.
+
+Article 53
+
+Enforcement of the Law
+This law's provisions shall take effect from the date of its issuance, and all conflicting provisions shall be repealed. The law shall be published in the official gazette and through the media.
+
+House of Representatives.
+Issued on September 27, 2022.

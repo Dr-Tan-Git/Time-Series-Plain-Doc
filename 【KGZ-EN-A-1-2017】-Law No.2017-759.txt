@@ -1,0 +1,284 @@
+Regulation of the Government of the Kyrgyz Republic "On approval of the Procedure for obtaining the consent of the personal data subject to the collection and processing of his personal data, the procedure and form of notification of personal data subjects about the transfer of their personal data to a third party"
+
+GOVERNMENT OF THE KYRGYZ REPUBLIC
+
+REGULATION
+
+dated November 21 , 2017 No. 759
+
+On approval of the Procedure for obtaining the consent of the personal data subject to the collection and processing of his personal data, the procedure and form of notification of personal data subjects about the transfer of their personal data to a third party
+
+
+In accordance with Articles 9 and 24 of the Law of the Kyrgyz Republic "On Personal Information", Articles 10 and 17 of the Constitutional Law of the Kyrgyz Republic "On the Government of the Kyrgyz Republic", the Government of the Kyrgyz Republic
+
+DECIDES:
+
+1. Approve the Procedure for obtaining the consent of the personal data subject to the collection and processing of his personal data, the procedure and form for notifying personal data subjects about the transfer of their personal data to a third party according to the appendix.
+
+2. State executive authorities, state bodies that are not part of the executive power system (by agreement), legal entities (by agreement) that are holders (holders) of personal data arrays, take the necessary measures to ensure the implementation of this resolution.
+
+3. This resolution shall enter into force from the date of its official publication.
+
+
+Prime Minister                                                                                                            S. Isakov
+
+
+                                                                                                                                                             Application
+
+
+ORDER
+
+obtaining the consent of the personal data subject to the collection and processing of his personal data, the procedure and form of notification of personal data subjects about the transfer of their personal data to a third party
+
+
+1. General provisions
+
+1. This Procedure establishes the form and procedure for obtaining the consent of the subject of personal data, including in the form of an electronic document, for the collection and processing of his personal data in accordance with the Law of the Kyrgyz Republic "On Personal Information", as well as mandatory procedures for notifying the subject of personal data about the transfer of his personal data to a third party.
+
+2. This Procedure is subject to application by holders (holders) of personal data arrays that collect, store, process, use, transfer personal data, including cross-border transfer of personal data.
+
+3. The concepts used in this Procedure are applied in the meanings defined in the laws of the Kyrgyz Republic "On personal information", "On electronic signature", "On electronic management".
+
+2. The procedure for obtaining the consent of the subject of personal data, including in the form of an electronic document, for the collection and processing of his personal data, including the purpose of providing state and (or) municipal services
+
+4. In order to obtain the consent of the subject on the official websites of performers of state or municipal services and (or) holders (holders) of personal data, forms (forms on paper or in the form of an electronic document) of the subject's consent to the processing of his personal data, including those necessary to receive services provided by this body / holder of the array, are placed personal data.
+
+5. The holder (holder) of the personal data array must familiarize the personal data subject before providing them with their personal data, with the list of collected data, the grounds and purposes of their collection and use, with the possible transfer of personal data to a third party, as well as inform about other possible use of personal data.
+
+6. The subject of personal data independently decides whether to provide his personal data to anyone and gives consent to their collection and processing freely, consciously and in a form that allows confirming the fact of its receipt, except for the cases provided for in Article 15 of the Law of the Kyrgyz Republic "On Personal Information".
+
+The subject of personal data provides personal data personally or through a proxy.
+
+7. The consent of the subject of personal data must be expressed in writing on paper or in the form of an electronic document signed in accordance with the legislation of the Kyrgyz Republic on electronic signature.
+
+8. The consent of the subject of personal data, including in the form of an electronic document, to the collection and processing of his personal data, including the purposes of providing state and municipal services (hereinafter referred to as the consent of the subject), must contain:
+
+- surname, first name, patronymic, address of the place of residence (place of stay) of the subject of personal data, data of the document certifying his identity;
+
+- surname, first name, patronymic, address of the place of residence (place of residence) of the authorized person (representative) of the personal data subject, data of the document certifying his identity, details of a notarized power of attorney or other document confirming the powers of this authorized person (representative) (upon receipt of consent from the authorized person (representative) of the personal data subject);
+
+- the name or surname, first name, patronymic and address of the holder (owner) of the personal data array or the processor receiving the consent of the personal data subject;
+
+- indication of the basis and purpose of the collection, use, processing of personal data;
+
+- a list of personal data for the processing of which the consent of the personal data subject is given;
+
+- the name or surname, first name, patronymic and address of the handler (if any);
+
+- a list of actions with personal data to which consent is given, including the possibility of transferring personal data to a third party, other possible use of personal data, a general description of the methods of processing personal data used by the holder (owner) of the personal data array;
+
+- the period during which the consent of the subject of personal data is valid, unless otherwise established by the Law of the Kyrgyz Republic "On Personal information".
+
+9. The consent of the subject of personal data for the purpose of obtaining state and municipal services is provided in a standard form according to the appendix to this Procedure.
+
+10. The holder (holder) of the personal data array is obliged to store information during the entire period of processing (and storage) of personal data that allows to provide proof of the consent of the personal data subject to the provision of his personal data and the implementation of procedures related to the processing of his personal data, in particular:
+
+- in case of informational interaction through the exchange of electronic documents signed with an electronic signature in accordance with the legislation of the Kyrgyz Republic - an electronic document signed with the electronic signature of the personal data subject or his authorized representative (representative) and containing the consent of the personal data subject provided for in this Procedure in the form of an electronic document for the processing of his personal data;
+
+- during information interaction in electronic format by obtaining access to the information system of the holder (owner) of the personal data array using the login and password of the personal data subject or his proxy (representative) - information about the fact of access to the information system using this login and password, the protocol of actions of the personal data subject or his proxy in information system using this login and password;
+
+- when carrying out procedures related to the processing of personal data of a subject without the use of electronic documents or information systems - a paper document certified by the handwritten signature of the person providing personal data (the subject of personal data or his proxy (representative), unequivocally confirming the fact that the subject of personal data has given consent to the processing of his personal data.
+
+3. Procedure and form of notification of personal data subjects about the fact of transfer of their personal data to a third party
+
+11. The transfer of personal data from one holder (owner) to another is allowed if the holder (owner) to whom this personal data is transferred has legal grounds for working with personal data provided for in Article 5 of the Law of the Kyrgyz Republic "On Personal Information" at the time of such transfer.
+
+12. The holder (holder) of an array of personal data is obliged to inform the subject of personal data about the transfer of his personal data to a third party within a week from the moment of the transfer of personal data, except for the cases provided for in subparagraphs a) and b) of paragraph 2 of Part 1 of Article 15 of the Law of the Kyrgyz Republic "On Personal Information". In this case, the notification form can be a message by phone, SMS message, letter, e-mail message in agreement with the subject of personal data and at the discretion of the holder (owner) of the personal data array.
+
+13. When receiving personal data, the holder (holder) of the personal data array must request from the personal data subject his contact information (address of residence (place of stay), phone number, e-mail address), using which the subject can be notified in a form convenient for him about the fact of the transfer of his personal data to a third party.
+
+In the absence of contact information of the personal data subject, the holder (holder) of the personal data array must take actions to inform the personal data subject about the transfer of his personal data to a third party by requesting the missing contact information from state authorities or local self-government bodies, or by obtaining it from publicly available sources of personal data.
+
+In all cases of receiving contact information about a personal data subject not from the personal data subject himself, the holder (owner) of the personal data array must ensure that:
+
+- the received contact information clearly refers to this subject of personal data (for example, the subject was identified using the state information systems of the Kyrgyz Republic or the holder (owner) of the personal data array previously contacted the subject of personal data in order to verify his identity);
+
+- the collection of additional contact information about the subject of personal data for the purpose of informing him does not conflict with the purposes of personal data processing in which the formation of an array of personal data took place;
+
+- the holder (owner) of the personal data array, from whom the contact details of the personal data subject are requested for the purpose of sending a notification, has received the consent of the personal data subject (in cases established by the Law of the Kyrgyz Republic "On Personal Information") to transfer his personal data to a third party.
+
+14. The notification form is chosen by the holder (holder) of the personal data array in agreement with the subject of personal data, based on the method of communication with the subject (by phone, SMS message, letter, e-mail). At the same time, the holder (holder) of the personal data array must keep evidence of informing the subject of personal data about the transfer of his personal data to a third party (copies of letters, telephone messages, messages) and provide them to the subject of personal data or an authorized state body upon their requests in accordance with the Law of the Kyrgyz Republic "On Personal Information".
+
+15. In order to inform the subject of personal data about the circumstances of the transfer of his personal data to a third party, the following information is included in the content of the notification:
+
+- the name or surname, first name, patronymic and address of the holder (owner) of the personal data array or his representative;
+
+- the basis for the transfer of personal data;
+
+- the composition of the transferred personal data;
+
+- purpose of personal data processing and general description of processing methods;
+
+- the source of obtaining personal data.
+
+16. If the holder (holder) of an array of personal data on the basis of the data available to him cannot notify the subject of personal data about the transfer of his personal data, he is obliged to inform the authorized state body for personal data about it, providing data that allows identifying the subject of personal data in case of his appeal to the authorized state body for personal data, as well as information about the attempts made by the holder (owner) of the personal data array to inform such a personal data subject about the transfer of his personal data.
+
+17. The authorized state body for personal data, having received, in accordance with Article 19 of the Law of the Kyrgyz Republic "On Personal Information", the statement of the subject of personal data on the unlawful transfer of personal data, immediately checks the availability in its information systems of information about the attempts made by the holder (owner) of the personal data array to inform this personal data subject and, if the specified information is found, informs the personal data subject (with the attachment of the contact information of the holder of the personal data array) and the holder of the personal data array (with the attachment of contact information about the personal data subject) about this.
+
+18. In order to inform the subject of personal data about the transfer of his personal data to a third party, the authorized state body for personal data organizes the voluntary registration of the subject of personal data and stores the contact information provided by the subject of personal data. In case of receipt of a notification from the holder (owner) of the personal data array about the inability to inform the personal data subject about the transfer of his personal data and identification of the personal data subject among those registered by the authorized state body for personal data, the authorized state body for personal data informs the personal data subject about the transfer of his personal data using the contact information provided by the subject personal data during registration.
+
+                                                                                                                               
+
+                                                                                                                              Application
+
+
+STANDARD FORM
+
+Consent of the personal data subject to the collection and processing of his personal data
+
+Locality, date
+
+I,_____________________________________________________________________
+
+(last name, first name, patronymic)
+
+resident at:____________________________________________________________________________________________________________________________________________________
+
+Identity document:_______________________________series___________№___________
+
+iissued______________________________________________________________________
+
+                               (date of issue)                                           (issued by whom)
+
+(for authorized persons)
+
+acting on behalf of____________________________________________________________
+
+                                                   (last name, first name, patronymic)
+
+resident at:__________________________________________________________________
+
+Identity document:_______________________________series___________№___________
+
+issued______________________________________________________________________
+
+                               (date of issue)                                           (issued by whom)
+
+on the basis of _______________________________________________________________
+
+                                                  (power of attorney, law, other legal act)
+
+freely, consciously, of my own free will, I give my consent____________________________
+
+                                                                                   (name, address of the owner or owner
+
+                                                                             information system, full name of the handler)
+
+
+for processing (any operation or set of operations performed independently of the methods
+
+by the holder (owner) of personal data or on his behalf, by automatic
+
+means or without them, for the purpose of collecting, recording, storing, updating, grouping,
+
+blocking, erasing and destroying personal data), as well as for:
+
+
+transfer of personal data (provision by the holder (holder) of personal
+
+data to third parties in accordance with the Law of the Kyrgyz Republic "On
+
+Personal Information" and international treaties;
+
+
+cross-border transfer of personal data (transfer by the holder (holder)
+
+of personal data to holders under the jurisdiction of other states)
+
+
+the following personal data:
+
+
+1.______________________________________________________________________
+
+2.______________________________________________________________________
+
+3. _____________________________________________________________________
+
+4. _____________________________________________________________________
+
+5. _____________________________________________________________________
+
+6. _____________________________________________________________________
+
+7. _____________________________________________________________________
+
+8. _____________________________________________________________________
+
+ 
+
+(specify the required list of data, for example: surname, first name and patronymic (former surname,
+
+first name, patronymic, date, place and reason of change (in case of change); date and place of birth;
+
+information about citizenship (including previous citizenship, other citizenship); information about
+
+education (name and year of graduation of the educational organization, name and
+
+details of the document on education, qualification, direction of training or specialty
+
+according to the document on education); information about the availability of an academic degree; information about ownership
+
+foreign languages, level of proficiency; sports title, sports category; address of the place
+
+of residence (place of stay); contact phone number or information about other
+
+communication methods; type, series, number of the identity document, name of the body
+
+that issued it, date of issue; taxpayer identification number; number of the insurance
+
+certificate of compulsory pension insurance; details of the compulsory
+
+medical insurance policy; attitude to military duty, information on military registration
+
+(for citizens who are in reserve, and persons subject to conscription for military service);
+
+marital status, family composition; information about work (including military
+
+service, part-time work, entrepreneurship, etc.);
+
+state awards, other awards and insignia (by whom awarded and when); information
+
+about the presence or absence of a criminal record; information about income, expenses, property and
+
+property obligations; personal photo).
+
+ 
+
+I provide the above personal data for processing in order to provide me with a state (municipal) service 
+
+
+__________________________________________________________________________________________________________________________________(specify the name of the service)
+
+
+I am familiar with the fact that:
+
+
+1) the consent to the processing of personal data is valid from the date of signing this consent
+
+for the entire period of providing me with a state (municipal) service and storing
+
+data on the service provided in accordance with the legislation of the Kyrgyz Republic;
+
+
+2) consent to the processing of personal data may be revoked on the basis of a written
+
+application in any form;
+
+
+3) in case of withdrawal of consent to the processing of personal data, the processing of my personal data
+
+the data in whole or in part may be continued in accordance with articles 5 and 15
+
+The Law of the Kyrgyz Republic "On personal information".
+
+
+Start date of personal data processing:____________________________________________
+
+                                                                     (date, month, year)
+
+"___" __________________ 20__ г.
+
+___________________________________________________________________________
+
+Signature                                                                                                            FULL name

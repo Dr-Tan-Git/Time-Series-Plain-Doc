@@ -1,0 +1,482 @@
+Loi du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel.
+Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau;
+Notre Conseil d’Etat entendu;
+De l’assentiment de la Chambre des Députés;
+Vu la décision de la Chambre des Députés du 17 juillet 2002 et celle du Conseil d’Etat du 19 juillet 2002 portant qu’il n’y a pas lieu à second vote;
+Avons ordonné et ordonnons:
+Chapitre I.  Dispositions générales relatives à la protection de la personne à l'égard des traitements des données à caractère personnel
+Art. 1er. Objet
+La présente loi protège les libertés et les droits fondamentaux des personnes physiques, notamment de leur vie privée, à l’égard du traitement des données à caractère personnel et fait respecter les intérêts légalement protégés des personnes morales.
+Art. 2. Définitions
+Aux fins de la présente loi, on entend par:
+(a) "code de conduite": contributions sectorielles élaborées en vue de la bonne application de la présente loi. Les codes de conduite sont élaborés à l’échelon national ou communautaire par les associations professionnelles et les autres organisations représentatives des responsables du traitement et sont facultativement soumis pour approbation à la Commission nationale ou au groupe de protection des personnes à l'égard du traitement des données à caractère personnel tel qu'institué par l'article 29 de la Directive 95/46/CE;
+(b) "Commission nationale": la Commission nationale pour la protection des données;
+(c) "consentement de la personne concernée": toute manifestation de volonté expresse, non équivoque, libre, spécifique et informée par laquelle la personne concernée ou son représentant légal, judiciaire ou statutaire accepte que les données à caractère personnel fassent l'objet d’un traitement;
+(d) "destinataire": la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui reçoit communication de données, qu'il s'agisse ou non d'un tiers; les autorités qui sont susceptibles de recevoir communication de données à caractère personnel dans le cadre de l'exécution d'une mission légale d'enquête ou de contrôle ne sont pas considérées comme des destinataires;
+(e) "donnée à caractère personnel" (ci-après dénommée "donnée"): toute information de quelque nature qu'elle soit et indépendamment de son support, y compris le son et l'image, concernant une personne identifiée ou identifiable ("personne concernée"); une personne physique ou morale est réputée identifiable si elle peut être identifiée, directement ou indirectement, notamment par référence à un numéro d'identification ou à un ou plusieurs éléments spécifiques, propres à son identité physique, physiologique, génétique, psychique, culturelle, sociale ou économique;
+(f) "donnée relative à la santé": toute information concernant l'état physique et mental d'une personne concernée, y compris les données génétiques;
+(g) "donnée génétique": toute donnée concernant les caractères héréditaires d'un individu ou d'un groupe d'individus apparentés;
+(h) "fichier de données à caractère personnel" (ci-après dénommé "fichier"): tout ensemble structuré de données accessibles selon des critères déterminés, que cet ensemble soit centralisé, décentralisé ou réparti de manière fonctionnelle ou géographique;
+(i) "instance médicale": tout praticien de la santé et toute personne soumise à la même obligation de secret professionnel, ainsi que tout établissement hospitalier visé par la loi du 28 août 1998 sur les établissements hospitaliers, effectuant un traitement de données nécessaire aux fins de la médecine préventive, des diagnostics médicaux, de l'administration de soins ou de traitements ou de la gestion de services de santé;
+(j) "interconnexion": toute forme de traitement qui consiste en la corrélation de données traitées pour une finalité avec des données traitées pour des finalités identiques ou liées par un ou d'autres responsables du traitement;
+(k) "ministre": le ministre ayant dans ses attributions la protection des données;
+(l) "organisme de sécurité sociale": tout organisme de droit public ou privé qui assure des prestations, obligatoires ou facultatives, relatives à la maladie, la maternité, la vieillesse, les accidents corporels, l’invalidité, la dépendance, le décès, le chômage, ainsi que des prestations familiales ou d’aides sociales;
+(m) "pays tiers": Etat non membre de l’Union européenne;
+(n) "personne concernée": toute personne physique ou morale, publique ou privée ou groupement de fait, qui fait l'objet d’un traitement de données à caractère personnel;
+(o) "responsable du traitement": la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui, seul ou conjointement avec d'autres, détermine les finalités et les moyens du traitement de données à caractère personnel. Lorsque les finalités et les moyens du traitement sont déterminés par ou en vertu des dispositions légales, le responsable du traitement est déterminé par ou en vertu des critères spécifiques conformément aux dispositions légales;
+(p) "sous-traitant": la personne physique ou morale, l’autorité publique, le service ou tout autre organisme qui traite des données pour le compte du responsable du traitement;
+(q) "surveillance": toute activité faisant appel à des moyens techniques en vue de détecter, d’observer, de copier ou d’enregistrer les mouvements, images, paroles, écrits, ou l'état d'un objet ou d'une personne fixe ou mobile;
+(r) "tiers": la personne physique ou morale, l’autorité publique, le service ou tout autre organisme autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, placés sous l’autorité directe du responsable du traitement ou du sous-traitant, sont habilités à traiter les données. Dans le secteur public, on entend par tiers un ministère, une administration, un établissement public, une commune ou un service public autre que le responsable du traitement ou son sous-traitant;
+(s) "traitement de données à caractère personnel" (ci-après dénommé "traitement"): toute opération ou ensemble d’opérations effectuées ou non à l’aide de procédés automatisés, et appliquées à des données, telles que la collecte, l'enregistrement, l'organisation, la conservation, l’adaptation ou la modification, l'extraction, la consultation, l’utilisation, la communication par transmission, la diffusion ou toute autre forme de mise à disposition, le rapprochement ou l’interconnexion, ainsi que le verrouillage, l'effacement ou la destruction.
+Art. 3.- Champ d'application
+(1) La présente loi s'applique au traitement automatisé en tout ou en partie, ainsi qu'au traitement non automatisé de données contenues ou appelées à figurer dans un fichier.
+(2) Sont soumis à la présente loi:
+(a)	le traitement mis en œuvre par un responsable du traitement soumis au droit luxembourgeois;
+(b)	le traitement mis en œuvre par un responsable du traitement qui, sans être établi sur le territoire luxembourgeois ou sur celui d'un autre Etat membre de l'Union européenne, recourt à des moyens de traitement situés sur le territoire luxembourgeois, à l'exclusion des moyens qui ne sont utilisés qu'à des fins de transit sur ce territoire ou sur celui d'un autre Etat membre de l'Union européenne.
+Pour le traitement mentionné à l'article 3, paragraphe (2) lettre (b), le responsable du traitement désigne par une déclaration écrite à la Commission nationale un représentant établi sur le territoire luxembourgeois qui se substitue au responsable du traitement dans l'accomplissement de ses obligations prévues par la présente loi sans que ce dernier ne soit dégagé de sa propre responsabilité.
+(3) La présente loi s'applique au traitement de données concernant la sécurité publique, la défense, la recherche et la poursuite d'infractions pénales ou la sûreté de l'Etat, même liées à un intérêt économique ou financier important de l'Etat, sans préjudice des dispositions spécifiques de droit national ou international régissant ces domaines.
+(4) La présente loi s'applique à toute forme de captage, de traitement et de diffusion de sons et images qui permettent d'identifier des personnes physiques ou morales.
+(5) La présente loi ne s'applique pas:
+-	au traitement mis en œuvre par une personne physique dans le cadre exclusif de ses activités personnelles ou domestiques,
+-	au traitement de données concernant une personne morale et dont la publication est prescrite par une loi ou un règlement.
+Chapitre II.  Conditions de licéité du traitement
+Art. 4. Qualité des données
+(1) Le responsable du traitement doit s'assurer que les données qu’il traite le sont loyalement et licitement, et notamment que ces données sont:
+(a)	collectées pour des finalités déterminées, explicites et légitimes, et ne sont pas traitées ultérieurement de manière incompatible avec ces finalités;
+(b)	adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et pour lesquelles elles sont traitées ultérieurement;
+(c)	exactes et, si nécessaire, mises à jour; toute mesure raisonnable doit être prise pour que les données inexactes ou incomplètes, au regard des finalités pour lesquelles elles sont collectées et pour lesquelles elles sont traitées ultérieurement, soient effacées ou rectifiées;
+(d)	conservées sous une forme permettant l’identification des personnes concernées pendant une durée n’excédant pas celle nécessaire à la réalisation des finalités pour lesquelles elles sont collectées et traitées sans préjudice du paragraphe (2) ci-après.
+(2) Les données traitées à des finalités déterminées peuvent être traitées ultérieurement à des fins historiques, statistiques ou scientifiques et sont soumises aux conditions prévues par le régime d’autorisation préalable de la Commission nationale tel que prévu à l’article 14.
+(3) Quiconque effectue un traitement en violation des dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 5. Légitimité du traitement
+(1) Le traitement de données ne peut être effectué que si:
+(a)	le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis, ou si
+(b)	le traitement est nécessaire à l'exécution d’une mission d’intérêt public ou relevant de l'exercice de l’autorité publique, dont est investi le responsable du traitement ou le tiers auquel les données sont communiquées, ou si
+(c)	le traitement est nécessaire à l’exécution d’un contrat auquel la personne concernée est partie ou à l’exécution de mesures précontractuelles prises à la demande de celle-ci, ou si
+(d)	le traitement est nécessaire à la réalisation de l'intérêt légitime poursuivi par le responsable du traitement ou par le ou les tiers auxquels les données sont communiquées, à condition que ne prévalent pas l'intérêt ou les droits et libertés fondamentaux de la personne concernée, qui appellent une protection au titre de l'article 1er, ou si
+(e)	le traitement est nécessaire à la sauvegarde de l’intérêt vital de la personne concernée, ou si
+(f)	la personne concernée a donné son consentement.
+(2) Quiconque effectue un traitement en violation des dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 6. Traitement de catégories particulières de données
+(1) Les traitements qui révèlent l’origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques, l’appartenance syndicale, ainsi que les traitements de données relatives à la santé et à la vie sexuelle, y compris le traitement des données génétiques sont interdits.
+(2) Le paragraphe (1) ne s’applique pas lorsque:
+(a)	la personne concernée a donné son consentement à un tel traitement, sauf indisponibilité du corps humain et sauf le cas interdit par la loi, ou lorsque
+(b)	le traitement est nécessaire aux fins de respecter les obligations et les droits spécifiques du responsable du traitement notamment en matière de droit du travail dans la mesure où il est autorisé par la loi, ou lorsque
+(c)	le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne dans le cas où la personne concernée se trouve dans l’incapacité physique ou juridique de donner son consentement, ou lorsque
+(d)	le traitement est mis en œuvre, avec le consentement de la personne concernée par une fondation, une association ou tout autre organisme à but non lucratif et à finalité politique, philosophique, religieuse ou syndicale, dans le cadre de leurs activités légitimes, à condition que le traitement se rapporte aux données nécessaires des seuls membres de cet organisme ou aux personnes entretenant avec lui des contacts réguliers liés à sa finalité et que les données ne soient pas communiquées à des tiers sans le consentement des personnes concernées, ou lorsque
+(e)	le traitement porte sur des données manifestement rendues publiques par la personne concernée, ou lorsque
+(f)	le traitement mis en œuvre conformément aux règles de procédures judiciaires applicables en matière civile est nécessaire à la constatation, à l’exercice ou à la défense d’un droit en justice s’il est mis en œuvre à cette fin exclusive, ou lorsque
+(g)	le traitement s’avère nécessaire pour un motif d’intérêt public notamment à des fins historiques, statistiques ou scientifiques sans préjudice de l'application de l'article 7 ci-après et que ce traitement est mis en œuvre conformément au régime d’autorisation préalable de la Commission nationale tel que prévu à l’article 14, ou lorsque
+(h)	le traitement est mis en œuvre par voie de règlement grand-ducal tel que prévu à l’article 17.
+(3) L’article 6 paragraphe (1) ne s’applique pas lors d’une procédure judiciaire ou d’une enquête pénale. Toutefois les données génétiques ne peuvent être traitées que pour vérifier l’existence d’un lien génétique dans le cadre de l’administration de la preuve en justice, pour l'identification d'une personne, la prévention ou la répression d’une infraction pénale déterminée.
+(4) Par dérogation à l'article 6, paragraphe (1), les données génétiques ne peuvent faire l'objet d'un traitement que:
+(a)	dans les cas visés par les articles 6, paragraphe (2) lettres (c), (f), (g), (h), 6 paragraphe (3) et 7 de la présente loi, ou lorsque
+(b)	la personne concernée a donné son consentement et si le traitement est effectué dans les seuls domaines de la santé ou de la recherche scientifique sauf indisponibilité du corps humain et dans le cas où la loi prévoit que l’interdiction visée au paragraphe (1) ne peut être levée par le consentement de la personne concernée.
+(5) Quiconque effectue un traitement ou opère une communication à un tiers en violation des dispositions du paragraphe (1) qui précède est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement ou de la communication contraires aux dispositions du paragraphe (1) du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 7. Traitement de catégories particulières de données par les services de la santé
+(1) Lorsque le traitement de données tel que défini à l’article 6 paragraphe (1) de la présente loi est nécessaire aux fins de la médecine préventive, des diagnostics médicaux, de l’administration de soins ou de traitements ou de la gestion de services de santé, de la recherche scientifique dans le domaine de la biologie et de la médecine, le traitement de ces données peut être mis en œuvre par des instances médicales, ainsi que lorsque le responsable du traitement est soumis au secret professionnel, par les organismes de sécurité sociale et les administrations qui gèrent ces données en exécution de leurs missions légales et réglementaires, par les entreprises d'assurance, les sociétés gérant les fonds de pension, la Caisse médico-chirurgicale mutualiste et par celles des personnes physiques ou morales bénéficiant d'un agrément dans le domaine médico-social ou thérapeutique en vertu de la loi du 8 septembre 1998 réglant les relations entre l'Etat et les organismes œuvrant dans les domaines social, familial et thérapeutique, désignées par règlement grand-ducal. Le recours à un sous-traitant est possible dans les conditions prévues à l’article 21.
+(2) Le traitement visé ci-dessus fait l’objet d’une autorisation préalable de la Commission nationale.
+(3) Par dérogation au paragraphe (2) qui précède sont soumis à notification:
+–	le traitement mis en œuvre conformément à l’article 36 de la loi du 28 août 1998 sur les établissements hospitaliers;
+–	le traitement mis en œuvre par un médecin et concernant ses patients.
+(4) Sous réserve que leur traitement soit en lui-même licite au regard des articles 6 et 7, les données y visées peuvent être communiquées à des tiers ou utilisées à des fins de recherche, d'après les modalités et suivant les conditions à déterminer par règlement grand-ducal.
+(5) Quiconque effectue un traitement ou opère une communication à un tiers en violation des dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement ou de la communication contraires aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 8. Traitement de données judiciaires
+(1) Le traitement des données dans le cadre d'enquêtes pénales et de procédures judiciaires est opéré dans le respect des dispositions du Code d'instruction criminelle, du Code de procédure civile, de la loi portant règlement de procédure devant les juridictions administratives ou d'autres lois.
+(2) Le traitement de données relatives aux infractions, aux condamnations pénales ou aux mesures de sûreté ne peut être mis en œuvre qu'en exécution d'une disposition légale.
+(3) Il ne peut être tenu de recueil exhaustif des condamnations pénales que sous le contrôle de l’autorité publique compétente en la matière.
+(4) Quiconque, agissant à titre privé, effectue un traitement en violation des dispositions du présent article est puni d'un emprisonnement de huit jours à un an et d'une amende de 251 à 125.000 euros ou d'une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 9. Traitement réalisé dans le cadre de la liberté d’expression
+(1) Sans préjudice des dispositions prévues dans la législation sur la liberté dans les moyens de communication de masse et dans la mesure où les dérogations ci-après s'avèrent nécessaires pour concilier le droit à la vie privée avec les règles régissant la liberté d’expression, le traitement mis en œuvre aux seules fins de journalisme ou d’expression artistique ou littéraire n’est pas soumis:
+(a)	
+-	à la prohibition de traiter les catégories particulières de données telle que prévue à l’article 6, paragraphe (1);
+-	aux limitations concernant le traitement de données judiciaires prévues à l’article 8;
+lorsque le traitement se rapporte à des données rendues manifestement publiques par la personne concernée ou à des données qui sont en relation étroite avec le caractère public de la personne concernée ou du fait dans lequel elle est impliquée;
+(b)	à la condition de protection adéquate exigée s’agissant des traitements de données faisant l’objet d’un transfert vers un pays tiers telle que prévue à l’article 18, paragraphe (1);
+(c)	à l’obligation d’information de l’article 26, paragraphe (1), lorsque son application compromettrait la collecte des données auprès de la personne concernée;
+(d)	à l'obligation d'information de l’article 26, paragraphe (2), lorsque son application compromettrait soit la collecte des données, soit une publication en projet, soit la mise à disposition du public, de quelque manière que ce soit de ces données ou fournirait des indications permettant d’identifier les sources d’information;
+(e)	au droit d’accès de la personne concernée qui peut être différé ou limité conformément à l’article 28, paragraphe (4) et à l’article 29.
+(2) Lors de la notification d’un traitement effectué à des fins de journalisme ou d’expression artistique ou littéraire, la notification ne renseigne que sur le(s) nom(s) et adresse(s) du responsable du traitement ou de son représentant.
+Art. 10. Traitement à des fins de surveillance
+(1) Le traitement à des fins de surveillance ne peut être effectué que:
+(a)	si la personne concernée a donné son consentement, ou
+(b)	aux abords ou dans tout lieu accessible ou non au public autres que les locaux d'habitation, notamment dans les parkings couverts, les gares, aérogares et les moyens de transports publics, pourvu que le lieu en question présente de par sa nature, sa situation, sa configuration ou sa fréquentation un risque rendant le traitement nécessaire à la sécurité des usagers ainsi qu'à la prévention des accidents, ou
+(c)	aux lieux d'accès privé dont la personne physique ou morale y domiciliée est le responsable du traitement.
+(2) Les personnes concernées sont informées par des moyens appropriés tels que des panneaux de signalisation, des circulaires et/ou des envois recommandés par voie postale ou électronique de la mise en œuvre des traitements visés au paragraphe (1), lettres (b) et (c). A la demande de la personne concernée, le responsable du traitement fournit à celle-ci les informations prévues à l'article 26, paragraphe (2).
+(3) Les données collectées à des fins de surveillance ne sont communiquées que:
+(a)	si la personne concernée a donné son consentement sauf le cas interdit par la loi, ou
+(b)	aux autorités publiques dans le cadre de l'article 17, paragraphe (1), ou
+(c)	aux autorités judiciaires compétentes pour constater ou poursuivre une infraction pénale et aux autorités judiciaires devant lesquelles un droit en justice est exercé ou défendu.
+(4) Quiconque effectue un traitement en violation des dispositions du paragraphe (1) qui précède est puni d'un emprisonnement de huit jours à un an et d'une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du paragraphe (1) du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 11. Traitement à des fins de surveillance sur le lieu du travail
+(1) Le traitement à des fins de surveillance sur le lieu de travail peut être mis en œuvre, conformément à l'article 14, par l'employeur s'il en est le responsable. Un tel traitement n'est possible que s'il est nécessaire:
+(a)	pour les besoins de sécurité et de santé des travailleurs, ou
+(b)	pour les besoins de protection des biens de l'entreprise, ou
+(c)	pour le contrôle du processus de production portant uniquement sur les machines, ou
+(d)	pour le contrôle temporaire de production ou des prestations du travailleur, lorsqu'une telle mesure est le seul moyen pour déterminer la rémunération exacte, ou
+(e)	dans le cadre d'une organisation de travail selon l'horaire mobile conformément à la loi.
+Dans les cas visés aux lettres (a), (d) et (e), le comité mixte d'entreprise, le cas échéant institué, a un pouvoir de décision tel que défini à l'article 7, paragraphes (1) et (2), de la loi modifiée du 6 mai 1974 instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes.
+Le consentement de la personne concernée ne rend pas légitime le traitement mis en œuvre par l'employeur.
+(2) Sans préjudice du droit à l'information de la personne concernée sont informés préalablement par l'employeur:
+-	la personne concernée, ainsi que
+-	pour les personnes tombant sous l'empire de la législation sur le contrat de droit privé: le comité mixte ou à défaut la délégation du personnel ou à défaut encore l'Inspection du travail et des mines;
+-	pour les personnes tombant sous l'empire d'un régime statutaire: les organismes de représentation du personnel tels que prévus par les lois et règlements afférents.
+(3) Quiconque effectue un traitement en violation des dispositions du présent article est puni d’une peine d’emprisonnement de huit jours à un an et d'une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Chapitre III.  Formalités préalables à la mise en œuvre des traitements et publicités des traitements
+Art. 12. Notification préalable à la Commission nationale
+(1) (a) A l'exception de ceux qui relèvent des dispositions prévues aux articles 8, 14 et 17, les traitements de données font l'objet d'une notification préalable par le responsable du traitement auprès de la Commission nationale.
+(b) Les traitements relevant d'un même responsable du traitement et ayant des finalités identiques ou liées entre elles peuvent faire l'objet d'une notification unique. Dans ce cas les informations requises en application de l'article 13 ne sont fournies pour chacun des traitements que dans la mesure où elles lui sont propres.
+(2) Pour les traitements des données dont la mise en œuvre n'est pas susceptible de porter atteinte aux libertés et droits fondamentaux, et notamment à la vie privée, des personnes concernées, la Commission nationale établit et publie des directives en vue d'une notification simplifiée.
+Ces directives précisent:
+a)	la ou les finalités du traitement faisant l'objet d'une notification simplifiée;
+b)	la ou les catégories de données traitées;
+c)	la ou les catégories de personnes concernées;
+d)	les destinataires ou catégories de destinataires auxquels les données sont communiquées;
+e)	la durée de conservation.
+Les traitements qui correspondent à ces directives font l'objet d'une notification simplifiée de conformité envoyée à la Commission nationale le cas échéant par voie électronique.
+(3) Est exempté de l’obligation de notification:
+(a)	le responsable du traitement qui désigne un chargé de la protection des données tenu notamment d’assurer, de manière indépendante, l’application des dispositions légales en la matière et d’établir et de continuer à la Commission nationale un registre des traitements effectués par le responsable du traitement conformément aux dispositions relatives à la publicité des traitements telles que prévues à l’article 15;
+(b)	le traitement ayant pour seul objet la tenue d’un registre qui en vertu d’une disposition légale est destiné à l’information du public et qui est ouvert à la consultation du public ou de toute personne justifiant d’un intérêt légitime;
+(c)	le traitement mis en œuvre conformément aux règles de procédures judiciaires en matière civile et nécessaires à la constatation, à l’exercice ou à la défense d’un droit en justice.
+(4) Quiconque ne se soumet pas à l’obligation de notification ou fournit des informations incomplètes ou inexactes est puni d’une amende de 251 à 125.000 euros. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 13. Contenu et forme de la notification
+(1) La notification comprend au moins les informations suivantes:
+(a)	le nom et l’adresse du responsable du traitement, et le cas échéant de son représentant et du sous-traitant;
+(b)	la condition de légitimité du traitement;
+(c)	la ou les finalité(s) du traitement;
+(d)	la description de la ou des catégories de personnes concernées et des données ou des catégories de données s’y rapportant;
+(e)	les destinataires ou les catégories de destinataires auxquels les données sont susceptibles d’être communiquées;
+(f)	les pays tiers à destination desquels des transferts de données sont envisagés;
+(g)	une description générale permettant d’apprécier de façon préliminaire le caractère approprié des mesures prises pour assurer la sécurité du traitement en application des articles 22 et 23;
+(h)	la durée de conservation des données.
+(2) Toute modification affectant les informations visées au paragraphe (1) doit être notifiée à la Commission nationale préalablement à la mise en œuvre du traitement.
+(3) La notification se fait auprès de la Commission nationale moyennant support papier ou informatique suivant un schéma à établir par elle. Il est accusé réception de la notification.
+(4) Un règlement grand-ducal fixera le montant et les modalités de paiement d’une redevance à percevoir lors de toute notification et de toute modification de notification.
+Art. 14. Autorisation préalable de la Commission nationale
+(1) Sont soumis à l’autorisation préalable de la Commission nationale:
+(a)	les traitements prévus à l’article 6, paragraphe (2) lettres (a), (b), (e), (g), et paragraphe (4) lettre (b), à l’article 7, paragraphe (1), et aux articles 10 et 11 de la présente loi;
+(b)	les traitements de données à des fins historiques, statistiques ou scientifiques visés à l’article 4, paragraphe (2). La Commission nationale vérifie en particulier si ces traitements ne peuvent être réalisés sur base de données rendues anonymes;
+(c)	l’interconnexion de données visée à l’article 16;
+(d)	le traitement concernant le crédit et la solvabilité des personnes concernées;
+(e)	l’utilisation de données à des fins autres que celles pour lesquelles elles ont été collectées. Un tel traitement ne peut être effectué que moyennant consentement préalable de la personne concernée.
+(2) La demande d'autorisation comprend les informations suivantes:
+(a)	le nom et l'adresse du responsable du traitement ou de son représentant et le cas échéant du sous-traitant;
+(b)	la condition de légitimité du traitement;
+(c)	la ou les finalités du traitement;
+(d)	l'origine des données;
+(e)	la description détaillée des données ou catégories de données ainsi que des traitements envisagés;
+(f)	la description de la ou des catégories de personnes concernées;
+(g)	les destinataires ou les catégories de destinataires auxquels les données sont susceptibles d'être communiquées;
+(h)	les pays tiers à destination desquels des transferts de données sont envisagés;
+(i)	une description détaillée permettant d'apprécier le respect des mesures de sécurité prévues aux articles 22 et 23;
+(j)	la durée de conservation des données.
+(3) Les traitements qui ont une même finalité, qui portent sur des catégories de données identiques et ont les mêmes destinataires ou catégories de destinataires peuvent être autorisées par une décision unique de la Commission nationale. Dans ce cas le responsable de chaque traitement adresse à la Commission nationale un engagement formel de conformité de celui-ci à la description figurant dans l’autorisation.
+(4) Quiconque effectue un traitement en violation des dispositions du présent article est puni d'un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 15. Publicité des traitements
+(1) La Commission nationale tient un registre public des traitements.
+(2) Figurent dans ce registre:
+(a)	les traitements notifiés à la Commission nationale en vertu de l'article 12, paragraphe (1);
+(b)	les traitements autorisés par la Commission nationale en vertu de l'article 14, paragraphe (1); et
+(c)	les traitements surveillés par le chargé de la protection des données et continués à la Commission nationale en vertu de l'article 12, paragraphe (3) (a).
+(3) Le registre tenu par la Commission nationale contient sur chaque traitement les informations requises respectivement par l'article 13, paragraphe (1) et par l'article 14, paragraphe (2). Pour les traitements soumis à autorisation préalable, le registre renseigne en plus sur l'autorisation émise par la Commission nationale.
+(4) Toute personne peut prendre connaissance, et ce gratuitement, des informations contenues dans le registre public qui est en ligne, à l'exception de celles prévues respectivement à l'article 13, paragraphe (1) lettre (g) et à l'article 14, paragraphe (2) lettre (i).
+(5) Cependant la Commission nationale peut limiter cette publicité lorsqu'une telle mesure est nécessaire pour sauvegarder:
+(a)	la sûreté de l'Etat,
+(b)	la défense,
+(c)	la sécurité publique,
+(d)	la prévention, la recherche, la constatation et la poursuite d’infractions pénales y compris celles à la lutte contre le blanchiment, ou le déroulement de procédures judiciaires autres, au sens de l'article 8, paragraphe (1), et de l'article 17 de la présente loi,
+(e)	un intérêt économique ou financier important de l'Etat ou de l'Union Européenne, y compris dans les domaines monétaire, budgétaire et fiscal,
+(f)	la protection de la personne concernée ou des droits et libertés d'autrui,
+(g)	la liberté d'expression,
+(h)	une mission de contrôle, d'inspection ou de réglementation relevant, même à titre occasionnel, de l'exercice de l'autorité publique, dans les cas visés aux points (c), (d) et (e) et
+(i)	le secret professionnel et le secret d'affaires de la personne concernée et du responsable du traitement.
+(6) La Commission nationale publie un rapport annuel qui fait état des notifications et autorisations.
+(7) Le présent article ne s’applique pas aux traitements ayant pour seul but la tenue d’un registre qui, en vertu d’une loi ou d’un règlement grand-ducal, est destiné à l’information du public et qui est ouvert à la consultation du public ou de toute personne justifiant d’un intérêt légitime.
+Art. 16. Interconnexion de données
+(1) L’interconnexion de données qui n’est pas expressément prévue par un texte légal doit faire l’objet d’une autorisation préalable de la Commission nationale sur demande conjointe présentée par les responsables des traitements en cause.
+(2) L’interconnexion de données doit permettre d’atteindre des objectifs légaux ou statutaires présentant un intérêt légitime pour les responsables des traitements, ne pas entraîner de discrimination ou de réduction des droits, libertés et garanties pour les personnes concernées, être assortie de mesures de sécurité appropriées et tenir compte du type de données faisant l’objet de l’interconnexion.
+(3) L'interconnexion n'est autorisée que dans le respect des finalités identiques ou liées de fichiers et du secret professionnel auquel les responsables du traitement sont le cas échéant astreints.
+Art. 17. Autorisation par voie réglementaire
+(1) Font l'objet d'un règlement grand-ducal:
+(a)	les traitements d'ordre général nécessaires à la prévention, à la recherche et à la constatation des infractions pénales qui sont réservés, conformément à leurs missions légales et réglementaires respectives, aux organes du corps de la police grand-ducale, de l'Inspection générale de la police et de l'administration des douanes et accises. Le règlement grand-ducal déterminera le responsable du traitement, la condition de légitimité du traitement, la ou les finalités du traitement, la ou les catégories de personnes concernées et les données ou les catégories de données s'y rapportant, l'origine de ces données, les tiers ou les catégories de tiers auxquels ces données peuvent être communiquées et les mesures à prendre pour assurer la sécurité du traitement en application de l'article 22 de la présente loi,
+(b)	les traitements relatifs à la sûreté de l'Etat, à la défense et à la sécurité publique, et
+(c)	les traitements de données dans des domaines du droit pénal effectués en vertu de conventions internationales, d'accords intergouvernementaux ou dans le cadre de la coopération avec l'Organisation internationale de police criminelle (OIPC – Interpol).
+(2) Le contrôle et la surveillance des traitements mis en œuvre tant en application d'une disposition de droit interne qu'en application d'une convention internationale est exercé par une autorité de contrôle composée du Procureur Général d'Etat, ou de son délégué qui la préside, et de deux membres de la Commission nationale nommés, sur proposition de celle-ci, par le ministre.
+L'organisation et le fonctionnement de l'autorité de contrôle font l'objet d'un règlement grand-ducal.
+L'autorité de contrôle est informée immédiatement de la mise en œuvre d'un traitement de données visé par le présent article. Elle veille à ce que ces traitements soient effectués conformément aux dispositions légales qui les régissent.
+Pour l'exercice de sa mission, l'autorité de contrôle a un accès direct aux données traitées. Elle peut procéder, quant aux traitements effectués, à des vérifications sur place et se faire communiquer tous renseignements et documents utiles à sa mission. Elle peut également charger un de ses membres à procéder à des missions de contrôle spécifique qui sont exécutées dans les conditions indiquées ci-dessus. L'autorité de contrôle fait opérer les rectifications et radiations nécessaires. Elle présente chaque année au ministre un rapport rendant compte de l'exécution de sa mission.
+Le droit d'accès aux données visées au présent article ne peut être exercé que par l'intermédiaire de l'autorité de contrôle. Celle-ci procède aux vérifications et investigations utiles, fait opérer les rectifications nécessaires et informe la personne concernée que le traitement en question ne contient aucune donnée contraire aux conventions, à la loi et à ses règlements d'exécution.
+(3) Toute personne, agissant à titre privé, qui effectue un traitement en violation des dispositions du présent article est punie d'un emprisonnement de huit jours à un an et d'une amende de 251 à 125.000 euros ou d'une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Chapitre IV.  Transferts de données vers des pays tiers
+Art. 18. Principes
+(1) Le transfert vers un pays tiers de données faisant l’objet d’un traitement ou destinées à faire l'objet d'un traitement après leur transfert, ne peut avoir lieu que si le pays en question assure un niveau de protection adéquat et moyennant le respect des dispositions de la présente loi et de ses règlements d’exécution.
+(2) Le caractère adéquat du niveau de protection offert par un pays tiers doit être apprécié par le responsable du traitement au regard de toutes les circonstances relatives à un transfert ou une catégorie de transferts de données, notamment la nature des données, la finalité et la durée du ou des traitements envisagés, le pays d’origine et le pays de destination finale, les règles de droit générales et sectorielles en vigueur dans le pays en cause, ainsi que les règles professionnelles et les mesures de sécurité qui y sont respectées.
+(3) En cas de doute, le responsable du traitement informe sans délai la Commission nationale qui apprécie si un pays tiers assure un niveau de protection adéquat. La Commission nationale notifie conformément à l’article 20 à la Commission européenne les cas dans lesquels elle estime que le pays tiers n’assure pas un niveau de protection adéquat.
+(4) Lorsque la Commission européenne ou la Commission nationale constate qu’un pays tiers ne dispose pas d’un niveau de protection adéquat, tout transfert de données vers ce pays est prohibé.
+(5) Quiconque effectue un transfert de données vers un pays tiers en violation des dispositions des paragraphes (1), (2) et (4) qui précèdent est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du transfert contraire aux dispositions des paragraphes (1), (2) et (4) du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 19. Dérogations
+(1) Le transfert de données ou d’une catégorie de données vers un pays tiers n’assurant pas un niveau de protection adéquat au sens de l’article 18, paragraphe (2), peut toutefois être effectué à condition que:
+(a)	la personne concernée ait donné son consentement au transfert envisagé, ou
+(b)	le transfert soit nécessaire à l’exécution d’un contrat auquel la personne concernée et le responsable du traitement sont parties ou à l’exécution de mesures précontractuelles prises à la demande de la personne concernée, ou
+(c)	le transfert soit nécessaire à la conclusion ou à l’exécution d’un contrat conclu ou à conclure, dans l’intérêt de la personne concernée, entre le responsable du traitement et un tiers, ou
+(d)	le transfert soit nécessaire ou rendu juridiquement obligatoire pour la sauvegarde d’un intérêt public important, ou pour la constatation, l’exercice ou la défense d’un droit en justice, ou
+(e)	le transfert soit nécessaire à la sauvegarde de l'intérêt vital de la personne concernée, ou
+(f)	le transfert intervienne depuis un registre public tel que prévu à l’article 12,paragraphe (3) lettre (b).
+(2) Dans le cas d’un transfert effectué vers un pays tiers n’assurant pas un niveau de protection adéquat au sens de l’article 18, paragraphe (2), le responsable du traitement doit notifier à la Commission nationale un rapport établissant les conditions dans lesquelles il a opéré le transfert.
+(3) Sans préjudice des dispositions du paragraphe (1), la Commission nationale peut autoriser, sur la base d’une demande dûment motivée, un transfert ou un ensemble de transferts de données vers un pays tiers et n’assurant pas un niveau de protection adéquat, au sens de l’article 18, paragraphe (2), ceci lorsque le responsable du traitement offre des garanties suffisantes au regard de la protection de la vie privée et des libertés et droits fondamentaux des personnes concernées, ainsi qu’à l’exercice des droits correspondants. Ces garanties peuvent résulter de clauses contractuelles appropriées. Le responsable du traitement est tenu de se conformer à la décision de la Commission nationale.
+(4) Quiconque effectue un transfert de données vers un pays tiers en violation des dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du transfert contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 20. Information réciproque
+(1) La Commission nationale informe le ministre de toute décision prise en application de l’article 18, paragraphes (3) et (4), et de l’article 19, paragraphes (1) et (2). Le ministre en informe la Commission européenne.
+(2) Le ministre informe la Commission nationale de toute décision relative au niveau de protection d’un pays tiers prise par la Commission européenne.
+Chapitre V.  Subordination et sécurité des traitements
+Art. 21. Subordination
+Toute personne qui agit sous l’autorité du responsable du traitement ou sous celle du sous-traitant, ainsi que le sous-traitant lui-même, et qui accède à des données ne peut les traiter que sur instruction du responsable du traitement, sauf en vertu d’obligations légales.
+Art. 22. Sécurité des traitements
+(1) Le responsable du traitement doit mettre en œuvre toutes les mesures techniques et l’organisation appropriées pour assurer la protection des données qu’il traite contre la destruction accidentelle ou illicite, la perte accidentelle, l’altération, la diffusion ou l’accès non autorisés, notamment lorsque le traitement comporte des transmissions de données dans un réseau, ainsi que contre toute autre forme de traitement illicite. Ces mesures font l’objet d’un rapport annuel à soumettre par le responsable du traitement à la Commission nationale.
+(2) Lorsque le traitement est mis en œuvre pour compte du responsable du traitement, celui-ci doit choisir un sous-traitant qui apporte des garanties suffisantes au regard des mesures de sécurité technique et d’organisation relatives aux traitements à effectuer. Il incombe au responsable du traitement ainsi qu'au sous-traitant de veiller au respect de ces mesures.
+(3) Tout traitement effectué pour compte doit être régi par un contrat ou un acte juridique consigné par écrit qui lie le sous-traitant au responsable du traitement et qui prévoit notamment que:
+(a)	le sous-traitant n’agit que sur la seule instruction du responsable du traitement; et que
+(b)	les obligations visées au présent article incombent également à celui-ci.
+Art. 23. Mesures de sécurité particulières
+En fonction du risque d’atteinte à la vie privée, ainsi que de l’état de l’art et des coûts liés à leur mise en œuvre, les mesures visées à l’article 22, paragraphe (1) doivent:
+(a)	empêcher toute personne non autorisée d’accéder aux installations utilisées pour le traitement de données (contrôle à l’entrée des installations);
+(b)	empêcher que des supports de données puissent être lus, copiés, modifiés ou déplacés par une personne non autorisée (contrôle des supports);
+(c)	empêcher l’introduction non autorisée de toute donnée dans le système d’information, ainsi que toute prise de connaissance, toute modification ou tout effacement non autorisés de données enregistrées (contrôle de la mémoire);
+(d)	empêcher que des systèmes de traitements de données puissent être utilisés par des personnes non autorisées à l’aide d’installations de transmission de données (contrôle de l’utilisation);
+(e)	garantir que, pour l’utilisation d’un système de traitement automatisé de données, les personnes autorisées ne puissent accéder qu’aux données relevant de leur compétence (contrôle de l’accès);
+(f)	garantir que puisse être vérifié et constaté l’identité des tiers auxquels des données peuvent être transmises par des installations de transmission (contrôle de la transmission);
+(g)	garantir que puisse être vérifié et constaté a posteriori l’identité des personnes ayant eu accès au système d’information et quelles données ont été introduites dans le système, à quel moment et par quelle personne (contrôle de l’introduction);
+(h)	empêcher que, lors de la communication de données et du transport de supports de données, les données puissent être lues, copiées, modifiées ou effacées de façon non autorisée (contrôle du transport);
+(i)	sauvegarder les données par la constitution de copies de sécurité (contrôle de la disponibilité).
+Art. 24. Secret professionnel
+(1) Les membres de la Commission nationale et toute personne qui exerce des fonctions auprès de la Commission nationale ou accomplit une mission pour son compte ainsi que le chargé de la protection des données sont soumis au respect du secret professionnel prévu à l’article 458 du Code pénal, même après la fin de leur fonction.
+(2) Le chargé de la protection des données agissant dans le cadre de l’accomplissement de ses missions, ne peut opposer à la Commission nationale le secret professionnel auquel il est soumis.
+(3) Le prestataire de service de certification ne peut opposer à la Commission nationale le secret professionnel auquel il est soumis conformément à l’article 19 de la loi du 14 août 2000 relative au commerce électronique.
+(4) Le responsable du traitement agissant dans le cadre de l’accomplissement de ses missions visées à l’article 7, paragraphe (1), ne peut opposer à la Commission nationale le secret professionnel auquel il est soumis lorsque celle-ci a été saisie conformément à l'article 32, paragraphes (4) et (5).
+Art. 25. Sanctions relatives à la subordination et à la sécurité des traitements
+Quiconque effectue un traitement en violation des règles relatives à la confidentialité ou à la sécurité visées aux articles 21, 22 et 23 est puni d’un emprisonnement de huit jours à six mois et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions des articles 21, 22 et 23 sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Chapitre VI.  Droits de la personne concernée
+Art. 26. Le droit à l’information de la personne concernée
+(1) Lorsque des données sont collectées directement auprès de la personne concernée, le responsable du traitement doit fournir à la personne concernée, au plus tard lors de la collecte et quels que soient les moyens et supports employés, les informations suivantes, sauf si la personne concernée en a déjà été informée:
+(a)	l’identité du responsable du traitement et, le cas échéant, de son représentant;
+(b)	la ou les finalités déterminées du traitement auquel les données sont destinées;
+(c)	toute autre information supplémentaire telle que:
+–	les destinataires ou les catégories de destinataires auxquels les données sont susceptibles d’être communiquées;
+–	le fait de savoir si la réponse aux questions est obligatoire ou facultative ainsi que les conséquences éventuelles d’un défaut de réponse;
+–	l’existence d’un droit d’accès aux données la concernant et de rectification de ces données;
+–	la durée de conservation des données.
+(2) Lorsque les données n’ont pas été collectées auprès de la personne concernée, le responsable du traitement doit, dès l’enregistrement des données ou, si une communication de données à un tiers est envisagée, au plus tard lors de la première communication de données, fournir à la personne concernée, sauf si elle en est déjà informée, les informations suivantes:
+(a)	l’identité du responsable du traitement et, le cas échéant, de son représentant;
+(b)	la ou les finalités déterminées du traitement auquel les données sont destinées;
+(c)	toute information supplémentaire telle que:
+–	les catégories de données concernées;
+–	les destinataires ou les catégories de destinataires des données auxquels les données sont susceptibles d’être communiquées;
+–	l’existence d’un droit d’accès aux données la concernant et de rectification de ces données;
+–	la durée de conservation des données.
+(3) Quiconque contrevient aux dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 27. Exceptions au droit à l’information de la personne concernée
+(1) L’article 26, paragraphes (1) et (2), ne s’applique pas lorsque le traitement est nécessaire pour sauvegarder:
+(a)	la sûreté de l’Etat;
+(b)	la défense;
+(c)	la sécurité publique;
+(d)	la prévention, la recherche, la constatation et la poursuite d’infractions pénales y compris celles à la lutte contre le blanchiment, ou le déroulement de procédures judiciaires autres, au sens de l'article 8, paragraphe (1), et de l'article 17 de la présente loi;
+(e)	un intérêt économique ou financier important de l’Etat ou de l’Union européenne, y compris dans les domaines monétaire, budgétaire et fiscal;
+(f)	la protection de la personne concernée ou des droits et libertés d’autrui.
+(2) Les dispositions de l’article 26 sont susceptibles de dérogations lors de la collecte de données dans les conditions prévues à l’article 9, paragraphe (1) lettre (c).
+(3) Les dispositions de l’article 26 paragraphes (1) et (2) ne s’appliquent pas lorsque, en particulier pour un traitement ayant une finalité statistique, historique ou scientifique, l’information de la personne concernée se révèle impossible ou implique des efforts disproportionnés ou si l’enregistrement ou la communication des données est prévu par la loi.
+(4) Quiconque contrevient aux dispositions des paragraphes (1) et (2) qui précèdent est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions des paragraphes (1) et (2) du présent article sous peine d'astreinte dont le maximum est fixé par ladite juridiction.
+Art. 28. Droit d’accès
+(1) Sur demande à introduire auprès du responsable du traitement, la personne concernée ou ses ayants droit justifiant d'un intérêt légitime peuvent obtenir sans frais, à des intervalles raisonnables et sans délais excessifs:
+(a)	l’accès aux données la concernant;
+(b)	la confirmation que des données la concernant sont ou ne sont pas traitées, ainsi que des informations portant au moins sur les finalités du traitement, sur les catégories de données sur lesquelles il porte et les destinataires ou les catégories de destinataires auxquels les données sont communiquées;
+(c)	la communication, sous une forme intelligible, des données faisant l’objet des traitements, ainsi que de toute information disponible sur l’origine des données;
+(d)	la connaissance de la logique qui sous-tend tout traitement automatisé des données la concernant, au moins dans le cas des décisions automatisées visées à l’article 31.
+(2) Celui qui entrave sciemment par quelque moyen que ce soit, l’exercice du droit d’accès, sera puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement.
+(3) Le patient a un droit d’accès aux données le concernant. Le droit d'accès est exercé par le patient lui-même ou par l'intermédiaire d'un médecin qu'il désigne. En cas de décès du patient, son conjoint non séparé de corps et ses enfants ainsi que toute personne qui au moment du décès a vécu avec lui dans le ménage ou, s'il s'agit d'un mineur, ses père et mère, peuvent exercer, par l'intermédiaire d'un médecin qu'ils désignent, le droit d'accès dont question à l'alinéa qui précède.
+Le droit d'accès du patient pourra encore être exercé, du vivant d'une personne placée sous le régime de la curatelle ou sous celui de la tutelle tel qu'il est organisé par la loi du 11 août 1982, par l'intermédiaire d'un médecin désigné par son curateur ou tuteur.
+(4) Toute personne a un droit d’accès aux données la concernant et utilisées aux fins d’un traitement mis en œuvre dans le cadre de la liberté d’expression tel que prévu à l’article 9. Aussi longtemps que les données auxquelles l’accès est demandé n’ont pas été publiées, la communication de ces données, ainsi que toute information disponible sur leur origine ne peut se faire que par l’intermédiaire de la Commission nationale.
+(5) Selon le cas, le responsable du traitement procédera à la rectification, l'effacement ou le verrouillage des données dont le traitement n'est pas conforme à la présente loi, notamment en raison du caractère incomplet ou inexact des données, sous peine d'encourir dans les conditions de l'article 33 l'interdiction temporaire ou définitive du traitement ou la destruction des données.
+(6) Toute personne qui dans l’exercice de son droit d’accès a des raisons sérieuses d’admettre que les données qui lui ont été communiquées ne sont pas conformes aux données traitées, peut en informer la Commission nationale qui procède aux vérifications nécessaires.
+(7) Toute rectification, tout effacement ou verrouillage effectué conformément au paragraphe (5) sera notifié sans délai par le responsable du traitement aux destinataires auxquels les données ont été communiquées, à moins que cela ne s’avère impossible.
+(8) Sans préjudice de la sanction prévue au paragraphe (5), quiconque contrevient sciemment aux dispositions du présent article ou quiconque prend sciemment un nom ou prénom supposé ou une fausse qualité pour obtenir communication des données faisant l’objet d’un traitement en application du paragraphe (1), est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement.
+Art. 29. Exceptions au droit d’accès
+(1) Le responsable du traitement peut limiter ou différer l’exercice du droit d’accès d’une personne concernée lorsqu’une telle mesure est nécessaire pour sauvegarder:
+(a)	la sûreté de l’Etat;
+(b)	la défense;
+(c)	la sécurité publique;
+(d)	la prévention, la recherche, la constatation et la poursuite d’infractions pénales y compris celles à la lutte contre le blanchiment, ou le déroulement de procédures judiciaires autres, au sens de l'article 8, paragraphe (1), et de l'article 17 de la présente loi;
+(e)	un intérêt économique ou financier important de l’Etat ou de l’Union européenne, y compris dans les domaines monétaire, budgétaire et fiscal;
+(f)	la protection de la personne concernée ou des droits et libertés d’autrui;
+(g)	la liberté d’expression et que la mesure d’exception est prise conformément à l’article 28, paragraphe (4);
+(h)	une mission de contrôle, d'inspection ou de réglementation relevant, même à titre occasionnel, de l'exercice de l'autorité publique, dans les cas visés aux points (c), (d) et (e).
+(2) Au cas où il n’existe manifestement aucun risque d’atteinte à la vie privée d'une personne concernée, le responsable du traitement peut limiter le droit d'accès lorsque les données sont traitées exclusivement aux fins de recherche scientifique ou sont stockées sous la forme de données pendant une durée n'excédant pas celle nécessaire à la seule finalité d’établissement de statistiques et que ces données ne puissent être utilisées aux fins de prendre une mesure ou une décision se rapportant à des personnes précises.
+(3) Le responsable du traitement doit indiquer le motif pour lequel il limite ou diffère l’exercice du droit d’accès. Lorsque le droit d'accès est différé, le responsable du traitement doit indiquer la date à partir de laquelle le droit d’accès peut à nouveau être exercé. Le responsable du traitement notifiera le motif à la Commission nationale.
+(4) En cas de limitation de l’exercice du droit d’accès de la personne concernée, le droit d’accès est exercé par la Commission nationale qui dispose d’un pouvoir d’investigation en la matière et qui fait opérer la rectification, l’effacement ou le verrouillage des données dont le traitement n’est pas conforme à la présente loi. La Commission nationale peut communiquer à la personne concernée le résultat de ses investigations, sans toutefois mettre en danger la ou les finalités des traitements en question.
+(5) Quiconque contrevient à la disposition du paragraphe (3) qui précède est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement.
+Art. 30. Droit d’opposition de la personne concernée
+(1) Toute personne concernée a le droit:
+(a)	de s’opposer à tout moment pour des raisons prépondérantes et légitimes tenant à sa situation particulière, à ce que des données la concernant fassent l’objet d’un traitement, sauf en cas de dispositions légales prévoyant expressément le traitement. En cas d’opposition justifiée, le traitement mis en œuvre par le responsable du traitement ne peut pas porter sur ces données;
+(b)	de s’opposer, sur demande et gratuitement, au traitement la concernant envisagé par le responsable du traitement à des fins de prospection; il incombe au responsable du traitement de porter l’existence de ce droit à la connaissance de la personne concernée;
+(c)	d’être informée avant que des données la concernant ne soient pour la première fois communiquées à des tiers ou utilisées pour le compte de tiers à des fins de prospection et de se voir expressément offrir le droit de s’opposer, gratuitement, à ladite communication ou utilisation.
+(2) Quiconque contrevient sciemment aux dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement.
+Art. 31. Décisions individuelles automatisées
+Une personne peut être soumise à une décision individuelle automatisée produisant des effets juridiques à son égard, si cette décision:
+(a)	est prise dans le cadre de la conclusion ou de l’exécution d’un contrat, à condition que la demande de conclusion ou d’exécution du contrat, introduite par la personne concernée, ait été satisfaite ou que des mesures appropriées, telle que la possibilité de faire valoir son point de vue, garantissent la sauvegarde de son intérêt légitime, ou
+(b)	est autorisée par la loi, qui précise les mesures garantissant la sauvegarde de l’intérêt légitime de la personne concernée.
+Chapitre VII.  Contrôle et surveillance de l’application de la loi
+Art. 32. Missions et pouvoirs de la Commission nationale
+(1) Il est institué une autorité de contrôle dénommée "Commission nationale pour la protection des données" chargée de contrôler et de vérifier si les données soumises à un traitement sont traitées en conformité avec les dispositions de la présente loi et de ses règlements d’exécution.
+(2) Tous les ans, la Commission nationale rend compte, dans son rapport écrit aux membres du Gouvernement en conseil, de l’exécution de ses missions. Dans ce rapport, elle relève plus particulièrement l'état des notifications et des autorisations, les déficiences ou abus qui ne sont pas spécifiquement visés par les dispositions légales, réglementaires et administratives existantes. Elle publiera son rapport annuel. Le rapport est avisé par la commission consultative des droits de l'homme, organe consultatif du gouvernement en matière de droits de l'homme sur le territoire du Grand-Duché de Luxembourg dont la composition et les attributions sont déterminées par règlement grand-ducal.
+(3) Les missions de la Commission nationale sont les suivantes:
+(a)	assurer l’application des dispositions de la présente loi et de ses règlements d’exécution en particulier celles relatives à la confidentialité et à la sécurité des traitements;
+(b)	recevoir les notifications préalables à la mise en œuvre d’un traitement, de même que les changements affectant le contenu de ces notifications, et procéder a posteriori au contrôle de la licéité des traitements notifiés; de même elle est informée sans délai de tout traitement soumis à autorisation préalable;
+(c)	assurer la publicité des traitements lui notifiés en tenant un registre afférent, sauf disposition contraire;
+(d)	autoriser la mise en œuvre des traitements soumis au régime de l’article 14 de la présente loi;
+(e)	être demandée en son avis sur tous les projets ou propositions de loi portant création d'un traitement de même que sur toutes les mesures réglementaires ou administratives émises sur base de la présente loi. Ces avis sont publiés au rapport annuel visé à l'article 15, paragraphe (6);
+(f)	présenter au Gouvernement toutes suggestions susceptibles de simplifier et d’améliorer le cadre législatif et réglementaire à l’égard du traitement des données;
+(g)	recevoir et le cas échéant après discussion avec les auteurs approuver les codes de conduite relatifs à un traitement ou un ensemble de traitements lui soumis par des associations professionnelles représentatives de responsables du traitement;
+(h)	conseiller le Gouvernement, soit à la demande de celui-ci, soit sur sa propre initiative, au sujet des conséquences de l’évolution des technologies de traitement de l'information au regard du respect des libertés et droits fondamentaux des personnes; à cette fin, elle peut faire procéder à des études, des enquêtes ou expertises;
+(i)	favoriser de façon régulière et par tout moyen qu'elle juge opportun, la diffusion d'informations relatives aux droits des personnes concernées et aux obligations des responsables du traitement, notamment en ce qui concerne le transfert de données vers des pays tiers.
+(4) La Commission nationale peut être saisie par toute personne, agissant par elle même, par l'entremise de son avocat ou par toute autre personne physique ou morale dûment mandatée, d'une demande relative au respect de ses droits et libertés fondamentaux à l'égard d’un traitement. La personne concernée est informée des suites réservées à sa requête.
+(5) La Commission nationale peut, en particulier, être saisie par toute personne concernée d’une demande de vérification de la licéité d’un traitement en cas de refus ou de limitation de l'exercice du droit d’accès de la personne concernée conformément à l’article 29, paragraphe (4), de la présente loi.
+(6) Si la Commission nationale est saisie par l'une des personnes ou organes visés à l'article 11, paragraphe (2), sur une violation de cet article, elle statue dans le mois de la saisine.
+(7) Dans le cadre de la présente loi, la Commission nationale dispose d'un pouvoir d'investigation en vertu duquel elle a accès aux données faisant l'objet du traitement en question. Elle recueille toutes les informations nécessaires à l'accomplissement de sa mission de contrôle. A cette fin elle a un accès direct aux locaux autres que les locaux d'habitation où a lieu le traitement ainsi qu'aux données faisant l'objet du traitement et procède aux vérifications nécessaires.
+(8) La Commission nationale a le droit d'ester en justice dans l’intérêt de la présente loi et de ses règlements d’exécution. Elle dénonce aux autorités judiciaires les infractions dont elle a connaissance.
+(9) La Commission nationale coopère avec ses homologues que sont les autorités de contrôle instituées dans les autres Etats membres de l'Union européenne, dans la mesure nécessaire à l'accomplissement de leurs missions notamment en échangeant toutes informations utiles.
+(10) La Commission nationale représente le Luxembourg au "groupe de protection des personnes à l’égard du traitement des données à caractère personnel" institué par l'article 29 de la Directive 95/46/CE.
+(11) Quiconque empêche ou entrave sciemment, de quelque manière que ce soit, l’accomplissement des missions incombant à la Commission nationale, est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. Est considéré comme empêchant ou entravant sciemment l’accomplissement des missions incombant à la Commission nationale, le refus opposé à ses membres de donner accès aux locaux autres que les locaux d'habitation, où a lieu un traitement aux données faisant l’objet d’un traitement ou de communiquer tous renseignements et documents demandés.
+Art. 33. Sanctions administratives
+(1) La Commission nationale peut prendre les sanctions disciplinaires suivantes:
+(a)	avertir ou admonester le responsable du traitement ayant violé les obligations lui imposées par les articles 21 à 24;
+(b)	verrouiller, effacer ou détruire des données faisant l'objet d’un traitement contraire aux dispositions de la présente loi ou de ses règlements d'exécution;
+(c)	interdire temporairement ou définitivement un traitement contraire aux dispositions de la présente loi ou à ses règlements d'exécution;
+(d)	ordonner l’insertion intégrale ou par extraits de la décision d'interdiction par la voie des journaux ou de toute autre manière, aux frais de la personne sanctionnée.
+(2) Les décisions ci-dessus sont susceptibles d'un recours en réformation suivant l'article 3 de la loi du 7 novembre 1996 portant organisation des juridictions de l'ordre administratif.
+Art. 34. Composition de la Commission nationale
+(1) La Commission nationale est une autorité publique qui prend la forme d’un établissement public. Son siège est fixé à Luxembourg-ville. Il peut être transféré à tout moment dans toute autre localité du Luxembourg par voie de règlement grand-ducal.
+La Commission nationale dispose de la personnalité juridique et jouit de l'autonomie financière et administrative, sous la tutelle du ministre.
+Elle exerce en toute indépendance les missions dont elle est investie en vertu de la présente loi.
+(2) La Commission nationale est composée de trois membres effectifs et de trois membres suppléants nommés et révoqués par le Grand-Duc sur proposition du Gouvernement en conseil. Le président est désigné par le Grand-Duc. Les membres sont nommés pour un terme de six ans, renouvelable une fois.
+Le Gouvernement en conseil propose au Grand-Duc comme membre effectif et suppléant chaque fois au moins un juriste et un informaticien justifiant d'une formation universitaire accomplie.
+Avant d'entrer en fonction, le président de la Commission nationale prête entre les mains du Grand-Duc ou de son représentant le serment suivant: "Je jure fidélité au Grand-Duc, obéissance à la constitution et aux lois de l'Etat. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité."
+Avant d’entrer en fonction, les membres de la Commission nationale prêtent entre les mains du président de la Commission nationale le serment suivant: "Je jure fidélité au Grand-Duc, obéissance à la constitution et aux lois de l’Etat. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité."
+Lorsque le président ou un membre effectif de la Commission nationale est issu du secteur public, il obtient un congé spécial pour la durée de son mandat avec maintien de tous les avantages et droits découlant de son statut respectif. Il continue notamment à jouir de son traitement, indemnité ou salaire suivant le cas, ainsi que du régime de sécurité sociale correspondant à son statut.
+En cas de cessation du mandat, il est réintégré sur sa demande dans son administration d'origine à un emploi correspondant au traitement qu’il a touché précédemment, augmenté des échelons et majorations de l’indice se rapportant aux années de service passées comme président ou membre effectif jusqu’à concurrence du dernier échelon du grade.
+A défaut de vacance, il peut être créé un emploi hors cadre correspondant à ce traitement; cet emploi est supprimé de plein droit à la première vacance qui se produit dans une fonction appropriée du cadre normal.
+Lorsque le président ou un membre effectif de la Commission nationale est issu du secteur privé, il touche une rémunération calculée par référence à la réglementation fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat qui est applicable en la matière, sur base d’une décision individuelle prise en vertu de l'article 23 du règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat. Il reste affilié au régime de sécurité sociale auquel il était soumis pendant l’exercice de sa dernière occupation.
+En cas de cessation du mandat, il touche pendant une durée maximale d’un an une indemnité d’attente mensuelle correspondant au salaire ou traitement mensuel moyen du dernier revenu professionnel cotisable annuel mis en compte au titre de sa carrière d’assurance en cours avant le début de sa fonction de président ou de membre effectif de la Commission nationale. Cette indemnité d’attente est réduite dans la mesure où l’intéressé touche un revenu professionnel ou bénéficie d’une pension personnelle.
+Le président et les membres effectifs de la Commission nationale bénéficient d’une indemnité spéciale tenant compte de l’engagement requis par les fonctions, à fixer par règlement grand-ducal.
+La démission d’un membre de la Commission nationale intervient de plein droit par l’atteinte de la limite d’âge de 65 ans.
+Les membres suppléants touchent une indemnité dont le montant est fixé par règlement grand-ducal.
+(3) Les membres de la Commission nationale ne peuvent être membre du Gouvernement, de la Chambre des Députés, du Conseil d’Etat ou du Parlement Européen ni exercer d’activité professionnelle ou détenir directement ou indirectement des intérêts dans une entreprise ou tout autre organisme opérant dans le champ des traitements de données.
+(4) Si, en cours de mandat un membre de la Commission nationale cesse d’exercer ses fonctions, le mandat de son successeur est limité à la période restant à courir.
+Art. 35. Fonctionnement de la Commission nationale
+(1) La Commission nationale est un organe collégial. Elle établit son règlement intérieur comprenant ses procédures et méthodes de travail dans le mois de son installation. Le règlement intérieur est publié au Mémorial.
+(2) Sous réserve des dispositions de la présente loi, le règlement intérieur fixe:
+(a)	les règles de procédure applicables devant la Commission nationale,
+(b)	les conditions de fonctionnement de la Commission nationale,
+(c)	l’organisation des services de la Commission nationale.
+(3) Les membres effectifs de la Commission nationale sont convoqués par le président. La convocation est de droit à la demande de deux membres effectifs. La convocation précise l’ordre du jour.
+Les membres effectifs empêchés d'assister à une réunion sont tenus d'en avertir leur suppléant et de lui continuer la convocation.
+(4) La Commission nationale ne peut valablement siéger ni délibérer qu'à condition de réunir trois membres.
+(5) Les membres de la Commission nationale ne peuvent siéger, délibérer ou décider dans aucune affaire dans laquelle ils ont un intérêt direct ou indirect.
+(6) Les délibérations sont prises à la majorité des voix. Les abstentions ne sont pas recevables.
+(7) Le Gouvernement en conseil ayant proposé à la nomination un membre de la Commission nationale peut proposer sa révocation au Grand-Duc. La Commission nationale est entendue en son avis avant toute révocation.
+(8) Dans l’exercice de leurs fonctions, les membres et les suppléants de la Commission nationale ne reçoivent d’instruction d’aucune autorité.
+Art. 36. Statut des membres et agents de la Commission nationale
+(1) Le cadre du personnel de la Commission nationale comprend les fonctions et emplois suivants:
+Dans la carrière moyenne de l’administration, grade de computation de la bonification d’ancienneté : grade 7, carrière du rédacteur :
+-	des inspecteurs principaux 1er en rang
+-	des inspecteurs principaux
+-	des inspecteurs
+-	des chefs de bureau
+-	des chefs de bureau adjoints
+-	des rédacteurs principaux
+-	des rédacteurs
+Les agents de la carrière moyenne des rédacteurs sont des fonctionnaires de l’Etat en ce qui concerne notamment leur statut, leur traitement et leur régime de pension qui est régi par les dispositions légales régissant les fonctionnaires de l’Etat.
+(2) Le cadre prévu au paragraphe (1) ci-dessus peut être complété par des employés de l’Etat ainsi que par des ouvriers de l’Etat dans les limites des crédits disponibles.
+La rémunération des employés de l’Etat est fixée conformément au règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat.
+(3) Les rémunérations et autres indemnités de tous membres, agents et employés de la Commission nationale sont à charge de la Commission nationale.
+(4) La Commission nationale peut, dans des cas déterminés, faire appel à des experts externes dont les prestations sont définies et rémunérées sur la base d’un contrat de droit privé.
+Art. 37. Dispositions financières
+(1) Au moment de sa création, la Commission nationale bénéficie d’une dotation initiale de deux cent mille euros à charge du budget de l'Etat. L'Etat met à sa disposition les biens mobiliers et immobiliers nécessaires au bon fonctionnement et à l’exercice de ses missions.
+(2) L’exercice financier de la Commission nationale coïncide avec l’année civile.
+(3) Avant le 31 mars de chaque année, la Commission nationale arrête son compte d'exploitation de l’exercice précédent, ensemble avec son rapport de gestion. Avant le 30 septembre de chaque exercice, la Commission nationale arrête le budget pour l’exercice à venir. Le budget, les comptes annuels et les rapports arrêtés sont transmis au Gouvernement en conseil qui décide de la décharge à donner à la Commission nationale. La décision constatant la décharge accordée à la Commission nationale ainsi que les comptes annuels de la Commission nationale sont publiés au Mémorial.
+(4) La Commission nationale est autorisée à prélever la contrepartie de ses frais du personnel en service et de ses frais de fonctionnement par la redevance à percevoir telle que prévue à l’article 13 de la présente loi. Pour le solde des frais restant à couvrir dans le cadre de ses missions conférées par la présente loi, la Commission nationale bénéficiera d’une dotation d’un montant à déterminer sur une base annuelle et à inscrire au budget de l’Etat.
+(5) La loi du 27 novembre 2001 concernant le budget des recettes et des dépenses de l'Etat pour l'exercice 2002 est modifiée comme suit:
+il est ajouté au budget des dépenses au Chapitre III – Dépenses courantes sous "00 – Ministère d'Etat" une section "00.9 Commission nationale pour la protection des données" émargeant les articles suivants:
+
+"12.300:	Prise en charge par l'Etat des frais encourus par la Commission nationale pour la protection des données. (crédit non limitatif et sans distinction d'exercice)		200.870
+33.000:	Dotation initiale en faveur de la Commission nationale pour la protection des données		200.000 "
+Chapitre VIII.  Recours juridictionnels
+Art. 38. Généralités
+Sans préjudice des sanctions pénales instituées par la présente loi et des actions en responsabilité régies par le droit commun, en cas de mise en œuvre d'un traitement en violation des formalités prévues par la présente loi toute personne dispose d'un recours juridictionnel tel que prévu ci-après:
+Art. 39. Action en cessation
+(1) A la requête
+-	du Procureur d'Etat qui a déclenché une action publique pour violation de la présente loi,
+-	de la Commission nationale, dans l'hypothèse où une sanction disciplinaire visée à l'article 33 de la présente loi, qui n'a pas fait l'objet d'un recours ou qui a été confirmée par la juridiction administrative, n'a pas été respectée, ou
+-	d'une personne lésée, dans l'hypothèse où la Commission nationale n'a pas pris position sur une saisine intervenue sur la base de l'article 32, paragraphe (4), (5) ou (6) de la présente loi,
+le président du tribunal d'arrondissement du lieu où le traitement est mis en œuvre, ou le juge qui le remplace, ordonne la cessation du traitement contraire aux dispositions de la présente loi et la suspension provisoire de l'activité du responsable du traitement ou du sous-traitant. Le président du tribunal d'arrondissement, ou le juge qui le remplace, peut ordonner la fermeture provisoire de l'établissement du responsable du traitement ou du sous-traitant lorsque sa seule activité est de traiter des données.
+(2) L'action est recevable même lorsque le traitement illégal a pris fin ou n'est plus susceptible de se reproduire.
+(3) L'action est introduite et jugée comme en matière de référé conformément aux articles 932 à 940 du Nouveau code de procédure civile. Toutefois, par dérogation à l'article 939, alinéa 2, du Nouveau code de procédure civile, l'ordonnance de référé n'est pas susceptible d'opposition.
+(4) Sont également applicables les articles 2059 à 2066 du Code civil.
+(5) La publication de la décision peut être ordonnée, en totalité ou par extrait, aux frais du contrevenant, par la voie des journaux ou de toute autre manière. Il ne peut être procédé à la publication qu'en vertu d'une décision judiciaire coulée en force de chose jugée.
+(6) La suspension provisoire et le cas échéant la fermeture provisoire peuvent être ordonnées indépendamment de l'action publique. La suspension provisoire ou la fermeture provisoire ordonnée par le président du tribunal d'arrondissement, ou par le juge qui le remplace, prend toutefois fin en cas de décision de non-lieu ou d'acquittement, et au plus tard à l'expiration d'un délai de deux ans à partir de la décision initiale de suspension ou de fermeture.
+Chapitre IX.  Le chargé de la protection des données
+Art. 40. Le chargé de la protection des données
+(1) Tout responsable de traitement peut, dans le cadre de l’article 12, paragraphe (3) sous (a), et aux fins y visées, désigner un chargé de la protection des données, dont il communique l’identité à la Commission nationale.
+(2) Les pouvoirs du chargé de la protection des données sont les suivants:
+(a)	un pouvoir d’investigation aux fins d’assurer la surveillance du respect des dispositions de la présente loi et de ses règlements d’exécution par le responsable du traitement;
+(b)	un droit d’information auprès du responsable du traitement et corrélativement, un droit d’informer le responsable du traitement des formalités à accomplir afin de se conformer aux dispositions de la présente loi et de ses règlements d’exécution.
+(3) Dans l’exercice de ses missions le chargé de la protection des données est indépendant vis-à-vis du responsable du traitement qui le désigne:
+(a)	il ne connaît aucun lien de subordination vis-à-vis du responsable du traitement et ne peut être lié au responsable du traitement par un contrat de travail;
+(b)	il ne peut être révoqué pour des raisons liées à l’exercice de ses missions, hormis le cas de la violation de ses obligations légales ou conventionnelles.
+(4) Le chargé de la protection consulte la Commission nationale en cas de doute quant à la conformité à la présente loi d’un traitement mis en œuvre sous sa surveillance.
+(5) Peuvent être désignés à la fonction de chargé de la protection des données les personnes physiques et morales qui sont agréées par la Commission nationale.
+(6) L’agrément pour l’activité du chargé de la protection des données est subordonné à la justification d’une formation universitaire accomplie en droit, économie, gestion d’entreprise, sciences de la nature, ou informatique ainsi que d’assises financières d’une valeur de 20.000 euros.
+(7) Par dérogation au paragraphe précédent, les membres inscrits dans une des professions réglementées suivantes peuvent être agréés comme chargé de la protection des données sans autre condition: avocat à la Cour, réviseur d'entreprises, expert-comptable, médecin.
+Un règlement grand-ducal peut ajouter à cette liste d'autres professions réglementées et assujetties à un organisme de surveillance ou de discipline, soit officiel soit propre à la profession et reconnu par la loi.
+(8) La Commission nationale vérifie les qualités de tout chargé de la protection des données. Elle peut s'opposer à tout moment à la désignation ou au maintien du chargé de la protection des données lorsqu’il:
+(a)	ne présente pas les qualités requises pour la fonction de chargé de la protection des données; ou
+(b)	est d'ores et déjà en relation avec le responsable du traitement dans le cadre d'autres activités que celle du traitement des données et que cette relation fait naître un conflit d’intérêts limitant son indépendance.
+En cas d'opposition de la Commission nationale, le responsable du traitement dispose de trois jours pour désigner un nouveau chargé de la protection des données.
+(9) La Commission nationale définit les modalités du contrôle continu des qualités requises à la fonction de chargé de la protection des données.
+(10) Un règlement grand-ducal fixera les modalités de désignation et de révocation du chargé de protection des données, d'exécution de ses missions, de même que ses relations avec la Commission nationale.
+Chapitre X.  Dispositions spécifiques, transitoires et finales
+Art. 41. Dispositions spécifiques
+
+(1) 	(a)	Les autorités compétentes visées aux articles 88-1 à 88-4 du Code d'instruction criminelle, et
+(b)	les autorités agissant dans le cadre d'un crime flagrant ou dans le cadre de l'article 40 du Code d'instruction criminelle,
+
+accèdent de plein droit, sur requête et par l'intermédiaire de l'Institut luxembourgeois de régulation (ci-après "ILR") aux données concernant l'identité des abonnés et utilisateurs des opérateurs et fournisseurs de communications électroniques ainsi que des services postaux et des fournisseurs de ces services.
+La centrale des secours d'urgence 112 et la centrale du service d'incendie et de sauvetage de la Ville de Luxembourg accèdent dans les mêmes conditions et modalités que les autorités visées à l'alinéa précédent aux seules données concernant l'identité des abonnés et utilisateurs des opérateurs et fournisseurs de communications électroniques.
+(2) A ces fins, les opérateurs et les fournisseurs mettent d'office et gratuitement à la disposition de l'ILR les données prescrites au paragraphe (1). Les données doivent être actualisées au moins une fois par jour. L'accès doit être garanti vingt-quatre heures sur vingt-quatre et sept jours sur sept. Un règlement grand-ducal détermine les services de communications électroniques et services postaux pour lesquels les opérateurs et fournisseurs de services doivent mettre à disposition les données ainsi que la nature, le format et les modalités de mise à disposition des données.
+(3) L'accès de plein droit se limite aux mesures spéciales de surveillance telles que prévues aux articles 88-1 à 88-4 du Code d'instruction criminelle, celles prises en matière de crime flagrant ou dans le cadre de l'article 40 du Code d'Instruction criminelle et aux mesures particulières de secours d'urgence prestées dans le cadre des activités de la centrale des secours d'urgence 112 et de la centrale du service d'incendie et de sauvetage de la Ville de Luxembourg.
+(4) La procédure est entièrement automatisée suite à l'autorisation de la Commission nationale. La Commission nationale vérifiera en particulier la sécurisation du système informatique utilisé. Cette automatisation permettra l'accès à distance par voie de communication électronique.
+Art. 42. Dispositions transitoires
+(1) Les traitements existant dans des fichiers non automatisés ou automatisés antérieurs à l’entrée en vigueur de la présente loi doivent être rendus conformes aux dispositions du chapitre II et du chapitre VI, dans un délai de deux ans à compter de la date d'entrée en vigueur de la présente loi.
+(2) Toutefois la personne concernée peut obtenir, sur demande, et notamment en ce qui concerne l'exercice de son droit d’accès, la rectification, l'effacement ou le verrouillage des données incomplètes, inexactes ou conservées de manière incompatible aux fins légitimes poursuivies par le responsable du traitement.
+(3) La Commission nationale peut permettre que les données conservées uniquement à des fins de recherche historiques soient dispensées de respecter le paragraphe (1).
+Art. 43. Mise en vigueur des dispositions transitoires
+(1) La Commission nationale établira le schéma de notification prévu à l’article 13, paragraphe (3), dans les quatre mois de la nomination de ses membres. Elle informera le public, moyennant publication au Mémorial et communiqué de presse aux journaux édités au Luxembourg, de la date à partir de laquelle le schéma de notification est disponible auprès de la Commission nationale.
+(2) Les responsables du traitement procéderont à la notification de leurs traitements dans les quatre mois à partir de la date de la publication officielle mentionnée au paragraphe (1).
+(3) Les responsables du traitement dont les traitements sont autorisés, lors de l’entrée en vigueur de la présente loi, moyennant règlement grand-ducal ou arrêté ministériel "autorisant la création et l’exploitation d’une banque de données", ne notifieront ou ne demanderont l'autorisation de leurs traitements qu’à l’expiration de la durée de validité de l’autorisation octroyée, à moins que pour des raisons de conformité avec les dispositions de la présente loi, ils jugent nécessaire de le faire auparavant.
+(4) Les traitements non automatisés de données contenues ou appelées à figurer dans un fichier sont à notifier dans les douze mois à partir de la date de la publication officielle mentionnée au paragraphe (1).
+Art. 44. Dispositions finales
+(1) La loi modifiée du 31 mars 1979 réglementant l’utilisation des données nominatives dans les traitements informatiques est abrogée.
+(2) Pour autant qu’ils ne sont pas contraires aux dispositions de la présente loi, les règlements pris en exécution de la loi modifiée du 31 mars 1979 précitée resteront en vigueur tant qu’ils n’auront pas été remplacés par de nouvelles dispositions.
+Art. 45. Entrée en vigueur
+La présente loi entre en vigueur le premier jour du quatrième mois qui suit sa publication au Mémorial. Par dérogation à ce qui précède, les articles 34, 35, 36 et 37 entrent en vigueur trois jours après publication de la présente loi au Mémorial.
+
+Le Ministre délégué aux Communications,
+François Biltgen
+Le Ministre de la Justice,
+Luc Frieden
+Le Ministre de la Fonction publique
+et de la Réforme administrative,
+Lydie Polfer	Cabasson, le 2 août 2002.
+Henri
+
+Doc. parl. 4735; sess. ord. 2000-2001 et 2001-2002; Dir. 95/46/CE.
+
+

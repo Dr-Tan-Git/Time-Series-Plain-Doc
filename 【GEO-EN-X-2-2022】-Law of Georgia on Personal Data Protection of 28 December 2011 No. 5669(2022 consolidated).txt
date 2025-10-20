@@ -1,0 +1,1504 @@
+Consolidated versions (30/12/2021 - 30/11/2022)  
+LAW OF GEORGIA
+
+ON PERSONAL DATA PROTECTION
+
+ 
+
+Chapter I – General Provisions
+
+Article 1 – Purpose of this Law
+
+This Law is intended to ensure protection of human rights and freedoms, including the right to privacy, in the course of personal data processing.                  
+
+Article 2 – Definition of terms
+
+The terms used in this Law have the following meanings:
+
+a) personal data (‘the data’) – any information connected to an identified or identifiable natural person. A person shall be identifiable when he/she may be identified directly or indirectly, in particular by an identification number or by any physical, physiological, psychological, economic, cultural or social features specific to this person;
+
+b) special categories of data – data connected to a person’s racial or ethnic origin, political views, religious or philosophical beliefs, membership of professional organisations, state of health, sexual life, criminal history, administrative detention, putting a person under restraint, plea bargains, abatement, recognition as a victim of crime or as a person affected, also biometric and genetic data that allow to identify a natural person by the above features;
+
+c) biometric data – any physical, mental or behavioural feature which is unique and constant for each natural person and which can be used to identify this person (fingerprints, foot prints, iris, retina (retinal image), facial features);
+
+c1) genetic datum – a unique and constant datum of a data subject on genetic inheritance and/or DNA code that makes it possible to identify this person;
+
+d) data processing – any operation performed in relation to the data by automated, semi-automatic or non-automatic means, in particular collection, recording, photographing, audio recording, video recording, organisation, storage, alteration, restoration, request for access to, use or disclosure by way of data transmission, dissemination or otherwise making them available, grouping or combination, locking, deletion, or destruction;
+
+e) automated data processing – data processing by means of information technologies;
+
+e1) semi-automatic data processing – data processing by means of information technologies and non-automatic means;
+
+f) data subject – any natural person whose data is being processed;
+
+g) consent – a voluntary consent of a data subject, after receipt of the respective information, on his/her personal data processing for specific purposes expressed orally, through telecommunication or other appropriate means, which enables clearly establishing the will of the data subject;
+
+h) written consent of the data subject – a voluntary consent expressed by a data subject, after receipt of the respective information on his/her personal data processing for specific purposes, which was signed or otherwise acknowledged by the data subject in writing or in any other equivalent form;
+
+i) data controller – a public agency, a natural or legal person who individually or in collaboration with others determines purposes and means of personal data processing and who, directly or through a data processor, processes personal data;
+
+j) data processor – any natural or legal person who processes personal data for or on behalf of the data controller;
+
+k) data recipient – a private or public agency, a natural or legal person, an employee of the private or public sector to whom the data were transferred, except for the Personal Data Protection Service;
+
+l) third party – any natural or legal person, a public agency, except for a data subject, the Personal Data Protection Service, a data processor, and a data processor;
+
+m) filing system – a structured set of data where they are arranged and available according to specific criteria;
+
+n) filing system catalogue – a detailed description of structure and contents of the filing system;
+
+o) registry of filing system catalogues – a registry providing a detailed record of the existing filing systems;
+
+p) blocking of data – temporary suspension of data processing;
+
+q) data depersonalisation – data modification in a way to make it impossible to link the data to the data subject or to require disproportionately great effort, expense and time to establish such a link;
+
+r) identification number – a personal identification number or any other identification number defined by law, which is connected to a natural person and may be used to retrieve data from the filing system (where the identification number is also processed) or to disclose them;
+
+s) Head of the Personal Data Protection Service – the Head of the Personal Data Protection Service, who is elected to the position in accordance with this Law and the Rules of Procedure of the Parliament of Georgia and exercises the powers provided for by this Law and/or other legislative act;
+
+t) direct marketing – offering goods, services, employment or temporary jobs by mail, telephone calls, e-mail or other means of telecommunication;
+
+t1) covert investigative action – an investigative action provided for by Article 1431(1) of the Criminal Procedure Code of Georgia;
+
+t2) the legal entity under public law called Operative-Technical Agency of Georgia (the Agency) - a body with exclusive authority to conduct covert investigative activities provided for by Article 1431(1) (a-d) of the Criminal Procedure Code of Georgia;
+
+t3) electronic control system - the system provided for by Article 2 (i) of the Law of Georgia ‘On Legal Entity under Public Law called Operative-Technical Agency of Georgia’;
+
+t4) the electronic system of monitoring of the electronic data identification central bank - the system provided for by Article 2 (k) of the Law of Georgia ‘On Legal Entity under Public Law called Operative-Technical Agency of Georgia’;
+
+t5) special electronic system for monitoring the identification of geolocation in real time - the system provided for by Article 2 (n) of the Law of Georgia ‘On Legal Entity under Public Law called Operative-Technical Agency of Georgia’;
+
+t6) special electronic control system - the system provided for by Article 2 (j) of the Law of Georgia ‘On Legal Entity under Public Law called Operative-Technical Agency of Georgia’;
+
+u) (deleted);
+
+v) (deleted);
+
+w) (deleted);
+
+x) (deleted);
+
+y) (deleted);
+
+z) (deleted);
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 2869 of 30 November 2014 – website, 30.11.2014
+
+Law of Georgia No 479 of 22 March 2017 – website, 27.3.2017
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 3300 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+Article 3 – Scope of the Law
+
+1. This Law shall apply to the processing of data through automatic or semi-automatic means, and to the processing of data through non-automatic means within the territory of Georgia, which data form part of the filing system or are intended to form part of the filing system. This Law shall also apply to automatic processing of data defined as a state secret for the crime prevention and investigation, operational-investigative activities and protection of the rule of law, except as provided in this article.
+
+11. Non-automatic data processing shall be inadmissible if it is intended to avoid performance of the requirements of this Law.
+
+2. This Law shall also apply to:
+
+a) data processing by diplomatic representations and consular offices of Georgia abroad;
+
+b) activities of a data processor who is not registered in the territory of Georgia but employs technical means existing in Georgia for data processing, except when these technical means are used only for data transfer. In this case, the data controller must appoint/designate a registered representative in Georgia.
+
+3. This Law shall not apply to:
+
+a) data processing by a natural person clearly for personal purposes when the data processing is not related to his/her entrepreneurial or professional activity;
+
+b) data processing for court proceedings as far as it may prejudice the proceedings before the final decision of the court;
+
+c) processing of the data defined as a state secret for the purposes of state security (including economic security), defence, intelligence and counter-intelligence activities;
+
+d) processing of information defined as a state secret (except for the data specified in paragraph 1 of this article).
+
+4. This Law (except for Article 17) shall not apply to processing of data by media for public information, also to processing of data in the fields of art and literature.
+
+5. Articles 19 and 20 of this Law shall not apply to processing of data by political parties, professional and other unions, and religious organisations with respect to their members.
+
+6. Article 6 of this Law shall not apply to data processing for public safety, operational and investigative activities and criminal investigations if the issue is directly and specifically regulated under the Criminal Procedure Code of Georgia or the Law of Georgia on Operational and Investigative Activities or other special laws.
+
+7. Article 6 of this Law shall not apply to data processing for the national population census under the Law of Georgia on Official Statistics.
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Article 31 – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+Article 4 – Principles of data processing
+
+The following principles must be observed during data processing:
+
+a) data must be processed fairly and lawfully, without impinging on the dignity of a data subject;
+
+b) data may be processed only for specific, clearly defined and legitimate purposes. Further processing of data for purposes that are incompatible with the original purpose shall be inadmissible;
+
+c) data may be processed only to the extent necessary to achieve the respective legitimate purpose. The data must be adequate and proportionate to the purpose for which they are processed;
+
+d) data must be valid and accurate, and must be updated, if necessary. Data that are collected without legal grounds and irrelevant to the processing purpose must be blocked, deleted or destroyed;
+
+e) data may be kept only for the period necessary to achieve the purpose of data processing. After the purpose of data processing is achieved, the data must be locked, deleted or destroyed, or stored in a form that excludes identification of a person, unless otherwise determined by Law.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+          Chapter II – Rules for Data Processing                  
+
+Article 5 – Grounds for data processing
+
+Data processing shall be admissible if:
+
+a) there is a data subject’s consent;
+
+b) data processing is provided for by Law;
+
+c) data processing is necessary for a data controller to perform his/her statutory duties;
+
+d) data processing is necessary to protect vital interests of a data subject;
+
+e) data processing is necessary to protect legitimate interests of a data controller or a third person, except when there is a prevalent interest to protect the rights and freedoms of the data subject;
+
+f) according to the Law, data are publicly available or a data subject has made them publicly available;
+
+g) data processing is necessary to protect a significant public interest under the Law;
+
+h) data processing is necessary to deal with the application of a data subject (to provide services to him/her).
+
+(The normative content of the Article 5 which excludes the provision of the full text of the judicial acts in the form of public information which were adopted at the open court hearing shall be declared invalid from 1 May 2020)
+
+Decision of the Constitutional Court No 1/4/693,857 of 7 June 2019 – website, 12.6.2019
+
+                  
+
+Article 6 – Processing of special category data
+
+1. Special category data processing shall be prohibited.
+
+2. Processing of data under paragraph 1 of this article shall be possible with written consent of a data subject or when:
+
+a) processing of the data related to previous convictions and state of health is necessary for labour obligations and labour relations, including making a decision regarding employment;
+
+b) data processing is necessary to protect the vital interests of a data subject or a third person and when the data subject is physically or legally unable to give his/her consent to data processing;
+
+c) the data are processed for public health protection, health care or protection of health of a natural person by an institution (employee), and if it is necessary to manage or operate the health care system;
+
+d) a data subject has made his/her data publicly available without an explicit prohibition of their use;
+
+e) data are processed by a political, philosophical, religious or professional union or a non-commercial organisation when implementing legitimate activities; In this case, the data processing may only be connected with the members of this union/organisation or persons who have regular contacts with this union/organisation;
+
+f) data are processed to consider the issues related to the maintenance of personal files and registers of the accused/convicted persons; to the individual planning for a convicted person to serve his/her sentence, and/or the release of a convicted person on parole and the change of an unserved term of his/her sentence with a lighter punishment;
+
+g) data are processed for the purpose of enforcing legal acts under Article 2 of the Law of Georgia on Crime Prevention, Enforcement Procedure of Non-custodial Sentences and Probation;
+
+g1) data are processed for the purpose of resocialisation and rehabilitation of convicts and ex-prisoners, for the realisation of crime prevention measures and for coordination of the process of referral;
+
+h) data are processed in the cases directly provided for by the Law of Georgia on International Protection;
+
+i) data are processed for the functioning of the integrated analytical system of migration data;
+
+j) data are processed for the purpose of the realisation of the right of the education of the persons with special educational needs.
+
+k) data are processed for the purpose of the review of the issue provided for by Article 11(2) of the Law of Georgia on Violence against Women and/or Elimination of Domestic Violence, Protection and Support of Victims of Violence.
+
+3. When data are processed under paragraph 2 of this article, it shall be prohibited to make the data publicly available and to disclose the data to a third party without the consent of the data subject.
+
+(The normative content of the Article 6(1) and (3) which excludes the provision of the full text of the judicial acts in the form of public information which were adopted at the open court hearing shall be declared invalid from 1 May 2020)
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3534 of 1 May 2015 – website, 18.5.2015
+
+Law of Georgia No 5017 of 27 April 2016 – website, 13.5.2016
+
+Law of Georgia No 54 of 1 December 2016 – website, 15.12.2016
+
+Law of Georgia No 669 of 21 April 2017 – website, 3.5.2017
+
+Law of Georgia No 3451 of 20 September 2018 – website, 9.10.2018
+
+Decision of the Constitutional Court No 1/4/693,857 of 7 June 2019 – website, 12.6.2019
+
+Law of Georgia No 5031 of 20 September 2019 – website, 1.10.2019
+
+Law of Georgia No 5403 of 29 November 2019 – website, 10.12.2019
+
+         
+
+Article 7 – Protection of personal data of a deceased person
+
+1. After a data subject dies, processing of his/her data, except for the grounds specified in Articles 5 and 6 of this Law, shall be permissible with the consent of a parent, child, grandchild or spouse of the data subject, or when 30 years have passed since the death of the data subject.
+
+2. Data processing of a data subject after his/her death shall also be permissible if it is necessary to realise inheritance rights.
+
+3. Data processing under the grounds defined in paragraphs 1 and 2 of this article shall be inadmissible if a data subject, before he/she died, had prohibited in writing having his/her data processed after death, except when data are processed on the grounds specified in Articles 5 and 6 of this Law.
+
+4. To process the name, gender or birth and death dates of a deceased person, existence of grounds under this Law for data processing shall not be necessary.
+
+5. The data of a deceased person may be disclosed for historical, statistical and research purposes, except when the deceased person had prohibited in writing disclosure of his/her data.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+                  
+
+Article 8 – Data processing for direct marketing purposes
+
+1. Data obtained from publicly available sources may be processed for direct marketing purposes.
+
+2. Regardless of the purpose of data collection, the following data may be processed for direct marketing purposes: name (names), address, telephone number, e-mail address, fax number.
+
+3. Any data may be processed for direct marketing purposes on the basis of a written consent given by a data subject as determined by this Law.
+
+4. A data subject shall have the right to require at any time that a data controller stop to use of his/her data for direct marketing purposes.
+
+5. A data processor shall be obliged to stop data processing for direct marketing purposes and/or ensure that a data processor stop data processing for direct marketing purposes not later than 10 working days after the request of a data subject is received.
+
+6. When data are processed for direct marketing purposes a data controller shall be obliged to notify a data subject of the right under paragraph 4 of this article and to ensure the possibility to stop data processing for direct marketing purposes in the same form as the direct marketing is conducted, and/or to determine the available and adequate means to require discontinuation of data processing for direct marketing purposes.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+                  
+
+Article 9 – Biometric data processing by public agencies
+
+1. A public agency may process biometric data only for human security and property protection purposes, also to prevent disclosure of secret information if these goals may not be reached by other means or require disproportionately great efforts.
+
+2. Regardless of the conditions under paragraph 1 of this article, biometric data may be processed to issue an identity document under procedures established by Law, or to identify a person crossing the state border, as well as in other cases directly provided for by a legislative act of Georgia.
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 54 of 1 December 2016 – website, 15.12.2016
+
+         
+
+Article 10 – Biometric data processing by legal entities under private law and natural persons
+
+A legal entity under private law and a natural person may only process biometric data if it is necessary to perform activities, provide human safety and property protection, also to prevent disclosure of secret information, if these goals may not be reached by other means or require unjustifiably great efforts. Unless otherwise determined by law, before using biometric data, a data processor shall provide the Personal Data Protection Service with the same information that is provided to the data subject, in particular on the purpose of data processing and the security measures taken to protect the data.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 11 – Video surveillance in the streets and public transport
+
+1. Video surveillance in streets (including in parks, public gardens, near playgrounds, public transport stops and other public gathering places) and in public transport shall only be permissible to prevent crime, also for human safety reasons, protection of property and public order, or to prevent minors from harmful influence.
+
+2. If a video surveillance system is installed, public and private institutions shall be obliged to put up an appropriate warning sign in a visible place. In this case, it shall be considered that a data subject has been informed about the processing of his/her data.
+
+3. The video surveillance system and video recordings must be protected from unlawful trespass and use.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+         
+
+Article 12 – Video surveillance of buildings of public and private institutions
+
+1. For monitoring purposes, public and private institutions may implement video surveillance of their buildings if it is necessary for human security and property protection, and also to prevent minors from harmful influences, protect secret information and for examination/testing purposes.
+
+2. A video surveillance system may only be used to monitor outside perimeters and entrances of buildings. A data processor shall be obliged to put up an appropriate warning sign in a visible place. In this case, it shall be considered that a data subject is informed about processing of his/her data.
+
+3. A video surveillance system may be installed at a workplace only in exceptional cases if it is necessary for human security and property protection, for the protection of secret information and for examination/testing purposes, and if these goals may not be reached by other means.
+
+4. Video surveillance shall be inadmissible in cloak rooms and hygiene facilities.
+
+5. When using a video surveillance system at the workplace under paragraph 3 of this article, all persons working in their respective private or public institutions must be informed in writing about the video surveillance and their rights.
+
+6. A data processor shall be obliged to create a filing system to store video recordings. In addition to the recordings (images/voice), the system must include information about the date, place and time of data processing.
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 4145 of 26 December 2018 – website, 10.1.2019
+
+                  
+
+Article 13 – Video surveillance of residential buildings
+
+1. To install a video surveillance system within a residential building, a written consent of more than a half of the building owners shall be necessary. Residents of the building must be notified of the video surveillance system installation.
+
+2. Installation of a video surveillance system within residential buildings shall only be permissible for human security and property protection.
+
+3. A video surveillance system installed within a residential building may only monitor the entrance and common spaces. Monitoring of owners’ apartments shall not be allowed.
+
+4. Monitoring of the hallway of an apartment by a video surveillance system shall be allowed only by the apartment owner's decision or based on his/her written consent.
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+                  
+
+Article 14 – Data processing for registration of entry into and exit from buildings of public and private institutions
+
+1. Public and private institutions may collect the following data for registration of entry into and exit from buildings: name, number and type of the identity document, address, date and time of entry and exit, and reasons for entry into and exit from the building.
+
+2. The storage period for the data under paragraph 1 of this article must not exceed three years after they were recorded unless otherwise provided by law. The data must be deleted or destroyed after three years.
+
+         
+
+Chapter III – Rights and Obligations of Data Controllers and Data Processors
+
+         
+
+Article 15 – Provision of data subjects with data
+
+1. If data are collected directly from a data subject, a data controller or a data processor shall be obliged to provide the data subject with the following information:
+
+a) identities and registered addresses of the data controller and the data processor (if applicable);
+
+b) purpose of data processing;
+
+c) whether provision of data is mandatory or voluntary; if mandatory – the legal consequences of refusal to submit them;
+
+d) the right of the data subject to obtain information on his/her personal data processed, request their correction, updating, addition, blocking, deletion and destruction.
+
+2. Provision of the information mentioned in paragraph 1 of this article shall not be mandatory if the data subject already has it.
+
+3. If the data are not collected directly from a data subject, a data controller or a data processor shall be obliged to provide the data subject with the information in paragraph 1 of this article upon request.
+
+4. When collecting data for statistic, scientific and historic purposes, provision of information shall not be mandatory if this requires disproportionately great efforts.
+
+                  
+
+Article 16 – Processing of data by data processors
+
+1. A data processor may process data on the basis of a legal act or a written contract concluded with a data controller, which must comply with the requirements established by this Law and other normative acts and must take account of the rules and restrictions established by this Law.
+
+2. A data processor must process data within the scope determined by a respective normative act or an agreement. Any further data processing by a data processor for any other purposes shall be inadmissible. A data processor may not transfer the right to process data to any other person without the consent of a data controller.
+
+3. Conclusion of an agreement for data processing shall be inadmissible if, due to the activities and/or aims of a data processor, there is a risk of inappropriate data processing.
+
+4. A data controller must be assured that a data processor applies appropriate organisational and technical measures to protect data. It shall be obliged to monitor data processing by a data processor.
+
+5. In case of a dispute between a data processor and a data controller, the data processor shall be obliged to transfer all available data to the data controller upon request.
+
+6. In the case of cancellation by a data processor of the grounds mentioned in paragraph 1 of this article or termination of activities, the data processing must be stopped and the data that were processed before cancellation of these grounds or termination of the activities shall be immediately transferred to the data controller.
+
+7. The agreement with a data processor must include the obligation to apply measures for data security.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+                  
+
+Article 17 – Data security
+
+1. A data controller shall be obliged to take appropriate organisational and technical measures to ensure protection of data against accidental or unlawful destruction, alteration, disclosure, collection or any other form of unlawful use, and accidental or unlawful loss.
+
+2. A data controller shall be obliged to ensure registration of all operations performed in relation to electronic data. When processing non-electronic data, a data controller shall be obliged to register all operations with respect to disclosure and/or alteration of data.
+
+3. Measures taken to ensure data security must be adequate to the risks related to processing of data.
+
+4. Any employee of a data controller and of a data processor, who is involved in processing of data, shall be obliged to stay within the scope of powers granted to him/her. In addition, he/she shall be obliged to protect data secrecy, including after his/her term of office terminates.
+
+5. The data security measures shall be defined by the legislation of Georgia.
+
+         
+
+Article 18 – Obligations of data controllers and data processors for the disclosure of data
+
+When disclosing data, a data controller and a data processor shall be obliged to ensure registration of the following information: the data that were disclosed, to whom, when and on what legal grounds they were disclosed. This information must be stored together with the data on a data subject for the entire storage period.
+
+                  
+
+Article 19 – Filing system catalogue
+
+1. A data controller shall be obliged to keep a filing system catalogue for each filing system and to register the following information:
+
+a) the name of a filing system
+
+b) the names and addresses of a data controller and a data processor, place of storing and/or processing of data
+
+c) the legal grounds for data processing
+
+d) the category of a data subject
+
+e) the category of data in a filing system
+
+f) the purpose of data processing
+
+g) the period for data storage
+
+h) the fact and grounds for the restriction of a right of a data subject
+
+i) the recipient of data stored in a filing system, and their categories
+
+j) the information on the transborder flows of data and transmission of data to international organisation, and the legal grounds for the transfer
+
+k) the general description of the procedure established to ensure data security.
+
+11. The Personal Data Protection Service is obliged to maintain the register of filing system catalogues. This register shall include the information provided for by paragraph 1 of this article. The information entered into the register of filing system catalogues shall be public. The Personal Data Protection Service shall ensure the publication of the information in accordance with the procedure established by the Head of the Personal Data Protection Service.
+
+2. A data controller shall be obliged to ensure that the information under paragraph 1 of this article is regularly updated.
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 20 – Obligation to notify the Personal Data Protection Service
+
+1. A data processor is obliged, before creation of a filing system and entry of a new category of data therein, to notify the Personal Data Protection Service, in writing or electronically, of the information required under Article 19 of this Law.
+
+2. A data processor is obliged to notify the Personal Data Protection Service of any alteration made to the information under Article 19 of this Law not later than 30 days after the alteration.
+
+3. One copy of a court ruling on issuance of a permit or refusal to issue a permit to conduct a covert investigative action requested by a law enforcement body, which contains only the details and the resolution part, as well as one copy of a court ruling on recognition as lawful or unlawful of a covert investigative action conducted by a law enforcement body without court permission, which contains only the details and the resolution part, shall be submitted to the Personal Data Protection Service in accordance with the procedure established by the Criminal Procedure Code of Georgia.
+
+4. An electronic communications company shall notify the Personal Data Protection Service of the transfer to a law enforcement body of identification data of electronic communication in accordance with the procedure established by Article 136 of the Criminal Procedure Code of Georgia within 24 hours after the transfer.
+
+5. In the case of urgent necessity the prosecutor’s decree on conducting covert investigative action which contains only the details and the resolution part shall be submitted to the Personal Data Protection Service no later than 12 hours (indicated in the ordinance) after the beginning of the covert investigative action by the prosecutor or the investigator on behalf of the prosecutor as a tangible document.
+
+6. The electronic copy of a court ruling on issuance of a permit for conducting covert investigative action provided for by Article 1431(1)(a) of the Criminal Procedure Code of Georgia which contains only the details and the resolution part, also the electronic copy of the prosecutor’s decree on conducting covert investigative action which contains only the details and the resolution part shall be submitted to the Personal Data Protection Service directly after receiving by the Agency.
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 479 of 22 March 2017 – website, 27.3.2017
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Chapter IV – Rights of Data Subjects
+
+         
+
+Article 21 – Right of data subjects to request information
+
+1. A data subject shall have the right to request information from a data processor on processing of his/her data. The data processor must provide the data subject with the following information:
+
+a) which personal data are being processed;
+
+b) the purpose of data processing;
+
+c) the legal grounds for data processing;
+
+d) the ways in which the data were collected;
+
+e) to whom his/her personal data were disclosed, and the grounds and purpose of the disclosure.
+
+2. Provision of the data specified in paragraph 1(e) of this article, to a data subject shall not be mandatory if the data are public under law.
+
+3. A data subject must be provided with the information under paragraph 1 of this article upon request immediately or not later than 10 days after the request if for responding to the information request it is required to:
+
+a) retrieve and process the information at another institution or structural unit or consult with either one;
+
+b) retrieve and process voluminous documents not linked to each other;
+
+c) consult with its structural unit located in another populated place, or with other public agency.
+
+4. A data subject shall opt for the way in which the information under paragraph 1 of this article is provided to him/her.
+
+5. A person shall have the right to review his/her personal data kept at a public institution and obtain copies of the data for free, except for information when payment of a fee is required under the legislation of Georgia to issue it.
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+         
+
+Article 22 – The right of data subjects to request for correction, update, addition, blocking, deletion and destruction of data
+
+1. When requested by a data subject, a data controller shall be obliged to correct, update, add, block, delete, or destroy data if the data are incomplete, inaccurate, not updated, or were illegally collected and processed.
+
+2. A data processor must inform all data recipients of correction, update, addition, blocking, deletion, and destruction of the data, except when provision of this information is impossible due to large number of data recipients or disproportionately high costs. The Personal Data Protection Service shall be notified of the latter circumstance.
+
+3. If information is received in accordance with paragraph 2 of this article, the recipient party shall be obliged to correct, update, add, block, delete, or destroy the data, respectively.
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 23 – Procedure for correction, update, addition, blocking, deletion and destruction of data
+
+1. A request under Article 22(1) of this Law shall be submitted either in writing, orally or by electronic means.
+
+2. Within 15 days after the request of a data subject is received, a data processor shall be obliged to correct, update, add, block, delete or destroy the data or inform the data subject of the grounds for refusal.
+
+3. If a data processor, without a request from a data subject, considers on its own that the data at his/her disposal are incomplete, inaccurate, or not updated, the data processor shall correct or update the data accordingly and inform the data subject.
+
+4. After a data subject submits a request under Article 22(1) of this Law, a data processor shall have the right to block the data based on the applicant's request.
+
+5. A decision to block data shall be made within three days after an appropriate request is submitted and shall be valid until a data controller decides to correct, update, add, delete or destroy the data.
+
+6. The decision to block data shall be attached to the relevant data for as long as the reason of blocking the data exists.
+
+         
+
+Article 24 – Limitation of rights of data subjects
+
+1. The rights of a data subject under Articles 15, 21 and 22 of this Law may be limited by the legislation of Georgia if the exercise of these rights endangers:
+
+a) the interests of State security and defence
+
+b) the interests of public security
+
+c) crime detection, investigation and prevention
+
+d) significant financial and economic interests of the country (including those related to monetary, budgetary and taxation issues)
+
+e) the rights and freedoms of a data subject and others.
+
+2. A measure under paragraph 1 of this article may be applied only to the extent necessary to achieve the intent of the limitation.
+
+3. If the grounds in paragraph 1 of this article exist, the decision of a data processor or the Personal Data Protection Service must be provided to a data subject without prejudice to the intent of the limitation of a right.
+
+Law of Georgia No 2765 of 29 June 2018 – website, 19.7.2018
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+         
+
+Article 25 – Withdrawal of consent
+
+1. A data subject shall have the right to, at any time and without explanation, withdraw his/her consent given and to request that the data processing be stopped and/or the processed data be destroyed.
+
+2. A data controller shall be obliged to stop the data processing and/or destroy the processed data according to the request of a data subject within five days after the application is submitted, unless there are other grounds to process data.
+
+3. This Article shall not apply to information that is related to fulfilment of a data subject’s financial obligations and processed with his/her consent.
+
+         
+
+Article 26 – Right to appeal
+
+1. If the rights under this Law are violated, a data subject shall have the right to apply to the Personal Data Protection Service or to the court under procedures determined by law, and if a data processor is a public institution, an appeal may be submitted to the same or senior administrative body. The Head of the Personal Data Protection Service shall review the application of the data subject in accordance with the procedure established by this Law and normative acts issued by the Head of the Personal Data Protection Service.
+
+2. A data subject shall have the right to require from a body considering the case to block data until a decision is made.
+
+3. A data subject shall have right to appeal the decision of a higher administrative body or the Personal Data Protection Inspector to the court under procedures determined by law.
+
+3. A data subject shall have right to appeal the decision of a higher administrative body or the Personal Data Protection Service to the court under procedures determined by law.
+
+4. In case of a dispute with respect to the existence of a data subject’s consent to process data, a data processor shall carry the burden of proof for the existence of the data subject's consent.
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 261 – (deleted)
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 479 of 22 March 2017 – website, 27.3.2017
+
+         
+
+Chapter V – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 27 – (Deleted)
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 28 – (Deleted)
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 29 – (Deleted)
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+         
+
+Article 30 – (Deleted)
+
+Law of Georgia No 6325 of 25 May 2012 – website, 12.6.2012
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3350 of 20 March 2015 – website, 31.3.2015
+
+Law of Georgia No 3879 of 6 December 2018 – website, 14.12.2018
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 31 – (Deleted)
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 32 – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 33 – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 34 – (Deleted)
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 35 – (Deleted)
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 351 – (Deleted)
+
+Law of Georgia No 2869 of 30 November 2014 – website, 30.11.2014
+
+Law of Georgia No 3940 of 8 July 2015 – website, 15.7.2015
+
+Law of Georgia No 479 of 22 March 2017 – website, 27.3.2017
+
+Law of Georgia No 3300 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 36 – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 37 – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 38 – (Deleted)
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 39 – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 2636 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ 
+
+Article 40 – (Deleted)
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+                  
+
+Chapter VI – The Principles of Activities of the Personal Data Protection Service and Guarantees of the Exercise of Powers, the Powers of the Head of the Personal Data Protection Service, his/her Election, Inviolability, Incompatibility of Positions and Termination of Powers
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 401 – The principles of activities of the Personal Data Protection Service
+
+1. When carrying out its activities, the Personal Data Protection Service shall be guided by the Constitution of Georgia, international treaties of Georgia, generally recognised principles and norms of international law, this Law and other relevant legal acts.
+
+2. The principles of activities of the Personal Data Protection Service are:
+
+a) lawfulness
+
+b) respect of human rights and freedoms
+
+c) independence and political neutrality;
+
+d) fairness and impartiality;
+
+e) professionalism;
+
+f) respect of secrecy and privacy.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 402 – The Powers of the Head of the Personal Data Protection Service
+
+1. The Head of the Personal Data Protection Service shall:
+
+a) manage the Personal Data Protection Service and take decisions on issues related to the activities of the Service;
+
+b) determines the structure of the Personal Data Protection Service, and the powers of structural units and employees;
+
+c) approve, in accordance with the legislation of Georgia, the staff list of employees of the Personal Data Protection Service, and the procedures and amounts of remuneration;
+
+d) determine the functions and duties of the First Deputy and Deputy Head of the Personal Data Protection Service and delegate powers to them;
+
+e) appoint and dismiss employees of the Personal Data Protection Service;
+
+f) grant and strip a special state rank (the special rank) to an employee of the structural unit carrying out official inspection of the Personal Data Protection Service in accordance with the procedure established by the legislation of Georgia;
+
+g) represent personal data protection service in relations with state bodies, international and other organisations;
+
+h) ensure the protection and targeted use of state property transferred to the Personal Data Protection Service;
+
+i) exercises other powers in accordance with law.
+
+2. The Head of the Personal Data Protection Service shall, within the scope of his/her powers, issue a subordinate normative act, an order on matters related to the activities of the Personal Data Protection Service.
+
+3. The Head of the Personal Data Protection Service shall issue individual legal acts, including resolutions, orders and instructions, based on the appropriate normative act and within the scope of its powers to execute such normative act.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 403 – Election of the Head of the Personal Data Protection Service and his /her term of office
+
+1. A citizen of Georgia who has not been convicted and who has a higher legal education and at least 5 years of experience in the system of justice or law enforcement bodies, or in the field of the protection of human rights, and a high professional and moral reputation, may be elected to the position of Head of the Personal Data Protection Service.
+
+2. The competition for the selection of the Head of the Personal Data Protection Service shall be announced and the competition commission shall be established by the order of the Prime Minister of Georgia. The members of the competition commission shall be:
+
+a) a representative of the Government of Georgia
+
+b) the Chairperson of the Human Rights and Civil Integration Committee of the Parliament of Georgia
+
+c) the Chairperson of the Legal Issues Committee of the Parliament of Georgia
+
+d) Deputy Chairperson of the Supreme Court of Georgia
+
+e) First Deputy or Deputy Prosecutor General of Georgia
+
+f) the Public Defender of Georgia or the representative of the Public Defender of Georgia
+
+g) a person with relevant experience, who has work experience in the field of human rights and/or data protection, and who has been selected by the Public Defender of Georgia from the members of the non-entrepreneurial (non-commercial) legal entity through an open competition.
+
+3. Not earlier than 11 weeks and not later than 10 weeks before the expiry of the term of office of the Head of the Personal Data Protection Service, and in the case of termination of his/her term of office, within 1 week after the termination of the term of office, the agencies and institutions specified in paragraph 2 of this article shall inform the Prime Minister of Georgia on the names of the members of the competition commission for the selection of the Head of the Personal Data Protection Service. 7 days after the expiry of the deadline for nomination of the members of the competition commission, the Prime Minister of Georgia shall convene the first meeting of the competition commission. The meeting of the competition commission shall quorate if the majority of the full composition of the competition commission is present. The competition commission shall elect the chairperson of the competition commission from among its members at the first meeting and shall approve the regulations of the competition commission for the selection of the Head of the Personal Data Protection Service within 1 week, which shall determine the rules of activity of the competition commission, as well as the deadline and procedures for nomination of candidacies for the Head of the Personal Data Protection Service.
+
+4. The competition commission for the selection of the Head of the Personal Data Protection Service shall select no less than 2 and no more than 5 candidates for the Head of the Personal Data Protection Service by the majority of votes, and shall nominate them to the Prime Minister of Georgia. Taking into account the number of selected candidacies, the nomination of candidates of different genders shall be maximally equal.
+
+5. The Prime Minister of Georgia shall, within 10 days, nominate 2 candidates to the Parliament of Georgia for the selection to the position of the Head of the Personal Data Protection Service.
+
+6. The Parliament of Georgia shall elect the Head of the Personal Data Protection Service in accordance with the procedures established by the Rules of Procedure of the Parliament of Georgia no later than 14 days after the nomination of candidates. If the term fully or partially coincides with the period between the sessions of the Parliament of Georgia, the term specified by this paragraph for the election of the Head of the Personal Data Protection Service shall be extended by the appropriate time. If the Parliament of Georgia fails to elect the Head of the Personal Data Protection Service through the voting or if both candidates refuse to be elected to the position of the Head of the Personal Data Protection Service before the voting, the Prime Minister of Georgia shall announce a new competition within 2 weeks.
+
+7. If the Head of the Personal Data Protection Service was elected before the expiry of the term of office of the current Head of the Personal Data Protection Service, the powers of the newly elected Head of the Personal Data Protection Service shall take effect on the day following the expiry of the term of office of the current Head of the Personal Data Protection Service. If the Head of the Personal Data Protection Service was elected after the expiry of the term of office of the Head of the Personal Data Protection Service or before the termination of his/her term of office, the powers of the newly elected Head of the Personal Data Protection Service shall take effect on the day following his/her election.
+
+8. The term of office of the Head of the Personal Data Protection Service shall be 6 years. A person may not be elected to the position of Head of the Personal Data Protection Service twice in succession. The Head of the Personal Data Protection Service may not perform his/her duties after the expiry or the termination of the term of office.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 404 – First Deputy and Deputy Head of the Personal Data Protection Service
+
+1. The Head of the Personal Data Protection Service has a First Deputy and a Deputy, whom he/she appoints to the positions by order. Upon the expiry or the termination of the term of office of the Head of the Personal Data Protection Service, the term of office of the First Deputy and Deputy Head of the Personal Data Protection Service shall cease as soon as the newly elected Head of the Personal Data Protection Service starts the exercise of powers in accordance with the procedure established by this Law.
+
+2. In the case of the absence of the Head of the Personal Data Protection Service, his/her failure to exercise powers, the suspension, expiry or termination of his/her powers, the powers of the Head of the Personal Data Protection Service shall be exercised by the First Deputy Head of the Personal Data Protection Service, and in the absence of the First Deputy - the Deputy Head of the Personal Data Protection Service. During the performance of the duties of the Head of the Personal Data Protection Service, the First Deputy and the Deputy Head of the Personal Data Protection Service shall enjoy the powers and legal guarantees granted to the Head of the Personal Data Protection Service.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 405 – Inviolability of the Head of the Personal Data Protection Service
+
+1. The Head of the Personal Data Protection Service shall be inviolable. Criminal prosecution, detention or arrest of the Head of the Personal Data Protection Service, the search of his/her residence or workplace, car or personal search can only be done with the prior consent of the Parliament of Georgia. An exception is the case when he/she has been caught in action, which shall be immediately reported to the Parliament of Georgia. If the Parliament of Georgia does not give its consent within 48 hours, the arrested or detained Head of the Personal Data Protection Service shall be released immediately.
+
+2. In the event that the Parliament of Georgia gives consent to the arrest or detention of the Head of the Personal Data Protection Service, his/her powers shall be suspended by the resolution of the Parliament of Georgia before the resolution/judgment on termination of the criminal prosecution is issued or the court judgment enters into legal force.
+
+3. The personal security of the Head of the Personal Data Protection Service shall be ensured by the relevant state bodies in the prescribed manner.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 406 – Incompatibility of the position of the Head of the Personal Data Protection Service
+
+1. The position of the Head of the Personal Data Protection Service shall be incompatible with the membership of the representative bodies of state authorities and municipalities, any position in the public and state services, and other paid activities, except for scientific, pedagogical and artistic activities. The Head of the Personal Data Protection Service may not engage in entrepreneurial activities, directly exercise the powers of a permanent head of a business entity, a member of a supervisory, control, audit or advisory body, be a member of a political party or participate in political activities.
+
+2. The Head of the Personal Data Protection Service shall be prohibited from participating in gatherings and demonstrations supporting or opposing the political union of citizens.
+
+3. The person elected to the position of the Head of the Personal Data Protection Service is obliged to stop the activities incompatible with the position or to resign from the position incompatible with his/her status within 10 days after the election. Until the person elected to the position of the Head of the Personal Data Protection Service does not stop the activities incompatible with the position or resigns from the position incompatible with his/her status, he/she shall not be authorised to start exercising the powers of the Head of the Personal Data Protection Service. If the Head of the Personal Data Protection Service does not comply with the requirements established by this paragraph within the mentioned period, his/her powers shall be terminated.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 407 – Termination of powers of the Head of the Personal Data Protection Service
+
+1. The powers of the Head of the Personal Data Protection Service shall be terminated if:
+
+a) he/she lost the citizenship of Georgia;
+
+b) he/she has not been able to exercise his/her powers for 4 consecutive months due to his/her health condition;
+
+c) the court's judgement of conviction has entered into legal force;
+
+d) he/she was recognised by the court as a recipient of support (unless otherwise determined by the court's judgment), as missing or declared dead;
+
+e) he/she has occupied a position incompatible with his/her status or carries out activities incompatible with the position;
+
+f) he /she has resigned voluntarily;
+
+g) he/she has died.
+
+2. In the case provided for by paragraph 1 of this article, the powers of the Head of the Personal Data Protection Service shall be considered terminated from the moment of the occurrence of the relevant circumstances, of which the Chairperson of the Parliament of Georgia shall immediately inform the Parliament of Georgia. The Parliament of Georgia shall terminate the powers of the Head of the Personal Data Protection Service on the basis of receiving information from the Chairperson of the Parliament of Georgia.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 408 – Organisational and financial support of the Personal Data Protection Service
+
+1. The structure of the Personal Data Protection Service, the rules for activities and the distribution of powers among employees shall be established by the regulations of the Personal Data Protection Service, which shall be approved by the Head of the Personal Data Protection Service.
+
+2. An employee of the structural unit carrying out the official inspection of the Personal Data Protection Service shall be a public servant and the Law of Georgia ‘On Public Service’ shall apply, unless otherwise established by this Law or by the normative act of the Head of the Personal Data Protection Service issued on the basis of this Law. Other employees of the Personal Data Protection Service shall be public servants and the Law of Georgia ‘On Public Service’ shall apply in accordance with the established rules. The Head of the Personal Data Protection Service shall establish the procedures for serving at the Personal Data Protection Service by employees of the structural unit carrying out the official inspection of the Personal Data Protection Service.
+
+3. The activities of the Personal Data Protection Service shall be financed from the state budget of Georgia. Allocations necessary for the activities of the Personal Data Protection Service shall be determined by a separate unit of the state budget of Georgia. The current expenses allocated from the state budget of Georgia for the Personal Data Protection Service compared to the amount of budget funds of the previous year may be reduced only with the prior approval of the Head of the Personal Data Protection Service.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 409 – Independence of the Personal Data Protection Service
+
+1. The Personal Data Protection Service shall be independent in exercising its powers and shall not be subject to any body or official. Any influence on the Head of the Personal Data Protection Service and employees of the Personal Data Protection Service and illegal interference in their activities shall not be allowed and shall be punishable by law.
+
+2. In order to ensure the independence of the Personal Data Protection Service, the State is obliged to create appropriate conditions for activities.
+
+3. The Head of the Personal Data Protection Service has the right not to testify in connection with the performance of the functions of monitoring the legality of data processing, conducting covert investigative actions and the activities carried out in the electronic data identification central bank due to the fact that he/she has been disclosed such information as the Head of the Personal Data Protection Service. Such right shall be preserved even after the termination of the powers of the Head of the Personal Data Protection Service.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4010 – Annual report of the Personal Data Protection Service
+
+1. The Head of the Personal Data Protection Service shall submit to the Parliament of Georgia once a year, not later than 31 March, a report on the status of data protection in Georgia, the monitoring of the conduct of covert investigative actions, and the activities carried out in the electronic data identification central bank.
+
+2. The annual report of the Personal Data Protection Service shall contain information on the activities carried out by the Personal Data Protection Service in the field of data protection during the reporting period, general assessments related to the status of data protection in Georgia, conclusions and recommendations, information on significant violations identified during the year and measures taken, general statistical information on the activities carried out in the field of monitoring the conduct of covert investigative actions.
+
+3. Once a year, the Head of the Personal Data Protection Service shall submit a report on the results of monitoring the investigative actions provided for by Articles 136-138 of the Criminal Procedure Code of Georgia and the covert investigative actions provided for by Article 1431 (a and b) of the same code, to the Parliamentary Committee and the Trust Group set in accordance with the procedures established by the Parliamentary Bureau based on the Rules of Procedure of the Parliament of Georgia.
+
+4. Information on the activities carried out by the Personal Data Protection Service, taking into account the limitations established by this article, shall be provided to the public through the website of the Personal Data Protection Service.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Chapter V2 – Powers of the Personal Data Protection Service in the Field of Data Protection and Monitoring the Conduct of Covert Investigative Actions
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4011 – Main fields of activities of the Personal Data Protection Service in the area of data protection
+
+The Personal Data Protection Service shall monitor the legality of data processing in Georgia. The main fields of activity of the Personal Data Protection Service in this area shall be:
+
+a) consulting on issues related to data protection;
+
+b) reviewing applications related to data protection;
+
+c) checking the legality of data processing (inspection);
+
+d) providing information to the public on the state of data protection in Georgia, important events related thereto, and raising the awareness.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4012 – Review of the application of the data subject by the Personal Data Protection Service
+
+1. The Personal Data Protection Service is obliged to review the application of the data subject regarding the processing of data and to apply the measures provided for by the legislation of Georgia.
+
+2. Within 10 days of receiving the data subject's application, the Personal Data Protection Service shall take a decision on the measures to be applied, and inform the applicant thereof.
+
+3. The Personal Data Protection Service shall be authorised to carry out an inspection in order to study and investigate the circumstances related to the data subject's application. Any data processor and/or data controller is obliged to hand over relevant material, information and/or documents to the Personal Data Protection Service upon request.
+
+4. The term of reviewing the application of the data subject by the Personal Data Protection Service shall not exceed 2 months. Based on the grounded decision of the Personal Data Protection Service, the period of review of the application of the data subject may be extended for no more than 1 month.
+
+5. The Personal Data Protection Service shall be authorised to suspend the relevant proceedings during the review of the data subject's application on the basis of requesting additional material, information and/or documentation, of which the data subject shall be informed. The review of the data subject's application will continue upon the cancellation of the said grounds. The period of suspension of proceedings shall not be included in the period provided for by paragraph 4 of this article.
+
+6. The Personal Data Protection Service shall be authorised to take a decision on data blocking before the review of the data subject's application is completed. Despite the blocking of data, the processing of the data may continue if it is necessary to protect the vital interests of the data subject or a third party, as well as for the purposes of state security and state defence.
+
+7. After reviewing the application of the data subject, the Personal Data Protection Service shall take a decision on the use of one of the measures provided for by Article 4014 of this Law, and inform the data subject and the data processor and/or the data controller thereof in accordance with the procedure established by the legislation of Georgia and within the established period.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4013 – Inspection by the Personal Data Protection Service
+
+1. The Personal Data Protection Service shall authorised to carry out an inspection of any data processor and/or data controller on its own initiative or based on the application of an interested person. The Head of the Personal Data Protection Service shall take a decision to carry out the inspection provided for in this article.
+
+2. Inspection by the Personal Data Protection Service involves:
+
+a) the determination of compliance with the principles of data processing and the existence of legal grounds for data processing;
+
+b) the checking of the conformity of organisational and technical measures and procedures conducted for data security with the requirements established by the legislation of Georgia;
+
+c) The checking of the fulfilment of the requirements established by this Law regarding the file system catalogue, the file system catalogue registry, and the registry of data release;
+
+d) the checking of the legality of data transfer to another state and international organisation;
+
+e) the checking of the compliance with the rules and requirements established by this Law, the Law of Georgia ‘On Personal Data Protection’, and other normative acts;
+
+3. The Personal Data Protection Service shall be authorised to request documents and/or information, including information containing state, tax, banking, commercial, professional secrets and/or data, from any institution, natural and/or legal person during the inspection, as well as, the material and/or documentation and/or information describing operative and investigative activities and crime investigation, which belong to the State secret and which are necessary to carry out the inspection within the scope established by paragraph 2 of this article.
+
+4. The data processor and/or data controller is obliged to provide any material, information and/or document to the Personal Data Protection Service immediately, no later than 10 working days, if the response to the request of information requires:
+
+a) the finding and processing information in another institution or structural unit or the consulting with the said institution or unit;
+
+b) the search for and the processing of a significant volume of information/documents.
+
+5. The Personal Data Protection Service shall be authorised to extend the period referred to in paragraph 4 of this article by no more than 10 working days based on the reasonable application by the data processor and/or data controller.
+
+6. The Personal Data Protection Service shall be authorised to visit any institution and organisation for inspection and to obtain any document and information, including information containing state, tax, banking, commercial, professional secrets and/or data, as well as the material and/or documentation and/or information describing operative and investigative activities and crime investigation, which belong to the State secret, despite their content and the mode of storage.
+
+7. Taking into account the results of the inspection, the Personal Data Protection Service shall be authorised to apply the measures provided for in Article 4014 of this Law.
+
+8. An employee of the Personal Data Protection Service is obliged to secure information containing any kind of secret and not to disclose the secret information that he/she has become aware of during the performance of his/her official duties. Such obligation shall survive after the termination of the authority of the employee of the Personal Data Protection Service.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4014 – Use of measures by the Personal Data Protection Service
+
+1. If the Personal Data Protection Service identifies a violation of this Law or another normative act regulating data procession, the Service shall be authorised to use one or several of the following measures at the same time:
+
+a) request the eradication of violations and deficiencies related to data processing in the form and within the period specified by it;
+
+b) request the suspension or termination of data processing, if the measures and procedures for the protection of data carried out by the data processor or a data controller do not comply with the requirements established by the legislation of Georgia;
+
+c) request the termination of data processing, blocking, deletion, destruction or depersonalisation of data, if the Service believes that data processing is carried out in violation of the legislation of Georgia;
+
+d) request the termination of data transfer to another state and international organisation, if data transfer is carried out in violation of the legislation of Georgia;
+
+e) give written advice and make recommendations to the data processor and/or the data controller in the case of minor violation of the procedures related to data processing;
+
+f) impose administrative liability on the violator.
+
+2. The data processor and/or data controller is obliged to fulfil the requirements within the period specified by the Personal Data Protection Service, and to inform the Personal Data Protection Service thereof.
+
+3. If the data processor and/or data controller does not comply with the requirements of the Personal Data Protection Service, the Personal Data Protection Service has the right to apply to a court, a law enforcement body and/or a supervisory (regulatory) state institution determined by the relevant legislation of Georgia.
+
+4. If the Personal Data Protection Service identifies an administrative offense, it shall be authorised to draw up an administrative offense report and, accordingly, impose the administrative liability on the data processor and/or data controller in accordance with the law of Georgia ‘On Personal Data Protection’ and the Administrative Offenses Code of Georgia.
+
+5. If the Personal Data Protection Service believes that there are signs of a crime during performance of its activities, it is obliged to inform the authorised state body thereof in accordance with law.
+
+6. The compliance with the decision of the Personal Data Protection Service in the field of data protection shall be mandatory and may only be appealed in a court in accordance with law.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4015 – Consultation and implementation of educational activities by the Personal Data Protection Service
+
+1. The Personal Data Protection Service is obliged to advise state authorities, municipal authorities, other public institutions, legal entities under private law and natural persons on any issue related to data processing and data protection in the event of a relevant request.
+
+2. The Personal Data Protection Service shall carry out educational activities on issues related to data processing and data protection.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4016 – Monitoring of the conduct of covert investigative actions and the activities carried out in the electronic data identification central bank
+
+1. During the conduct of the covert investigative action - secret eavesdropping and recording of the telephone communication provided for by Article 1431(1)(a) of the Criminal Procedure Code of Georgia, the Personal Data Protection Service shall monitor:
+
+a) through the electronic control system – the legality of data processing;
+
+b) through the special electronic control system – the legality of data processing;
+
+c) the legality of data processing by the data processor/data controller (inspection).
+
+2. The Personal Data Protection Service shall carry out the monitoring of the investigative activities provided for by Articles 136-138 of the Criminal Procedure Code of Georgia by comparing the information provided by the court, the prosecutor's office and the electronic communication service provider and by checking (inspecting) the legality of data processing by the data processor/data controller.
+
+3. The monitoring of covert investigative actions provided for by Article 1431 (1) (b, d, and f) of the Criminal Procedure Code of Georgia shall be carried out by the Personal Data Protection Service by checking (inspecting) the legality of data processing by the data processor/data controller.
+
+4. The monitoring of covert investigative actions provided for by Article 1431 (1) (e) of the Criminal Procedure Code of Georgia shall be carried out by the Personal Data Protection Service by checking (inspecting) the legality of data processing by the data processor/data controller, in accordance with the procedures provided for by this Law. In the case provided for by this paragraph, when carrying out checking (inspection), information about the identity of a person participating in the conduct of covert investigative actions (except for a data subject, an investigator and a prosecutor) and the permit to participate in the process of carrying out inspection, as well as information on the characteristics of operational and operational-technical equipment used during the conduct of the covert investigative actions provided for in this paragraph, may be requested only with the approval of the head of the body conducting the covert investigative action. In the case provided by this paragraph, the implementation of the inspection shall not cover the direct participation in the process of preparing/conducting the covert investigative action and the on-site inspection of a disguised residential or service place or other disguised facility and building.
+
+5. The Personal Data Protection Service shall monitor the conduct of covert investigative actions provided for by Article 1431(1) (c) of the Criminal Procedure Code of Georgia, as well as the implementation of the measure provided for by Article 7 (3) (b) of the Law of Georgia ‘on Operative-Investigative activities’ with a special electronic system of controlling the determination of the geo-location in real time, and the control (inspection) of the legality of data processing by the data processor/data controller.
+
+6. The activities carried out in the electronic data identification central bank shall be monitored by the Personal Data Protection Service through the electronic system of monitoring of the electronic data identification central bank and by checking (inspecting) the legality of data processing by the data processor/ data controller.
+
+7. During the inspection of the Agency, the Personal Data Protection Service shall be authorised to:
+
+a) enter the area of limited access of the Agency and monitor the implementation of activities by the authorised bodies in the on-going mode;
+
+b) acquire the legal documents and technical instructions regulating the activities of the Agency (including those containing state secrets);
+
+c) obtain information on the technical infrastructure used for the purposes of covert investigative actions and inspect the infrastructure;
+
+d) request explanations from the Agency employees with respect to individual issues identified during the inspection;
+
+e) exercise other powers provided for by this Law.
+
+8. Employees of the Agency is obliged to cooperate with the Personal Data Protection Service - to provide the Personal Data Protection Service with the requested information and documents, as well as to give explanations regarding the individual issues identified during the inspection.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Chapter V3 – Legal Protection and Social Security of Employees of the Personal Data Protection Service, and Employees of the Structural Unit Implementing the Official Inspection of the Personal Data Protection Service
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4017 – Legal protection of employees of the Personal Data Protection Service
+
+1. An employee of the Personal Data Protection Service shall be a representative of the state authorities and shall be protected by the State. The fulfilment of the lawful request of the employee of the Personal Data Protection Service shall be mandatory.
+
+2. No one has the right to interfere with the official activities of the employee of the Personal Data Protection Service, except for the cases stipulated by law.
+
+3. Obstructing an employee of the Personal Data Protection Service in the performance of his/her duties, encroaching upon his/her honour and dignity, showing non-abeyance, threat, violence or encroaching on his/her life, health or property, shall result in the liability established by the legislation of Georgia. In the case of being notified of the encroaching on the life, health and property of the Head of the Personal Data Protection Service, the First Deputy or Deputy Head of the Personal Data Protection Service, an employee of the Personal Data Protection Service or his/her family member in connection with the exercise of official powers, the state authorities are obliged to implement the measures stipulated by law for their personal safety and the safety of their property.
+
+4. An employee of the Personal Data Protection Service shall refuse to comply with an obviously unlawful order or instruction, had he/she known or should have known about its unlawfulness, and shall act within the scope of law.
+
+5. An employee of the Personal Data Protection Service shall inform the Head of the Personal Data Protection Service in the case of the receipt of an obviously unlawful order or instruction.
+
+6. An employee of the Personal Data Protection Service who refuses to comply with an obviously unlawful order or instruction shall not be held liable.
+
+7. A person giving an obviously unlawful order or instruction to an employee of the Personal Data Protection Service shall be held liable in accordance with the procedures provided for by law.
+
+8. An employee of the Personal Data Protection Service shall have the right to apply to the court to protect his/her rights and freedom;
+
+9. An employee of the Personal Data Protection Service shall be given an identity card and/or a special badge to confirm his/her official powers, the form and manner of issuance of which shall be determined by the Head of the Personal Data Protection Service.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4018 – Social security of employees of the Personal Data Protection Service with a special rank
+
+1. The State shall ensure the social security of an employee of the Personal Data Protection Service with a special rank.
+
+2. Unless otherwise stipulated by the legislation of Georgia, the social security guarantees of an official provided for by the Law of Georgia ‘on Public Service’ shall apply to an employee of the Personal Data Protection Service with a special rank (including the social security guarantees related to bodily injury or death during the performance of official duties).
+
+3. An employee of the Personal Data Protection Service with a special rank shall have:
+
+a) the official salary determined in accordance with paragraph 5 of this article;
+
+b) the salary increment and monetary reward established in accordance with paragraph 5 of this article and the Law of Georgia ‘on Remuneration in Public Institutions’;
+
+c) the remuneration corresponding to the special rank;
+
+d) the salary increment according to the years of service;
+
+e) other increments and compensations provided for by the legislation of Georgia.
+
+4. An employee with a special rank of the Personal Data Protection Service, who has been dismissed due to the attaining of the age limit or being recognised as a person with disabilities, shall have the right to receive the appropriate state compensation or state pension in accordance with the legislation of Georgia.
+
+5. The amount of and procedures for remuneration of an employee with a special rank of the Personal Data Protection Service, the amount increments according to the rank and years of service, as well as the amount of other increments and compensations provided for by the legislation of Georgia shall be determined by the normative acts of the Head of the Personal Data Protection Service and other legislative and subordinate normative acts of Georgia.
+
+6. An employee with a special rank of the Personal Data Protection Service shall be subject to mandatory state insurance. The matters related to the state insurance of family members of employees with a special rank of the Personal Data Protection Service (including the circle of family members) shall be determined by the Head of the Personal Data Protection Service.
+
+7. The special ranks of employees of the Personal Data Protection Service shall be determined by the Law of Georgia ‘on Special State Ranks.’
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 4019 – Selection, appointment and powers of employees of the structural unit carrying out official inspection of the Personal Data Protection Service
+
+1. An employee of the structural unit carrying out official inspection of the Personal Data Protection Service (except for the case provided for by paragraph 2 of this article) shall be appointed to the position on the basis of a competition, by an order of the Head of the Personal Data Protection Service. The rules and conditions of the competition for the selection and appointment of an employee of the structural unit carrying out the inspection of the Personal Data Protection Service, as well as the qualification requirements of the person to be appointed (the basic requirements, which should not be less than the basic requirements established by Article 27 of the Law of Georgia ‘on Public Service’, special requirements and additional requirements) shall be determined by this law and the corresponding legal act of the Head of the Personal Data Protection Service. In order to select and appoint an employee of the structural unit carrying out official inspection of the Personal Data Protection Service, the Head of the Personal Data Protection Service shall establish a competition commission and determine the rules of its activity.
+
+2. It shall be permissible to transfer to another institution, without a competition, of an employee of the structural unit carrying out official inspection of the Personal Data Protection Service based on the principle of mobility, or to carry out his/her horizontal transfer as provided for by the Law of Georgia ‘on Public Service’.
+
+3. The powers and duties stipulated by this Law and the corresponding legal act of the head of the Personal Data Protection Service shall apply to an employee of the structural unit carrying out the official inspection of the Personal Data Protection Service.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+ 
+
+Chapter VI – Transfer of Data to Other States and International Organisations
+
+                   
+
+Article 41 – Data transfer to other states and international organisations
+
+1. Data may be transferred to other states and international organisations if there are grounds for data processing under this Law and if appropriate data protection guarantees are provided by the respective state or international organisation.
+
+2. Data may also be transferred to other states and international organisations, except for paragraph 1 of this article, if:
+
+a) the data transfer is part of a treaty or an international agreement of Georgia;
+
+b) a data processor provides appropriate guarantees for protection of data and of fundamental rights of a data subject on the basis of an agreement between a data processor and the respective state, a natural or legal person of this state or an international organisation.
+
+3. Data may be transferred under paragraph 2(b) of this article only with permission of the Personal Data Protection Service.
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+ Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 42 – Establishing appropriate guarantees for data protection
+
+The Personal Data Protection Service shall assess the presence of appropriate guarantees for data protection in other states and/or international organisations, and take a decision on the basis of analysis of the legislation regulating data processing and the practice.
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Chapter VII – Administrative Liability for Violation of this Law
+
+ 
+
+Article 43 – Data processing without the grounds under this Law
+
+1. Data processing without the grounds under this Law shall result in a warning or a fine of GEL 500.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 2 000.
+
+         
+
+Article 44 – Violation of principles of data processing
+
+1. Violation of principles of data processing under this Law shall result in a warning or a fine of GEL 500.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 2 000.
+
+ 
+
+Article 45 – Processing of special category data without the grounds under this Law
+
+1. Processing of special category data without the grounds under this Law shall result in a fine of GEL 1 000.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 5 000.
+
+ 
+
+                  
+
+Article 46 – Failure to comply with data protection requirements
+
+1. Failure to comply with data protection requirements established by this Law shall result in a warning or a fine of GEL 500.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for the violation under paragraph 1 of this article shall result in a fine of GEL 2 000.
+
+                  
+
+Article 47 – Using data for direct marketing purposes in violation of the rules under this Law
+
+1. Using data for direct marketing purposes in violation of the rules under this Law shall result in a fine of GEL 3000.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 10 000.
+
+                  
+
+Article 48 – Violation of video surveillance rules
+
+1. Violation of video surveillance rules under this Law shall result in a warning or a fine of GEL 500.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 2 000.
+
+ 
+
+Article 49 – Violation of rules for processing the building entry/exit data of public and private institutions
+
+Violation of rules under this Law for processing of the building entry/exit data of public and private institutions shall result in a warning or a fine of GEL 100.
+
+                  
+
+Article 50 – Violation of rules for notification of the data subject by the data processor
+
+1. Violation of rules under this Law for notification of a data subject by a data controller shall result in a warning or a fine of GEL 100.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 500.
+
+                  
+
+Article 51 – Assignment of data processing to the data processor by the data controller in violation of rules
+
+1. Assignment of data processing to a data processor by a data controller in violation of rules under this Law shall result in a fine of GEL 500.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 2 000.
+
+                  
+
+Article 52 – Violation of rules under Article 16 of this Law by the data processor
+
+1. Violation of rules under Article 16 of this Law by a data processor shall result in a fine of GEL 1 000.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 3 000.
+
+         
+
+Article 521 – Violation of rules for data transfer to another state and international organisation
+
+1. Transfer of data in violation of rules established under Article 41 of this Law shall result in a fine of GEL 1 000.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 3 000.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+ 
+
+Article 53 – Failure to fulfil requirements of the Personal Data Protection Service
+
+1. Violation of the rule for submitting information and documents to the Personal Data Protection Service by a data processor or a data controller, including the failure to provide the information under Article 10 of this Law and to fulfil the notification obligation under Article 20 of this Law shall result in a fine of GEL 500.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 2 000.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Article 54 – Violation of other rules related to data processing
+
+1. Violation of the rule under Article 3(11) of this Law shall result in a fine of GEL 500.
+
+2. The same act committed by a person who has had an administrative penalty imposed in the course of one year for a violation under paragraph 1 of this article shall result in a fine of GEL 2 000.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+         
+
+Article 55 – Consideration of administrative proceedings
+
+1. The Personal Data Protection Service shall have the right to consider administrative proceedings under Articles 43-54 of this Law and to impose administrative penalties.
+
+2. A person authorised for this purpose by the Personal Data Protection Service shall draw up an administrative offence report.
+
+3. A person authorised by the Personal Data Protection Service shall draw up an administrative offence report and review a case of an administrative offence in accordance with the procedures established by the Administrative Offences Code of Georgia, and the normative acts issued by the Head of the Personal Data Protection Service.
+
+Law of Georgia No 3274 of 21 July 2018 – website, 9.8.2018
+
+Law of Georgia No 4253 of 27 December 2018 – website, 29.12.2018
+
+Law of Georgia No 4597 of 8 May 2019 – website, 8.5.2019
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Chapter VII1 – Transitional Provisions
+
+Law of Georgia No 2869 of 30 November 2014 – website, 30.11.2014
+
+
+Article 551 – Transitional provisions
+
+The Ministry of Internal Affairs of Georgia shall, before 31 March 2015, ensure the implementation of technical and organisational measures necessary for the operation of a special data bank electronic control system and the development of appropriate software.
+
+Law of Georgia No 2869 of 30 November 2014 – website, 30.11.2014
+
+ 
+
+Article 552 – Measures to be implemented in the transition period
+
+1. Prior to the first election of the Head of the Personal Data Protection Service, the candidates for the Head of the Personal Data Protection Service shall be selected and nominated to the Parliament of Georgia for election in accordance with Article 403 of this Law, with the following time frames:
+
+a) the Prime Minister of Georgia shall announce the competition for election of the Head of the Personal Data Protection Service, and the agencies and institutions determined by Article 403 (2) of this Law shall inform the Prime Minister of Georgia of the names of the members of the competition commission for the selection of the Head of the Personal Data Protection Service within 1 week after the entry into force of this article;
+
+b) the Prime Minister of Georgia shall establish a competition commission for the selection of the Head of the Personal Data Protection Service and convene the first meeting of the competitive commission within 2 weeks after the entry into force of this article;
+
+c) in the case of the announcement of the repeated competition in accordance with Article 403 (6) of this Law, the time frames established by sub-paragraphs (a) and (b) of this paragraph shall remain valid and they shall be counted from the moment of announcing the repeated competition.
+
+2. If the Parliament of Georgia elects the Head of the Personal Data Protection Service from among the candidates nominated in accordance with paragraph 1 of this article and Article 403 of this Law before 1 March 2022, the powers of the newly elected Head of the Personal Data Protection Service shall start from 1 March 2022. If the Parliament of Georgia elects the Head of the Personal Data Protection Service from among the mentioned candidates after 1 March 2022, the powers of the newly elected Head of the Personal Data Protection Service shall start from the day following his/her election.
+
+3. The relevant bodies/officials shall immediately, but not later than 1 April 2022, adopt/issue the subordinate legal acts necessary to execute this Law.
+
+4. The Government of Georgia shall ensure the implementation of necessary measures to equip the Personal Data Protection Service with appropriate assets before 1 April 2022.
+
+5. In 2022, the activities of the Personal Data Protection Service shall be financed from the programme code (51 00) designated for the Personal Data Protection Service approved by the Law of Georgia ‘on State Budget of Georgia of 2022’.
+
+6. The annual report of the Personal Data Protection Service provided for by Article 4010 of this Law shall not be submitted to the Parliament of Georgia in 2022.
+
+Law of Georgia No 1313 of 30 December 2021 – website, 13.1.2022
+
+ 
+
+Chapter VIII – Final Provisions
+
+                  
+
+Article 56 – Entry of the Law into force
+
+1. This Law, except for Articles 43–55 of this Law, shall enter into force from 1 May 2012.
+
+2. Articles 43–55 of this Law shall enter into force from 1 January 2013.
+
+3. Articles 34, 35 and 39 of this Law shall become valid for private sector from 1 November 2014.
+
+Law of Georgia No 2639 of 1 August 2014 – website, 18.8.2014
+
+ 
+
+ 
+
+President of Georgia                                                    M. Saakashvili
+
+ 
+
+Tbilisi
+
+28 December 2011
+
+No 5669 - რს 

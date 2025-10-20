@@ -1,0 +1,1546 @@
+Australian Capital Territory
+Information Privacy Act 2014    
+A2014-24
+Republication No 12
+Effective:  13 September 2025
+Republication date: 13 September 2025
+Last amendment made by A2025-22
+
+
+
+
+
+
+
+
+About this republication
+The republished law
+This is a republication of the Information Privacy Act 2014 (including any amendment made under the Legislation Act 2001, part 11.3 (Editorial changes)) as in force on 13 September 2025.  It also includes any commencement, amendment, repeal or expiry affecting this republished law to 13 September 2025.  
+The legislation history and amendment history of the republished law are set out in endnotes 3 and 4. 
+Kinds of republications
+The Parliamentary Counsel's Office prepares 2 kinds of republications of ACT laws (see the ACT legislation register at www.legislation.act.gov.au):
+* authorised republications to which the Legislation Act 2001 applies
+* unauthorised republications.
+The status of this republication appears on the bottom of each page.
+Editorial changes
+The Legislation Act 2001, part 11.3 authorises the Parliamentary Counsel to make editorial amendments and other changes of a formal nature when preparing a law for republication.  Editorial changes do not change the effect of the law, but have effect as if they had been made by an Act commencing on the republication date (see Legislation Act 2001, s 115 and s 117).  The changes are made if the Parliamentary Counsel considers they are desirable to bring the law into line, or more closely into line, with current legislative drafting practice.  
+This republication includes amendments made under part 11.3 (see endnote 1).
+Uncommenced provisions and amendments
+If a provision of the republished law has not commenced, the symbol  U  appears immediately before the provision heading.  Any uncommenced amendments that affect this republished law are accessible on the ACT legislation register (www.legislation.act.gov.au). For more information, see the home page for this law on the register.
+Modifications
+If a provision of the republished law is affected by a current modification, the symbol  M  appears immediately before the provision heading.  The text of the modifying provision appears in the endnotes.  For the legal status of modifications, see the Legislation Act 2001, section 95.
+Penalties
+At the republication date, the value of a penalty unit for an offence against this law is $160 for an individual and $810 for a corporation (see Legislation Act 2001, s 133).
+
+
+Australian Capital Territory
+Information Privacy Act 2014
+
+    
+Contents
+	Page
+Part 1	Preliminary	2
+	1	Name of Act	2
+	3	Dictionary	2
+	4	Notes	2
+	5	Offences against Act-application of Criminal Code etc	2
+	6	Relationship with other laws	3
+Part 2	Objects and important concepts	4
+	7	Objects of Act	4
+	8	Meaning of personal information	4
+	9	Meaning of public sector agency	5
+	10	Reference to act or practice of a public sector agency etc	5
+	11	Meaning of interference with individual's privacy	6
+	12	Meaning of breach a TPP etc	6
+Part 3	Territory privacy principles	8
+Division 3.1	Important concepts-Territory privacy principles	8
+	13	Territory privacy principles	8
+	14	Definitions-sch 1	8
+	15	Meaning of collects personal information-sch 1	11
+	16	Meaning of holds personal information-sch 1	11
+	17	Meaning of solicits personal information-sch 1	11
+	18	Meaning of de-identified personal information-sch 1	12
+	19	Meaning of permitted general situation in relation to the collection, use or disclosure of personal information-sch 1	12
+Division 3.2	Compliance with TPPs	14
+	20	Public sector agencies must comply with TPPs	14
+	21	Privacy protection requirements for government contracts	14
+Division 3.3	Other privacy compliance matters	15
+	22	Deemed breach in relation to acts and practices of overseas recipients of personal information	15
+	23	Commonwealth APPs apply to certain public sector agencies engaged in commercial activities	16
+Part 4	Exemptions from application of Act	17
+	24	Exempt public sector agencies	17
+	25	Exempt acts or practices	17
+Part 5	Information privacy commissioner	21
+	26	Appointment of information privacy commissioner	21
+	27	Term and conditions of appointment	21
+	28	Arrangements for privacy commissioner of another jurisdiction to exercise functions	21
+	29	Information privacy commissioner's functions	22
+	30	Disclosure of interests	22
+	31	Delegation of information privacy commissioner's functions	22
+	32	Ending of information privacy commissioner's appointment	23
+Part 6	Privacy complaints	24
+Division 6.1	Important concepts	24
+	33	What is a privacy complaint etc?	24
+Division 6.2	Making privacy complaints	24
+	34	Who may make a privacy complaint?	24
+	35	How may a privacy complaint be made?	25
+	36	Privacy complaint may be referred to commissioner	25
+	37	Commissioner must tell respondent about complaint	26
+Division 6.3	Dealing with privacy complaints	26
+	38	Commissioner may make preliminary inquiries	26
+	39	Commissioner may decide not to deal with privacy complaint	26
+	40	Dealing with privacy complaints	27
+	41	Commissioner must tell parties about decision to not deal with privacy complaint	28
+	41A	Commissioner may conciliate privacy complaint	28
+	42	Commissioner may refer privacy complaint to other entity	29
+	43	Commissioner may report serious or repeated interferences to Minister	29
+	44	Commissioner may obtain information	30
+Division 6.3A	Conciliation of privacy complaints	30
+	44A	Definitions-div 6.3A	30
+	44B	Parties must attend conciliation	31
+	44C	Attendance at conciliation-people other than parties	31
+	44D	Conduct of conciliation	32
+	44E	Conciliated agreements	32
+	44F	Use of conciliation agreement by commissioner	32
+	44G	End of conciliation	33
+	44H	Admissibility of evidence	33
+	44I	Conciliation attendees protected from civil liability	34
+Division 6.4	Application to court	34
+	45	Commissioner must tell parties application may be made to court	34
+	46	Complainant may apply for court order	35
+	47	What orders may a court make?	35
+Division 6.5	Contracted service providers	36
+	48	Private sector agency must be kept informed about privacy complaint involving contracted service provider	36
+Part 7	TPP codes	37
+	49	Meaning of TPP code	37
+	50	Development of TPP codes and proposed amendment of TPP codes	37
+	51	Public sector agencies must comply with TPP codes	38
+Part 8	Miscellaneous	39
+	52	Protection of officials from liability	39
+	53	Offence-use or divulge protected information	39
+	54	Report by information privacy commissioner	41
+	55	Information privacy commissioner may make guidelines	42
+	56	Instruments made under this Act	42
+	57	Approved forms	43
+	58	Regulation-making power	43
+Schedule 1	Territory privacy principles	44
+Part 1.1	Consideration of personal information privacy	45
+	1	TPP 1-open and transparent management of personal information	45
+	2	TPP 2-anonymity and pseudonymity	47
+Part 1.2	Collection of personal information	48
+	3	TPP 3-collection of solicited personal information	48
+	4	TPP 4-dealing with unsolicited personal information	50
+	5	TPP 5-notification of the collection of personal information	51
+Part 1.3	Dealing with personal information	53
+	6	TPP 6-use or disclosure of personal information	53
+	7	Direct marketing	55
+	8	TPP 8-cross-border disclosure of personal information	55
+	9	Adoption, use or disclosure of government-related identifiers	57
+Part 1.4	Integrity of personal information	58
+	10	TPP 10-quality of personal information	58
+	11	TPP 11-security of personal information	58
+Part 1.5	Access to, and correction of, personal information	59
+	12	TPP 12-access to personal information	59
+	13	TPP 13-correction of personal information	61
+Dictionary		64
+Endnotes		69
+	1	About the endnotes	69
+	2	Abbreviation key	69
+	3	Legislation history	70
+	4	Amendment history	73
+	5	Earlier republications	75
+
+
+
+Australian Capital Territory
+Information Privacy Act 2014
+
+
+An Act to regulate the handling of personal information by public sector agencies and contracted service providers, and for other purposes
+
+    
+    
+    
+    
+
+
+Part 1	Preliminary
+1	Name of Act
+This Act is the Information Privacy Act 2014.
+3	Dictionary
+The dictionary at the end of this Act is part of this Act.
+Note 1	The dictionary at the end of this Act defines certain terms used in this Act, and includes references (signpost definitions) to other terms defined elsewhere.
+For example, the signpost definition 'territory record, for schedule 1 (Territory privacy principles)-see the Territory Records Act 2002, section 9 (3).' means that the term 'territory record' is defined in that section and the definition applies to this Act.
+Note 2	A definition in the dictionary (including a signpost definition) applies to the entire Act unless the definition, or another provision of the Act, provides otherwise or the contrary intention otherwise appears (see Legislation Act, s 155 and s 156 (1)).
+4	Notes
+A note included in this Act is explanatory and is not part of this Act.
+Note	See the Legislation Act, s 127 (1), (4) and (5) for the legal status of notes.
+5	Offences against Act-application of Criminal Code etc
+Other legislation applies in relation to offences against this Act.
+Note 1	Criminal Code
+The Criminal Code, ch 2 applies to all offences against this Act (see Code, pt 2.1).  
+The chapter sets out the general principles of criminal responsibility (including burdens of proof and general defences), and defines terms used for offences to which the Code applies (eg conduct, intention, recklessness and strict liability).
+Note 2	Penalty units
+The Legislation Act, s 133 deals with the meaning of offence penalties that are expressed in penalty units.
+6	Relationship with other laws
+This Act does not affect the operation of any other territory law, including-
+	(a)	the Freedom of Information Act 2016; and
+	(b)	the Health Records (Privacy and Access) Act 1997; and
+	(c)	the Residential Tenancies Act 1997, part 7 (Residential tenancy databases); and
+	(d)	the Territory Records Act 2002.
+
+
+Part 2	Objects and important concepts
+7	Objects of Act
+The objects of this Act are to-
+	(a)	promote the protection of the privacy of individuals; and
+	(b)	recognise that the protection of the privacy of individuals is balanced with the interests of public sector agencies in carrying out their functions or activities; and
+	(c)	promote responsible and transparent handling of personal information by public sector agencies and contracted service providers; and
+	(d)	provide a way for individuals to complain about an alleged interference with their privacy.
+8	Meaning of personal information
+	(1)	For this Act, personal information-
+	(a)	means information or an opinion about an identified individual, or an individual who is reasonably identifiable-
+	(i)	whether the information or opinion is true or not; and 
+	(ii)	whether the information or opinion is recorded in a material form or not; but
+	(b)	does not include personal health information about the individual.
+	(2)	In this section:
+personal health information-see the Health Records (Privacy and Access) Act 1997, dictionary.
+9	Meaning of public sector agency
+For this Act, a public sector agency means-
+	(a)	a Minister; or
+	(b)	an administrative unit; or
+	(c)	a statutory office-holder and the staff assisting the statutory office-holder; or
+	(d)	a territory authority; or
+	(e)	a territory instrumentality; or
+	(f)	ACTTAB Limited; or
+	(g)	an ACT court; or
+	(h)	an entity prescribed by regulation.
+10	Reference to act or practice of a public sector agency etc
+	(1)	A reference in this Act to an act or practice-
+	(a)	of a public sector agency-is a reference to an act done, or a practice engaged in, by the agency; and
+	(b)	of a contracted service provider under a government contract-is a reference to an act done, or a practice engaged in, by the provider for the purpose of performing its obligations under the contract.
+Note	A reference to an act done, or a practice engaged in, by a public sector agency or contracted service provider includes a reference to a person exercising a function of the entity, whether under a delegation, subdelegation or otherwise (see Legislation Act, s 184A).
+	(2)	A reference in this Act to doing an act includes a reference to-
+	(a)	doing an act in accordance with a practice; or
+	(b)	failing to do an act.
+Note	Fail includes refuse (see Legislation Act, dict, pt 1).
+11	Meaning of interference with individual's privacy
+	(1)	For this Act, an act or practice of a public sector agency is an interference with an individual's privacy if the act or practice breaches-
+	(a)	a TPP in relation to personal information about the individual; or
+	(b)	a TPP code that binds the agency in relation to personal information about the individual.
+	(2)	For this Act, an act or practice of a contracted service provider under a government contract is an interference with an individual's privacy if the act or practice would be an interference with an individual's privacy if the act or practice was done or engaged in by the relevant public sector agency for the contract.
+	(3)	In this section:
+relevant public sector agency, for a government contract, means-
+	(a)	if the Territory is a party to the contract-the public sector agency that entered into the contract on behalf of the Territory; or
+	(b)	if the Territory is not a party to the contract-the public sector agency that is a party to the contract.
+12	Meaning of breach a TPP etc
+	(1)	For this Act, an act or practice breaches a TPP only if it is contrary to, or inconsistent with, the TPP.
+	(2)	However, an act or practice does not breach a TPP if-
+	(a)	the act is done, or the practice is engaged in, outside the ACT; and
+	(b)	the act or practice is required by a law of another jurisdiction or a foreign country.
+	(3)	In this section:
+TPP includes a TPP code.
+
+
+Part 3	Territory privacy principles
+Division 3.1	Important concepts-Territory privacy principles
+13	Territory privacy principles
+	(1)	The Territory privacy principles (the TPPs) are set out in schedule 1.
+Note 	The TPPs differ from the Commonwealth APPs (see sch 1, note 3).
+	(2)	If a provision of this Act refers to a TPP by a number, the reference is a reference to the provision of schedule 1 having that number.
+14	Definitions-sch 1
+In schedule 1:
+Australian law-
+	(a)	means a Territory, Commonwealth or State law; and
+	(b)	includes the common law. 
+Note	State includes the Northern Territory (see Legislation Act, dict, pt 1).
+collects, personal information-see section 15.
+court or tribunal order-
+	(a)	means an order, direction or other instrument made by an ACT court; and
+	(b)	includes an order, direction or other instrument of an interim or interlocutory nature.
+de-identified, personal information-see section 18.
+enforcement body means any of the following:
+	(a)	the Australian Federal Police; 
+	(b)	a State police force or service; 
+Note	State includes the Northern Territory (see Legislation Act, dict, pt 1).
+	(c)	the DPP or similar body established under a Commonwealth or State law; 
+	(d)	a body established under a territory, Commonwealth or State law to the extent that it is responsible for administering, or exercising a function under-
+	(i)	a law that imposes a penalty or sanction; or 
+	(ii)	a law prescribed by regulation; 
+	(e)	a body established under a territory, Commonwealth or State law to conduct criminal investigations or inquiries;  
+	(f)	a body established under a territory, Commonwealth or State law to the extent that it is responsible for administering a law relating to the protection of public revenue;
+	(g)	the integrity commission;
+	(h)	a body prescribed by regulation.
+enforcement-related activity means-
+	(a)	the prevention, detection, investigation, prosecution or punishment of-
+	(i)	criminal offences; or
+	(ii)	breaches of a law imposing a penalty or sanction; or
+	(b)	the conduct of surveillance activities, intelligence gathering activities or monitoring activities; or
+	(c)	the conduct of protective or custodial activities; or
+	(d)	the enforcement of law relating to the confiscation of the proceeds of crime; or
+	(e)	the protection of public revenue; or
+	(f)	the prevention, detection, investigation or remedying of misconduct of a serious nature, or other conduct prescribed by regulation; or
+	(g)	the prevention, detection or investigation of corrupt conduct; or
+	(h)	the preparation for, or conduct of, a proceeding before a court or tribunal; or 
+	(i)	the implementation of a court or tribunal order.
+holds, personal information-see section 16.
+permitted general situation, in relation to the collection, use or disclosure of personal information-see section 19.
+related body corporate-see the Corporations Act, section 9.
+sensitive information, in relation to an individual, means personal information that is-
+	(a)	about the individual's-
+	(i)	racial or ethnic origin; or
+	(ii)	political opinions; or
+	(iii)	membership of a political association; or
+	(iv)	religious beliefs or affiliations; or
+	(v)	philosophical beliefs; or
+	(vi)	membership of a professional or trade association; or
+	(vii)	membership of a trade union; or
+	(viii)	sexual orientation or practices; or
+	(ix)	criminal record; or
+	(b)	genetic information about the individual; or
+	(c)	biometric information about the individual that is to be used for the purpose of automated biometric verification or biometric identification; or
+	(d)	a biometric template that relates to the individual. 
+Note	Sensitive information does not include personal health information (see s 8).
+solicits, personal information-see section 17.
+territory record-see the Territory Records Act 2002, section 9 (3).
+TPP privacy policy-see TPP 1.3.
+15	Meaning of collects personal information-sch 1
+For schedule 1, a public sector agency collects personal information only if the agency collects the personal information for inclusion in a record or generally available publication.
+16	Meaning of holds personal information-sch 1
+For schedule 1, a public sector agency holds personal information if the agency has possession or control of a record that contains the personal information.
+17	Meaning of solicits personal information-sch 1
+For schedule 1, a public sector agency solicits personal information if the agency requests another entity to provide-
+	(a)	the personal information; or
+	(b)	a kind of information in which the personal information is included.
+18	Meaning of de-identified personal information-sch 1
+For schedule 1, personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable. 
+19	Meaning of permitted general situation in relation to the collection, use or disclosure of personal information-sch 1
+	(1)	For schedule 1, a permitted general situation exists in relation to the collection, use or disclosure by a public sector agency of personal information about an individual if-
+	(a)	both of the following apply:
+	(i)	it is unreasonable or impracticable to obtain the individual's consent to the collection, use or disclosure; 
+	(ii)	the agency reasonably believes that the collection, use or disclosure is necessary to lessen or prevent a serious threat to the life, health or safety of an individual, or to public health or safety; or
+	(b)	both of the following apply:
+	(i)	the agency has reason to suspect that unlawful activity, or misconduct of a serious nature, that relates to the agency's functions or activities has been, is being or may be engaged in;
+	(ii)	the agency reasonably believes that the collection, use or disclosure is necessary in order for the agency to take appropriate action in relation to the matter; or
+	(c)	both of the following apply:
+	(i)	the agency reasonably believes that the collection, use or disclosure is reasonably necessary to assist an entity to locate a person who has been reported as missing;
+Note	Entity includes an unincorporated body and a person (including a person occupying a position) (see Legislation Act, dict, pt 1).
+	(ii)	the collection, use or disclosure complies with the rules made under subsection (2); or
+	(d)	the collection, use or disclosure is reasonably necessary for the establishment, exercise or defence of a legal or equitable claim; or
+	(e)	the collection, use or disclosure is reasonably necessary for the purposes of a confidential alternative dispute resolution process.
+	(2)	For subsection (1) (c) (ii), the information privacy commissioner may make rules relating to the collection, use or disclosure of personal information.
+Note	See s 56 (Instruments made under this Act).
+	(3)	A rule is a notifiable instrument.
+Note	A notifiable instrument must be notified under the Legislation Act.
+Division 3.2	Compliance with TPPs 
+20	Public sector agencies must comply with TPPs 
+A public sector agency must not do an act, or engage in a practice, that breaches a TPP.
+21	Privacy protection requirements for government contracts
+	(1)	A public sector agency must not enter into a government contract unless the contract contains appropriate contractual provisions requiring the contracted service provider, and any subcontractor for the contract, to comply with-
+	(a)	the TPPs; or
+	(b)	a TPP code that binds the agency; or
+	(c)	a corresponding privacy law.
+	(2)	Also, a public sector agency must not enter into a government contract that authorises the contracted service provider, or any subcontractor for the contract, to do an act, or engage in a practice, that breaches a TPP, TPP Code or corresponding law that applies to the contract under the contractual provisions mentioned in subsection (1).
+	(3)	Failure by a public sector agency to comply with this section does not affect any obligation the agency, or the contracted service provider, has under this Act or the government contract in relation to compliance with the TPPs, or a TPP code that binds the agency.
+	(4)	In this section:
+corresponding privacy law means-
+	(a)	the Privacy Act 1988 (Cwlth); or
+	(b)	a law of a State, external territory or foreign country prescribed by regulation.
+subcontractor, in relation to a government contract-
+	(a)	means a person engaged by the contracted service provider under the government contract to provide the services the subject of the government contract; and
+	(b)	includes any other person engaged under a subcontracting arrangement to provide the services the subject of the government contract.
+Division 3.3	Other privacy compliance matters
+22	Deemed breach in relation to acts and practices of overseas recipients of personal information
+	(1)	This section applies if-
+	(a)	a public sector agency discloses personal information about an individual to an overseas recipient; and
+	(b)	TPP 8.1 applies to the disclosure of the information; and
+	(c)	the TPPs do not apply, under this Act, to an act done, or a practice engaged in, by the overseas recipient in relation to the information; and
+	(d)	the overseas recipient does an act, or engages in a practice, in relation to the information that would be a breach of a TPP (other than TPP 1) if the TPP applied to the act or practice.
+	(2)	The act done, or the practice engaged in, by the overseas recipient is taken, for this Act-
+	(a)	to have been done, or engaged in, by the public sector agency; and
+	(b)	to be a breach of the TPP by the agency.
+23	Commonwealth APPs apply to certain public sector agencies engaged in commercial activities
+	(1)	This section applies to the acts and practices of a public sector agency if-
+	(a)	the agency is prescribed by regulation; and
+	(b)	the acts and practices relate to the agency's commercial activities.
+	(2)	The Commonwealth APPs apply to the acts and practices of the public sector agency as if the agency were an organisation within the meaning of the Commonwealth Act.
+
+
+Part 4	Exemptions from application of Act
+    
+24	Exempt public sector agencies 
+This Act does not apply to the following public sector agencies:
+	(a)	a board of inquiry under the Inquiries Act 1991;
+	(b)	a judicial commission under the Judicial Commissions Act 1994;
+	(c)	the judicial council established under the Judicial Commissions Act 1994, section 5A;
+	(d)	a royal commission under the Royal Commissions Act 1991;
+	(e)	Icon Water Limited, Icon Distribution Investments Limited or Icon Retail Investments Limited;
+	(f)	an agency prescribed by regulation.
+25	Exempt acts or practices
+	(1)	This Act does not apply to the following acts and practices:
+	(a)	for a Minister-an act done, or a practice engaged in, by the Minister other than an act done, or a practice engaged in, by the Minister in relation to the affairs of a public sector agency administered by the Minister;
+	(b)	for an ACT court-an act done, or a practice engaged in, by the ACT court other than an act done, or a practice engaged in, by the ACT court in relation to a matter of an administrative nature;
+	(c)	for the Office of the Legislative Assembly-an act done, or a practice engaged in, by the Office in exercising a function in relation to a proceeding of the Legislative Assembly;
+	(d)	for officers of the Assembly-an act done, or a practice engaged in, by the officer of the Assembly other than an act done, or a practice engaged in, by the officer in relation to a matter of an administrative nature;
+	(e)	an act done, or a practice engaged in, by a public sector agency in relation to information that is taken to be contrary to the public interest to disclose under the FOI Act, schedule 1
+	(f)	an act done, or a practice engaged in, by a public sector agency in relation to a record that has originated with, or has been received from, a Commonwealth enforcement or intelligence body;
+	(g)	an act done, or a practice engaged in, by a public sector agency that involves the disclosure of personal information to a Commonwealth intelligence body if the body, in connection with its functions, requests that the agency disclose the personal information and-
+	(i)	the disclosure is made to an officer or employee of the Commonwealth intelligence body authorised in writing by the head (however described) of the body to receive the disclosure; and
+	(ii)	the officer or employee certifies in writing that the disclosure is connected with the performance of the body's functions;
+	(h)	for an agency prescribed by regulation-an act done, or a practice engaged in, by the agency in relation to a matter prescribed by regulation.
+Note	A reference to an act done, or a practice engaged in, by a public sector agency includes a reference to a person exercising a function of the agency, whether under a delegation, subdelegation or otherwise (see Legislation Act, s 184A).
+	(2)	In this section:
+Commonwealth enforcement or intelligence body means the following:
+	(a)	a Commonwealth intelligence body;
+	(b)	the Office of National Intelligence established under the Office of National Intelligence Act 2018 (Cwlth), section 6;
+	(c)	that part of the Defence Department known as the Defence Intelligence Organisation;
+	(d)	that part of the Defence Department known as the Australian Geospatial-Intelligence Organisation;
+	(e)	the National Anti-Corruption Commissioner appointed under the National Anti-Corruption Commission Act 2022 (Cwlth), section 241;
+	(f)	a staff member of the National Anti-Corruption Commission established under the National Anti-Corruption Commission Act 2022 (Cwlth), section 20;
+	(g)	the Australian Crime Commission established under the Australian Crime Commission Act 2002 (Cwlth), section 7;
+	(h)	the board of the Australian Crime Commission established under the Australian Crime Commission Act 2002 (Cwlth), section 7B.
+Commonwealth intelligence body means the following:
+	(a)	the Australian Security Intelligence Organisation continued in existence under the Australian Security Intelligence Organisation Act 1979 (Cwlth), section 6;
+	(b)	the Australian Secret Intelligence Service continued in existence under the Intelligence Services Act 2001 (Cwlth), section 16;
+	(c)	the Defence Signals Directorate of the Defence Department.
+ Defence Department means the Commonwealth department that deals with defence and that is administered by the Commonwealth Minister administering the Defence Act 1903 (Cwlth).
+FOI Act means the Freedom of Information Act 2016.
+
+
+Part 5	Information privacy commissioner
+26	Appointment of information privacy commissioner
+The Executive may appoint a person as Information Privacy Commissioner.
+Note 1	For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.  
+Note 2	In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
+27	Term and conditions of appointment
+	(1)	The information privacy commissioner must not be appointed for longer than 7 years.
+Note	A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
+	(2)	The information privacy commissioner is appointed on the conditions agreed between the Executive and the commissioner, subject to this part and any determination under the Remuneration Tribunal Act 1995.
+28	Arrangements for privacy commissioner of another jurisdiction to exercise functions
+If an appointment is not made under section 26, the Minister may make arrangements for the commissioner (however described) responsible for exercising functions under a Commonwealth or State law that substantially correspond to this Act to exercise 1 or more of the functions of the information privacy commissioner.
+29	Information privacy commissioner's functions
+The information privacy commissioner's functions are to-
+	(a)	promote an understanding of the TPPs and the objects of the TPPs; and
+	(b)	provide information and educational programs to promote the protection of the privacy of individuals; and
+	(c)	help public sector agencies to comply with the TPPs and TPP codes; and
+	(d)	investigate privacy complaints made under this Act; and
+	(e)	exercise any other functions given to the commissioner under this Act or another territory law.
+30	Disclosure of interests
+The information privacy commissioner must give written notice to the Executive of all financial and other interests that the commissioner has or acquires that conflict or could conflict with the proper exercise of the commissioner's functions.
+31	Delegation of information privacy commissioner's functions
+The information privacy commissioner may delegate the commissioner's functions under this Act or another territory law to a person.
+Note	For the making of delegations and the exercise of delegated functions, see the Legislation Act, pt 19.4.
+32	Ending of information privacy commissioner's appointment
+	(1)	If an appointment is made under section 26, the Executive may end the appointment-
+	(a)	if the information privacy commissioner contravenes a territory law or law of another jurisdiction; or
+	(b)	for misbehaviour; or
+	(c)	if the commissioner becomes bankrupt or personally insolvent; or
+Note	Bankrupt or personally insolvent-see the Legislation Act, dictionary, pt 1.
+	(d)	if the commissioner is absent, other than on approved leave, for 14 consecutive days or for 28 days in any 12-month period.
+	(2)	The Executive must end the information privacy commissioner's appointment-
+	(a)	for physical or mental incapacity, if the incapacity substantially affects the exercise of the commissioner's functions; or
+	(b)	if the commissioner fails to comply, without reasonable excuse, with section 30 (Disclosure of interests).
+Note	A person's appointment also ends if the person resigns (see Legislation Act, s 210).
+
+
+Part 6	Privacy complaints
+Division 6.1	Important concepts
+33	What is a privacy complaint etc?
+In this Act:
+complainant, in relation to a privacy complaint, means the individual who made the complaint.
+privacy complaint means a complaint about an act or practice of a public sector agency or contracted service provider that may be an interference with an individual's privacy.
+respondent, in relation to a privacy complaint, means the public sector agency or contracted service provider to which the complaint relates.
+Division 6.2	Making privacy complaints
+34	Who may make a privacy complaint?
+	(1)	An individual may make a privacy complaint to the information privacy commissioner.
+	(2)	For an act or practice of a public sector agency or contracted service provider that may be an interference with the privacy of 2 or more individuals, any 1 of those individuals may make a privacy complaint on behalf of all of the individuals.
+	(3)	The information privacy commissioner must give help to the individual to make the privacy complaint, as the commissioner considers appropriate.
+Examples-help
+1	advising the individual about the complaint process
+2	helping the individual to put a privacy complaint in writing
+35	How may a privacy complaint be made?
+	(1)	A privacy complaint must-
+	(a)	be in writing; and
+	(b)	include the complainant's name, address and telephone number; and
+	(c)	identify the respondent and include details about the act or practice the subject of the complaint.
+Note	If a form is approved under s 57 for this provision, the form must be used.
+	(2)	Despite subsection (1) (a), a privacy complaint may be made orally to the information privacy commissioner if the commissioner is reasonably satisfied that exceptional circumstances justify the commissioner dealing with the complaint without it being in writing.
+Example-exceptional circumstances
+waiting until the privacy complaint is put in writing would make dealing with the complaint impossible or impractical
+36	Privacy complaint may be referred to commissioner
+	(1)	A privacy complaint may be referred to the information privacy commissioner by any of the following:
+	(a)	the ombudsman;
+	(b)	the human rights commission;
+	(c)	an entity having functions, under a State or Commonwealth law that corresponds to this Act, that correspond to the functions of the information privacy commissioner; 
+	(d)	an entity prescribed by regulation.
+	(2)	If an entity mentioned in subsection (1) refers a privacy complaint to the information privacy commissioner, the entity must-
+	(a)	give the commissioner any information the entity has in relation to the complaint; and
+	(b)	tell the complainant about the referral.
+37	Commissioner must tell respondent about complaint
+After receiving a privacy complaint, the information privacy commissioner must give a copy of the complaint to the respondent.
+Note 1	The information privacy commissioner must comply with this section as soon as possible after receiving a privacy complaint (see Legislation Act, s 151B).
+Note 2	If the respondent is a contracted service provider under a government contract, the information privacy commissioner must also give a copy of the privacy complaint to the public sector agency to which the contract relates (see s 48).
+Division 6.3	Dealing with privacy complaints
+38	Commissioner may make preliminary inquiries
+The information privacy commissioner may make inquiries of the respondent for a privacy complaint, or any other person, for the purpose of deciding whether to deal with the complaint.
+39	Commissioner may decide not to deal with privacy complaint 
+The information privacy commissioner may decide not to deal with a privacy complaint if the commissioner is reasonably satisfied-
+	(a)	the act or practice the subject of the complaint is not an interference with an individual's privacy; or
+	(b)	the complaint was made more than 12 months after the complainant became aware of the act or practice; or
+	(c)	the complaint is frivolous, vexatious, misconceived, lacking in substance or not made in good faith; or
+	(d)	the act or practice is the subject of an application under another territory law, or a State or Commonwealth law, and the substance of the complaint has been, or is being, dealt with adequately under that law; or
+	(e)	the complaint would be better dealt with under another territory law, or a State or Commonwealth law; or
+	(f)	dealing, or further dealing, with the act or practice is not warranted having regard to all the circumstances; or
+	(g)	the complainant has complained to the respondent about the act or practice and-
+	(i)	the respondent has dealt, or is dealing, adequately with the complaint; or
+	(ii)	the respondent has not yet had an adequate opportunity to deal with the complaint.
+40	Dealing with privacy complaints
+	(1)	If the information privacy commissioner decides to deal with a privacy complaint, the commissioner may make inquiries and investigations in relation to the complaint, as the commissioner thinks appropriate.
+	(2)	The information privacy commissioner may decide not to continue dealing with the privacy complaint, or part of the complaint, if-
+	(a)	the complainant does not comply with a reasonable request made by the commissioner in dealing with the complaint, or part of the complaint; or
+	(b)	the commissioner is reasonably satisfied that the complainant, without reasonable excuse, has not cooperated in the commissioner's dealing with the complaint, or part of the complaint; or
+	(c)	the commissioner has not been able to contact the complainant for a reasonable period of time using the contact details stated in the privacy complaint; or 
+	(d)	conciliation of the complaint, or part of the complaint, ends without agreement being reached.
+	(3)	In this section:
+conciliation-see section 44A.
+41	Commissioner must tell parties about decision to not deal with privacy complaint
+If the information privacy commissioner decides not to deal with a privacy complaint, or to stop dealing with a privacy complaint, the commissioner must tell the complainant and respondent about the decision, including the reasons for the decision.
+41A	Commissioner may conciliate privacy complaint
+	(1)	The information privacy commissioner may, at any time, conciliate a privacy complaint, or part of a complaint, if satisfied that the complaint or part of the complaint is appropriate for conciliation.
+Note	Conciliation is dealt with in div 6.3A.
+	(2)	The commissioner may continue to deal with a privacy complaint in another way while the commissioner is conciliating the complaint, or part of the complaint.
+	(3)	In this section:
+conciliation-see section 44A.
+42	Commissioner may refer privacy complaint to other entity
+	(1)	If the information privacy commissioner, after considering a privacy complaint, is reasonably satisfied that the complaint would be better dealt with by an investigative entity with power to investigate the complaint, the commissioner may refer the privacy complaint to the entity.
+	(2)	If the information privacy commissioner refers the privacy complaint to an investigative entity, the commissioner must-
+	(a)	give the entity any information the commissioner has in relation to the complaint; and
+	(b)	tell the complainant and respondent about the referral.
+	(3)	In this section:
+investigative entity means-
+	(a)	the ombudsman; or
+	(b)	the human rights commission; or
+	(c)	an entity having functions, under a State or Commonwealth law that corresponds to this Act, that correspond to the functions of the information privacy commissioner; or
+	(d)	an entity prescribed by regulation.
+43	Commissioner may report serious or repeated interferences to Minister
+	(1)	If the information privacy commissioner, after dealing with a privacy complaint, is reasonably satisfied that the act or practice the subject of the complaint is a serious or repeated interference with the complainant's privacy, the commissioner may give the Minister a written report about the complaint.
+	(2)	If the commissioner gives the Minister a report mentioned in subsection (1), the Minister must present the report to the Legislative Assembly within 6 sitting days after the day the Minister receives the report.
+44	Commissioner may obtain information 
+	(1)	The information privacy commissioner may ask anyone to give the commissioner information so that the commissioner may deal with a privacy complaint.
+	(2)	A public sector agency or public official for the agency must comply with a request made to the agency or official.
+	(3)	In this section:
+public official, for a public sector agency, means a person who is or has been-
+	(a)	an employee of the public sector agency; or
+	(b)	a contractor, employee of a contractor or volunteer exercising a function of the public sector agency.
+Division 6.3A	Conciliation of privacy complaints
+44A	Definitions-div 6.3A
+In this division:
+conciliation, of a privacy complaint, is a process in which-
+	(a)	the parties give willing and informed agreement to take part; and
+	(b)	the information privacy commissioner impartially helps the parties resolve some or all of the complaint; and
+	(c)	the parties decide the outcome, usually with advice from the commissioner.
+conciliation agreement-see section 44E (1).
+parties, to the conciliation of a privacy complaint, means the complainant and respondent in relation to the complaint.
+44B	Parties must attend conciliation
+	(1)	The parties to the conciliation of a privacy complaint must attend the conciliation.
+	(2)	A person commits an offence if-
+	(a)	the person is a party to the conciliation; and
+	(b)	the information privacy commissioner tells the person, in writing, to attend the conciliation at a stated time and place; and
+	(c)	the person does not attend the conciliation at the stated time and place.
+Maximum penalty:  50 penalty units.
+	(3)	Subsection (2) does not apply if the person has a reasonable excuse for not attending the conciliation at the stated time and place.
+Note	The defendant has an evidential burden in relation to the matters mentioned in s (3) (see Criminal Code, s 58).
+44C	Attendance at conciliation-people other than parties
+	(1)	The information privacy commissioner may allow people other than parties to attend the conciliation if the commissioner considers that their attendance will help the conciliation.
+	(2)	However, neither party may be represented by anyone else in the conciliation unless the commissioner is satisfied that the representation is likely to substantially help the conciliation.
+	(3)	The information privacy commissioner may also, in writing, ask a person other than a party to attend the conciliation if satisfied that the person's attendance is likely to help the conciliation.
+44D	Conduct of conciliation
+Conciliation is to be conducted in the way the information privacy commissioner decides.
+Example
+The commissioner may decide that a privacy complaint is to be split and the parts are to be conciliated separately.
+44E	Conciliated agreements
+	(1)	If a complaint is resolved by conciliation, the information privacy commissioner may help the parties make a written record (the conciliation agreement) of the agreement they have reached.
+	(2)	If a conciliation agreement is made-
+	(a)	each party to the agreement must sign the agreement; and
+	(b)	the commissioner must give each party a copy of the conciliation agreement.
+44F	Use of conciliation agreement by commissioner
+	(1)	The information privacy commissioner may use information in a conciliation agreement, whether for dealing with the complaint to which the agreement relates or otherwise, only if the parties to the agreement agree to the use by the commissioner of the agreement, or the part of the agreement, containing the information.
+	(2)	An agreement to allow the commissioner to use a conciliation agreement, or part of a conciliation agreement, may be in the conciliation agreement or elsewhere.
+	(3)	If the parties agree to the use by the commissioner of the conciliation agreement, or a part of the agreement, the commissioner may use anything in the conciliation agreement, or the part of the agreement, as the commissioner considers appropriate.
+44G	End of conciliation
+	(1)	Conciliation of a privacy complaint ends if-
+	(a)	agreement is reached on the matters being conciliated, whether or not a conciliation agreement is made, and the parties end the conciliation; or
+	(b)	the parties agree to end the conciliation; or
+	(c)	a party withdraws from the conciliation; or
+	(d)	the information privacy commissioner is satisfied that the conciliation is unlikely to be successful.
+	(2)	If the conciliation ends, the commissioner must, as soon as practicable, tell the parties that the conciliation has ended and why it has ended.
+	(3)	If the conciliation ends because subsection (1) (a) applies, the information privacy commissioner may close the complaint.
+44H	Admissibility of evidence
+	(1)	This section-
+	(a)	applies to-
+	(i)	a communication made between people attending a conciliation (including the information privacy commissioner); and
+	(ii)	a document (whether delivered or not) prepared in relation to the conciliation; but
+	(b)	does not apply to a conciliation agreement, or part of a conciliation agreement, if the parties have agreed under section 44F to allow the commissioner to use the agreement or part of the agreement.
+	(2)	The Evidence Act 2011, section 131 (Exclusion of evidence of settlement negotiations) applies to the communication or document as if the communication or document were a communication or document mentioned in that Act, section 131 (1).
+44I	Conciliation attendees protected from civil liability
+A person attending conciliation does not incur civil liability for an act done honestly and without recklessness at the conciliation.
+Division 6.4	Application to court
+45	Commissioner must tell parties application may be made to court
+	(1)	This section applies if, after dealing with a privacy complaint, the information privacy commissioner is reasonably satisfied that the act or practice the subject of the complaint is an interference with the complainant's privacy.
+	(2)	However, this section does not apply if the complaint is resolved by conciliation, whether or not a conciliation agreement is made in relation to the complaint.
+	(3)	The commissioner must give written notice to the complainant and the respondent for the complaint telling them-
+	(a)	that the commissioner is reasonably satisfied that the act or practice the subject of the complaint is an interference with the complainant's privacy; and
+	(b)	that the complainant may apply to a court for an order.
+	(4)	In this section:
+conciliation-see section 44A.
+conciliation agreement-see section 44F (1).
+46	Complainant may apply for court order
+A complainant may, within 6 months after the day the complainant is notified under section 45, apply to a court for an order mentioned in section 47.
+47	What orders may a court make?
+On application by a complainant in relation to a privacy complaint, the court may make 1 or more of the following orders:
+	(a)	an order that the complaint, or a part of the complaint, has been substantiated, together with, if considered appropriate, 1 or more of the following orders:
+	(i)	that an act or practice of the respondent is an interference with the privacy of the complainant and that the respondent must not repeat or continue the act or practice;
+	(ii)	that the respondent must engage in a stated reasonable act or practice to compensate for loss or damage suffered by the complainant;
+	(iii)	that the respondent must make a stated amendment of a record it holds;
+	(iv)	that the complainant is entitled to a stated amount, of not more than $100 000, to compensate the complainant for economic loss or damage suffered by the complainant because of the act or practice complained of; 
+	(b)	an order that the complaint, or a part of the complaint, has been substantiated together with an order that no further action is required to be taken;
+	(c)	an order that the complaint, or a part of the complaint, has not been substantiated, together with an order that the complaint or part is dismissed;
+	(d)	an order that the complainant be reimbursed for expenses reasonably incurred in relation to making the complaint.
+Division 6.5	Contracted service providers
+48	Private sector agency must be kept informed about privacy complaint involving contracted service provider
+	(1)	This section applies if-
+	(a)	the respondent in relation to a privacy complaint is a contracted service provider under a government contract; and
+	(b)	the information privacy commissioner is required under this part to tell, or give, something to the respondent.
+	(2)	The information privacy commissioner must also tell, or give, the thing to the public sector agency to which the government contract relates.
+
+
+Part 7	TPP codes
+    
+49	Meaning of TPP code
+	(1)	For this Act, a TPP code is a code of practice about information privacy.
+	(2)	A TPP code must-
+	(a)	set out how 1 or more of the TPPs are to be applied or complied with; and
+	(b)	state the public sector agencies that are bound by the code, or a way of working out which public sector agencies are bound by the code; and
+	(c)	set out when the code is in force.
+	(3)	A TPP code may do 1 or more of the following:
+	(a)	impose additional requirements to those imposed by 1 or more TPPs that are not contrary to, or inconsistent with, the TPPs;
+	(b)	deal with the internal handling of privacy complaints;
+	(c)	provide for the reporting to the information privacy commissioner about privacy complaints;
+	(d)	deal with any other relevant matters.
+50	Development of TPP codes and proposed amendment of TPP codes
+	(1)	A public sector agency may develop a draft TPP code or draft amendment of a TPP code.
+	(2)	Before adopting a TPP code, the public sector agency must-
+	(a)	publish the draft TPP code or draft amendment on the agency's website or in a daily newspaper; and
+	(b)	invite the public to make submissions to the agency about the draft or amendment within a stated period of at least 28 days; and
+	(c)	consider any submissions made within the stated period.
+	(3)	A TPP code adopted by a public sector agency is a notifiable instrument.
+Note 1	A notifiable instrument must be notified under the Legislation Act.
+Note 2	See s 56 (Instruments made under this Act).
+51	Public sector agencies must comply with TPP codes
+A public sector agency must not do an act, or engage in a practice, that breaches a TPP code notified under section 50 (3).
+
+
+Part 8	Miscellaneous
+52	Protection of officials from liability
+	(1)	An official is not civilly liable for anything done or omitted to be done honestly and without recklessness-
+	(a)	in the exercise of a function under this Act; or
+	(b)	in the reasonable belief that the act or omission was in the exercise of a function under this Act.
+	(2)	Any civil liability that would, apart from subsection (1), attach to an official attaches instead to the Territory.
+	(3)	In this section:
+official means-
+	(a)	the information privacy commissioner; or
+	(b)	a person authorised under this Act to do or not to do a thing.
+Note	A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation (see Legislation Act, s 104).
+53	Offence-use or divulge protected information
+	(1)	A person to whom this section applies commits an offence if-
+	(a)	the person uses information; and
+	(b)	the information is protected information about someone else; and
+	(c)	the person is reckless about whether the information is protected information about someone else.
+Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
+	(2)	A person to whom this section applies commits an offence if-
+	(a)	the person does something that divulges information; and
+	(b)	the information is protected information about someone else; and
+	(c)	the person is reckless about whether-
+	(i)	the information is protected information about someone else; and
+	(ii)	doing the thing would result in the information being divulged to someone else.
+Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
+	(3)	Subsections (1) and (2) do not apply-
+	(a)	if the information is used or divulged-
+	(i)	under this Act or another territory law; or
+	(ii)	in relation to the exercise of a function by a person to whom this section applies under this Act or another territory law; or
+	(iii)	in a court proceeding; or
+	(b)	to the using or divulging of protected information about a person with the person's consent.
+Note	The defendant has an evidential burden in relation to the matters mentioned in s (3) (see Criminal Code, s 58).
+	(4)	A person to whom this section applies need not divulge protected information to a court, or produce a document containing protected information to a court, unless it is necessary to do so for this Act or another law in force in the ACT.
+	(5)	In this section:
+court includes a tribunal, authority or person having power to require the production of documents or the answering of questions.
+divulge includes-
+	(a)	communicate; or
+	(b)	publish.
+person to whom this section applies means a person who exercises, or has exercised, a function under this Act.
+produce includes allow access to.
+protected information means information about a person that is disclosed to, or obtained by, a person to whom this section applies because of the exercise of a function under this Act by the person or someone else.
+use, in relation to information, includes make a record of the information.
+54	Report by information privacy commissioner
+	(1)	The information privacy commissioner must, for each financial year, give a report to the Minister about-
+	(a)	the total number of privacy complaints made or referred to the commissioner; and
+	(b)	the total number of privacy complaints dealt with by the commissioner; and
+	(c)	the total number of privacy complaints in relation to which the commissioner has given a notice under section 45 (Commissioner must tell parties application may be made to court); and
+	(d)	anything else prescribed by regulation.
+	(2)	The report-
+	(a)	must identify the respondent in relation to each privacy complaint reported on under subsection (1); but
+	(b)	must not include the complainant's personal information. 
+	(3)	The Minister must present the report to the Legislative Assembly within 15 sitting days after the day the report is given to the Minister.
+55	Information privacy commissioner may make guidelines
+	(1)	The information privacy commissioner may make guidelines about the following:
+	(a)	to help public sector agencies bound by TPP codes to apply or comply with the codes; 
+	(b)	matters the public sector agency must consider when developing a TPP code under section 50;
+	(c)	the conduct of disclosure of personal information about an individual by a public sector agency for TPP 6.3 (d).
+	(2)	A guideline is a notifiable instrument.
+Note	A notifiable instrument must be notified under the Legislation Act.
+56	Instruments made under this Act
+An instrument made under this Act may apply, adopt or incorporate another instrument as in force from time to time.
+Note 1	The text of an applied, adopted or incorporated instrument, whether applied as in force from time to time or as at a particular time, is taken to be a notifiable instrument if the operation of the Legislation Act, s 47 (5) or (6) is not disapplied (see s 47 (7)). 
+Note 2	A notifiable instrument must be notified under the Legislation Act.
+57	Approved forms
+	(1)	The information privacy commissioner may approve forms for this Act.
+	(2)	If the information privacy commissioner approves a form for a particular purpose, the approved form must be used for that purpose.
+Note	For other provisions about forms, see the Legislation Act, s 255.
+	(3)	An approved form is a notifiable instrument.
+Note	A notifiable instrument must be notified under the Legislation Act.
+58	Regulation-making power
+The Executive may make regulations for this Act.
+Note	A regulation must be notified, and presented to the Legislative Assembly, under the Legislation Act.
+
+
+
+Schedule 1	Territory privacy principles
+(see s 13)
+    
+Note 1	This schedule sets out the TPPs.
+*	Pt 1.1 sets out principles that require public sector agencies to consider the privacy of personal information, including ensuring that public sector agencies manage personal information in an open and transparent way.
+*	Pt 1.2 sets out principles that deal with the collection of personal information, including unsolicited personal information.
+*	Pt 1.3 sets out principles about how public sector agencies deal with personal information. The part includes principles about the use and disclosure of personal information. 
+*	Pt 1.4 sets out principles about the integrity of personal information. The part includes principles about the quality and security of personal information.
+*	Pt 1.5 sets out principles that deal with requests for access to, and the correction of, personal information.
+Note 2	The TPPs are:
+*	TPP 1-open and transparent management of personal information
+*	TPP 2-anonymity and pseudonymity
+*	TPP 3-collection of solicited personal information
+*	TPP 4-dealing with unsolicited personal information
+*	TPP 5-notification of the collection of personal information
+*	TPP 6-use or disclosure of personal information
+*	TPP 8-cross-border disclosure of personal information
+*	TPP 10-quality of personal information
+*	TPP 11-security of personal information
+*	TPP 12-access to personal information
+*	TPP 13-correction of personal information.
+
+Note 3	The TPPs do not include provisions equivalent to the Commonwealth APPs relating to certain private sector and other entities.  To maintain consistent numbering between the TPPs and the Commonwealth APPs-
+*	if the Commonwealth APPs contain a provision that is not included in this Act-the relevant TPP in this schedule is numbered to maintain consistency in numbering between provisions common to both Acts; and
+*	a note appears under the relevant TPP in this schedule describing the omitted provision of the Commonwealth APPs.
+The TPPs also contain minor textual and formatting differences to the Commonwealth APPs.
+Part 1.1	Consideration of personal information privacy
+1	TPP 1-open and transparent management of personal information
+	1.1	The object of this TPP is to ensure that public sector agencies manage personal information in an open and transparent way.
+Compliance with the TPPs etc
+	1.2	A public sector agency must take reasonable steps to implement practices, procedures and systems relating to the agency's functions or activities that-
+	(a)	will ensure that the agency complies with the TPPs and any TPP code that binds the agency; and
+	(b)	will enable the agency to deal with inquiries or complaints from individuals about the agency's compliance with the TPPs or a code.
+TPP privacy policy
+	1.3	A public sector agency must have a clearly expressed and up-to-date policy (the TPP privacy policy) about the management of personal information by the agency.
+	1.4	Without limiting TPP 1.3, the TPP privacy policy of the public sector agency must contain the following information:
+	(a)	the kinds of personal information that the agency collects and holds;
+	(b)	how the agency collects and holds personal information;
+	(c)	the purposes for which the agency collects, holds, uses and discloses personal information;
+	(d)	how an individual may access personal information about the individual that is held by the agency and seek the correction of the information;
+	(e)	how an individual may complain about a breach of the TPPs, or any TPP code that binds the agency, and how the agency will deal with the complaint;
+	(f)	whether the agency is likely to disclose personal information to overseas recipients;
+	(g)	if the agency is likely to disclose personal information to overseas recipients-the countries in which the recipients are likely to be located if it is practicable to state those countries in the policy.
+Availability of TPP privacy policy etc
+	1.5	A public sector agency must take reasonable steps to make its TPP privacy policy available-
+	(a)	free of charge; and
+	(b)	in an appropriate form.
+Example
+on the agency's website
+	1.6	If a person requests a copy of the TPP privacy policy of a public sector agency in a particular form, the agency must take reasonable steps to give the person a copy in that form.
+Note	Person includes a reference to a corporation as well as an individual (see Legislation Act, s 160).
+2	TPP 2-anonymity and pseudonymity
+	2.1	Individuals must have the option of not identifying themselves, or of using a pseudonym, when dealing with a public sector agency in relation to a particular matter.
+	2.2	TPP 2.1 does not apply if, in relation to the matter-
+	(a)	the public sector agency is required or authorised by or under an Australian law, or a court or tribunal order, to deal with individuals who have identified themselves; or
+	(b)	it is impracticable for the public sector agency to deal with individuals who have not identified themselves or who have used a pseudonym.
+
+
+Part 1.2	Collection of personal information
+3	TPP 3-collection of solicited personal information
+Personal information other than sensitive information 
+	3.1	A public sector agency must not collect personal information (other than sensitive information) unless the information is reasonably necessary for, or directly related to, 1 or more of the agency's functions or activities.
+Note 	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 3, s 3.2).
+Sensitive information
+	3.3	A public sector agency must not collect sensitive information about an individual unless-
+	(a)	the individual consents to the collection of the information and the information is reasonably necessary for, or directly related to, 1 or more of the agency's functions or activities; or
+	(b)	TPP 3.4 applies in relation to the information.
+Note	The equivalent provision in the Commonwealth APPs also applies to certain private sector entities (see Commonwealth APP 3, s 3.3 (a) (ii)).
+	3.4	This subsection applies in relation to sensitive information about an individual if-
+	(a)	the collection of the information is required or authorised by or under an Australian law or a court or tribunal order; or
+	(b)	a permitted general situation exists in relation to the collection of the information by the public sector agency; or
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 3, s 3.4 (c)).
+	(d)	the public sector agency is an enforcement body and the agency reasonably believes that the collection of the information is reasonably necessary for, or directly related to, 1 or more of the agency's functions or activities.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to-
+*	the Commonwealth Immigration Department (see Commonwealth APP 3, s 3.4 (d) (i)); and
+*	non-profit organisations (see Commonwealth APP 3, s 3.4 (e)).
+Means of collection
+	3.5	A public sector agency must collect personal information only by lawful and fair means.
+	3.6	A public sector agency must collect personal information about an individual only from the individual unless-
+	(a)	either-
+	(i)	the individual consents to the collection of the information from someone other than the individual; or
+	(ii)	the agency is required or authorised by or under an Australian law, or a court or tribunal order, to collect the information from someone other than the individual; or
+	(b)	it is unreasonable or impracticable to do so.
+Note	The equivalent provision in the Commonwealth APPs applies, in part, to certain private sector entities.
+Solicited personal information
+	3.7	TPP 3 applies to the collection of personal information that is solicited by a public sector agency.
+4	TPP 4-dealing with unsolicited personal information
+	4.1	If-
+	(a)	a public sector agency receives personal information; and
+	(b)	the agency did not solicit the information;
+the agency must, within a reasonable period after receiving the information, decide whether or not the agency could have collected the information under TPP 3 if the agency had solicited the information.
+	4.2	The public sector agency may use or disclose the personal information for the purposes of making the decision under TPP 4.1.
+	4.3	If-
+	(a)	the public sector agency decides that the agency could not have collected the personal information; and
+	(b)	the information is not contained in a territory record;
+the agency must, as soon as practicable but only if it is lawful and reasonable to do so, destroy the information or ensure that the information is de-identified.
+	4.4	If TPP 4.3 does not apply in relation to the personal information, TPPs 5 to 13 apply in relation to the information as if the agency had collected the information under TPP 3.
+5	TPP 5-notification of the collection of personal information
+	5.1	At or before the time or, if that is not practicable, as soon as practicable after, a public sector agency collects personal information about an individual, the agency must take reasonable steps-
+	(a)	to notify the individual of the matters mentioned in TPP 5.2 that are reasonable in the circumstances; or
+	(b)	to otherwise ensure that the individual is aware of those matters.
+	5.2	The matters for TPP 5.1 are as follows:
+	(a)	the identity and contact details of the public sector agency;
+	(b)	if-
+	(i)	the public sector agency collects the personal information from someone other than the individual; or
+	(ii)	the individual may not be aware that the public sector agency has collected the personal information;
+the fact that the agency collects, or has collected, the information and the circumstances of that collection;
+	(c)	if the collection of the personal information is required or authorised by or under an Australian law, or a court or tribunal order-the fact that the collection is required or authorised (including the name of the Australian law, or details of the court or tribunal order, that requires or authorises the collection);
+	(d)	the purposes for which the public sector agency collects the personal information;
+	(e)	the main consequences (if any) for the individual if all or some of the personal information is not collected by the public sector agency;
+	(f)	any other public sector agency or entity, or the kinds of any other public sector agencies or entities, to which the public sector agency usually discloses personal information of the kind collected by the agency;
+	(g)	that the TPP privacy policy of the public sector agency contains information about how the individual may access the personal information about the individual that is held by the agency and seek the correction of the information;
+	(h)	that the TPP privacy policy of the public sector agency contains information about how the individual may complain about a breach of the TPPs, or any TPP code that binds the agency, and how the agency will deal with the complaint;
+	(i)	whether the public sector agency is likely to disclose the personal information to overseas recipients;
+	(j)	if the public sector agency is likely to disclose the personal information to overseas recipients-the countries in which the recipients are likely to be located if it is practicable to state those countries in the notification or to otherwise make the individual aware of them.
+
+
+Part 1.3	Dealing with personal information
+6	TPP 6-use or disclosure of personal information
+Use or disclosure
+	6.1	If a public sector agency holds personal information about an individual that was collected for a particular purpose (the primary purpose), the agency must not use or disclose the information for another purpose (the secondary purpose) unless-
+	(a)	the individual has consented to the use or disclosure of the information; or
+	(b)	TPP 6.2 or TPP 6.3 applies in relation to the use or disclosure of the information.
+Note	TPP 8 sets out requirements for the disclosure of personal information to a person who is not in Australia or an external territory.
+	6.2	This subsection applies in relation to the use or disclosure of personal information about an individual if-
+	(a)	the individual would reasonably expect the public sector agency to use or disclose the information for the secondary purpose and the secondary purpose is-
+	(i)	if the information is sensitive information-directly related to the primary purpose; or
+	(ii)	if the information is not sensitive information-related to the primary purpose; or
+	(b)	the use or disclosure of the information is required or authorised by or under an Australian law or a court or tribunal order; or
+	(c)	a permitted general situation exists in relation to the use or disclosure of the information by the public sector agency; or
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 6, s 6.2 (d)).
+	(e)	the public sector agency reasonably believes that the use or disclosure of the information is reasonably necessary for 1 or more enforcement-related activities conducted by, or on behalf of, an enforcement body.
+	6.3	This subsection applies in relation to the disclosure of personal information about an individual by a public sector agency if-
+	(a)	the agency is not an enforcement body; and
+	(b)	the information is biometric information or biometric templates; and
+	(c)	the recipient of the information is an enforcement body; and
+	(d)	the disclosure is conducted in accordance with the guidelines made by the information privacy commissioner for this subsection.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 6, s 6.4).
+Written note of use or disclosure
+	6.5	If a public sector agency uses or discloses personal information in accordance with TPP 6.2 (e), the agency must make a written note of the use or disclosure.
+Related bodies corporate
+	6.6	If-
+	(a)	a public sector agency is a corporation; and
+	(b)	the agency collects personal information from a related body corporate;
+this TPP applies as if the agency's primary purpose for the collection of the information were the primary purpose for which the related body corporate collected the information.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 6, s 6.7).
+7	Direct marketing
+Note 1	The Commonwealth Act includes a privacy principle prohibiting direct marketing by certain private sector entities (see Commonwealth APP 7).
+Note 2	However, Commonwealth APP 7 applies to an act or practice of a public sector agency if the agency engages in commercial activities (see s 23).
+8	TPP 8-cross-border disclosure of personal information
+	8.1	Before a public sector agency discloses personal information about an individual to a person (an overseas recipient)-
+	(a)	who is not in Australia or an external territory; and
+	(b)	who is not the agency or the individual;
+the agency must take reasonable steps to ensure that the overseas recipient does not breach the TPPs (other than TPP 1) in relation to the information.
+Note	In certain circumstances, an act done, or a practice engaged in, by an overseas recipient is taken, under s 22, to have been done, or engaged in, by the public sector agency and to be a breach of the TPPs.
+	8.2	TPP 8.1 does not apply to the disclosure of personal information about an individual by a public sector agency to the overseas recipient if-
+	(a)	the agency reasonably believes that-
+	(i)	the recipient of the information is subject to a law, or binding scheme, that has the effect of protecting the information in a way that, overall, is at least substantially similar to the way in which the TPPs protect the information; and
+	(ii)	there are mechanisms that the individual can access to take action to enforce that protection of the law or binding scheme; or
+	(b)	both of the following apply:
+	(i)	the agency expressly informs the individual that if the individual consents to the disclosure of the information, TPP 8.1 will not apply to the disclosure;
+	(ii)	after being informed, the individual consents to the disclosure; or
+	(c)	the disclosure of the information is required or authorised by or under an Australian law, or a court or tribunal order; or
+	(d)	a permitted general situation (other than the situation mentioned in section 19 (1) (d) or (e)) exists in relation to the disclosure of the information by the agency; or
+	(e)	the disclosure of the information is required or authorised by or under an international agreement relating to information sharing to which Australia or the Territory is a party; or
+	(f)	both of the following apply:
+	(i)	the agency reasonably believes that the disclosure of the information is reasonably necessary for 1 or more enforcement-related activities conducted by, or on behalf of, an enforcement body;
+	(ii)	the recipient is a body that exercises functions that are similar to those exercised by an enforcement body.
+9	Adoption, use or disclosure of government-related identifiers
+Note 1	The Commonwealth Act includes a privacy principle regulating the adoption, use or disclosure of government-related identifiers by certain private sector entities (see Commonwealth APP 9).
+Note 2	However, Commonwealth APP 9 applies to an act or practice of a public sector agency if the agency engages in commercial activities (see s 23).
+
+
+Part 1.4	Integrity of personal information
+10	TPP 10-quality of personal information
+	10.1	A public sector agency must take reasonable steps to ensure that the personal information that the agency collects is accurate, up-to-date and complete.
+	10.2	A public sector agency must take reasonable steps to ensure that the personal information that the agency uses or discloses is, having regard to the purpose of the use or disclosure, accurate, up-to-date, complete and relevant.
+11	TPP 11-security of personal information
+	11.1	If a public sector agency holds personal information, the agency must take reasonable steps to protect the information-
+	(a)	from misuse, interference or loss; and
+	(b)	from unauthorised access, modification or disclosure.
+	11.2	If-
+	(a)	a public sector agency holds personal information about an individual; and
+	(b)	the agency no longer needs the information for a purpose for which the information may be used or disclosed by the agency under the TPPs; and
+	(c)	the information is not contained in a territory record; and
+	(d)	the agency is not required by or under an Australian law, or a court or tribunal order, to retain the information;
+the agency must take reasonable steps to destroy the information or to ensure that the information is de-identified.
+
+
+Part 1.5	Access to, and correction of, personal information
+12	TPP 12-access to personal information
+Access
+	12.1	If a public sector agency holds personal information about an individual, the agency must, on request by the individual, give the individual access to the information.
+Exception to access-agency
+	12.2	If the public sector agency is required or authorised to refuse to give the individual access to the personal information by or under-
+	(a)	the Freedom of Information Act 2016; or
+	(b)	another law in force in the ACT that provides for access by people to documents;
+then, despite TPP 12.1, the agency is not required to give access to the extent that the agency is required or authorised to refuse to give access.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 12, s 12.3).
+Dealing with requests for access
+	12.4	The public sector agency must-
+	(a)	respond to the request for access to the personal information within 30 days after the day the request is made; and
+	(b)	give access to the information in the way requested by the individual, if it is reasonable and practicable to do so.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 12, s 12.4 (a) (ii)).
+Other means of access
+	12.5	If the public sector agency refuses-
+	(a)	to give access to the personal information because of TPP 12.2; or
+	(b)	to give access in the way requested by the individual;
+the agency must take reasonable steps to give access in a way that meets the needs of the agency and the individual.
+	12.6	Without limiting TPP 12.5, access may be given through the use of a mutually agreed intermediary.
+Access charges
+	12.7	The public sector agency must not charge the individual for the making of the request or for giving access to the personal information.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 12, s 12.8).
+Refusal to give access
+	12.9	If the public sector agency refuses to give access to the personal information because of TPP 12.2, or to give access in the way requested by the individual, the agency must give the individual a written notice that sets out-
+	(a)	the reasons for the refusal except to the extent that, having regard to the grounds for the refusal, it would be unreasonable to do so; and
+	(b)	the mechanisms available to complain about the refusal; and
+	(c)	any other matter prescribed by regulation.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 12, s 12.10).
+13	TPP 13-correction of personal information
+Correction
+	13.1	If-
+	(a)	a public sector agency holds personal information about an individual; and
+	(b)	either-
+	(i)	the agency is satisfied that, having regard to a purpose for which the information is held, the information is inaccurate, out-of-date, incomplete, irrelevant or misleading; or
+	(ii)	the individual requests the agency to correct the information;
+the agency must take reasonable steps to correct the information to ensure that, having regard to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading.
+Notification of correction to third parties
+	13.2	If-
+	(a)	the public sector agency corrects personal information about an individual that the agency previously disclosed to another public sector agency; and
+	(b)	the individual requests the agency to notify the other public sector agency of the correction;
+the agency must take reasonable steps to give the notification unless it is impracticable or unlawful to do so.
+Refusal to correct information
+	13.3	If the public sector agency refuses to correct the personal information as requested by the individual, the agency must give the individual a written notice that sets out-
+	(a)	the reasons for the refusal except to the extent that it would be unreasonable to do so; and
+	(b)	the mechanisms available to complain about the refusal; and
+	(c)	any other matter prescribed by regulation.
+Request to associate a statement
+	13.4	If-
+	(a)	the public sector agency refuses to correct the personal information as requested by the individual; and
+	(b)	the individual requests the agency to associate with the information a statement that the information is inaccurate, out-of-date, incomplete, irrelevant or misleading;
+the agency must take reasonable steps to associate the statement in a way that will make the statement apparent to users of the information.
+Dealing with requests
+	13.5	If a request is made under TPP 13.1 or TPP 13.4, the public sector agency-
+	(a)	must respond to the request within 30 days after the day the request is made; and
+	(b)	must not charge the individual for the making of the request, for correcting the personal information or for associating the statement with the personal information.
+Note	The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 13, s 13.5 (a) (ii)).
+
+
+
+Dictionary
+(see s 3)
+Note 1	The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2	For example, the Legislation Act, dict, pt 1, defines the following terms:
+*	ACT
+*	administrative unit
+*	Coroner's Court
+*	corporation
+*	Corporations Act
+*	document
+*	DPP
+*	exercise (a function)
+*	external territory
+*	function
+*	human rights commission
+*	individual
+*	integrity commission
+*	judge
+*	magistrate
+*	Magistrates Court
+*	Minister (see s 162)
+*	Office of the Legislative Assembly
+*	officer of the Assembly
+*	State
+*	statutory office-holder
+*	Supreme Court
+*	territory authority
+*	territory instrumentality
+*	tribunal
+*	working day.
+act-see section 10.
+ACT court-
+	(a)	means the Supreme Court, Magistrates Court, Coroner's Court or a tribunal; and
+	(b)	includes a judge, magistrate, tribunal member and any other person exercising a function of the court or tribunal in relation to the hearing or determination of a matter before it. 
+Australian law, for schedule 1 (Territory privacy principles)-see section 14.
+breach, a TPP-see section 12.
+collects, personal information, for schedule 1 (Territory privacy principles)-see section 15.
+Commonwealth Act means the Privacy Act 1988 (Cwlth).
+Commonwealth APPs means the Australian privacy principles set out in the Commonwealth Act, schedule 1.
+complainant, in relation to a privacy complaint-see section 33.
+conciliation, of a privacy complaint, for division 6.3A (Conciliation of privacy complaints)-see section 44A.
+conciliation agreement, for division 6.3A (Conciliation of privacy complaints)-see section 44F (1).
+consent means express or implied consent.
+contracted service provider-
+	(a)	means a person engaged under a government contract to provide services to the Territory or a public sector agency; and
+	(b)	includes a subcontractor in relation to the contract.
+court or tribunal order, for schedule 1 (Territory privacy principles)-see section 14.
+de-identified, personal information, for schedule 1 (Territory privacy principles)-see section 18.
+doing, an act-see section 10 (2).
+enforcement body, for schedule 1 (Territory privacy principles)-see section 14.
+enforcement-related activity, for schedule 1 (Territory privacy principles)-see section 14.
+generally available publication means a magazine, book, article, newspaper or other publication that is, or will be, generally available to members of the public-
+	(a)	whether or not it is published in print, electronically or in any other form; and
+	(b)	whether or not it is available on the payment of a fee.
+government contract means a contract, to which the Territory or a public sector agency is a party, under which services are to be provided to-
+	(a)	the Territory or agency; or
+	(b)	another entity in relation to the exercise of the agency's functions.
+holds, personal information, for schedule 1 (Territory privacy principles)-see section 16.
+information privacy commissioner means-
+	(a)	the Information Privacy Commissioner appointed under section 26; or 
+	(b)	if an appointment is not made under section 26, the person exercising 1 or more functions under an arrangement mentioned in section 28.
+interference, with an individual's privacy-see section 11.
+misconduct, of a person includes fraud, negligence, default, breach of trust, breach of duty, breach of discipline by or any other misconduct of the person in the exercise of the person's functions as a public official.
+overseas recipient, in relation to personal information-see TPP 8.1.
+parties, to the conciliation of a privacy complaint, for division 6.3A (Conciliation of privacy complaints)-see section 44A.
+permitted general situation, in relation to the collection, use or disclosure of personal information, for schedule 1 (Territory privacy principles)-see section 19.
+personal information-see section 8.
+practice-see section 10.
+privacy complaint-see section 33.
+public sector agency-see section 9.
+record-
+	(a)	includes-
+	(i)	a document; or
+	(ii)	an electronic or other device; and
+	(b)	does not include-
+	(i)	a generally available publication; or
+	(ii)	anything kept in a library, art gallery or museum for the purposes of reference, study or exhibition; or
+	(iii)	a record open to public access under the Territory Records Act 2002, part 3; or
+	(iv)	a letter or other item in the course of being sent by post.
+Note	Document-see the Legislation Act, dictionary, pt 1.
+related body corporate, for schedule 1 (Territory privacy principles)-see the Corporations Act, section 9.
+respondent, in relation to a privacy complaint-see section 33.
+sensitive information, for schedule 1 (Territory privacy principles)-see section 14.
+solicits, personal information, for schedule 1 (Territory privacy principles)-see section 17.
+subcontractor, in relation to a government contract-see section 21 (4) (Privacy protection requirements for government contracts).
+territory record, for schedule 1 (Territory privacy principles)-see the Territory Records Act 2002, section 9 (3).
+TPP code-see section 49.
+TPP privacy policy, for schedule 1 (Territory privacy principles)-see TPP 1.3.
+TPPs-see section 13 (Territory privacy principles).
+
+Endnotes
+1	About the endnotes
+Amending and modifying laws are annotated in the legislation history and the amendment history.  Current modifications are not included in the republished law but are set out in the endnotes.
+Not all editorial amendments made under the Legislation Act 2001, part 11.3 are annotated in the amendment history.  Full details of any amendments can be obtained from the Parliamentary Counsel's Office.
+Uncommenced amending laws are not included in the republished law.  The details of these laws are underlined in the legislation history.  Uncommenced expiries are underlined in the legislation history and amendment history.
+If all the provisions of the law have been renumbered, a table of renumbered provisions gives details of previous and current numbering.  
+The endnotes also include a table of earlier republications.
+2	Abbreviation key
+
+A = Act
+NI = Notifiable instrument
+AF = Approved form
+o = order
+am = amended
+om = omitted/repealed
+amdt = amendment
+ord = ordinance
+AR = Assembly resolution
+orig = original
+ch = chapter
+par = paragraph/subparagraph
+CN = Commencement notice
+pres = present
+def = definition
+prev = previous
+DI = Disallowable instrument
+(prev...) = previously
+dict = dictionary
+pt = part
+disallowed = disallowed by the Legislative 
+r = rule/subrule
+Assembly
+reloc = relocated
+div = division
+renum = renumbered
+exp = expires/expired
+R[X] = Republication No
+Gaz = gazette
+RI = reissue
+hdg = heading
+s = section/subsection
+IA = Interpretation Act 1967
+sch = schedule
+ins = inserted/added
+sdiv = subdivision
+LA = Legislation Act 2001
+SL = Subordinate law
+LR = legislation register
+sub = substituted
+LRA = Legislation (Republication) Act 1996
+underlining = whole or part not commenced
+mod = modified/modification
+or to be expired
+
+
+
+3	Legislation history
+Information Privacy Act 2014 A2014-24
+notified LR 11 June 2014
+s 1, s 2 commenced 11 June 2014 (LA s 75 (1))
+remainder commenced 1 September 2014 (s 2 and CN2014-10)
+as amended by
+Justice and Community Safety Legislation Amendment Act 2014 (No 2) A2014-49 sch 1 pt 1.10
+notified LR 10 November 2014
+s 1, s 2 commenced 10 November 2014 (LA s 75 (1))
+sch 1 pt 1.10 commenced 17 November 2014 (s 2)
+Judicial Commissions Amendment Act 2015 A2015-1 sch 1 pt 1.4 (as am by A2015-52 s 28)
+notified LR 25 February 2015
+s 1, s 2 commenced 25 February 2015 (LA s 75 (1))
+sch 1 pt 1.4 commenced 1 February 2017 (s 2 (as am by A2015-52 s 28))
+Statute Law Amendment Act 2015 A2015-15 sch 3 pt 3.8
+notified LR 27 May 2015
+s 1, s 2 commenced 27 May 2015 (LA s 75 (1))
+sch 3 pt 3.8 commenced 10 June 2015 (s 2)
+Courts Legislation Amendment Act 2015 (No 2) A2015-52 pt 10
+notified LR 26 November 2015
+s 1, s 2 commenced 26 November 2015 (LA s 75 (1))
+pt 10 (s 28) commenced 10 December 2015 (s 2 (2))
+Note	Pt 10 (s 28) only amends the Judicial Commissions Amendment Act 2015 A2015-1
+Freedom of Information Act 2016 A2016-55 sch 4 pt 4.18 (as am by A2017-14 s 19)
+notified LR 26 August 2016
+s 1, s 2 commenced 26 August 2016 (LA s 75 (1))
+sch 4 pt 4.18 commenced 1 January 2018 (s 2 as am by A2017-14 s 19)
+Justice and Community Safety Legislation Amendment Act 2017 A2017-5 sch 1 pt 1.6
+notified LR 23 February 2017
+s 1, s 2 commenced 23 February 2017 (LA s 75 (1))
+sch 1 pt 1.6 commenced 2 March 2017 (s 2 (3))
+Justice and Community Safety Legislation Amendment Act 2017 (No 2) A2017-14 s 19
+notified LR 17 May 2017
+s 1, s 2 commenced 17 May 2017 (LA s 75 (1))
+s 19 commenced 24 May 2017 (s 2 (1))
+Note	This Act only amends the Freedom of Information Act 2016 A2016-55.
+Integrity Commission Act 2018 A2018-52 sch 1 pt 1.13 (as am by A2019-18 s 4)
+notified LR 11 December 2018
+s 1, s 2 commenced 11 December 2018 (LA s 75 (1))
+sch 1 pt 1.13 commenced 1 July 2019 (s 2 (1) as am by A2019-18 s 4)
+Integrity Commission Amendment Act 2019 A2019-18 s 4
+notified LR 14 June 2019
+s 1, s 2 commenced 14 June 2019 (LA s 75 (1))
+s 4 commenced 1 July 2019 (s 2 (1))
+Note	This Act only amends the Integrity Commission Act 2018 A2018-52.
+Statute Law Amendment Act 2021 A2021-12 sch 3 pt 3.26
+notified LR 9 June 2021
+s 1, s 2 commenced 9 June 2021 (LA s 75 (1))
+sch 3 pt 3.26 commenced 23 June 2021 (s 2 (1))
+Crimes Legislation Amendment Act 2024 (No 2) A2024-16
+sch 1 pt 1.1
+notified LR 19 April 2024
+s 1, s 2 commenced 19 April 2024 (LA s 75 (1))
+sch 1 pt 1.1 commenced 26 April 2024 (s 2)
+Justice and Community Safety Legislation Amendment Act 2025 (No 3) A2025-22 pt 6
+notified LR 12 September 2025
+s 1, s 2 commenced 12 September 2025 (LA s 75 (1))
+pt 6 commenced 13 September 2025 (s 2 (1))
+
+
+4	Amendment history
+Commencement
+s 2	om LA s 89 (4)
+Relationship with other laws
+s 6	am A2016-55 amdt 4.22
+Meaning of public sector agency
+s 9	am A2014-49 amdt 1.20
+Definitions-sch 1
+s 14	def enforcement body am A2018-52 amdt 1.82; pars renum R9 LA
+	def enforcement-related activity am A2018-52 amdt 1.83; pars renum R9 LA
+Privacy protection requirements for government contracts
+s 21	am A2017-5 amdt 1.13, amdt 1.14
+Commonwealth APPs apply to certain public sector agencies engaged in commercial activities
+s 23	am A2016-55 amdt 4.23
+Exempt public sector agencies
+s 24	am A2014-49 amdt 1.21; pars renum R2 LA; A2015-15 amdt 3.41; A2015-1 amdt 1.4; pars renum R5 LA
+Exempt acts or practices
+s 25	am A2014-49 amdt 1.22; A2016-55 amdts 4.24-4.26;
+A2021-12 amdt 3.61, amdt 3.62; A2024-16 amdt 1.1
+Dealing with privacy complaints
+s 40	am A2025-22 s 17
+Commissioner may conciliate privacy complaint
+s 41A	ins A2025-22 s 18
+Conciliation of privacy complaints
+div 6.3A hdg	ins A2025-22 s 19
+Definitions-div 6.3A
+s 44A	ins A2025-22 s 19
+	def conciliation ins A2025-22 s 19
+	def conciliation agreement ins A2025-22 s 19
+	def parties ins A2025-22 s 19
+Parties must attend conciliation
+s 44B	ins A2025-22 s 19
+Attendance at conciliation-people other than parties
+s 44C	ins A2025-22 s 19
+Conduct of conciliation
+s 44D	ins A2025-22 s 19
+Conciliated agreements
+s 44E	ins A2025-22 s 19
+Use of conciliation agreement by commissioner
+s 44F	ins A2025-22 s 19
+End of conciliation
+s 44G	ins A2025-22 s 19
+Admissibility of evidence
+s 44H	ins A2025-22 s 19
+Conciliation attendees protected from civil liability
+s 44I	ins A2025-22 s 19
+Commissioner must tell parties application may be made to court
+s 45	sub A2025-22 s 20
+Access to, and correction of, personal information
+sch 1 pt 1.5	am A2014-49 amdt 1.23, amdt 1.24; A2016-55 amdt 4.27
+Dictionary
+dict	am A2014-49 amdt 1.25; A2018-52 amdt 1.84
+	def conciliation ins A2025-22 s 21
+	def conciliation agreement ins A2025-22 s 21
+	def parties ins A2025-22 s 21
+
+
+5	Earlier republications
+Some earlier republications were not numbered. The number in column 1 refers to the publication order.
+Since 12 September 2001 every authorised republication has been published in electronic pdf format on the ACT legislation register.  A selection of authorised republications have also been published in printed format. These republications are marked with an asterisk (*) in column 1.  Electronic and printed versions of an authorised republication are identical.
+
+Republication No and date
+Effective
+Last amendment made by
+Republication for
+R1
+1 Sept 2014
+1 Sept 2014-
+16 Nov 2014
+not amended
+new Act
+R2
+17 Nov 2014
+17 Nov 2014-
+9 June 2015
+A2014-49
+amendments by A2014-49
+R3
+10 June 2015
+10 June 2015-
+9 Dec 2015
+A2015-15
+amendments by A2015-15
+R4
+10 Dec 2015
+10 Dec 2015-
+31 Jan 2017
+A2015-15
+updated endnotes as amended by A2015-52
+R5
+1 Feb 2017
+1 Feb 2017-
+1 Mar 2017
+A2015-52
+amendments by A2015-1 as amended by A2015-52
+R6
+2 Mar 2017
+2 Mar 2017-
+23 May 2017
+A2017-5
+amendments by A2017-5
+R7
+24 May 2017
+24 May 2017-
+31 Dec 2017
+A2017-14
+updated endnotes
+as amended by A2017-14
+R8
+1 Jan 2018
+1 Jan 2018-
+30 June 2019
+A2017-14
+amendments by A2016-55
+as amended by A2017-14
+R9
+1 July 2019
+1 July 2019-
+22 June 2021
+A2019-18
+amendments by A2018-52 and A2019-18
+R10
+23 June 2021
+23 June 2021-
+25 April 2024
+A2021-12
+amendments by A2021-12
+R11
+26 Apr 2024
+26 Apr 2024-
+12 Sept 2025
+A2024-16
+amendments by A2024-16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c)  Australian Capital Territory 2025
+
+
+
+
+
+
+Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+
+Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+
+Contents
+	Page
+
+
+
+Contents
+	Page
+
+
+contents 4
+Information Privacy Act 2014
+Effective:  13/09/25 
+R12
+13/09/25
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+contents 3
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+contents 1
+Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+Part 8
+Miscellaneous
+
+
+Section 55
+
+
+Miscellaneous
+Part 8
+
+
+Section 57
+
+
+
+page 62
+Information Privacy Act 2014
+Effective:  13/09/25 
+R12
+13/09/25
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+page 63
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+page 1
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+Schedule 1
+Territory privacy principles
+
+
+
+
+
+
+
+Miscellaneous
+Part 8
+
+
+
+
+page 8
+Information Privacy Act 2014
+Effective:  13/09/25 
+R12
+13/09/25
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+page 7
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+Schedule 1
+Territory privacy principles
+Part 1.5
+Access to, and correction of, personal information
+Section 13
+
+
+Territory privacy principles
+Schedule 1
+Access to, and correction of, personal information
+Part 1.5
+Section 13
+
+
+
+page 8
+Information Privacy Act 2014
+Effective:  13/09/25 
+R12
+13/09/25
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+page 7
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+
+Dictionary
+
+
+
+
+Dictionary
+
+
+
+page 160
+Information Privacy Act 2014
+Effective:  13/09/25 
+R12
+13/09/25
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+page 161
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+Endnotes
+
+
+5
+Earlier republications
+
+
+
+Endnotes
+
+Earlier republications
+5
+
+
+
+page 164
+Information Privacy Act 2014
+Effective:  13/09/25 
+R12
+13/09/25
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+R12
+13/09/25
+Information Privacy Act 2014
+Effective:  13/09/25 
+page 163
+ Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+
+
+
+Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+
+Unauthorised version prepared by ACT Parliamentary Counsel's Office
+
+
+
+
+
+
+
+
+

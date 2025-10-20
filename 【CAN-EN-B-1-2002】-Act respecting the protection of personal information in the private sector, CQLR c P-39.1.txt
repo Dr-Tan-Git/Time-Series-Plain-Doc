@@ -1,0 +1,537 @@
+Updated to 1 November 2002
+
+	Chapter P-39.1
+
+
+An Act respecting the protection of personal information in the private sector
+ 
+	DIVISION I
+
+APPLICATION AND INTERPRETATION
+ 
+Object. 	1.  The object of this Act is to establish, for the exercise of the rights conferred by articles 35 to 40 of the Civil Code of Qu bec concerning the protection of personal information, particular rules with respect to personal information relating to other persons which a person collects, holds, uses or communicates to third persons in the course of carrying on an enterprise within the meaning of article 1525 of the Civil Code of Qu bec. 
+Applicability. 	  The Act applies to such information whatever the nature of its medium and whatever the form in which it is accessible, whether written, graphic, taped, filmed, computerized, or other. 
+Exception. 	  This Act does not apply to journalistic, historical or genealogical material collected, held, used or communicated for the legitimate information of the public. 
+	1993, c. 17, s. 1; 2002, c. 19, s. 19.
+ 
+Personal information. 	2.  Personal information is any information which relates to a natural person and allows that person to be identified. 
+	1993, c. 17, s. 2.
+ 
+Applicability. 	3.  This Act does not apply to a public body within the meaning of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1) or to information held on behalf of a public body by a person other than a public body. 
+	1993, c. 17, s. 3.
+ 
+	DIVISION II
+
+COLLECTION OF PERSONAL INFORMATION
+ 
+Object of file. 	4.  Any person carrying on an enterprise who may, for a serious and legitimate reason, establish a file on another person must, when establishing the file, enter its object. 
+Entry. 	  The entry is part of the file. 
+	1993, c. 17, s. 4; 1999, c. 40, s. 233.
+ 
+Necessary information. 	5.  Any person collecting personal information to establish a file on another person or to record personal information in such a file may collect only the information necessary for the object of the file. 
+Lawful means. 	  Such information must be collected by lawful means. 
+	1993, c. 17, s. 5.
+ 
+Source of information. 	6.  Any person collecting personal information relating to another person may collect such information only from the person concerned, unless the latter consents to collection from third persons. 
+Information from third person. 	  However, he may, without the consent of the person concerned, collect such information from a third person if the law so authorizes. 
+Conditions. 	  He may also do so if he has a serious and legitimate reason and either of the following conditions is fulfilled: 
+	  1)    the information is collected in the interest of the person concerned and cannot be collected from him in due time; 
+	  2)    collection from a third person is necessary to ensure the accuracy of the information. 
+	1993, c. 17, s. 6.
+ 
+Source of information. 	7.  Any person establishing a file on another person or recording personal information in such a file must make an entry indicating the source of any personal information collected from a third person when the third person is a person carrying on an enterprise. 
+Entry. 	  The entry is part of the file of the person concerned. 
+Applicability. 	  This section does not apply to a file established for the purposes of an inquiry to prevent, detect or repress a crime or statutory offence. 
+	1993, c. 17, s. 7; 1999, c. 40, s. 233.
+ 
+Obligation to inform. 	8.  A person who collects personal information from the person concerned must, when establishing a file on that person, inform him 
+	  1)    of the object of the file; 
+	  2)    of the use which will be made of the information and the categories of persons who will have access to it within the enterprise; 
+	  3)    of the place where the file will be kept and of the rights of access and rectification. 
+	1993, c. 17, s. 8.
+ 
+Goods and services. 	9.  No person may refuse to respond to a request for goods or services or to a request relating to employment by reason of the applicant's refusal to disclose personal information except where 
+	  1)    collection of that information is necessary for the conclusion or performance of a contract; 
+	  2)    collection of that information is authorized by law; or 
+	  3)    there are reasonable grounds to believe that the request is not lawful. 
+Doubt. 	  In case of doubt, personal information is deemed to be non-necessary. 
+	1993, c. 17, s. 9; 1999, c. 40, s. 233.
+ 
+	DIVISION III
+
+CONFIDENTIALITY OF PERSONAL INFORMATION
+ 
+	  1. — Retention, use and non-communication of information
+ 
+Safety measures. 	10.  Every person carrying on an enterprise who collects, holds, uses or communicates personal information about other persons must establish and apply such safety measures as are appropriate to ensure the confidentiality of the information. 
+	1993, c. 17, s. 10.
+ 
+Accuracy of file. 	11.  Every person carrying on an enterprise must ensure that any file held on another person is up to date and accurate when used to make a decision in relation to the person concerned. 
+	1993, c. 17, s. 11.
+ 
+Use of file. 	12.  Once the object of a file has been achieved, no information contained in it may be used otherwise than with the consent of the person concerned, subject to the time limit prescribed by law or by a retention schedule established by government regulation. 
+	1993, c. 17, s. 12.
+ 
+Consent. 	13.  No person may communicate to a third person the personal information contained in a file he holds on another person, or use it for purposes not relevant to the object of the file, unless the person concerned consents thereto or such communication or use is provided for by this Act. 
+	1993, c. 17, s. 13.
+ 
+Validity of consent. 	14.  Consent to the communication or use of personal information must be manifest, free, and enlightened, and must be given for specific purposes. Such consent is valid only for the length of time needed to achieve the purposes for which it was requested. 
+Validity of consent. 	  Consent given otherwise than in accordance with the first paragraph is without effect. 
+	1993, c. 17, s. 14.
+ 
+Communication of consent. 	15.  Consent to the communication of personal information by a third person may be given by the person concerned to the person who collects the information from the third person. 
+	1993, c. 17, s. 15.
+ 
+Access to information. 	16.  Any person holding personal information on behalf of a person carrying on an enterprise may refer to the latter every request for access or rectification received from a person to whom such information relates. 
+Access to information. 	  Nothing in this section limits a person's right to obtain, from a personal information agent, access to, or rectification of, personal information concerning him held by that agent. 
+	1993, c. 17, s. 16.
+ 
+Information outside Qu bec. 	17.  Every person carrying on an enterprise in Qu bec who communicates, outside Qu bec, information relating to persons residing in Qu bec or entrusts a person outside Qu bec with the task of holding, using or communicating such information on his behalf must take all reasonable steps to ensure 
+	  1)    that the information will not be used for purposes not relevant to the object of the file or communicated to third persons without the consent of the persons concerned, except in cases similar to those described in sections 18 and 23; 
+	  2)    in the case of nominative lists, that the persons concerned have a valid opportunity to refuse that personal information concerning them be used for purposes of commercial or philanthropic prospection and, if need be, to have such information deleted from the list. 
+	1993, c. 17, s. 17.
+ 
+	  2. — Communication to third persons
+ 
+Communication of information. 	18.  A person carrying on an enterprise may, without the consent of the person concerned, communicate personal information contained in a file he holds on that person 
+	  1)    to his attorney; 
+	  2)    to the Attorney General if the information is required for the purposes of the prosecution of an offence under an Act applicable in Qu bec; 
+	  3)    to a person responsible, by law, for the prevention, detection or repression of crime or statutory offences who requires it in the performance of his duties, if the information is needed for the prosecution of an offence under an Act applicable in Qu bec; 
+	  4)    to a person to whom it is necessary to communicate the information under the law or a collective agreement, who requires it in the performance of his duties; 
+	  5)    to a public body within the meaning of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1) which, through a representative, collects such information in the exercise of its functions or the implementation of a program under its management; 
+	  6)    to a person or body having the power to compel communication of the information if he or it requires it in the exercise of his or its duties or functions; 
+	  7)    to a person to whom the information must be communicated by reason of the urgency of a situation that threatens the life, health or safety of the person concerned; 
+	  8)    to a person who is authorized to use the information for study, research or statistical purposes in accordance with section 21 or a person authorized pursuant to section 21.1; 
+	  9)    to a person who is authorized by law to recover debts on behalf of others and who requires it in the performance of his duties; 
+	  10)    to a person in accordance with section 22, in the case of a nominative list. 
+Communications. 	  A person carrying on an enterprise must make an entry of every communication made under subparagraphs 6 to 10 of the first paragraph. The entry is part of the file. 
+Necessary communication. 	  The persons referred to in subparagraphs 1 and 9 of the first paragraph who receive communication of information may communicate the information to the extent that such communication is necessary, in the performance of their duties, to achieve the purposes for which they received communication of the information. 
+Detective agencies. 	  A detective or security agency holding a permit issued under the Act respecting detective or security agencies (chapter A-8), or a body having as its object the prevention, detection or repression of crime or statutory offences and a person carrying on an enterprise may, without the consent of the person concerned, communicate among themselves the information needed for conducting an inquiry for the purpose of preventing, detecting or repressing a crime or a statutory offence. The same applies in respect of information communicated among persons carrying on an enterprise, if the person who communicates or collects such information has reasonable grounds to believe that the person concerned has committed, or is about to commit, a crime or statutory offence against one or other of the persons carrying on an enterprise. 
+	1993, c. 17, s. 18; 1999, c. 40, s. 233; 2001, c. 73, s. 1.
+ 
+Consent not required. 	18.1.   In addition to the cases referred to in section 18, a person who carries on an enterprise may also communicate personal information included in a file the person holds on another person, without the consent of the persons concerned, in order to prevent an act of violence, including a suicide, where there is reasonable cause to believe that there is an imminent danger of death or serious bodily injury to a person or an identifiable group of persons. 
+Communication. 	  The information may in such case be communicated to any person exposed to the danger or that person's representative, and to any person who can come to that person's aid. 
+Restriction. 	  A person carrying on an enterprise who communicates information pursuant to this section may only communicate such information as is necessary to achieve the purposes for which the information is communicated. 
+Entry. 	  Where information is so communicated by a person carrying on an enterprise, the person must make an entry of the communication. That entry is part of the file. 
+	2001, c. 78, s. 13.
+ 
+Personal information. 	18.2.  A person carrying on an enterprise may, without the consent of the person concerned, communicate personal information contained in a file concerning another person to an archival agency if the archival agency is a person carrying on an enterprise whose object is the acquisition, preservation and distribution of documents for their general informational value and if the information is communicated as part of the transfer or deposit of the archives of the enterprise. 
+Personal information. 	  A person carrying on an enterprise may also communicate personal information to any person without the consent of the person concerned if the document containing the information is more than 100 years old or if more than 30 years have elapsed since the death of the person concerned. However, no information relating to a person's health may be communicated without the consent of the person concerned unless 100 years have elapsed since the date of the document. 
+Personal information. 	  Notwithstanding the first and second paragraphs, the information may be communicated for research purposes, without the consent of the person concerned, before the time specified has elapsed if the documents containing the information are not structured so as to allow retrieval by reference to a person's name or identifying code or symbol and the information cannot be retrieved by means of such a reference. The person to whom the information is communicated must preserve the confidentiality of the personal information throughout the period during which it may not be communicated without the consent of the person concerned. 
+	2002, c. 19, s. 20.
+ 
+Access to credit reports. 	19.  Every person carrying on an enterprise having as its object the lending of money, who consults credit reports or recommendations as to the solvency of natural persons prepared by a personal information agent, must inform such persons of their right of access and rectification in relation to the file held by the agent and indicate to them the manner in which and the place where they may have access to the reports or recommendations and cause them to be rectified, where necessary. 
+Request for access. 	  The person carrying on such an enterprise must communicate to a natural person, on request, the content of any credit report or recommendation he has consulted for the purpose of making a decision concerning the person. 
+	1993, c. 17, s. 19.
+ 
+Information within enterprise. 	20.  In the carrying on of an enterprise, authorized employees, mandataries or agents may have access to personal information without the consent of the person concerned only if the information is needed for the performance of their duties or the execution of their mandates. 
+	1993, c. 17, s. 20.
+ 
+Research purposes. 	21.  The Commission d'acc s   l'information, established by section 103 of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1) may, on written request, grant a person authorization to receive communication of personal information for study, research or statistical purposes, without the consent of the persons concerned, if it is of the opinion that 
+	  1)    the intended use is not frivolous and the ends contemplated cannot be achieved unless the information is communicated in a form allowing the persons to be identified; 
+	  2)    the information will be used in a manner that will ensure its confidentiality. 
+Authorization to receive information. 	  Such authorization is granted for the period and on the conditions fixed by the Commission. It may be revoked before the expiry of the period for which it is granted if the Commission has reasons to believe that the person authorized does not respect the confidentiality of the information communicated to him or does not respect the other conditions. 
+	1993, c. 17, s. 21.
+ 
+Information on professionals. 	21.1.  The Commission d'acc s   l'information may, on written request and after consulting the professional orders concerned, grant a person authorization to receive communication of personal information on professionals regarding their professional activities, without the consent of the professionals concerned, if it has reasonable cause to believe 
+	  1)    that the communication protects professional secrecy, especially in that it does not allow the identification of the person to whom the professional service is rendered, and does not otherwise invade the privacy of the professionals concerned ; 
+	  2)    that the professionals concerned will be notified periodically of the intended uses and the ends contemplated and will be given a valid opportunity to refuse to allow such information to be preserved or to allow such information to be used for the intended uses or the ends contemplated ; and 
+	  3)    that security measures have been put into place to ensure the confidentiality of personal information. 
+Authorization. 	  Such authorization shall be granted in writing. It may be revoked or suspended if the Commission has reasonable cause to believe that the authorized person is not complying with the prescriptions of this section, the intended uses or the ends contemplated. 
+Restriction. 	  The authorized person may communicate such personal information if 
+	  1)    the information is communicated in a combined form that does not allow the identification of a specific professional act performed by a professional ; 
+	  2)    the professionals concerned are periodically given a valid opportunity to refuse to be the subject of such a communication of information ; and 
+	  3)    the person receiving communication of such information undertakes to use the information only for the intended uses and the ends contemplated. 
+Report. 	  The authorized person shall report annually to the Commission on the implementation of the authorization. The Commission shall publish a list of the persons authorized under this section in its annual report of activities. 
+Appeal. 	  Any interested person may, on any question of law or jurisdiction, appeal to a judge of the Court of Qu bec from the granting, refusal, suspension or revocation of an authorization in accordance with Division II of Chapter V of the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1). 
+	2001, c. 73, s. 2.
+ 
+Nominative list. 	22.  A person carrying on an enterprise may, without the consent of the persons concerned, communicate a nominative list or any information used to establish such a list to a third person, if 
+	  1)    the communication is made pursuant to a contract that includes a stipulation prohibiting the third person from using or communicating the list or the information for purposes other than commercial or philanthropic prospection; 
+	  2)    prior to the communication, in cases where the list is a nominative list of the person's clients, members or employees, the persons concerned are given a valid opportunity to refuse that the information be used by a third person for purposes of commercial or philanthropic prospection; and 
+	  3)    the communication does not infringe upon the privacy of the persons concerned. 
+Definition. 	  A nominative list is a list of the names, addresses or telephone numbers of natural persons. 
+	1993, c. 17, s. 22.
+ 
+Use of nominative list. 	23.  A person carrying on an enterprise may, without the consent of the persons concerned, use, for purposes of commercial or philanthropic prospection, a nominative list of his clients, members or employees. 
+Opportunity of refusal. 	  Every person using such a list for such purposes must grant the persons concerned a valid opportunity to refuse that the information concerning them be used for such purposes. 
+	1993, c. 17, s. 23.
+ 
+Commercial prospection. 	24.  Every person who, on the basis of a nominative list, engages in commercial or philanthropic prospection through postal or telecommunications channels, must identify himself and inform the person to whom he is addressing himself of the latter's right to have the personal information concerning him deleted from the list that he holds. 
+	1993, c. 17, s. 24.
+ 
+Deletion of information. 	25.  Any person wishing to have personal information concerning him deleted from a nominative list may, at any time, by means of a request made orally or in writing to any person holding or using the list, obtain that the information be deleted. 
+	1993, c. 17, s. 25.
+ 
+Requirement to delete. 	26.  On receiving a request under section 25, the person who holds or, as the case may be, uses the nominative list must, with diligence, delete from the list any information relating to the person concerned. 
+	1993, c. 17, s. 26.
+ 
+	DIVISION IV
+
+ACCESS BY PERSONS CONCERNED
+ 
+	  1. — General provisions
+ 
+Requirement to communicate information. 	27.  Every person carrying on an enterprise who holds a file on another person must, at the request of the person concerned, confirm the existence of the file and communicate to the person any personal information concerning him. 
+	1993, c. 17, s. 27.
+ 
+Illegal collection of information. 	28.  In addition to the rights provided under the first paragraph of article 40 of the Civil Code of Qu bec, the person concerned is entitled to obtain that any personal information collected otherwise than according to law be deleted. 
+	1993, c. 17, s. 28.
+ 
+Exercise of rights. 	29.  Every person carrying on an enterprise who holds files on other persons must take the necessary steps to ensure the exercise by a person concerned of the rights provided under articles 37 to 40 of the Civil Code of Qu bec and the rights conferred by this Act. In particular, he must inform the public of the place where, and manner in which, access to the files may be granted. 
+	1993, c. 17, s. 29.
+ 
+Requests for access. 	30.  No request for access or rectification may be considered unless it is made in writing by a person who proves that he is the person concerned or the representative, heir or successor of that person, the administrator of the succession, the beneficiary of life insurance or the person having parental authority. 
+	1993, c. 17, s. 30.
+ 
+Deceased person. 	31.  The spouse and the direct ascendants or descendants of a deceased person are entitled to receive, in accordance with the procedure provided for in section 30, communication of information relating to the cause of death contained in the person's medical file, unless the deceased person recorded in writing, in his file, his refusal to grant such right of access. 
+Medical information. 	  Notwithstanding the first paragraph, the blood relatives of a deceased person are entitled to receive communication of the information contained in that person's medical file to the extent that such communication is necessary to ascertain the existence of a genetic or family disease. 
+	1993, c. 17, s. 31.
+ 
+Response to request. 	32.  The person holding a file that is the subject of a request for access or rectification by the person concerned must respond to that request with diligence and not later than 30 days after the date of the request. 
+Failure to respond. 	  Failure to respond within 30 days of the receipt of a request is deemed to be a refusal to grant the request. 
+	1993, c. 17, s. 32.
+ 
+Access without charge. 	33.  Access to the personal information contained in a file shall be free of charge. 
+Reasonable charge. 	  However, a reasonable charge may be required from a person requesting the transcription, reproduction or transmission of such information. 
+Amount of charge. 	  Any person carrying on an enterprise who intends to require a charge under this section must inform the applicant, in advance, of the approximate amount that will be charged for the transcription, reproduction or transmission of information. 
+	1993, c. 17, s. 33.
+ 
+Refusal of access. 	34.  A person who refuses to grant a request for access or rectification from a person concerned must inform the latter of his refusal in writing, giving reasons, and inform the person concerned of the recourses open to him. 
+	1993, c. 17, s. 34.
+ 
+Modified information. 	35.  Where the person holding a file grants a request for rectification, he must, in addition to the obligations prescribed in the second paragraph of article 40 of the Civil Code of Qu bec, issue free of charge to the person who made the request a copy of any personal information modified or added or, as the case may be, an attestation that personal information has been deleted. 
+	1993, c. 17, s. 35.
+ 
+Retention of information. 	36.  The person holding information that is the subject of a request for access or rectification must, if he does not grant the request, retain the information for such time as is necessary to allow the person concerned to exhaust the recourses provided by law. 
+	1993, c. 17, s. 36.
+ 
+	  2. — Restrictions on access
+ 
+Health care enterprises. 	37.  A person carrying on a professional health care enterprise may temporarily refuse to the person concerned access to the file established on him if, in the opinion of a health care professional, consultation would result in serious harm to the person's health. 
+Other enterprises. 	  A person carrying on another type of enterprise and holding such information may refuse to the person concerned access to the information relating to him, provided that he offers the person the possibility of designating a health care professional of his choice to receive communication of the information and communicates the information to such physician. 
+Consultation of information. 	  The health care professional shall determine the time at which consultation may take place and inform the person concerned thereof. 
+	1993, c. 17, s. 37.
+ 
+Young persons. 	38.  No person of less than 14 years of age may demand to be informed of the existence of information of a medical or social nature concerning him and contained in a file established on him, or receive communication of such information, except through his attorney in the context of judicial proceedings. 
+Normal communication. 	  Nothing in the first paragraph is intended to restrict normal communication between a health care or social services professional and his patient, or the right of access of the holder of parental authority. 
+	1993, c. 17, s. 38.
+ 
+Crime prevention. 	39.  A person carrying on an enterprise may refuse to communicate personal information to the person it concerns where disclosure of the information would be likely to 
+	  1)    hinder an inquiry the purpose of which is the prevention, detection or repression of crime or statutory offences conducted by his internal security service or conducted on his behalf for the same purpose by an external service or a detective or security agency in accordance with the Act respecting detective or security agencies (chapter A-8); 
+	  2)    affect judicial proceedings in which either person has an interest. 
+	1993, c. 17, s. 39.
+ 
+Third persons. 	40.  Any person carrying on an enterprise who holds a file on another person must refuse to give communication of personal information to a person to whom it relates where disclosure would be likely to reveal personal information about a third person or the existence of such information and the disclosure may seriously harm that third person, unless the latter consents to the communication of the information or in the case of an emergency that threatens the life, health or safety of the person concerned. 
+	1993, c. 17, s. 40.
+ 
+Administrators of successions. 	41.  Any person carrying on an enterprise who holds a file on another person must refuse to give communication of personal information to the administrator of the succession or the beneficiary of life insurance of the person to whom the information relates, his heir, or his successor, unless such communication concerns the interests or rights of the person requesting it in his capacity as administrator, beneficiary, heir or successor. 
+	1993, c. 17, s. 41.
+ 
+	DIVISION V
+
+RECOURSE
+ 
+	  1. — Examination of disagreements
+ 
+Applications. 	42.  Any interested person may submit an application to the Commission d'acc s   l'information for the examination of a disagreement relating to the application of a legislative provision concerning access to or the rectification of personal information, or concerning the application of section 25. 
+	1993, c. 17, s. 42.
+ 
+Application period. 	43.  Where the disagreement results from a refusal to grant a request or from a failure to respond within the time limit prescribed by law, the person concerned disposes of a period of 30 days from the refusal or the expiry of the time limit to submit the disagreement to the Commission unless the Commission, for reasonable cause, releases the person concerned from failure to submit the disagreement within that time. 
+	1993, c. 17, s. 43.
+ 
+Fees. 	44.  Any party who wishes to submit a disagreement to the Commission for examination must apply therefor in writing and pay the fees prescribed by regulation. 
+Reasons. 	  The application shall state briefly the reasons which justify examination of the disagreement by the Commission. 
+Notice of application. 	  Notice of an application made by one party shall be given by the Commission to the other party. 
+	1993, c. 17, s. 44.
+ 
+Group of persons. 	45.  A group of persons having an interest in the same subject of disagreement may submit an application to the Commission through a representative. 
+	1993, c. 17, s. 45.
+ 
+Improper applications. 	46.  A person carrying on an enterprise who holds personal information on others may request authorization from the Commission to disregard applications that are obviously improper by reason of their number or their repetitious or systematic nature or applications that, in the opinion of the Commission, are not consistent with the object of this Act. 
+	1993, c. 17, s. 46.
+ 
+Assistance. 	47.  The members of the personnel of the Commission must lend their assistance to any interested person requiring it in the drawing up of an application for the examination of a disagreement. 
+	1993, c. 17, s. 47.
+ 
+Agreement between the parties. 	48.  Where an application for the examination of a disagreement has been brought before it, the Commission may entrust a person it designates to attempt to bring the parties to an agreement and report to it on the result of the attempt within the time it determines. 
+	1993, c. 17, s. 48.
+ 
+Examination of disagreements. 	49.  If the Commission is of the opinion that no agreement is possible between the parties, it shall examine the subject of the disagreement according to the procedure it determines. 
+Observations. 	  It must give the parties an opportunity to present their observations. 
+	1993, c. 17, s. 49.
+ 
+Decision. 	50.  A member of the Commission may, on behalf of the Commission, examine a disagreement alone and render a decision. 
+	1993, c. 17, s. 50.
+ 
+Information. 	51.  Every person must furnish to the Commission any information it requires for the examination of a disagreement. 
+	1993, c. 17, s. 51.
+ 
+Frivolous applications. 	52.  The Commission may refuse or cease to examine a matter if it has reasonable grounds to believe that the application is frivolous or made in bad faith or that its intervention would clearly serve no purpose. 
+	1993, c. 17, s. 52.
+ 
+Burden of proof. 	53.  In the case of a disagreement relating to a request for rectification, the person holding the file must prove that the file need not be rectified, unless the information in question was communicated to him by the person concerned or with the latter's consent. 
+	1993, c. 17, s. 53.
+ 
+	  2. — Decision by the Commission
+ 
+Decision. 	54.  The Commission shall render, in respect of every disagreement submitted to it, a decision in writing giving the reasons on which it is based, and shall send a copy to the parties by registered or certified mail or by any other means providing evidence of the date of receipt. 
+	1993, c. 17, s. 54.
+ 
+Powers of Commission. 	55.  The Commission has all the powers necessary for the exercise of its jurisdiction; it may make any order it considers appropriate to protect the rights of the parties and rule on any issue of fact or law. 
+Orders. 	  The Commission may, in particular, order a person carrying on an enterprise to communicate or rectify personal information or refrain from doing so. 
+	1993, c. 17, s. 55.
+ 
+Execution of decisions. 	56.  A decision by the Commission ordering a party to carry out a certain act is executory on the expiry of 30 days after the date on which the decision is received by the party concerned. 
+Doing of acts. 	  A decision ordering a party to cease, or refrain from, doing a certain act is executory upon being transmitted to the party concerned. 
+	1993, c. 17, s. 56.
+ 
+Fees. 	57.  In rendering a decision, the Commission may rule as to payment of the fees prescribed by regulation. 
+	1993, c. 17, s. 57.
+ 
+Execution of decisions. 	58.  A decision by the Commission becomes executory as a judgment of the Superior Court and has all the effects of such a judgment from the date of its homologation by the Superior Court. 
+Homologation of decisions. 	  Homologation of the decision is obtained by the filing, by the Commission or one of the parties, of a true copy of the decision at the office of the clerk of the Superior Court of the district in which the domicile or the residence or business establishment of the person affected by the decision is situated. 
+	1993, c. 17, s. 58; 1999, c. 40, s. 233.
+ 
+Questions of fact. 	59.  A decision of the Commission on a question of fact coming under its jurisdiction is final and no appeal lies therefrom. 
+	1993, c. 17, s. 59.
+ 
+Peremption of applications. 	60.  The Commission may declare an application for examination of a disagreement perempted if one year has elapsed since the last useful proceeding was filed. 
+Procedure. 	  Articles 266 to 269 of the Code of Civil Procedure (chapter C-25), adapted as required, apply to peremption of suit. 
+	1993, c. 17, s. 60.
+ 
+	  3. — Appeal
+ 
+Appeals to Court of Qu bec. 	61.  Any person having a direct interest may bring an appeal to the Court of Qu bec, with the leave of one of its judges, from a final decision of the Commission on any question of law or jurisdiction. 
+Leave to appeal. 	  No appeal may be brought except with leave from a judge of the Court of Qu bec. The judge shall grant leave if in his opinion the question ought to be examined in appeal. 
+	1993, c. 17, s. 61.
+ 
+Exercise of jurisdiction. 	62.  The jurisdiction conferred by this division on a judge of the Court of Qu bec is exercised by only the judges of that Court that are appointed by the chief judge. 
+	1993, c. 17, s. 62.
+ 
+Motions for leave. 	63.  The motion for leave to appeal must specify the questions of law or jurisdiction which ought to be examined in appeal and, after notice to the parties and to the Commission, be filed in the office of the Court of Qu bec, at Montr al or at Qu bec, within 30 days after the date of receipt of the decision of the Commission by the parties. 
+Costs. 	  The costs of the motion are at the discretion of the judge. 
+Decisions authorizing appeal. 	  The decision authorizing the appeal must mention only the questions of law or jurisdiction that will be examined in appeal. 
+	1993, c. 17, s. 63.
+ 
+Execution of decisions of Commission. 	64.  The filing of the motion for leave to appeal suspends the execution of the decision of the Commission until the decision referred to in section 69 has been rendered. In the case of an appeal from a decision ordering a person to cease or refrain from doing something, the filing of the motion does not suspend execution unless the judge who authorizes the appeal decides otherwise. 
+	1993, c. 17, s. 64.
+ 
+Notice of appeal. 	65.  The appeal is brought by filing with the Commission a notice to that effect served on the parties, within 10 days from the date of the decision granting leave to appeal. 
+Service. 	  The filing of the notice is in lieu of service on the Commission. 
+	1993, c. 17, s. 65.
+ 
+Notice of appeal. 	66.  The secretary of the Commission shall immediately send the notice of appeal to the office of the Court of Qu bec, at Montr al or at Qu bec, at the option of the appellant. 
+Documents. 	  The secretary shall send two copies of the decision appealed from, the documents related to the contestation and the decision authorizing the appeal, to the office of the Court, in place of the joint record. 
+	1993, c. 17, s. 66.
+ 
+Procedure. 	67.  The appeal is governed by articles 491 to 524 of the Code of Civil Procedure (chapter C-25), adapted as required. The parties are not required, however, to file a statement of their claims. 
+	1993, c. 17, s. 67.
+ 
+Rules of practice. 	68.  The Court of Qu bec may, in the manner prescribed under the Courts of Justice Act (chapter T-16), make the rules of practice judged necessary for the carrying out of this division. 
+	1993, c. 17, s. 68.
+ 
+Appeal decision. 	69.  The decision of the judge of the Court of Qu bec is without appeal. 
+	1993, c. 17, s. 69.
+ 
+	DIVISION VI
+
+PERSONAL INFORMATION AGENTS
+ 
+Registration. 	70.  Every personal information agent carrying on an enterprise in Qu bec must be registered with the Commission. 
+Definition. 	  Any person who, on a commercial basis, personally or through a representative, establishes files on other persons and prepares and communicates to third parties credit reports bearing on the character, reputation or solvency of the persons to whom the information contained in such files relates is a personal information agent. 
+	1993, c. 17, s. 70.
+ 
+Method of operation. 	71.  Every personal information agent must establish and apply a method of operation that ensures that the information communicated by him is up to date and accurate. 
+	1993, c. 17, s. 71.
+ 
+Applications for registration. 	72.  Applications for registration shall be filed according to the procedure determined by the Commission, accompanied with the fees prescribed by regulation. An application shall contain, in particular, the following information: 
+	  1)    the name and address of the agent and, in the case of a legal person, the address of its head office and the names and addresses of its directors; 
+	  2)    the address and telephone number of each establishment of the agent in Qu bec; 
+	  3)    the address and telephone number of every office where persons concerned may apply to consult or obtain copies of information relating to them. 
+Changes in information. 	  Every personal information agent must inform the Commission with diligence of any change in the information referred to in the first paragraph. 
+	1993, c. 17, s. 72.
+ 
+Registration. 	73.  The Commission shall register an agent who files an application in conformity with the provisions of section 72. 
+	1993, c. 17, s. 73.
+ 
+Register. 	74.  The Commission shall keep a current register of personal information agents containing the information filed under section 72 and any relevant decisions rendered by the Commission in respect of registered agents. 
+	1993, c. 17, s. 74.
+ 
+Consultation of register. 	75.  The register shall be available for public consultation during the regular business hours of the Commission. 
+Extracts from register. 	  The Commission shall furnish, free of charge, to any person who so requests any extract from the register concerning a personal information agent. 
+	1993, c. 17, s. 75.
+ 
+Publication of list. 	76.  The Commission shall publish annually, in a newspaper having general circulation, a list of the personal information agents. 
+	1993, c. 17, s. 76.
+ 
+Decisions of tribunals. 	77.  A personal information agent may, without the consent of the person concerned, communicate in a credit report to the persons with whom he is bound by contract any information contained in a decision of a judicial or quasi judicial tribunal unless the information was the object of in camera proceedings or is subject to an order not to disclose, publish or distribute. 
+	1993, c. 17, s. 77.
+ 
+Rules of conduct. 	78.  Every personal information agent must establish, apply within his enterprise and circulate rules of conduct that will allow any person concerned by a file held by him to have access to that file according to a procedure that ensures the protection of the information contained in the file, either by allowing the person concerned to have access thereto, free of charge, by telephone consultation or at a place in the region of the domicile of the person concerned during the regular business hours of the personal information agent's business establishment, or by transmitting a reproduction, transcription or copy of the file to him by mail or courier on payment of a reasonable charge. 
+	1993, c. 17, s. 78; 1999, c. 40, s. 233.
+ 
+Publication of notice. 	79.  Every personal information agent must, not later than 60 days after 1 January 1994 and every two years thereafter, inform the public, by means of a notice published in a newspaper having general circulation in each region of Qu bec in which he does business, of 
+	  1)    the fact that he holds files on other persons, that he gives communication of credit reports bearing on the character, reputation or solvency of the persons to whom the information in the files relates to persons with whom he is bound by contract, and that he receives from the latter personal information relating to other persons; 
+	  2)    the rights of consultation and rectification that may be exercised according to law, by persons to whom the information relates, in respect of the files he holds; 
+	  3)    the name, address and telephone number of the person, in each region, to whom the persons to whom the information relates may apply to consult their file, and the procedure for consultation. 
+	1993, c. 17, s. 79.
+ 
+	DIVISION VII
+
+APPLICATION OF THIS ACT
+ 
+	  1. — Rules of proof and procedure
+ 
+Rules of proof. 	80.  The Commission may, by regulation, prescribe rules of proof and procedure for the examination of applications which may be brought before it. Such regulations shall be submitted to the Government for approval. 
+	1993, c. 17, s. 80.
+ 
+	  2. — Inquiry
+ 
+Inquiries by Commission. 	81.  The Commission may, on its own initiative or following a complaint by an interested person, inquire into or entrust a person with inquiring into any matter relating to the protection of personal information as well as into the practices of a person who carries on an enterprise and who collects, holds, uses or communicates such information to third persons. 
+Searches. 	  For such purpose, any person authorized by the Commission to make inquiries may 
+	  1)    enter, at any reasonable time, the facilities of an enterprise carried on by a person collecting, holding, using or communicating personal information to third persons; 
+	  2)    examine and make copies of any personal information of whatever form. 
+	1993, c. 17, s. 81.
+ 
+False statements. 	82.  No person may hinder, in any manner whatever, the action of a person authorized by the Commission to make inquiries, mislead that person by false or deceitful statements, or refuse to put at his disposal the documents he may examine under this Act. 
+Identification. 	  Every person authorized by the Commission to make inquiries must, on request, identify himself and produce a certificate attesting his capacity. 
+	1993, c. 17, s. 82.
+ 
+Remedial measures. 	83.  Following an inquiry relating to the collection, retention or communication of personal information by a person carrying on an enterprise, the Commission may, after giving the person an opportunity to present his observations, recommend or order the application of such remedial measures as are appropriate to ensure the protection of the personal information. 
+Time limits. 	  It may fix time limits for the implementation of the measures it orders. 
+	1993, c. 17, s. 83.
+ 
+Notice of non-compliance. 	84.  If, within a reasonable time after issuing an order in respect of a person who carries on an enterprise, the Commission considers that appropriate measures have not been taken in response, it may publish, in the manner it determines, a notice to inform the public thereof. 
+	1993, c. 17, s. 84.
+ 
+Powers of Commission. 	85.  The Commission, and any person entrusted by it with making an inquiry for the purposes of this Act, are vested for the inquiry with the powers and immunity provided for in the Act respecting public inquiry commissions (chapter C-37) except the power to order imprisonment. 
+	1993, c. 17, s. 85.
+ 
+Execution of order. 	86.  Any order issued by the Commission following an inquiry becomes executory in the same manner as a decision under sections 56 and 58. 
+	1993, c. 17, s. 86.
+ 
+Appeal from order. 	87.  Any person having a direct interest may appeal from an order issued following an inquiry. 
+Rules. 	  The appeal is subject to the rules set out in sections 61 to 69. 
+	1993, c. 17, s. 87.
+ 
+	  3. — Reports
+ 
+Report to Government. 	88.  The Commission must, not later than 1 October 1997 and every five years thereafter, submit a report to the Government on the application of this Act. 
+Tabling of report. 	  The report shall be tabled, within 15 days of being submitted before the National Assembly if it is sitting, or, if it is not sitting, deposited with the President. 
+	1993, c. 17, s. 88.
+ 
+Study of report. 	89.  The Committee on the National Assembly shall designate, as soon as possible, the committee which will study the report concerning the carrying out of this Act. 
+Examination of Act. 	  Within the year following the tabling of the report before the National Assembly, the designated committee must examine the advisability of maintaining this Act in force as it stands, or, if the need arises, of amending it, and shall hear the representations of interested persons and bodies on such matters. 
+	1993, c. 17, s. 89.
+ 
+	  4. — Regulations
+ 
+Regulations of Government. 	90.  The Government, after obtaining the advice of the Commission, may make regulations to 
+	  1)    fix the fees payable for any act performed by the Commission; 
+	  2)    determine cases of total or partial exemption from payment of the fees payable under this Act; 
+	  3)    establish retention schedules; 
+	  4)    fix the registration fees payable by personal information agents. 
+Sectors of activity. 	  In exercising its regulatory power, the Government may define sectors of activity and categories of personal information and files. 
+	1993, c. 17, s. 90.
+ 
+	  5. — Penal provisions
+ 
+Penalties. 	91.  Every person who collects, holds, communicates to third persons or uses personal information on other persons otherwise than in accordance with the provisions of Divisions II, III and IV of this Act is liable to a fine of $1 000 to $10 000 and, for a subsequent offence, to a fine of $10 000 to $20 000. 
+	1993, c. 17, s. 91.
+ 
+Penalties. 	92.  Any personal information agent who contravenes any provision of section 70, 72, 78 or 79 of this Act is liable to a fine of $6 000 to $12 000 and, for a subsequent offence, to a fine of $10 000 to $20 000. 
+	1993, c. 17, s. 92.
+ 
+Legal persons. 	93.  Where an offence under this Act is committed by a legal person, the administrator, director or representative of the legal person who ordered or authorized the act or omission constituting the offence, or who consented thereto, is a party to the offence and is liable to the prescribed penalty. 
+	1993, c. 17, s. 93.
+ 
+	DIVISION VIII
+
+MISCELLANEOUS PROVISIONS
+ 
+Precedence of Act. 	94.  The provisions of this Act have precedence over those of any subsequent general or special Act which would be contrary thereto, unless the latter Act expressly provides that it applies despite this Act. 
+Other Acts. 	  However, they do not have the effect of limiting the protection of personal information or access to that information by a person concerned pursuant to another Act, a regulation, an order in council, a collective agreement, an order or a practice established before 1 January 1994. 
+	1993, c. 17, s. 94.
+ 
+Agreements. 	95.  The Commission may make agreements with any department, body or person authorized by law to make inquiries in the matter of protection of personal information, in order to coordinate its actions with those of the department, body or person. 
+	1993, c. 17, s. 95.
+ 
+Associations or partnerships. 	96.  Any association or partnership that carries on an enterprise and holds personal information on its members or on third persons has, in respect of its members and such third persons, the same rights and the same obligations as a person carrying on an enterprise. 
+	1993, c. 17, s. 96.
+ 
+Third persons. 	97.  Credit unions and the federation of which they are members are not considered to be third persons in respect of each other as regards the communication, among themselves, and the use of personal information necessary for the management of risk, the supply of property or the provision of a service under the Act respecting financial services cooperatives (chapter C-67.3). 
+Deemed credit union. 	  For the purposes of the first paragraph, the Caisse centrale Desjardins du Qu bec, instituted by section 20 of the Act respecting the Mouvement des caisses Desjardins (1989, chapter 113), is deemed to be a credit union that is a member of the federation belonging to the same group. 
+	1993, c. 17, s. 97; 1999, c. 40, s. 233; 2000, c. 29, s. 662.
+ 
+Minister responsible. 	98.  The Minister of Relations with the Citizens and Immigration is responsible for the administration of this Act. 
+	1993, c. 17, s. 98; 1994, c. 14, s. 32; 1996, c. 21, s. 63. 
+	
+The Minister for Relations with the Citizens and Immigration exercises, under the authority of the Minister of Relations with the Citizens and Immigration, the functions with respect to the administration of this Act. Order in Council 51-2002 dated 30 January 2002, (2002) 134 G.O. 2 (French), 1649.
+ 
+	DIVISION IX
+
+AMENDING PROVISIONS
+ 
+	ACT RESPECTING ACCESS TO DOCUMENTS HELD BY PUBLIC BODIES AND THE PROTECTION OF PERSONAL INFORMATION
+ 
+	99.  (Amendment integrated into c. A-2.1, s. 88.1). 
+	1993, c. 17, s. 99.
+ 
+	100.  (Amendment integrated into c. A-2.1, s. 89.1). 
+	1993, c. 17, s. 100.
+ 
+	101.  (Amendment integrated into c. A-2.1, s. 94). 
+	1993, c. 17, s. 101.
+ 
+	102.  (Amendment integrated into c. A-2.1, s. 104). 
+	1993, c. 17, s. 102.
+ 
+	103.  (Amendment integrated into c. A-2.1, s. 118). 
+	1993, c. 17, s. 103.
+ 
+	104.  (Amendment integrated into c. A-2.1, s. 122). 
+	1993, c. 17, s. 104.
+ 
+	105.  (Amendment integrated into c. A-2.1, s. 130.1). 
+	1993, c. 17, s. 105.
+ 
+	106.  (Amendment integrated into c. A-2.1, s. 146.1). 
+	1993, c. 17, s. 106.
+ 
+	107.  (Amendment integrated into c. A-2.1, s. 148). 
+	1993, c. 17, s. 107.
+ 
+	108.  (Amendment integrated into c. A-2.1, s. 151). 
+	1993, c. 17, s. 108.
+ 
+	109.  (Amendment integrated into c. A-2.1, s. 174). 
+	1993, c. 17, s. 109.
+ 
+	SAVINGS AND CREDIT UNIONS ACT
+ 
+	110.  (Amendment integrated into c. C-4.1, s. 196). 
+	1993, c. 17, s. 110.
+ 
+	111.  (Omitted). 
+	1993, c. 17, s. 111.
+ 
+	112.  (Omitted). 
+	1993, c. 17, s. 112.
+ 
+	113.  (Omitted). 
+	1993, c. 17, s. 113.
+ 
+	DIVISION X
+
+FINAL PROVISIONS
+ 
+Object of file. 	114.  The statement indicating the object of a file on another person held by a person carrying on an enterprise on 1 January 1994 must be entered before 1 January 1995. 
+	1993, c. 17, s. 114.
+ 
+	115.  (Omitted). 
+	1993, c. 17, s. 115.
+ 
+	REPEAL SCHEDULE
+ 
+	In accordance with section 9 of the Act respecting the consolidation of the statutes and regulations (chapter R-3), chapter 17 of the statutes of 1993, in force on 1 September 1994, is repealed, except section 115, effective from the coming into force of chapter P-39.1 of the Revised Statutes.

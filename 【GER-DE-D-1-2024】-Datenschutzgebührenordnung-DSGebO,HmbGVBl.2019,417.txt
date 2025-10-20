@@ -1,0 +1,46 @@
+Gebührenordnung für die datenschutzrechtliche Kontrolle im nichtöffentlichen Bereich
+(Datenschutzgebührenordnung - DSGebO)
+Vom 3. Dezember 2019
+Zum 07.10.2025 aktuellste verfügbare Fassung der Gesamtausgabe
+Stand: 	letzte berücksichtigte Änderung: zuletzt geändert durch Verordnung vom 3. Dezember 2024 (HmbGVBl. S. 656)
+
+zur Einzelansicht Gebührenordnung für die datenschutzrechtliche Kontrolle im nichtöffentlichen Bereich (Datenschutzgebührenordnung - DSGebO) vom 3. Dezember 2019
+Nichtamtliches Inhaltsverzeichnis
+Titel	Gültig ab
+Gebührenordnung für die datenschutzrechtliche Kontrolle im nichtöffentlichen Bereich (Datenschutzgebührenordnung - DSGebO) vom 3. Dezember 2019	01.01.2020
+Eingangsformel	01.01.2020
+§ 1	01.01.2025
+§ 2	01.01.2020
+§ 3	01.01.2020
+Anlage	01.01.2025
+
+Auf Grund von § 25 Absatz 1 Satz 2 des Hamburgischen Datenschutzgesetzes vom 18. Mai 2018 (HmbGVBl. S. 145) und §§ 2, 3 und 10 des Gebührengesetzes vom 5. März 1986 (HmbGVBl. S. 37), zuletzt geändert am 4. Dezember 2018 (HmbGVBl. S. 415), wird verordnet:
+
+§ 1
+
+Für Amtshandlungen, die der Kontrolle nicht-öffentlicher Stellen durch die Aufsichtsbehörde nach § 40 des Bundesdatenschutzgesetzes vom 30. Juni 2017 (BGBl. I S. 2097), zuletzt geändert am 6. Mai 2024 (BGBl. I Nr. 149 S. 1, 21), § 113 Satz 1 des Medienstaatsvertrages vom 14. bis 28. April 2020 (HmbGVBl. S. 434), zuletzt geändert am 27. Februar und 7. März 2024 (HmbGVBl. S. 162), und § 1 Absatz 1 Nummer 8 zweiter Halbsatz des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes vom 23. Juni 2021 (BGBl. 2021 I S. 1982, 2022 I S. 1045), zuletzt geändert am 12. Juli 2024 (BGBl. I Nr. 234 S. 1, 19), in der jeweils geltenden Fassung dienen, sowie für Amtshandlungen nach der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. EU 2016 Nr. L 119 S. 1, L 314 S. 72, 2018 Nr. L 127 S. 2, 2021 Nr. L 74 S. 35) werden die in der Anlage festgelegten Verwaltungsgebühren erhoben.
+
+
+§ 2
+
+Von einer Gebühr kann ganz oder teilweise abgesehen werden, soweit dies zur Abwendung einer besonderen persönlichen Härte geboten ist oder ein überwiegendes öffentliches Interesse an dem Verzicht besteht. Die Entscheidung darüber obliegt der zuständigen Behörde. Sie soll nur auf Antrag gewährt werden.
+
+
+§ 3
+
+(1) Diese Verordnung tritt am 1. Januar 2020 in Kraft. Zum selben Zeitpunkt tritt die Datenschutzgebührenordnung vom 11. September 2001 (HmbGVBl. S. 401) in der geltenden Fassung außer Kraft.
+
+(2) Soweit eine Gebührenpflicht bei Inkrafttreten dieser Verordnung bereits entstanden war, ist das bisherige Recht anzuwenden. Begründet diese wiederkehrende Gebührenschulden, die nach Inkrafttreten dieser Verordnung entstehen oder fällig werden, ist das neue Recht anzuwenden.
+
+Anlage
+
+Nummer		Gebührentatbestand		Gebühren-satz in Euro
+1		Kontrolle ohne besondere Prüfintensität		232
+2		Kontrolle mit besonderer Prüfintensität		280
+		Besondere Prüfintensität liegt insbesondere vor, wenn die Kontrolle drei oder mehr als drei Arbeitsstunden in Anspruch nimmt. Regelmäßig ist eine besondere Prüfintensität bei der Ausübung von Abhilfebefugnissen nach Artikel 58 Absatz 2 Buchstaben b bis h und j der Verordnung (EU) 2016/679 anzunehmen.		bis 6660
+3		Verlangen der Aufsichtsbehörde nach Abberufung der oder des Datenschutzbeauftragten einer nichtöffentlichen Stelle nach § 40 Absatz 6 Satz 2 des Bundesdatenschutzgesetzes		530 bis 3340
+4		Genehmigung von Vertragsklauseln gemäß Artikel 58 Absatz 3 Buchstabe h der Verordnung (EU) 2016/679		1270 bis 24880
+5		Genehmigung von verbindlichen internen Vorschriften gemäß Artikel 58 Absatz 3 Buchstabe j der Verordnung (EU) 2016/679		1270 bis 24880
+6		Abgabe einer Stellungnahme und Billigung von Entwürfen von Verhaltensregeln nach Artikel 58 Absatz 3 Buchstabe d der Verordnung (EU) 2016/679		2510 bis 49720
+7		Akkreditierungen von Zertifizierungsstellen nach Artikel 58 Absatz 3 Buchstabe e der Verordnung (EU) 2016/679		
+8		Billigung von Kriterien für die Zertifizierung nach Artikel 58 Absatz 3 Buchstabe f der Verordnung (EU) 2016/679		1270 bis 24880

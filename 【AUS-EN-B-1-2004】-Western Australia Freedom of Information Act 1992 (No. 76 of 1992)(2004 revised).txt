@@ -1,0 +1,1442 @@
+Western Australia
+Freedom of Information Act 1992
+
+Western Australia
+Freedom of Information Act 1992
+CONTENTS
+Part 1 - Preliminary
+1.	Short title	2
+2.	Commencement	2
+3.	Objects and intent	2
+4.	Principles of administration	3
+5.	Act binds Crown	3
+6.	Access procedures do not apply to documents that are already available	3
+7.	Application of access procedures to private collections	3
+8.	Effect on other enactments	4
+9.	Meaning of terms used in this Act	4
+Part 2 - Access to documents
+Division 1 - Right of access and applications for access
+10.	Right of access to documents	5
+11.	Access applications	5
+12.	How the application is made	5
+Division 2 - Procedure for dealing with access applications
+13.	Decisions as to access and charges	6
+14.	Ambit of application may be reduced by agreement	8
+15.	Transfer or notification of applications	8
+16.	Charges for access to documents	9
+17.	Estimate of charges	10
+18.	Advance deposits	10
+19.	Failure of applicant to notify intention or pay deposit	11
+20.	Agency may refuse to deal with an application in certain cases	12
+21.	Nature of information must be considered	13
+22.	Giving access	13
+23.	Refusal of access	13
+24.	Deletion of exempt matter	14
+25.	Deferred access	15
+26.	Documents that cannot be found or do not exist	15
+27.	Ways in which access can be given	15
+28.	Medical and psychiatric information	17
+29.	Personal information generally	17
+30.	Form of notice of decisions	18
+31.	Information as to existence of certain documents	19
+Division 3 - Consultation with third parties
+32.	Documents containing personal information	19
+33.	Documents containing commercial or business information	20
+34.	Procedure following consultation	21
+35.	Requirement to consult may be waived	22
+Division 4 - Exemption certificates
+36.	Premier may issue certificate	23
+37.	Effect of certificate	23
+38.	Duration of certificate	23
+Division 5 - Internal review of decisions as to access
+39.	Right to review	24
+40.	Application for review	25
+41.	Who is to deal with application for review	25
+42.	Provisions of this Part to apply	25
+43.	Determination can be confirmed, varied or reversed	25
+44.	No charge for review	26
+Part 3 - Amendment of personal information
+Division 1 - Applications for amendment
+45.	Right to apply for information to be amended	27
+46.	How the application is made	27
+47.	Transfer of applications	28
+48.	Agency may amend information	29
+49.	Notice of decision	30
+50.	Request for notation or attachment disputing accuracy of information	31
+51.	Other users of information to be advised of requested amendment	32
+52.	Agency may give reasons for not amending information	32
+53.	No charge for application or request	32
+Division 2 - Internal review of decisions as to amendment of information
+54.	Right to review	33
+Part 4 - External review of decisions; appeals
+Division 1 - Information Commissioner
+55.	Information Commissioner	34
+56.	Appointment and terms and conditions	34
+57.	Resignation	35
+58.	Suspension and removal of Commissioner	35
+59.	Acting Information Commissioner	36
+60.	Oath or affirmation of office	36
+61.	Staff of Commissioner	37
+62.	Supplementary provisions as to Commissioner and staff	38
+Division 2 - Functions of Information Commissioner
+63.	Functions of Commissioner	39
+64.	General powers	40
+Division 3 - Complaints and procedure for dealing with them
+65.	Complaints	40
+66.	How and when complaints can be made	41
+67.	Commissioner may decide not to deal with a complaint	42
+68.	Notification of complaints	42
+69.	Parties to a complaint	42
+70.	Procedure	43
+71.	Conciliation	44
+72.	Power to obtain information and documents and compel attendance	44
+73.	Power to examine	45
+74.	Commissioner to ensure non-disclosure of certain matter	45
+75.	Production of documents for inspection	46
+76.	Decisions of the Commissioner	46
+77.	Review where an exemption certificate has been issued	47
+78.	Reference of questions of law to Supreme Court	48
+Division 4 - General provisions as to the Information Commissioner and staff
+79.	Delegation	49
+80.	Commissioner and staff not to be sued	50
+81.	Restrictions under other laws not applicable	50
+82.	Secrecy	50
+83.	Failure to produce documents or attend proceedings	51
+84.	Costs of parties to complaints	51
+Division 5 - Appeals to the Supreme Court
+85.	Appeals to Supreme Court	51
+86.	Parties to an appeal	52
+87.	Decision on appeal	53
+Division 6 - General provisions as to proceedings in the Supreme Court
+88.	Definition	53
+89.	Power to impose terms on orders	54
+90.	Court to ensure non-disclosure of certain matter	54
+91.	Production of documents	55
+92.	Restrictions under other laws not applicable	55
+93.	Other procedure	55
+Part 5 - Publication of information about agencies
+94.	Information statements	56
+95.	Internal manuals	57
+96.	Publication of information statements	58
+97.	Information statements and internal manuals to be made available	58
+Part 6 - Miscellaneous
+98.	Applications on behalf of children and handicapped persons	60
+99.	Defunct agencies	60
+100.	Who makes decisions for agencies	60
+101.	Time of service of notices	61
+102.	Burden of proof	61
+103.	No review of decisions etc. except under this Act	61
+104.	Protection from defamation or breach of confidence actions	62
+105.	Protection from criminal actions	62
+106.	Personal liability	63
+107.	Failure to consult	63
+108.	Exempt matter does not have to be published	63
+109.	Offence of unlawful access	63
+110.	Destruction of documents	64
+111.	Report to Parliament	64
+112.	Regulations	66
+113.	Review of Act	67
+Schedule 1	68
+Exempt matter	68
+1.	Cabinet and Executive Council	68
+2. 	Inter-governmental relations	70
+3. 	Personal information	70
+4. 	Commercial or business information	71
+4A. 	Information provided to Treasurer under section 22 of Bank of Western Australia Act 1995	72
+5. 	Law enforcement, public safety and property security	72
+6. 	Deliberative processes	74
+7. 	Legal professional privilege	75
+8. 	Confidential communications	75
+9. 	The State's economy	76
+10. 	The State's financial or property affairs	76
+11. 	Effective operation of agencies	77
+12. 	Contempt of Parliament or court	78
+13. 	Information as to adoption or artificial conception	78
+14. 	Information protected by certain statutory provisions	78
+15. 	Information as to precious metal transactions	79
+Schedule 2	81
+Exempt agencies	81
+Glossary	83
+1. 	Definitions	83
+2. 	Related agencies	86
+3. 	Courts are agencies but judges, etc., are not	87
+4. 	Documents of an agency	87
+5. 	Documents of a court	88
+6. 	Documents of Police and Corrective Services units	88
+7A.	Documents of Authority etc. under gas pipelines access legislation	88
+8. 	Charges for dealing with applications	89
+Notes
+	Compilation table	90
+	Provisions that have not come into operation	93
+
+      
+
+Western Australia
+Freedom of Information Act 1992 
+An Act to provide for public access to documents, and to enable the public to ensure that personal information in documents is accurate, complete, up to date and not misleading, and for related purposes. 
+Part 1 - Preliminary 
+1.	Short title 
+		This Act may be cited as the Freedom of Information Act 1992 1.
+2.	Commencement 
+		The provisions of this Act come into operation on such day as is, or days as are respectively, fixed by proclamation 1.
+3.	Objects and intent 
+	(1)	The objects of this Act are to - 
+	(a)	enable the public to participate more effectively in governing the State; and
+	(b)	make the persons and bodies that are responsible for State and local government more accountable to the public.
+	(2)	The objects of this Act are to be achieved by - 
+	(a)	creating a general right of access to State and local government documents;
+	(b)	providing means to ensure that personal information held by State and local governments is accurate, complete, up to date and not misleading; and
+	(c)	requiring that certain documents concerning State and local government operations be made available to the public.
+	(3) 	Nothing in this Act is intended to prevent or discourage the publication of information, or the giving of access to documents (including documents containing exempt matter), or the amendment of personal information, otherwise than under this Act if that can properly be done or is permitted or required by law to be done.
+4.	Principles of administration 
+		Agencies are to give effect to this Act in a way that - 
+	(a)	assists the public to obtain access to documents;
+	(b)	allows access to documents to be obtained promptly and at the lowest reasonable cost; and
+	(c)	assists the public to ensure that personal information contained in documents is accurate, complete, up to date and not misleading.
+5.	Act binds Crown 
+		This Act binds the Crown.
+6.	Access procedures do not apply to documents that are already available 
+		Parts 2 and 4 do not apply to access to documents that are - 
+	(a)	available for purchase by the public or free distribution to the public;
+	(b)	available for inspection (whether for a fee or charge or not) under Part 5 or another enactment;
+	(c)	State archives to which a person has a right to be given access under Part 6 of the State Records Act 2000 despite this Act;
+	(d)	publicly available library material held by agencies for reference purposes; or
+	(e)	made or acquired by an art gallery, museum or library and preserved for public reference or exhibition purposes.
+	[Section 6 amended by No. 53 of 2000 s. 6.]
+7.	Application of access procedures to private collections 
+		If Parts 2 and 4 apply to documents in a private collection that is held by an art gallery, museum, library or other prescribed agency, the application of those Parts is subject to any limitations on access imposed by the person who lodged the collection.
+	[Section 7 amended by No. 53 of 2000 s. 7.]
+8.	Effect on other enactments 
+	(1)	Access to documents is to be given under Parts 2 and 4 despite any prohibitions or restrictions imposed by other enactments (whether enacted before or after the commencement of this Act) on the communication or divulging of information, and a person does not commit an offence against any such enactment merely by complying with this Act.
+	(2) 	Subsection (1) applies in respect of any enactment (whether enacted before or after the commencement of this Act) unless the enactment is expressly stated to have effect despite this Act.
+	(3) 	The application of subsection (1) is subject to clause 14 of Schedule 1.
+	(4) 	The application of subsection (1) is subject to the Royal Commission (Custody of Records) Act 1992.
+	(5)	A person's right to be given access to a document that is a State archive is subject to Part 6 of the State Records Act 2000.
+	[Section 8 amended by No. 53 of 2000 s. 8.]
+9.	Meaning of terms used in this Act 
+		The Glossary at the end of this Act defines or affects the meaning of some of the words and expressions used in this Act.
+Part 2 - Access to documents 
+Division 1 - Right of access and applications for access 
+10.	Right of access to documents 
+	(1)	A person has a right to be given access to the documents of an agency (other than an exempt agency) subject to and in accordance with this Act.
+	(2) 	Subject to this Act, a person's right to be given access is not affected by - 
+	(a)	any reasons the person gives for wishing to obtain access; or
+	(b)	the agency's belief as to what are the person's reasons for wishing to obtain access.
+11.	Access applications 
+	(1)	A person who wishes to obtain access to one or more documents of an agency (other than an exempt agency) may make an application to the agency.
+	(2) 	If the circumstances of the applicant require it, an agency has to take reasonable steps to help a person to make an access application to the appropriate agency in a manner that complies with this Act.
+	(3) 	In particular, if an application does not comply with the requirements of section 12 the agency has to take reasonable steps under subsection (2) to help the applicant to change the application so that it complies with those requirements.
+12.	How the application is made 
+	(1)	The access application has to - 
+	(a)	be in writing;
+	(b)	give enough information to enable the requested documents to be identified;
+	(c)	give an address in Australia to which notices under this Act can be sent;
+	(d)	give any other information or details required under the regulations; and
+	(e)	be lodged at an office of the agency with any application fee payable under the regulations.
+	(2) 	The access application may request that access to the documents be given in a particular way described in section 27(1).
+	(3) 	An application may be lodged by delivery by hand, post or facsimile at an office of the agency to which it is directed.
+	(4) 	If an application is lodged with an agency by post it is to be regarded as having been lodged with the agency at the end of the fifth day after it was posted.
+	(5) 	If an application is lodged with an agency by facsimile it is to be regarded as having been lodged with the agency on the day on which it is transmitted.
+Division 2 - Procedure for dealing with access applications 
+13.	Decisions as to access and charges 
+	(1)	Subject to this Division, the agency has to deal with the access application as soon as is practicable (and, in any event, before the end of the permitted period) by - 
+	(a)	considering the application and deciding - 
+	(i)	whether to give or refuse access to the requested documents; and
+	(ii)	any charge payable for dealing with the application;
+		and
+	(b)	giving the applicant written notice of the decision in the form required by section 30.
+	(2) 	If the applicant does not receive notice under subsection (1)(b) within the permitted period the agency is taken to have refused, at the end of that period, to give access to the documents and the applicant is taken to have received written notice of that refusal on the day on which that period ended.
+	(3) 	For the purposes of this section the "permitted period" is 45 days after the access application is received or such other period as is agreed between the agency and the applicant or allowed by the Commissioner under subsection (4) or (5).
+	(4) 	On the application of the applicant, the Commissioner may reduce the time allowed to the agency to comply with subsection (1).
+	(5) 	On the application of the agency, the Commissioner, on being satisfied that the agency has attempted to comply with subsection (1) within 45 days but that it is impracticable, in the circumstances, for it to comply within that time, may allow the agency an extension of time to comply with subsection (1) on such conditions as the Commissioner thinks fit.
+	(6) 	If an extension of time is allowed under subsection (5) the agency has to give written notice of the extension to the applicant as soon as is practicable, and within 45 days after receiving the access application.
+	(7) 	If, under subsection (2), the agency is taken to have refused access, the Commissioner may, on the application of the applicant, allow the agency an extension of time to comply with subsection (1) on such conditions (for example, reduction or waiver of charges) as the Commissioner thinks fit.
+	(8) 	If an extension of time is allowed under subsection (7), subsection (2) does not have effect unless, at the end of the extended time, the applicant still has not received notice under subsection (1)(b).
+	(9) 	This Division has effect subject to Division 3.
+14.	Ambit of application may be reduced by agreement 
+		If it is apparent from the terms of the access application that an applicant seeks information of a certain kind contained in documents of the agency, the agency may, with the agreement of the applicant, deal with the application as if it were an application relating only to those parts of those documents that contain information of that kind.
+15.	Transfer or notification of applications 
+	(1)	If the agency does not hold the requested documents but knows, or has reasonable grounds to believe, that the documents are held by another agency (other than an exempt agency), the agency has to transfer the access application to the other agency.
+	(2) 	If the agency holds the requested documents but the documents originated with or were received from another agency (other than an exempt agency), and are more closely related to the functions of that other agency, the agency may transfer the access application to that other agency together with copies of the documents.
+	(3) 	The transferring agency has to give the applicant written notice of the transfer without delay.
+	(4) 	The notice has to clearly state the day on which, and the agency to which, the access application was transferred.
+	(5) 	The agency to which the access application is transferred, or partially transferred, is to be regarded as having received the application on the day on which it was received by the transferring agency.
+	(6) 	The agency to which the access application is transferred under subsection (2) is required to make decisions as to access in respect of the documents of which it receives copies but not in respect of other documents that it holds which may fall within the scope of the documents requested in the original application.
+	(7) 	If subsection (1) or (2) applies to one or more but not all of the requested documents the agency is authorised to make a partial transfer under this section as if a separate access application had been made in respect of the document or documents to which the relevant subsection applies.
+	(8) 	If the agency holds the requested documents but the documents originated with or were received from an exempt agency, the agency has to notify the exempt agency that the access application has been made.
+16.	Charges for access to documents 
+	(1)	Any charge that is, in accordance with the regulations, required to be paid by an applicant before access to a document is given, must be calculated by an agency in accordance with the following principles or, where those principles require, must be waived - 
+	(a)	a charge must only cover the time that would be spent by the agency in conducting a routine search for the document to which access is requested, and must not cover additional time, if any, spent by the agency in searching for a document that was lost or misplaced;
+	(b)	the charge in relation to time made under paragraph (a) must be fixed on an hourly rate basis;
+	(c)	a charge may be made for the identifiable cost incurred in supervising the inspection by the applicant of the matter to which access is granted;
+	(d)	no charge may be made for providing an applicant with access to personal information about the applicant;
+	(e)	a charge may be made for the reasonable costs incurred by an agency in supplying copies of documents, in making arrangements for viewing documents or in providing a written transcript of the words recorded or contained in documents;
+	(f)	a charge must not be made for producing for inspection a document referred to in section 94 or 95;
+	(g)	a charge must be waived or be reduced if the applicant is impecunious; and
+	(h)	a charge must not exceed such amount as may be prescribed by regulation from time to time.
+	(2) 	Subject to section 18, payment of a charge will not be required before the time at which the agency has notified the applicant of the decision to grant access to a document.
+	[Section 16 amended by No. 57 of 1997 s. 62(1).]
+17.	Estimate of charges 
+	(1)	When making the access application the applicant may request an estimate of the charges that might be payable for dealing with the application.
+	(2) 	If a request is made under subsection (1) the agency has to notify the applicant of its estimate, and the basis on which its estimate is made, as soon as is practicable.
+	(3) 	If the agency estimates that the charges for dealing with the access application might exceed $25, or such greater amount as is prescribed, then, whether or not a request has been made under subsection (1), the agency has to notify the applicant of its estimate, and the basis on which its estimate is made, and inquire whether the applicant wishes to proceed with the application and notify the applicant of the requirement of section 19(1)(b).
+18.	Advance deposits 
+	(1)	The agency may, in a notice given to an applicant under section 17(3), require the applicant to pay a deposit of a prescribed amount or at a prescribed rate on account of the charges for dealing with the application.
+	(2) 	If the agency has required an applicant to pay a deposit on account of the charges, the agency has to, at the request of the applicant, discuss with the applicant practicable alternatives for changing the application or reducing the anticipated charges, including reduction of the charges if the applicant waives, either conditionally or unconditionally, the need for compliance by the agency with the time limit imposed by section 13(1).
+	(3) 	A notice under subsection (1) requiring an applicant to pay a deposit has to give details of - 
+	(a)	the name and designation of the person who calculated the charge;
+	(b)	the rights of review under this Act and the procedure to be followed to exercise those rights; and
+	(c)	the requirements of section 19(2)(b).
+	(4) 	Further advance deposits may be required by the agency by written notice if the agency considers they are necessary to meet the charges for dealing with the application.
+19.	Failure of applicant to notify intention or pay deposit 
+	(1)	If the agency has given the applicant a notice under section 17(3) - 
+	(a)	the period commencing on the day on which the notice was given, and ending on the day on which the agency is notified that the applicant intends to proceed with the access application, is to be disregarded for the purposes of section 13(1); and
+	(b)	if intention to proceed is not notified within 30 days (or such further time as the agency allows) after the day on which the notice was given, the applicant is to be regarded as having withdrawn the access application.
+	(2) 	If, under section 18(1) or (4), a notice requires the applicant to pay a deposit - 
+	(a)	the period commencing on the day on which the notice was given and ending on the day on which the deposit is paid is to be disregarded for the purposes of section 13(1); and
+	(b)	if the deposit is not paid within 30 days (or such further time as the agency allows) after the day on which the notice was given, the applicant is to be regarded as having withdrawn the access application.
+	(3) 	Any period during which the requirement to pay a deposit is being reviewed is to be disregarded for the purposes of subsection (2)(b).
+	(4) 	If subsection (1)(b) or (2)(b) has effect, the agency has to refund to the applicant any unused portion of any advance deposit already paid in relation to the access application.
+20.	Agency may refuse to deal with an application in certain cases 
+	(1)	If the agency considers that the work involved in dealing with the access application would divert a substantial and unreasonable portion of the agency's resources away from its other operations, the agency has to take reasonable steps to help the applicant to change the application to reduce the amount of work needed to deal with it.
+	(2) 	If after help has been given to change the access application the agency still considers that the work involved in dealing with the application would divert a substantial and unreasonable portion of the agency's resources away from its other operations, the agency may refuse to deal with the application.
+	(3) 	If, under subsection (2), the agency refuses to deal with the access application, it has to give the applicant written notice of the refusal without delay.
+	(4) 	The notice has to give details of - 
+	(a)	the reasons for the refusal and the findings on any material questions of fact underlying those reasons, referring to the material on which those findings are based; and
+	(b)	the rights of review under this Act and the procedure to be followed to exercise those rights.
+21.	Nature of information must be considered 
+		If the applicant has requested access to a document containing personal information about the applicant, the fact that matter is personal information about the applicant must be considered as a factor in favour of disclosure for the purpose of making a decision as to - 
+	(a)	whether it is in the public interest for the matter to be disclosed; or
+	(b)	the effect that the disclosure of the matter might have.
+22.	Giving access 
+		If the agency decides to give access to a document and the charges imposed for dealing with the application have been paid, the agency has to give the applicant access to the document.
+23.	Refusal of access 
+	(1)	Subject to section 24 the agency may refuse access to a document if - 
+	(a)	the document is an exempt document;
+	(b)	the document is not a document of the agency; or
+	(c)	giving access to the document would contravene a limitation referred to in section 7.
+	(2) 	The agency may refuse access to the requested documents without having identified any or all of them and without specifying the reason why matter in any particular document is claimed to be exempt matter if - 
+	(a)	it is apparent, from the nature of the documents as described in the access application, that all of the documents are exempt documents; and
+	(b)	there is no obligation under section 24 to give access to an edited copy of any of the documents.
+	(3) 	Subject to section 24 the agency has to refuse access to a document that is the subject of an exemption certificate.
+	(4) 	If a document contains personal information and the applicant, or the person to whom the information relates, is a child who has not turned 16, the agency may refuse access to the document if it is satisfied that access would not be in the best interests of the child and that the child does not have the capacity to appreciate the circumstances and make a mature judgment as to what might be in his or her best interests.
+	(5) 	If a document contains personal information and the applicant, or the person to whom the information relates, is an intellectually handicapped person, the agency may refuse access to the document if it is satisfied that access would not be in the best interests of the person.
+24.	Deletion of exempt matter 
+		If - 
+	(a)	the access application requests access to a document containing exempt matter; and
+	(b)	it is practicable for the agency to give access to a copy of the document from which the exempt matter has been deleted; and
+	(c)	the agency considers (either from the terms of the application or after consultation with the applicant) that the applicant would wish to be given access to an edited copy,
+		the agency has to give access to an edited copy even if the document is the subject of an exemption certificate.
+25.	Deferred access 
+	(1)	The agency may defer giving access to a document for a reasonable period if the document - 
+	(a)	is required by law to be published but is yet to be published; or
+	(b)	has been prepared for presentation to Parliament or submission to a particular person or body but is yet to be presented or submitted.
+	(2) 	The applicant has to be notified under section 30(d) of the likely period for which access is to be deferred.
+26.	Documents that cannot be found or do not exist 
+	(1)	The agency may advise the applicant, by written notice, that it is not possible to give access to a document if - 
+	(a)	all reasonable steps have been taken to find the document; and
+	(b)	the agency is satisfied that the document - 
+	(i)	is in the agency's possession but cannot be found; or
+	(ii)	does not exist.
+	(2) 	For the purposes of this Act the sending of a notice under subsection (1) in relation to a document is to be regarded as a decision to refuse access to the document, and on a review or appeal under Part 4 the agency may be required to conduct further searches for the document.
+27.	Ways in which access can be given 
+	(1)	Access to a document may be given to the applicant in one or more of the following ways - 
+	(a)	by giving a reasonable opportunity to inspect the document;
+	(b)	by giving a copy of the document;
+	(c)	in the case of a document from which sounds or visual images can be reproduced, whether or not with the aid of some other article or device - by making arrangements for the sounds or visual images to be heard or viewed;
+	(d)	in the case of a document from which words can be reproduced in the form of sound - by giving a written transcript of the words recorded in the document;
+	(e)	in the case of a document in which words are contained in the form of shorthand writing or in encoded form -by giving a written transcript of the words contained in the document;
+	(f)	in the case of a document from which words can be reproduced in the form of a written document - by giving a written document so reproduced; or
+	(g)	in the case of electronically, mechanically or magnetically stored information - by giving a written expression of the information in the form in which it is commonly available in the agency, or if there is no such common form, then in a form no less comprehensible than could be made available to the persons in the agency.
+	(2) 	If the applicant has requested that access to a document be given in a particular way the agency has to comply with the request unless giving access in that way - 
+	(a)	would interfere unreasonably with the agency's other operations;
+	(b)	would damage or harm the document or would be inappropriate because of the physical nature of the document; or
+	(c)	would involve an infringement of copyright belonging to a person other than the State,
+		in which case access may be given in some other way.
+	(3) 	If the applicant has requested that access to a document be given in a particular way and access is given in some other way, the applicant is not required to pay a charge in respect of the giving of access that is greater than the charge that the applicant would have been required to pay if access had been given in the way that was requested.
+	(4) 	This section does not prevent the agency from giving access to a document in any way agreed on between the agency and the applicant.
+28.	Medical and psychiatric information 
+		If - 
+	(a)	a document to which the agency has decided to give access contains information of a medical or psychiatric nature concerning the applicant; and
+	(b)	the principal officer of the agency is of the opinion that disclosure of the information to the applicant may have a substantial adverse effect on the physical or mental health of the applicant,
+		it is sufficient compliance with this Act if access to the document is given to a suitably qualified person nominated in writing by the applicant and the agency may withhold access until a person who is, in the opinion of the agency, suitably qualified is nominated.
+29.	Personal information generally 
+		If the agency gives the applicant access to personal information about the applicant the agency has to take reasonable steps to -
+	(a)	satisfy itself of the identity of the applicant; and
+	(b)	ensure that only the applicant or the applicant's agent, nominated in writing, receives the document.
+30.	Form of notice of decisions 
+		The notice that the agency gives the applicant under section 13(1)(b) has to give details, in relation to each decision, of - 
+	(a)	the day on which the decision was made; 
+	(b)	the name and designation of the officer who made the decision;
+	(c)	if the decision is that a document is an exempt document and that access is to be given to a copy of the document from which exempt matter has been deleted under section 24 - 
+	(i)	the fact that access is to be given to an edited copy; and
+	(ii)	the reasons for classifying the matter as exempt matter and the findings on any material questions of fact underlying those reasons, referring to the material on which those findings were based;
+	(d)	if the decision is that access to a document is to be deferred - the reasons for the deferral and, if applicable, the period for which access is likely to be deferred;
+	(e)	if the decision is to give access to a document in the manner referred to in section 28 - the arrangements to be made for giving access to the document;
+	(f)	if the decision is to refuse access to a document - the reasons for the refusal and the findings on any material questions of fact underlying those reasons, referring to the material on which those findings were based;
+	(g)	if the decision is that the applicant is liable to pay a charge to the agency - the amount of the charge and the basis on which the amount was calculated; and
+	(h)	the rights of review and appeal (if any) under this Act and the procedure to be followed to exercise those rights.
+31.	Information as to existence of certain documents 
+	(1)	Nothing in this Act requires the agency to give information as to the existence or non-existence of a document containing matter that would be exempt matter under clause 1, 2 or 5 of Schedule 1.
+	(2) 	If the access application relates to a document that includes, or would if it existed include, exempt matter of a kind referred to in subsection (1), the agency may give written notice to the applicant that the agency neither confirms nor denies the existence, as a document of the agency, of such a document but that, assuming the existence of such a document, it would be an exempt document and, where such a notice is given - 
+	(a)	section 30 applies as if the decision to give such a notice were a decision referred to in that section; and
+	(b)	for the purposes of this Act, the decision is to be regarded as a refusal of access to the document because the document would, if it existed, be an exempt document.
+Division 3 - Consultation with third parties 
+32.	Documents containing personal information 
+	(1)	This section applies to a document that contains personal information about an individual (the "third party") other than the applicant.
+	(2) 	The agency is not to give access to a document to which this section applies unless the agency has taken such steps as are reasonably practicable to obtain the views of - 
+	(a)	the third party; or
+	(b)	if the third party is dead, his or her closest relative,
+		as to whether the document contains matter that is exempt matter under clause 3 of Schedule 1.
+	(3) 	If the third party, or the closest relative of a dead third party, is a child who has not turned 16 and who, in the agency's opinion, does not have the capacity to appreciate the circumstances and make a mature judgment as to the nature and significance of the document, the views of the child's guardian, or the person who has custody or care and control of the child, may be obtained for the purposes of subsection (2).
+	(4) 	If the third party, or the closest relative of a dead third party, is an intellectually handicapped person, the views of the person's closest relative or guardian may be obtained for the purposes of subsection (2).
+	(5) 	Where the views of a person are obtained under subsection (2)(b) that person is to be regarded as being the third party for the purposes of Division 5 and Part 4.
+	(6) 	This section does not apply if access is given to a copy of the document from which the personal information referred to in subsection (1) has been deleted under section 24.
+33.	Documents containing commercial or business information 
+	(1)	This section applies to a document that contains - 
+	(a)	information concerning the trade secrets of;
+	(b)	information (other than trade secrets) that has a commercial value to; or
+	(c)	any other information concerning the business, professional, commercial or financial affairs of,
+		a person (the "third party") who is not the applicant.
+	(2) 	The agency is not to give access to a document to which this section applies unless the agency has taken such steps as are reasonably practicable to obtain the views of the third party as to whether the document contains matter that is exempt matter under clause 4 of Schedule 1.
+	(3) 	An agency is not a third party for the purposes of this Part or Part 4.
+	(4) 	This section does not apply if access is given to a copy of the document from which the information referred to in subsection (1) has been deleted under section 24.
+34.	Procedure following consultation 
+	(1)	If - 
+	(a)	the agency obtains the views of a third party in relation to a document under section 32 or 33;
+	(b)	those views are that the document contains matter that is exempt matter under clause 3 or 4 of Schedule 1; and
+	(c)	the agency decides to give access to the document,
+		the agency has to - 
+	(d)	give the third party written notice of the decision without delay; and 
+	(e)	defer giving access to the document until the decision is final.
+	(2) 	The notice that the agency gives under subsection (1)(d) has to give details of - 
+	(a)	the day on which the decision was made;
+	(b)	the name and designation of the person who made the decision;
+	(c)	the reasons for the decision to give access despite the views of the third party and the findings on any material questions of fact underlying those reasons, referring to the material on which those findings were based; and
+	(d)	the rights of review and appeal under this Act and the procedure to be followed to exercise those rights.
+	(3) 	If the agency has given a notice to a third party under subsection (1)(d) in relation to a document, the notice that the agency gives the applicant under section 13(1)(b) has to inform the applicant - 
+	(a)	that a third party believes that the document is an exempt document; and
+	(b)	that access to the document will be deferred until the decision is final.
+	(4) 	For the purposes of this section an agency's decision to give access to a document is final if - 
+	(a)	the time prescribed by Division 5 of this Part or Division 3 of Part 4 for third parties to lodge applications for review of the agency's decision, or make complaints against the agency's decision, has elapsed and no application or complaint has been made by a third party; or
+	(b)	the time prescribed by Division 3 of Part 4 for third parties to make complaints against a decision made under Division 5 of this Part confirming the agency's decision has elapsed and no complaint has been made by a third party; or
+	(c)	the time prescribed under Division 5 of Part 4 for lodging an appeal arising out of a decision under Division 3 of Part 4 relating to the agency's decision, or to a review of the agency's decision, has elapsed and no appeal has been lodged; or
+	(d)	on the determination of an appeal under Division 5 of Part 4 the agency's decision has been confirmed.
+35.	Requirement to consult may be waived 
+	(1)	The agency may apply to the Commissioner for approval to make its decision on whether to give access to a document without complying with section 32 or 33, and the Commissioner may give approval on being satisfied that - 
+	(a)	it would be unreasonable to require the views of third parties to be obtained having regard to the number of third parties that would have to be consulted; and
+	(b)	the document does not contain matter that is exempt matter under clause 3 or 4 of Schedule 1.
+	(2) 	The agency may proceed in accordance with approval given under subsection (1).
+Division 4 - Exemption certificates 
+36.	Premier may issue certificate 
+	(1)	The Premier may sign an exemption certificate stating that a document mentioned in the certificate contains matter that is exempt matter under a specified provision of clause 1 or 2 of Schedule 1.
+	(2) 	An exemption certificate may be issued in a form that neither confirms nor denies the existence of a document but states that if it did exist it would contain matter that would be exempt matter under a specified provision of clause 1 or 2 of Schedule 1.
+37.	Effect of certificate 
+	(1)	An exemption certificate establishes, without the need for further proof, that the document mentioned in the certificate contains matter that is exempt matter under the provision mentioned in the certificate, or would, if it existed, contain matter that would be exempt matter under the provision so mentioned.
+	(2) 	Subsection (1) does not apply to section 77, 85(2) or 87(2).
+38.	Duration of certificate 
+	(1)	An exemption certificate ceases to have effect at the end of 2 years after it is signed unless - 
+	(a)	it is withdrawn by the Premier; or
+	(b)	it ceases to have effect under section 77; or
+	(c)	it ceases to apply by reason of an order under section 87(2),
+		before the end of that period.
+	(2) 	Subsection (1), other than paragraph (c), does not prevent the Premier from signing a further exemption certificate in respect of the same document.
+Division 5 - Internal review of decisions as to access 
+39.	Right to review 
+	(1)	A person who is aggrieved by a decision made by an agency under this Part in relation to an access application has a right to have the decision reviewed by the agency.
+	(2) 	A person is aggrieved by a decision - 
+	(a)	if the person is the access applicant and the effect of the decision is to - 
+	(i)	give access to an edited copy of a document;
+	(ii)	refuse to deal with the access application;
+	(iii)	refuse access to a document;
+	(iv)	defer the giving of access to a document;
+	(v)	give access to a document in the manner referred to in section 28 or withhold access under that section; or
+	(vi)	impose a charge, or require a deposit, that the applicant considers to be unreasonable;
+		or
+	(b)	if the person is a third party whose views were or should have been obtained under section 32 or 33, and the decision conflicts with the person's views.
+	(3) 	Review under this Division is not available in respect of - 
+	(a)	a decision made by an agency's principal officer; or
+	(b)	a decision made on an application for review under this Division.
+40.	Application for review 
+	(1)	An application for review has to - 
+	(a)	be in writing;
+	(b)	give particulars of the decision which the aggrieved person wishes to have reviewed;
+	(c)	give an address in Australia to which notices under this Act can be sent;
+	(d)	give any other information or details required under the regulations; and
+	(e)	be lodged at an office of the agency.
+	(2) 	An aggrieved person may lodge an application for review within 30 days after being given written notice of the decision.
+	(3) 	If the application for review is made by the access applicant the principal officer of the agency may allow the application to be lodged after the period mentioned in subsection (2) has expired.
+41.	Who is to deal with application for review 
+		An application for review of a decision is not to be dealt with by the person who made that decision or by a person who is subordinate to that person.
+42.	Provisions of this Part to apply 
+		An application for review has to be dealt with as if it were an access application and the provisions of Divisions 2, 3 and 4 apply accordingly.
+43.	Determination can be confirmed, varied or reversed 
+	(1)	On an application for review the agency may decide to confirm, vary or reverse the decision under review.
+	(2) 	If the agency fails to give notice of its decision on the application for review within 15 days after it is lodged, or such longer period as is agreed between the agency and the access applicant, the agency is to be taken to have decided to confirm the decision under review.
+44.	No charge for review 
+		No application fee or other charge is payable in respect of an application for review under this Division.
+Part 3 - Amendment of personal information 
+Division 1 - Applications for amendment 
+45.	Right to apply for information to be amended 
+	(1)	An individual ("the person") has a right to apply to an agency for amendment of personal information about the person contained in a document of the agency if the information is inaccurate, incomplete, out of date or misleading.
+	(2) 	A dead person's closest relative has a right to apply to an agency for amendment of personal information about the dead person and this section has effect as if the information were information about the closest relative.
+	(3) 	If the circumstances of the person require it, the agency has to take reasonable steps to help the person make an application for amendment in a manner that complies with this Act.
+	(4) 	In particular, if an application for amendment does not comply with the requirements of section 46 the agency has to take reasonable steps under subsection (3) to help the person to change the application so that it complies with those requirements.
+	(5) 	This section does not apply if another enactment provides a means or procedure by which the person can have the information amended.
+46.	How the application is made 
+	(1)	The application for amendment has to - 
+	(a)	be in writing;
+	(b)	give enough details to enable the document that contains the information to be identified;
+	(c)	give details of the matters in relation to which the person believes the information is inaccurate, incomplete, out of date or misleading;
+	(d)	give the person's reasons for holding that belief;
+	(e)	give details of the amendment that the person wishes to have made;
+	(f)	give an address in Australia to which notices under this Act can be sent;
+	(g)	give any other information or details required under the regulations; and
+	(h)	be lodged at an office of the agency.
+	(2) 	For the purposes of subsection (1)(e) the application has to state whether the person wishes the amendment to be made by - 
+	(a)	altering information;
+	(b)	striking out or deleting information;
+	(c)	inserting information;
+	(d)	inserting a note in relation to information,
+		or in 2 or more of those ways.
+47.	Transfer of applications 
+	(1)	If the agency does not hold the document containing the information but knows that the document is held by another agency, the agency may transfer the application for amendment to the other agency.
+	(2) 	If the agency holds the document containing the information but the document originated with or was received from another agency, and is more closely related to the functions of that other agency, the agency may transfer the application for amendment to that other agency together with a copy of the document.
+	(3) 	The transferring agency is to give the person written notice of the transfer without delay.
+	(4) 	The notice is to clearly state the day on which, and the agency to which, the application was transferred.
+	(5) 	The agency to which the application is transferred is to be regarded as having received the application on the day on which it was received by the transferring agency.
+48.	Agency may amend information 
+	(1)	If the agency decides to amend the information it may make the amendment by - 
+	(a)	altering information;
+	(b)	striking out or deleting information;
+	(c)	inserting information; or
+	(d)	inserting a note in relation to information,
+		or in 2 or more of those ways.
+	(2) 	If the agency inserts a note in relation to information the note has to - 
+	(a)	give details of the matters in relation to which the information is inaccurate, incomplete, out of date or misleading; and
+	(b)	if the information is incomplete or out of date - set out whatever information is needed to complete the information or bring it up to date.
+	(3) 	The agency is not to amend information under subsection (1) in a manner that - 
+	(a)	obliterates or removes the information; or
+	(b)	results in the destruction of a document containing the information,
+		unless the Commissioner has certified in writing that it is impracticable to retain the information or that, in the opinion of the Commissioner, the prejudice or disadvantage that the continued existence of the information would cause to the person outweighs the public interest in maintaining a complete record of information.
+	(4)	Before information is amended under subsection (1) in a manner that - 
+	(a)	obliterates or removes the information; or
+	(b)	results in the destruction of a document containing the information,
+		and that contravenes the State Records Act 2000, a record keeping plan made under that Act or the archives keeping plan made under that Act, the Commissioner shall provide the State Records Commission with a copy of the certificate issued by the Commissioner under subsection (3).
+	[Section 48 amended by No. 53 of 2000 s. 9.]
+49.	Notice of decision 
+	(1)	The agency has to give the person written notice of its decision on the application for amendment.
+	(2) 	Section 13 applies with any necessary modifications to a notice under subsection (1) except that the references to 45 days are to be read as references to 30 days.
+	(3) 	Section 30(a) and (b) apply to a notice under subsection (1).
+	(4) 	If the agency decides to amend the information the notice has to give details of the amendment made.
+	(5) 	If the agency decides not to amend the information in accordance with the application the notice has to give details of - 
+	(a)	the reasons for the decision and the findings on any material questions of fact underlying those reasons, referring to the material on which those findings were based;
+	(b)	the rights of review and appeal under this Act and the procedure to be followed to exercise those rights; and
+	(c)	the right to request that a notation or attachment be made to the information and the procedure to be followed to exercise that right.
+	(6) 	If the application was transferred to the agency under section 47 and the agency decides to amend the information, the agency has to give a copy of the notice to the transferring agency.
+50.	Request for notation or attachment disputing accuracy of information 
+	(1)	If the agency decides not to amend the information in accordance with the application the person may, in writing, request the agency to make a notation or attachment to the information - 
+	(a)	giving details of the matters in relation to which the person claims the information is inaccurate, incomplete, out of date or misleading; and
+	(b)	if the person claims the information is incomplete or out of date - setting out the information that the person claims is needed to complete the information or bring it up to date.
+	(2) 	A request may be made under this section whether or not the person has taken steps to have the agency's decision reviewed under Part 4.
+	(3) 	The agency has to comply with the request unless it considers that the notation or attachment that the person has requested to be made to the information is defamatory or unnecessarily voluminous.
+	(4) 	If the agency decides not to comply with the request it has to give the person written notice of its decision giving details of -
+	(a)	the reasons for the decision and the findings on any material questions of fact underlying those reasons, referring to the material on which those findings were based; and
+	(b)	the rights of review under this Act and the procedure to be followed to exercise those rights.
+	(5) 	This section does not prevent the agency from making the requested notation or attachment in an edited or abbreviated form, but the making of an edited or abbreviated notation or attachment does not constitute compliance with the request for the purposes of subsection (4).
+51.	Other users of information to be advised of requested amendment 
+	(1)	If after a request is made under section 50 the agency discloses the information to another person (including another agency) the agency has to give that other person a statement that a claim has been made under this Act that the information is inaccurate, incomplete, out of date or misleading.
+	(2) 	If a notation or attachment has been made under section 50 particulars of the notation or attachment have to be included in or attached to the statement given under subsection (1).
+52.	Agency may give reasons for not amending information 
+		This Division does not prevent the agency from adding to a notation or attachment made under section 50 the agency's reasons for deciding not to amend the information in accordance with the application, or from including those reasons in, or attaching them to, a statement given under section 51(1).
+53.	No charge for application or request 
+		No fee or other charge is payable in respect of an application or request under this Division.
+Division 2 - Internal review of decisions as to amendment of information 
+54.	Right to review 
+	(1)	If under Division 1 an agency decides - 
+	(a)	not to amend information in accordance with an application for amendment; or
+	(b)	not to comply with a request to make a notation or attachment to information,
+		the applicant for amendment has a right to have the decision reviewed by the agency.
+	(2) 	Sections 39(3), 40, 41, 43 and 44 apply with any necessary modifications to an application for review under this Division.
+	(3) 	An application for review is to be dealt with as if it were an application for amendment or a request for a notation or attachment to be made to information, as the case may require, and the provisions of Division 1 apply accordingly.
+Part 4 - External review of decisions; appeals 
+Division 1 - Information Commissioner 
+55.	Information Commissioner 
+	(1)	An office of Information Commissioner is created.
+	(2) 	The office is not an office in the Public Service.
+56.	Appointment and terms and conditions 
+	(1)	The Commissioner is to be appointed by the Governor.
+	(2) 	Subject to this Division, the Commissioner holds office for a period, not exceeding 7 years, fixed by the instrument of appointment and is eligible for one or more further appointments.
+	(3) 	Subject to the Salaries and Allowances Act 1975, the Commissioner is entitled to be paid such remuneration as is determined by the Governor.
+	(3a)	Remuneration paid to the Commissioner under subsection (3) is to be charged to the Consolidated Fund and this subsection appropriates the Consolidated Fund accordingly.
+	(4) 	The rate of remuneration of the Commissioner is not to be reduced during a term of office without the Commissioner's consent.
+	(5) 	The Commissioner is entitled to such leave of absence as the Governor determines.
+	(6) 	Subject to this Division the Governor may determine other terms and conditions of service (if any) that apply to the Commissioner.
+	[Section 56 amended by No. 49 of 1996 s. 54.]
+57.	Resignation 
+		The Commissioner may resign from office by a signed notice of resignation addressed to the Governor and the resignation takes effect on the day on which the notice is received by the Governor or on such later day as is specified in the notice.
+58.	Suspension and removal of Commissioner 
+	(1)	If the Governor is satisfied that the Commissioner - 
+	(a)	is physically or mentally incapable of performing the duties of the office of Commissioner;
+	(b)	has shown incompetence or neglect in performing those duties; or
+	(c)	has been guilty of misbehaviour,
+		the Governor may suspend the Commissioner from office.
+	(2) 	In subsection (1)(c) "misbehaviour" includes conduct that renders the Commissioner unfit to hold office as Commissioner whether or not the conduct relates to any function of the office.
+	(3) 	After being suspended from office under subsection (1) the Commissioner is entitled to be restored to office unless - 
+	(a)	a statement of the grounds of suspension is laid before each House of Parliament during the first 7 sitting days of that House following the suspension; and
+	(b)	each House of Parliament, during the session in which the statement is so laid, and within 30 days of it being so laid, passes an address praying for the removal of the Commissioner from office.
+	(4) 	If the Commissioner is suspended from office under subsection (1) and is not restored to office under subsection (3), the office of Commissioner becomes vacant.
+59.	Acting Information Commissioner 
+	(1)	The Governor may appoint a person to act in the office of the Commissioner in such cases or in the circumstances set out in this section, and the person so appointed is to be known as the Acting Information Commissioner.
+	(2) 	An appointment may be made under this section - 
+	(a)	when the Commissioner is on leave of absence, or is unable to perform the functions of the office of Commissioner, or is absent from the State;
+	(b)	when the Commissioner has been suspended; or
+	(c)	when the office of Commissioner is vacant,
+		but an Acting Commissioner is not to so act for a period exceeding 12 months.
+	(3) 	The Acting Commissioner, while so acting, may exercise the functions of the Commissioner, and anything done by the Acting Commissioner in so exercising those functions has the like effect as if it were done by the Commissioner.
+	(4) 	The Acting Commissioner is entitled to such remuneration and allowances and leave of absence as the Governor may determine.
+	(5) 	An appointment under this section - 
+	(a)	may be made at any time and may be terminated at any time by the Governor;
+	(b)	may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+60.	Oath or affirmation of office 
+	(1)	Before commencing to perform the functions of the office of Commissioner or Acting Commissioner a person has to take an oath or make an affirmation that he or she will faithfully and impartially perform the functions of the office, and that he or she will not, except in accordance with this Act, divulge any information received under this Act.
+	(2) 	The oath or affirmation is to be administered by the Speaker of the Legislative Assembly.
+	(3) 	If the office of Speaker is vacant or the Speaker is absent or otherwise unable to administer the oath or affirmation, the President of the Legislative Council is to administer the oath or affirmation.
+	(4) 	If subsections (2) and (3) do not enable the oath or affirmation to be administered, it is to be administered by a person appointed by the Governor for the purpose.
+61.	Staff of Commissioner 
+	(1)	The Governor may, on the recommendation of the Commissioner, appoint such staff as are necessary for the performance of the Commissioner's functions.
+	(2) 	Subject to this Act the terms and conditions of service of a person appointed under subsection (1) are those determined by the Governor.
+	(3) 	Part 3 of the Public Sector Management Act 1994 does not apply to a person appointed under subsection (1).
+	(4) 	The Commissioner may by arrangement with the Minister concerned and, if appropriate, the employing authority, within the meaning of the Public Sector Management Act 1994, of the officer or employee, make use, either full-time or part-time, of the services of any officer or employee employed in the Public Service or in a State instrumentality or otherwise in the service of the Crown in right of the State.
+	(5) 	Before commencing to carry out his or her duties under this Act a person who is appointed under subsection (1), or whose services are used under subsection (4), has to take an oath or make an affirmation that he or she will faithfully and impartially perform those duties, and that he or she will not, except in accordance with this Act, divulge any information received under this Act.
+	(6) 	The oath or affirmation has to be administered by the Commissioner.
+	[Section 61 amended by No. 32 of 1994 s. 19.]
+62.	Supplementary provisions as to Commissioner and staff 
+	(1)	In this section "relevant office" means the office of Commissioner or an office or position under section 61(1).
+	(2)	If a person was a contributor within the meaning of the Superannuation and Family Benefits Act 1938 immediately before being appointed to a relevant office the person may continue to be a contributor under that Act after being appointed.
+	[(3)	repealed]
+	(4) 	If a person occupied an office in the Public Service immediately before being appointed to a relevant office, the person retains existing and accruing entitlements in respect of leave of absence as if service in the relevant office were a continuation of service in the office in the Public Service.
+	(5) 	If a person occupied an office in the Public Service immediately before being appointed to the office of Commissioner, the person is entitled to be appointed to an office in the Public Service, not lower in classification and salary than the office which the person occupied if - 
+	(a)	the person ceases to hold office as Commissioner on the completion of a periodical appointment; and
+	(b)	at that time the person is eligible to occupy an office in the Public Service.
+	(6) 	A person who ceases to hold a relevant office and becomes the holder of an office in the Public Service retains existing and accruing entitlements in respect of leave of absence as if service in the Public Service were a continuation of service in the relevant office.
+	[Section 62 amended by No. 57 of 1997 s. 62(2).]
+Division 2 - Functions of Information Commissioner 
+63.	Functions of Commissioner 
+	(1)	The main function of the Commissioner is to deal with complaints made under this Part about decisions made by agencies in respect of access applications and applications for amendment of personal information.
+	(2) 	The functions of the Commissioner also include - 
+	(a)	imposing reductions of time under section 13(4) and allowing extensions of time under section 13(5) or (7);
+	(b)	giving approvals under section 35(1);
+	(c)	issuing certificates under section 48(3);
+	(d)	ensuring that agencies are aware of their responsibilities under this Act;
+	(e)	ensuring that members of the public are aware of this Act and their rights under it;
+	(f)	providing assistance to members of the public and agencies on matters relevant to this Act. 
+	(3) 	If in dealing with a complaint the Commissioner forms the opinion that there is evidence that an officer of an agency has been guilty of a breach of duty, or of misconduct, in the administration of this Act, the Commissioner may take such steps as he or she considers appropriate to bring the evidence to the notice of - 
+	(a)	if the person is the principal officer of the agency but is not a Minister - the Minister responsible for the agency; or
+	(aa)	if the person is the principal officer of a contractor or subcontractor - the Minister to whom the administration of the Court Security and Custodial Services Act 1999 or the Prisons Act 1981 is committed, as is relevant to the case; or
+	(b)	if the person is a Minister - the Parliament; or
+	(c)	in any other case - the principal officer of the agency.
+	[Section 63 amended by No. 43 of 1999 s. 20; No. 47 of 1999 s. 12.]
+64.	General powers 
+		The Commissioner has power to do all things that are necessary or convenient to be done for or in connection with the performance of the Commissioner's functions.
+Division 3 - Complaints and procedure for dealing with them 
+65.	Complaints 
+	(1)	A complaint may be made against an agency's decision - 
+	(a)	to give access to a document;
+	(b)	to give access to an edited copy of a document;
+	(c)	to refuse to deal with an access application;
+	(d)	to refuse access to a document;
+	(e)	to defer the giving of access to a document;
+	(f)	to give access to a document in the manner referred to in section 28 or withhold access under that section; or
+	(g)	to impose a charge or require the payment of a deposit.
+	(2) 	A complaint under subsection (1) may be made by - 
+	(a)	the access applicant; or
+	(b)	a third party.
+	(3) 	A complaint may be made against an agency's decision - 
+	(a)	not to amend information in accordance with an application for amendment under Part 3; or
+	(b)	not to comply with a request by the applicant for amendment to make a notation or attachment to information.
+	(4) 	A complaint under subsection (3) may be made by the applicant for amendment.
+66.	How and when complaints can be made 
+	(1)	A complaint has to - 
+	(a)	be in writing;
+	(b)	give particulars of the decision to which the complaint relates;
+	(c)	give an address in Australia to which notices under the Act can be sent;
+	(d)	give any other information or details required under the regulations; and
+	(e)	be lodged at the office of the Commissioner.
+	(2) 	An access applicant or applicant for amendment may lodge a complaint within 60 days after being given written notice of the decision.
+	(3) 	A third party may lodge a complaint within 30 days after being given written notice of the decision.
+	(4) 	The Commissioner may allow a complaint to be lodged after the period mentioned in subsection (2) or (3) has expired.
+	(5) 	Subject to subsection (6), if internal review of a decision is available under Part 2 or 3 a complaint is not to be made in respect of the decision unless internal review has been applied for and completed.
+	(6) 	The Commissioner may allow a complaint to be made even though internal review has not been applied for or has not been completed if the complainant shows cause why internal review should not be applied for or should not be completed.
+67.	Commissioner may decide not to deal with a complaint 
+	(1)	The Commissioner may, at any time after receiving a complaint, decide not to deal with the complaint, or to stop dealing with the complaint, because - 
+	(a)	it does not relate to a matter the Commissioner has power to deal with; or
+	(b)	it is frivolous, vexatious, misconceived or lacking in substance.
+	(2) 	If the Commissioner decides not to deal with the complaint, or to stop dealing with the complaint, the Commissioner has to inform the complainant, in writing, of the decision and the reasons for the decision.
+68.	Notification of complaints 
+	(1)	The Commissioner has to notify the agency, in writing, of any complaint made under this Division unless a decision not to deal with it has been made under section 67.
+	(2) 	If the complaint relates to an access application, notification of the complaint has to be given, in writing, by the agency - 
+	(a)	in the case of a complaint made by the access applicant where the agency has decided to refuse access to a document, or give access to an edited copy of a document, on the grounds that matter in the document is exempt matter under clause 3 or 4 of Schedule 1 - to any third party;
+	(b)	in the case of a complaint made by a third party - to the access applicant.
+69.	Parties to a complaint 
+	(1)	The complainant and the agency are parties to every complaint.
+	(2) 	In the case of a complaint made by an access applicant any third party is entitled to be joined as a party on giving written notice to the Commissioner.
+	(3) 	In the case of a complaint made by a third party the access applicant is entitled to be joined as a party on giving written notice to the Commissioner.
+	(4) 	Without limiting section 70(1), if the Commissioner is satisfied that another person or body might be affected by a decision made on the complaint the Commissioner may obtain information or receive submissions from that person or body.
+70.	Procedure 
+	(1)	In order to deal with a complaint the Commissioner may obtain information from such persons and sources, and make such investigations and inquiries, as the Commissioner thinks fit.
+	(2) 	Proceedings are to be conducted with as little formality and technicality, and with as much expedition, as the requirements of this Act and a proper consideration of the matters before the Commissioner permit, and the Commissioner is not bound by rules of evidence.
+	(3) 	The Commissioner has to ensure that the parties to a complaint are given a reasonable opportunity to make submissions to the Commissioner.
+	(4) 	The Commissioner may determine the procedure for investigating and dealing with complaints and give any necessary directions as to the conduct of the proceedings.
+	(5) 	For example, the Commissioner may - 
+	(a)	deal with the complaint without holding formal proceedings or hearings;
+	(b)	direct that all submissions are to be in writing;
+	(c)	require parties to attend compulsory conferences.
+	(6) 	If a party is required or permitted to appear before the Commissioner the party may be represented by a legal practitioner or by any other person.
+71.	Conciliation 
+	(1)	The Commissioner may, at any stage, suspend inquiries, investigations or other proceedings so that efforts can be made to resolve the complaint by conciliation or negotiation between the parties.
+	(2) 	The Commissioner may give such directions and do such other things as the Commissioner thinks fit in order to facilitate the resolution of a complaint by negotiation or conciliation.
+	(3) 	Without limiting subsection (2), the Commissioner may nominate a person to act as a conciliator in relation to a complaint.
+	(4) 	A person nominated as a conciliator - 
+	(a)	may require the parties to the complaint to attend compulsory conferences; but
+	(b)	does not have power to require the production of the requested documents or to require the provision of information.
+72.	Power to obtain information and documents and compel attendance 
+	(1)	If the Commissioner has reason to believe that a person has information or a document relevant to a complaint, the Commissioner may give to the person a written notice requiring the person - 
+	(a)	to give the information to the Commissioner in writing signed by the person or, in the case of a body corporate, by an officer of the body corporate; or
+	(b)	to produce the document to the Commissioner.
+	(2) 	A notice given by the Commissioner under subsection (1) has to state - 
+	(a)	the place at which the information or document is to be given or produced to the Commissioner; and
+	(b)	the time at which, or the period within which, the information or document is to be given or produced.
+	(3) 	If the Commissioner has reason to believe that a person has information relevant to a complaint, the Commissioner may give to the person a written notice requiring the person to attend before the Commissioner at a time and place specified in the notice to answer questions relevant to the complaint.
+73.	Power to examine 
+	(1)	The Commissioner may administer an oath or affirmation to a person required under section 72 to attend before the Commissioner and may examine such a person on oath or affirmation.
+	(2) 	The oath or affirmation to be taken or made by a person for the purposes of this section is an oath or affirmation that the answers the person will give will be true.
+74.	Commissioner to ensure non-disclosure of certain matter 
+	(1)	In dealing with a complaint the Commissioner has to give such directions and do such things as the Commissioner thinks necessary to avoid the disclosure of - 
+	(a)	exempt matter; or
+	(b)	information as to the existence or non-existence of a document containing matter exempt under clause 1, 2 or 5 of Schedule 1.
+	(2) 	The Commissioner is not to include exempt matter, or information of a kind referred to in subsection (1)(b), in a decision on a complaint or in reasons given for the decision.
+	(3) 	If the question of whether or not a document is a document of the agency is in issue, subsections (1) and (2) apply to the contents of the document as if those contents were exempt matter.
+75.	Production of documents for inspection 
+	(1)	The Commissioner may require an agency to produce a document for inspection so that the Commissioner can decide whether the document contains exempt matter or is a document of the agency.
+	(2) 	The Commissioner has to do such things as the Commissioner thinks necessary to ensure that any document produced to the Commissioner under subsection (1) is not disclosed to a person other than a member of the staff of the Commissioner in the course of the performance of his or her duties as a member of that staff, and to ensure the return of the document to the agency that produced it when the complaint has been dealt with.
+76.	Decisions of the Commissioner 
+	(1)	In dealing with a complaint the Commissioner has, in addition to any other power, power to - 
+	(a)	review any decision that has been made by the agency in respect of the access application or application for amendment; and
+	(b)	decide any matter in relation to the access application or application for amendment that could, under this Act, have been decided by the agency.
+	(2) 	The Commissioner has to make a decision in writing - 
+	(a)	confirming the agency's decision to which the complaint relates;
+	(b)	varying the agency's decision to which the complaint relates; or
+	(c)	setting aside the agency's decision to which the complaint relates and making a decision in substitution for that decision.
+	(3) 	The Commissioner has to make a decision on the complaint within 30 days after the complaint was made unless the Commissioner considers that it is impracticable to do so.
+	(4) 	If it is established that a document is an exempt document, the Commissioner does not have power to make a decision to the effect that access is to be given to the document.
+	(5) 	The Commissioner has to include in the decision the reasons for the decision and the findings on material questions of fact underlying those reasons, referring to the material on which those findings were based.
+	(6) 	The Commissioner has to give a copy of the decision to each party.
+	(7) 	The decision of the Commissioner is to be regarded as the decision of the agency and has effect accordingly.
+	(8) 	The Commissioner has to arrange to have his or her decisions published in full or in an abbreviated, summary or note form whichever is appropriate in order to ensure that the public is adequately informed of the grounds on which such decisions are made.
+77.	Review where an exemption certificate has been issued 
+	(1)	If an exemption certificate has been given in respect of a document the Commissioner may, on the application of the access applicant, consider the grounds on which it is claimed that the document contains exempt matter or would, if it existed, contain exempt matter.
+	(2) 	The agency is the respondent to an application under subsection (1) and the Premier is entitled to be a party to proceedings in relation to the application.
+	(3) 	If, after considering the matter, the Commissioner is satisfied that there were no reasonable grounds for claiming that the document contains exempt matter or would, if it existed, contain exempt matter, the Commissioner has to make a decision to that effect, and has to include in the decision the reasons for the decision and the findings on material questions of fact underlying those reasons, referring to the material on which those findings were based.
+	(4) 	If a decision is made under subsection (3), the exemption certificate ceases to have effect at the end of 28 days after the decision was made unless, before that time, the Premier notifies the Commissioner in writing that the certificate is confirmed.
+	(5) 	The Premier has to cause a copy of a notice given under subsection (4) - 
+	(a)	to be laid before the Legislative Assembly and the Legislative Council within 5 sittings days of that House after it was given; and
+	(b)	to be given to the access applicant.
+	(6) 	A notice under subsection (4) has to give details of - 
+	(a)	the reasons for the decision to confirm the exemption certificate; and
+	(b)	the findings on material questions of fact underlying those reasons, referring to the material on which those findings were based,
+		and may be given in a form that neither confirms nor denies the existence of the document.
+	(7) 	If the Premier withdraws the exemption certificate before the end of the period of 28 days referred to in subsection (4) the Premier has to notify the Commissioner and each party as soon as is practicable.
+78.	Reference of questions of law to Supreme Court 
+	(1)	The Commissioner may refer to the Supreme Court any question of law that arises in the course of dealing with a complaint.
+	(2) 	A question may be referred under this section on the Commissioner's own initiative or at the request of a party to the complaint.
+	(3) 	The Supreme Court has jurisdiction to hear and determine a question of law referred to it under this section and, in exercising that jurisdiction, may - 
+	(a)	as well as determining that question, determine any related or incidental question of law that it considers to be raised; or
+	(b)	instead of determining that question, determine any other question of law that it considers to be more pertinent.
+	(4) 	If a question of law is referred to the Supreme Court under this section, the Commissioner is not to - 
+	(a)	give a decision on the complaint to which the question is relevant while the reference is pending; or
+	(b)	proceed in a manner, or make a decision, that is inconsistent with the decision of the Supreme Court on the question.
+	(5) 	A party, other than the Commissioner or a party who has requested the reference, does not have to appear, be represented or make submissions at, or otherwise participate in, the hearing of a reference under this section, and a party who does not participate in a reference is not liable for any costs in relation to the reference.
+Division 4 - General provisions as to the Information Commissioner and staff 
+79.	Delegation 
+		The Commissioner may, in writing, delegate to a member of the staff of the Commissioner the performance of any of the functions of the Commissioner, other than the power to make a requirement or decision under section 75, 76 or 77 and the power to delegate under this section.
+80.	Commissioner and staff not to be sued 
+		The Commissioner, an Acting Commissioner and members of the staff of the Commissioner are not liable to an action, suit or proceeding in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function under this Act.
+81.	Restrictions under other laws not applicable 
+	(1)	No obligation to maintain secrecy or other restriction on the disclosure of information obtained by or given to agencies, whether imposed under an enactment or other law, applies to the disclosure of information to the Commissioner for the purposes of Division 3.
+	(2) 	Legal professional privilege does not apply to the production of documents or the giving of evidence by an agency, or an officer of an agency, to the Commissioner for the purposes of Division 3.
+	(3) 	Subject to subsections (1) and (2), every party to a complaint has the same privileges in relation to the giving of evidence and the production of documents and things that he or she would have as a witness in proceedings before a court.
+82.	Secrecy 
+	(1)	In this section - 
+	"confidential information" means information obtained in the course of the performance of functions under this Act.
+	(2)	If a person who is or has been the Commissioner, the Acting Commissioner or a member of the staff of the Commissioner - 
+	(a)	discloses any confidential information other than for the purposes of this Act or another written law or proceedings arising under or in relation to this Act or another written law; or
+	(b)	takes advantage of confidential information to benefit himself or herself or another person,
+		that person commits an offence.
+	Penalty: $6 000.
+	[Section 82 amended by No. 50 of 2003 s. 64(2).]
+83.	Failure to produce documents or attend proceedings 
+		If a person who has been required under Division 3 to - 
+	(a)	give information;
+	(b)	produce a document; or 
+	(c)	attend before the Commissioner or a conciliator,
+		refuses or fails, without reasonable excuse, to comply with the requirement, the person commits an offence.
+	Penalty:	
+	(a)	for an individual - $6 000;
+	(b) 	for a body corporate - $10 000.
+	[Section 83 amended by No. 50 of 2003 s. 64(3).]
+84.	Costs of parties to complaints 
+		The costs incurred by a party to a complaint are payable by that party except that the Commissioner may order a party to pay any costs of another party that the Commissioner considers to be attributable to exceptionable or unreasonable conduct of the first party.
+Division 5 - Appeals to the Supreme Court 
+85.	Appeals to Supreme Court 
+	(1)	An appeal lies to the Supreme Court on any question of law arising out of any decision of the Commissioner on a complaint relating to an access application.
+	(2) 	An appeal lies to the Supreme Court from a decision - 
+	(a)	of the Commissioner refusing or failing to make a decision of the kind mentioned in section 77(3); and
+	(b)	by the Premier confirming an exemption certificate pursuant to section 77(4).
+	(3) 	There is no appeal under subsection (1) in relation to a decision of the Commissioner as to - 
+	(a)	the deferral of the giving of access to a document;
+	(b)	the charges to be imposed for dealing with the access application;
+	(c)	the payment of a deposit under section 18.
+	(4) 	An appeal lies to the Supreme Court on any question of law arising out of a decision of the Commissioner on a complaint relating to an application for amendment of personal information if the effect of the decision is that information is not to be amended in accordance with the application.
+	(5) 	There is no appeal under subsection (4) in relation to a decision of the Commissioner as to whether or not to deal with a complaint or in relation to any other decision of the Commissioner not mentioned in subsection (4).
+	(6) 	An appeal under subsection (1) or (4) may be brought by any party to the complaint.
+	(6a) 	An appeal under subsection (2) may be brought by the access applicant.
+	(7) 	An appeal may be lodged within the time prescribed or allowed under Rules of Court.
+	[Section 85 amended by No. 73 of 1994 s. 4.]
+86.	Parties to an appeal 
+	(1)	The agency is a party to an appeal even if it is neither the appellant nor the respondent.
+	(2) 	Any other party to the complaint is entitled to be joined as a party to an appeal under section 85(1) or (4) in accordance with Rules of Court.
+	(3) 	A third party is entitled to be joined as a party to an appeal under section 85(2) in accordance with Rules of Court.
+	[Section 86 amended by No. 73 of 1994 s. 4.]
+87.	Decision on appeal 
+	(1)	On the determination of an appeal under section 85(1), (2)(a) or (4) the Supreme Court may by order - 
+	(a)	confirm the Commissioner's decision;
+	(b)	vary the Commissioner's decision; or
+	(c)	set aside the Commissioner's decision and - 
+	(i)	make a decision in substitution for that decision; or
+	(ii)	remit the matter to the Commissioner for reconsideration with any direction or recommendation the Supreme Court thinks fit.
+	(2) 	On the determination of an appeal under section 85(2)(b) the Supreme Court may order that an exemption certificate no longer apply to a document.
+	(3) 	If it is established that a document is an exempt document the Supreme Court does not have power to make a decision to the effect that access is to be given to the document.
+	[Section 87 amended by No. 73 of 1994 s. 4.]
+Division 6 - General provisions as to proceedings in the Supreme Court 
+88.	Definition 
+		In this Division - 
+	"review proceedings" means proceedings under section 78 or 85.
+89.	Power to impose terms on orders 
+	(1)	Subject to subsections (2) and (3), an order or decision made by the Supreme Court in review proceedings may be made on such terms and conditions (including terms and conditions as to costs) as the Supreme Court thinks fit.
+	(2) 	If the agency is the appellant under section 85 it bears its own costs.
+	(3) 	The Commissioner is liable for his or her own costs in relation to a reference under section 78 but otherwise is not liable for any costs in respect of his or her decisions or review proceedings.
+90.	Court to ensure non-disclosure of certain matter 
+	(1)	In hearing and determining review proceedings the Court has to avoid the disclosure of - 
+	(a)	exempt matter; or
+	(b)	information as to the existence or non-existence of a document containing matter exempt under clause 1, 2 or 5 of Schedule 1.
+	(2) 	If in the opinion of the Supreme Court it is necessary to do so in order to prevent disclosure of exempt matter or matter of a kind referred to in subsection (1)(b) the Supreme Court may receive evidence and hear argument in the absence of the public and any party or representative of a party.
+	(3) 	The Supreme Court is not to include exempt matter, or information of a kind referred to in subsection (1)(b) in its decision in review proceedings or in reasons given for the decision.
+	(4) 	If the question of whether or not a document is a document of the agency is in issue, subsections (1), (2) and (3) apply to the contents of the document as if those contents were exempt matter.
+91.	Production of documents 
+	(1)	For the purpose of hearing and determining review proceedings the Supreme Court may require the agency to produce a document in evidence before it.
+	(2) 	The Supreme Court is entitled to access to and to view documents for the purpose of determining an appeal under section 85(2)(b).
+	(3) 	The Supreme Court has to ensure that the confidentiality of a document produced under this section is maintained and arrange for its return to the agency when the review proceedings have been determined.
+92.	Restrictions under other laws not applicable 
+	(1)	No obligation to maintain secrecy or other restriction on the disclosure of information obtained by or given to agencies, whether imposed under an enactment or other law, applies to the disclosure of information for the purposes of review proceedings.
+	(2) 	Legal professional privilege does not apply to the production of documents or the giving of evidence by an agency, or an officer of an agency, to the Supreme Court for the purposes of review proceedings.
+93.	Other procedure 
+		To the extent that it is not prescribed by this Act or Rules of Court the procedure on review proceedings may be determined by the Supreme Court.
+Part 5 - Publication of information about agencies 
+94.	Information statements 
+		A reference in this Act to an "information statement", in relation to an agency, is a reference to a statement that contains - 
+	(a)	a statement of the structure and functions of the agency;
+	(b)	a description of the ways in which the functions (including, in particular, the decision-making functions) of the agency affect members of the public;
+	(c)	a description of any arrangements that exist to enable members of the public to participate in the formulation of the agency's policy and the performance of the agency's functions;
+	(d)	a description of the kinds of documents that are usually held by the agency including - 
+	(i)	which kinds of documents can be inspected at the agency under a written law other than this Act (whether or not inspection is subject to a fee or charge);
+	(ii)	which kinds of documents can be purchased; and
+	(iii)	which kinds of documents can be obtained free of charge;
+	(e)	a description of the agency's arrangements for giving members of the public access to documents mentioned in paragraph (d)(i), (ii) or (iii) including details of library facilities of the agency that are available for use by members of the public;
+	(f)	a description of the agency's procedures for giving members of the public access to the documents of the agency under Part 2 including - 
+	(i)	the designation of the officer or officers to whom initial inquiries as to access to documents can be made; and
+	(ii)	the address or addresses at which access applications can be lodged;
+	(g)	a description of the agency's procedures for amending personal information in the documents of the agency under Part 3 including - 
+	(i)	the designation of the officer or officers to whom initial inquiries as to amendment of personal information can be made; and
+	(ii)	the address or addresses at which applications for amendment of personal information can be lodged.
+95.	Internal manuals 
+		A reference in this Act to an "internal manual", in relation to an agency, is a reference to - 
+	(a)	a document containing interpretations, rules, guidelines, statements of policy, practices or precedents;
+	(b)	a document containing particulars of any administrative scheme;
+	(c)	a document containing a statement of the manner, or intended manner, of administration of any written law or administrative scheme;
+	(d)	a document describing the procedures to be followed in investigating any contravention or possible contravention of any written law or administrative scheme; or
+	(e)	any other document of a similar kind, 
+		(other than a written law) that is used by the agency in connection with the performance of such of its functions as affect or are likely to affect rights, privileges or other benefits, or obligations, penalties or other detriments, to which members of the public are or may become entitled, eligible, liable or subject.
+96.	Publication of information statements 
+	(1)	An agency (other than a Minister or an exempt agency) has to cause an up-to-date information statement about the agency to be published in a manner approved by the Minister administering this Act - 
+	(a) 	within 12 months after the commencement of this Act; and
+	(b)	at subsequent intervals of not more than 12 months.
+	(2) 	In giving approval under subsection (1) the Minister has to have regard, amongst other things, to the need to assist members of the public to exercise their rights under this Act effectively.
+	(3) 	In the case of an agency that comes into existence after the commencement of this Act the reference in subsection (1)(a) to the commencement of this Act is to be read as a reference to the time when the agency commences its operations.
+	(4)	A subcontractor does not have to comply with subsection (1) if the relevant contractor has complied with that subsection on behalf of the subcontractor.
+	[Section 96 amended by No. 47 of 1999 s. 13.]
+97.	Information statements and internal manuals to be made available 
+	(1)	An agency (other than a Minister or an exempt agency) has to cause copies of - 
+	(a)	its most up-to-date information statement; and
+	(b)	each of its internal manuals,
+		to be made available for inspection and purchase by members of the public but may delete any exempt matter from those copies.
+	(2) 	An agency has to provide a copy of its information statement to the Commissioner as soon as is practicable after the statement is published under section 96.
+	(3)	A subcontractor does not have to comply with subsections (1) and (2) if the relevant contractor has complied with those subsections on behalf of the subcontractor.
+	[Section 97 amended by No. 47 of 1999 s. 14.]
+Part 6 - Miscellaneous 
+98.	Applications on behalf of children and handicapped persons 
+		Without limiting the ability of persons to make applications on behalf of other persons generally, an access application or application for amendment may be made - 
+	(a)	on behalf of a child by the child's guardian or the person who has custody or care and control of the child;
+	(b)	on behalf of an intellectually handicapped person by the person's closest relative or guardian.
+99.	Defunct agencies 
+	(1)	When an agency ceases to exist and its functions are taken over by another agency, the functions taken over include any outstanding responsibilities of the defunct agency under this Act.
+	(2) 	When an agency ceases to exist and its functions are not taken over by another agency, any outstanding responsibilities of the defunct agency under this Act are to be performed by an agency nominated by the Minister administering this Act.
+	(3) 	In this section "agency" does not include an exempt agency.
+100.	Who makes decisions for agencies 
+	(1)	Decisions made under this Act by an agency are to be made by - 
+	(a)	the principal officer of the agency; or
+	(b)	an officer of the agency directed by the principal officer for that purpose, either generally or in a particular case.
+	(2) 	Subsection (1)(b) does not apply if the agency is a Minister.
+101.	Time of service of notices 
+	(1)	If a notice under this Act is given to a person by post it is to be regarded as having been given to the person at the end of the fifth day after it was posted.
+	(2) 	If a notice under this Act is given to a person by facsimile it is to be regarded as having been given to the person on the day on which it was transmitted.
+102.	Burden of proof 
+	(1)	Except where subsection (2) or (3) applies, in any proceedings concerning a decision made under this Act by an agency, the onus is on the agency to establish that its decision was justified or that a decision adverse to another party should be made.
+	(2) 	If a third party initiates or brings proceedings opposing the giving of access to a document, the onus is on the third party to establish that access should not be given or that a decision adverse to the access applicant should be made.
+	(3) 	If, under a provision of Schedule 1, matter is not exempt matter if its disclosure would, on balance, be in the public interest, the onus is on the access applicant to establish that disclosure would, on balance, be in the public interest.
+103.	No review of decisions etc. except under this Act 
+		Except as provided by this Act, none of the following is liable to be challenged, appealed against, reviewed, quashed or called in question in or by any court on any account - 
+	(a)	an act, omission or decision of an agency, or any other thing done by an agency, under this Act;
+	(b)	an act, omission or decision of the Premier under Division 4 of Part 2 or under section 77;
+	(c)	an act, omission, decision or proceeding of the Commissioner, or any other thing done by the Commissioner.
+104.	Protection from defamation or breach of confidence actions 
+	(1)	If access to a document is given under a decision under this Act, and if the person who makes the decision believes, in good faith, when making the decision, that this Act permits or requires the decision to be made - 
+	(a)	an action for defamation or breach of confidence does not lie against the Crown, an agency or an officer of an agency merely because of the making of the decision or the giving of access; and
+	(b)	an action for defamation or breach of confidence in respect of any publication involved in, or resulting from, the giving of access does not lie against the author of the document or any other person by reason of the author or other person having supplied the document to an agency.
+	(2) 	Subsection (1) applies even if, in giving access to the document, there has been a failure to comply with Division 3 of Part 2.
+	(3) 	Neither the giving of access to a document under a decision under this Act nor the making of such a decision is to be regarded as constituting, for the purpose of the law relating to defamation or breach of confidence, an authorisation or approval of the publication of the document, or any matter it contains, by the person to whom access is given.
+105.	Protection from criminal actions 
+		If access to a document is given under a decision under this Act, and the person who makes the decision believes, in good faith, when making the decision, that this Act permits or requires the decision to be made, neither the person who makes the decision nor any other person concerned in giving access to the document is guilty of an offence merely because of the making of the decision or the giving of access.
+106.	Personal liability 
+	(1)	A matter or thing done by - 
+	(a)	an agency or the principal officer of an agency; or
+	(b)	a person acting under the direction of an agency or the principal officer of an agency,
+		does not subject the principal officer or any person so acting personally to any action, liability, claim or demand so long as the matter or thing was done in good faith for the purposes of giving effect to this Act.
+	(2) 	Subsection (1) applies even if, in giving access to a document, there has been a failure to comply with Division 3 of Part 2.
+107.	Failure to consult 
+		An action does not lie against the Crown, an agency or an officer of an agency merely because of a failure to comply with Division 3 of Part 2 unless the person responsible for the failure is shown to have acted with malice and without reasonable cause.
+108.	Exempt matter does not have to be published 
+		Without limiting section 97(1), this Act does not require exempt matter to be published or to be included in a notice or certificate under this Act.
+109.	Offence of unlawful access 
+		A person who, in order to gain access to a document containing - 
+	(a)	personal information about another person; or
+	(b)	information about the business, professional, commercial or financial affairs of another person,
+		knowingly deceives or misleads a person performing functions under this Act commits an offence.
+	Penalty:
+	(a)	for an individual - $6 000;
+	(b) 	for a body corporate - $10 000.
+	[Section 109 amended by No. 50 of 2003 s. 64(3).]
+110.	Destruction of documents 
+		A person who conceals, destroys or disposes of a document or part of a document or is knowingly involved in such an act for the purpose (sole or otherwise) of preventing an agency being able to give access to that document or part of it, whether or not an application for access has been made, commits an offence.
+	Penalty: $6 000.
+	[Section 110 amended by No. 50 of 2003 s. 64(4).]
+111.	Report to Parliament 
+	(1)	As soon as practicable after 30 June in each year the Commissioner is to submit a report to the Speaker of the Legislative Assembly and the President of the Legislative Council on the operation of this Act and the operations of the Commissioner during the year ending on that day (30 June).
+	(2) 	The report is to include in relation to each agency - 
+	(a)	the number of access applications received and dealt with;
+	(b)	the number of decisions to - 
+	(i)	give access to documents;
+	(ii)	give access to edited copies of documents;
+	(iii)	defer giving access to documents;
+	(iv)	give access to a document in the manner referred to in section 28;
+	(v)	refuse access to documents;
+	(c)	the number of times each of the clauses in Schedule 1 was used to characterize documents as exempt documents;
+	(d)	the number of applications for internal review under Part 2 and the results of the reviews;
+	(e)	the number of applications for amendment of personal information received and dealt with;
+	(f)	the number of decisions - 
+	(i)	to amend personal information in accordance with an application;
+	(ii)	not to amend personal information in accordance with an application;
+	(g)	the number of applications for internal review under Part 3 and the results of the reviews;
+	(h)	the number of complaints made to the Commissioner and the results of the complaints;
+	(i)	the number of other applications made to the Commissioner and the results of those applications;
+	(j)	the number of appeals to the Supreme Court and the results of those appeals;
+	(k)	the amounts of fees and charges collected and details of fees and charges that were reduced or waived; and
+	(l)	such other information as is prescribed.
+	(3) 	Each agency has to - 
+	(a)	provide the Commissioner with such information as the Commissioner requires for the purpose of preparation of a report under this section; and
+	(b)	comply with any prescribed requirements concerning the providing of that information and the keeping of records for the purposes of this section.
+	(4) 	The Commissioner has to include in the report any recommendations of the Commissioner as to legislative or administrative changes that could be made to help the objects of this Act to be achieved.
+	(5) 	The Speaker or the President has to cause a copy of a report submitted by the Commissioner to be laid before the Legislative Assembly or Legislative Council, as the case may be, within 15 sitting days of that House after the report is submitted.
+112.	Regulations 
+	(1)	The Governor may make regulations prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed for achieving the objects and giving effect to the purposes of this Act.
+	(2) 	Without limiting subsection (1) and subject to section 16, regulations may be made prescribing - 
+	(a)	fees for lodging access applications; and
+	(b)	charges for dealing with access applications or rates to be used in calculating such charges.
+	(3) 	In the making of regulations under subsection (2)(as read with section 45 of the Interpretation Act 1984) regard has to be had to the need to ensure that fees and charges are reasonable and as low as is practicable, and special regard has to be had to - 
+	(a)	the need to ensure that financially disadvantaged persons are not precluded from exercising their rights under this Act merely because of financial hardship; and
+	(b)	the particular relationship between a person and documents containing personal information about that person.
+	(4) 	Without limiting subsection (1), regulations may be made - 
+	(a)	as to the way in which access applications and applications for amendment relating to electronically stored information may be dealt with and as to the way in which access to such information may be provided and the way in which such information may be amended;
+	(b)	as to the nomination of persons for the purposes of section 28 and as to the qualifications of such persons for nomination.
+113.	Review of Act 
+	(1)	The Minister administering this Act is to carry out a review of the operation and effectiveness of this Act as soon as is practicable after the expiration of 3 years from its commencement.
+	(2) 	The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
+[Part 7 omitted under the Reprints Act 1984 s. 7(4)(e).]
+
+Schedule 1
+[Glossary cl. 1]
+Exempt matter
+1.	Cabinet and Executive Council
+Exemptions 
+	(1)	Matter is exempt matter if its disclosure would reveal the deliberations or decisions of an Executive body, and, without limiting that general description, matter is exempt matter if it - 
+	(a)	is an agenda, minute or other record of the deliberations or decisions of an Executive body;
+	(b)	contains policy options or recommendations prepared for possible submission to an Executive body;
+	(c)	is a communication between Ministers on matters relating to the making of a Government decision or the formulation of a Government policy where the decision is of a kind generally made by an Executive body or the policy is of a kind generally endorsed by an Executive body;
+	(d)	was prepared to brief a Minister in relation to matters - 
+	(i)	prepared for possible submission to an Executive body; or
+	(ii)	the subject of consultation among Ministers relating to the making of a Government decision of a kind generally made by an Executive body or the formulation of a Government policy of a kind generally endorsed by an Executive body;
+	(e)	is a draft of a proposed enactment; or
+	(f)	is an extract from or a copy of, or of part of, matter referred to in any of paragraphs (a) to (e).
+Limits on exemptions 
+	(2) 	Matter that is merely factual, statistical, scientific or technical is not exempt matter under subclause (1) unless - 
+	(a)	its disclosure would reveal any deliberation or decision of an Executive body; and
+	(b)	the fact of that deliberation or decision has not been officially published.
+	(3) 	Matter is not exempt matter under subclause (1) if it, or, in the case of matter referred to in subclause (1)(f), the original matter, came into existence before the commencement of section 10 and at least 15 years have elapsed since it or the original matter (as the case may be) came into existence.
+	(4) 	Matter is not exempt matter under subclause (1) if it, or, in the case of matter referred to in subclause (1)(f), the original matter, came into existence after the commencement of section 10 and at least 10 years have elapsed since it or the original matter (as the case may be) came into existence.
+	(5) 	Matter is not exempt by reason of the fact that it was submitted to an Executive body for its consideration or is proposed to be submitted if it was not brought into existence for the purpose of submission for consideration by the Executive body.
+Definition 
+	(6) 	In this clause "Executive body" means - 
+	(a)	Cabinet;
+	(b)	a committee of Cabinet;
+	(c)	a subcommittee of a committee of Cabinet; or
+	(d)	Executive Council.
+	[Clause 1 amended by No. 57 of 1997 s. 62(3).] 
+2. 	Inter-governmental relations
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure - 
+	(a)	could reasonably be expected to damage relations between the Government and any other government; or
+	(b)	would reveal information of a confidential nature communicated in confidence to the Government (whether directly or indirectly) by any other government.
+Limit on exemptions 
+	(2) 	Matter is not exempt matter under subclause (1) if its disclosure would, on balance, be in the public interest.
+Definition 
+	(3) 	In this clause - 
+	"other government" means the government of the Commonwealth, another State, a Territory or a foreign country or state.
+3. 	Personal information
+Exemption 
+	(1) 	Matter is exempt matter if its disclosure would reveal personal information about an individual (whether living or dead).
+Limits on exemption 
+	(2) 	Matter is not exempt matter under subclause (1) merely because its disclosure would reveal personal information about the applicant.
+	(3) 	Matter is not exempt matter under subclause (1) merely because its disclosure would reveal, in relation to a person who is or has been an officer of an agency, prescribed details relating to - 
+	(a)	the person;
+	(b)	the person's position or functions as an officer; or
+	(c)	things done by the person in the course of performing functions as an officer.
+	(4) 	Matter is not exempt matter under subclause (1) merely because its disclosure would reveal, in relation to a person who performs, or has performed, services for an agency under a contract for services, prescribed details relating to - 
+	(a)	the person;
+	(b)	the contract; or
+	(c)	things done by the person in performing services under the contract.
+	(5) 	Matter is not exempt matter under subclause (1) if the applicant provides evidence establishing that the individual concerned consents to the disclosure of the matter to the applicant.
+	(6) 	Matter is not exempt matter under subclause (1) if its disclosure would, on balance, be in the public interest.
+4. 	Commercial or business information
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure would reveal trade secrets of a person.
+	(2) 	Matter is exempt matter if its disclosure - 
+	(a)	would reveal information (other than trade secrets) that has a commercial value to a person; and
+	(b)	could reasonably be expected to destroy or diminish that commercial value.
+	(3) 	Matter is exempt matter if its disclosure - 
+	(a)	would reveal information (other than trade secrets or information referred to in subclause (2)) about the business, professional, commercial or financial affairs of a person; and
+	(b)	could reasonably be expected to have an adverse effect on those affairs or to prejudice the future supply of information of that kind to the Government or to an agency.
+Limits on exemptions 
+	(4) 	Matter is not exempt matter under subclause (1), (2) or (3) merely because its disclosure would reveal information about the business, professional, commercial or financial affairs of an agency.
+	(5) 	Matter is not exempt matter under subclause (1), (2) or (3) merely because its disclosure would reveal information about the business, professional, commercial or financial affairs of the applicant.
+	(6) 	Matter is not exempt matter under subclause (1), (2) or (3) if the applicant provides evidence establishing that the person concerned consents to the disclosure of the matter to the applicant.
+	(7) 	Matter is not exempt matter under subclause (3) if its disclosure would, on balance, be in the public interest.
+4A. 	Information provided to Treasurer under section 22 of Bank of Western Australia Act 1995 
+		Matter is exempt matter if it consists of information provided to the Treasurer under section 22 of the Bank of Western Australia Act 1995.
+	[Clause 4A inserted by No. 14 of 1995 s. 44(1).] 
+5. 	Law enforcement, public safety and property security
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure could reasonably be expected to - 
+	(a)	impair the effectiveness of any lawful method or procedure for preventing, detecting, investigating or dealing with any contravention or possible contravention of the law;
+	(b)	prejudice an investigation of any contravention or possible contravention of the law in a particular case, whether or not any prosecution or disciplinary proceedings have resulted;
+	(c)	enable the existence, or non-existence, or identity of any confidential source of information, in relation to the enforcement or administration of the law, to be discovered;
+	(d)	prejudice the fair trial of any person or the impartial adjudication of any case or hearing of disciplinary proceedings;
+	(e)	endanger the life or physical safety of any person;
+	(f)	endanger the security of any property;
+	(g)	prejudice the maintenance or enforcement of a lawful measure for protecting public safety; or
+	(h)	facilitate the escape of any person from lawful custody or endanger the security of any prison.
+	(2) 	Matter is exempt matter if it was created by - 
+	(a)	the Bureau of Criminal Intelligence, Protective Services Unit, Witness Security Unit or Internal Affairs Unit of the Police Force of Western Australia; or
+	(b)	the Internal Investigations Unit of Corrective Services.
+	(3) 	Matter is exempt matter if it originated with, or was received from, a Commonwealth intelligence or security agency.
+Limits on exemptions 
+	(4) 	Matter is not exempt matter under subclause (1) or (2) if - 
+	(a)	it consists merely of one or more of the following - 
+	(i)	information revealing that the scope of a law enforcement investigation has exceeded the limits imposed by the law;
+	(ii)	a general outline of the structure of a programme adopted by an agency for dealing with any contravention or possible contravention of the law; or
+	(iii)	a report on the degree of success achieved in any programme adopted by an agency for dealing with any contravention or possible contravention of the law;
+		and
+	(b)	its disclosure would, on balance, be in the public interest.
+Definitions 
+	(5) 	In this clause - 
+	"Commonwealth intelligence or security agency" means - 
+	(a)	the Australian Security Intelligence Organization;
+	(b)	the Australian Secret Intelligence Service;
+	(c)	that part of the Department of Defence of the Commonwealth known as the Defence Signals Directorate; or
+	(d)	that part of the Department of Defence of the Commonwealth known as the Defence Intelligence Organisation.
+	"contravention" includes a failure to comply;
+	"the law" means the law of this State, the Commonwealth, another State, a Territory or a foreign country or state.
+	[Clause 5 amended by No. 31 of 1993 s. 43; No. 11 of 1996 s. 41; No. 56 of 2004 s. 4.] 
+6. 	Deliberative processes
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure - 
+	(a)	would reveal - 
+	(i)	any opinion, advice or recommendation that has been obtained, prepared or recorded; or
+	(ii)	any consultation or deliberation that has taken place,
+		in the course of, or for the purpose of, the deliberative processes of the Government, a Minister or an agency; and
+	(b)	would, on balance, be contrary to the public interest.
+Limits on exemptions 
+	(2) 	Matter that appears in an internal manual of an agency is not exempt matter under subclause (1).
+	(3) 	Matter that is merely factual or statistical is not exempt matter under subclause (1).
+	(4) 	Matter is not exempt matter under subclause (1) if at least 10 years have passed since the matter came into existence.
+7. 	Legal professional privilege
+Exemption 
+	(1) 	Matter is exempt matter if it would be privileged from production in legal proceedings on the ground of legal professional privilege.
+Limit on exemption 
+	(2) 	Matter that appears in an internal manual of an agency is not exempt matter under subclause (1).
+8. 	Confidential communications
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure (otherwise than under this Act or another written law) would be a breach of confidence for which a legal remedy could be obtained.
+	(2) 	Matter is exempt matter if its disclosure - 
+	(a)	would reveal information of a confidential nature obtained in confidence; and
+	(b)	could reasonably be expected to prejudice the future supply of information of that kind to the Government or to an agency.
+Limits on exemption 
+	(3) 	Matter referred to in clause 6(1)(a) is not exempt matter under subclause (1) unless its disclosure would enable a legal remedy to be obtained for a breach of confidence owed to a person other than - 
+	(a)	a person in the capacity of a Minister, a member of the staff of a Minister, or an officer of an agency; or
+	(b)	an agency or the State.
+	(4) 	Matter is not exempt matter under subclause (2) if its disclosure would, on balance, be in the public interest.
+9. 	The State's economy
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure could reasonably be expected to - 
+	(a)	have a substantial adverse effect on the ability of the Government or an agency to manage the economy of the State; or
+	(b)	result in an unfair benefit or detriment to any person or class of persons because of the premature disclosure of information concerning any proposed action or inaction of the Parliament, the Government or an agency in the course of, or for the purpose of, managing the economy of the State.
+Limit on exemption 
+	(2) 	Matter is not exempt matter under subclause (1) if its disclosure would, on balance, be in the public interest.
+10. 	The State's financial or property affairs
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure could reasonably be expected to have a substantial adverse effect on the financial or property affairs of the State or an agency.
+	(2) 	Matter is exempt matter if its disclosure would reveal trade secrets of an agency.
+	(3) 	Matter is exempt matter if its disclosure - 
+	(a)	would reveal information (other than trade secrets) that has a commercial value to an agency; and
+	(b)	could reasonably be expected to destroy or diminish that commercial value.
+	(4) 	Matter is exempt matter if its disclosure - 
+	(a)	would reveal information (other than trade secrets or information referred to in subclause (3)) concerning the commercial affairs of an agency; and
+	(b)	could reasonably be expected to have an adverse effect on those affairs.
+	(5) 	Matter is exempt matter if its disclosure - 
+	(a)	would reveal information relating to research that is being, or is to be, undertaken by an officer of an agency or by a person on behalf of an agency; and
+	(b)	would be likely, because of the premature release of the information, to expose the officer or person or the agency to disadvantage.
+Limit on exemptions 
+	(6) 	Matter is not exempt matter under subclause (1), (2), (3), (4) or (5) if its disclosure would, on balance, be in the public interest.
+11. 	Effective operation of agencies
+Exemptions 
+	(1) 	Matter is exempt matter if its disclosure could reasonably be expected to - 
+	(a)	impair the effectiveness of any method or procedure for the conduct of tests, examinations or audits by an agency;
+	(b)	prevent the objects of any test, examination or audit conducted by an agency from being attained;
+	(c)	have a substantial adverse effect on an agency's management or assessment of its personnel; or
+	(d)	have a substantial adverse effect on an agency's conduct of industrial relations.
+Limit on exemptions 
+	(2) 	Matter is not exempt matter under subclause (1) if its disclosure would, on balance, be in the public interest.
+12. 	Contempt of Parliament or court
+Exemptions 
+		Matter is exempt matter if its public disclosure would, apart from this Act and any immunity of the Crown - 
+	(a)	be in contempt of court;
+	(b)	contravene any order or direction of a person or body having power to receive evidence on oath; or
+	(c)	infringe the privileges of Parliament.
+13. 	Information as to adoption or artificial conception
+Exemption 
+		Matter is exempt matter if its disclosure would reveal - 
+	(a)	information relating to the adoption of a child or arrangements or negotiations for or towards or with a view to the adoption of a child; or
+	(b)	information relating to the participation of a person in an artificial fertilization procedure as defined in the Human Reproductive Technology Act 1991 or as to a person having been born as a result of such a procedure.
+14. 	Information protected by certain statutory provisions
+Exemptions 
+	(1) 	Matter is exempt matter if it is matter of a kind mentioned in - 
+	(a)	section 167(1)(a), (1)(c), (2)(a) or (2)(b) of the Equal Opportunity Act 1984;
+	(b)	section 64(2)(a), (2)(b) or (3) of the Legal Aid Commission Act 1976; 
+	(c)	section 23(1) of the Parliamentary Commissioner Act 1971; or
+	(d)	section 47 of the Inspector of Custodial Services Act 2003.
+	(2) 	Matter is exempt matter if it is matter to which a direction given under section 23(1a) of the Parliamentary Commissioner Act 1971 or section 48 of the Inspector of Custodial Services Act 2003 applies.
+	(3) 	Matter is exempt matter if its disclosure would reveal anything said or admitted for the purposes of a conciliation under - 
+	(a)	Division 3 of Part 3; or
+	(b)	administrative instructions under section 23,
+		of the Health Services (Conciliation and Review) Act 1995.
+	(4)	Matter is exempt matter if it is matter of a kind mentioned in section 29(3) of the Industry and Technology Development Act 1998.
+	(5)	Matter is exempt matter if its disclosure would reveal or tend to reveal the identity of anyone as - 
+	(a)	a person who has made an appropriate disclosure of public interest information under the Public Interest Disclosure Act 2003; or
+	(b)	a person in respect of whom a disclosure of public interest information has been made under the Public Interest Disclosure Act 2003.
+	[Clause 14 amended by No. 94 of 1994 s. 3; No. 50 of 1995 s. 3; No. 75 of 1995 s. 80(4); No. 13 of 1998 s. 34(2); No. 43 of 1999 s. 20; No. 29 of 2003 s. 28; No. 75 of 2003 s. 56(1).]
+15. 	Information as to precious metal transactions
+Exemption 
+	(1) 	Matter is exempt matter if its disclosure would reveal information about - 
+	(a)	gold or other precious metal received by Gold Corporation from a person, or held by Gold Corporation on behalf of a person, on current account, certificate of deposit or fixed deposit; or
+	(b)	a transaction relating to gold or other precious metal received or held by Gold Corporation.
+Definition 
+	(2) 	In this clause - 
+	"Gold Corporation" means the Gold Corporation constituted under section 4 of the Gold Corporation Act 1987 or a subsidiary of Gold Corporation within the meaning of that Act.
+Schedule 2 
+[Glossary, cl. 1]
+Exempt agencies
+	The Governor and the Governor's establishment.
+	The Legislative Council or a member or committee of the Legislative Council.
+	The Legislative Assembly or a member or committee of the Legislative Assembly.
+	A joint committee or standing committee of the Legislative Council and the Legislative Assembly.
+	A department of the staff of Parliament.
+	The Auditor General and the Office of the Auditor General.
+	The Corruption and Crime Commission.
+	The Director of Public Prosecutions.
+	The Information Commissioner.
+	The Inspector of Custodial Services.
+	The Parliamentary Commissioner for Administrative Investigations.
+	The Parliamentary Inspector of the Corruption and Crime Commission.
+	The Parole Board.
+	The Supervised Release Review Board.
+	The State Government Insurance Corporation.
+	The Perth International Centre for Application of Solar Energy.
+	Any Royal Commission or member of a Royal Commission.
+	A special commissioner under the Criminal Investigation (Exceptional Powers) and Fortification Removal Act 2002.
+	The Bureau of Criminal Intelligence, Protective Services Unit, Witness Security Unit and Internal Affairs Unit of the Police Force of Western Australia.
+	The Internal Investigations Unit of Corrective Services.
+	A person who holds an office established under a written law for the purposes of a body referred to in this Schedule.
+	[Schedule 2 amended by No. 31 of 1993 s. 44; No. 6 of 1994 s. 13; No. 36 of 1994 s. 35; No. 104 of 1994 s. 236; No. 14 of 1995 s. 44(1); No. 11 of 1996 s. 41; No. 29 of 1996 s. 26; No. 21 of 2002 s. 72; No. 48 of 2003 s. 62; No. 75 of 2003 s. 56(1); No. 78 of 2003 s. 74(2).]
+
+Glossary 
+[Section 9]
+1. 	Definitions 
+		In this Act, unless the contrary intention appears - 
+	"agency" means - 
+	(a)	a Minister; or
+	(b)	a public body or office,
+		and "the agency" means the agency to which an access application or application for amendment of personal information has been made or to which such an application has been transferred or partly transferred;
+	"applicant" or "access applicant" means the person by whom or on whose behalf an access application has been made;
+	"applicant for amendment" means the person by whom or on whose behalf an application for amendment of personal information has been made;
+	"contractor" means a contractor as defined in the Court Security and Custodial Services Act 1999 or the Prisons Act 1981, as is relevant to the case;
+	"Corrective Services" means the division concerned with corrective services in the department of the Public Service principally assisting the Minister administering the Prisons Act 1981 in the administration of that Act;
+	"court" includes a tribunal;
+	"document" means - 
+	(a)	any record;
+	(b)	any part of a record;
+	(c)	any copy, reproduction or duplicate of a record; or
+	(d)	any part of a copy, reproduction or duplicate of a record;
+	"edited copy", in relation to a document, means a copy from which exempt matter has been deleted under section 24;
+	"exempt agency" means a person or body mentioned in Schedule 2 and includes staff under the control of the person or body;
+	"exempt document" means a document that contains exempt matter;
+	"exempt matter" means matter that is exempt matter under Schedule 1;
+	"exemption certificate" means a certificate under section 36;
+	"officer" of an agency includes - 
+	(a)	a member of the agency;
+	(b)	the principal officer of the agency;
+	(c)	any person employed in, by, or for the purposes of, the agency; and
+	(d)	if the agency is a contractor or subcontractor, a director of the contractor or subcontractor (in addition to the persons referred to in paragraphs (a), (b) and (c));
+	"personal information" means information or an opinion, whether true or not, and whether recorded in a material form or not, about an individual, whether living or dead - 
+	(a)	whose identity is apparent or can reasonably be ascertained from the information or opinion; or
+	(b)	who can be identified by reference to an identification number or other identifying particular such as a fingerprint, retina print or body sample;
+	"principal officer" of an agency means - 
+	(a)	in relation to a department of the Public Service or an organization specified in column 2 of Schedule 2 to the Public Sector Management Act 1994 - the chief executive officer of that department or organization;
+	(b)	in relation to the Police Force of Western Australia - the Commissioner of Police;
+	(c)	in relation to a local government - the chief executive officer of the local government;
+	(d)	in relation to a regional local government - the chief executive officer of the regional local government;
+	(e)	in relation to an agency that consists of one person (not being an incorporated body) - that person;
+	(f)	in relation to an agency for which the regulations declare an officer to be the principal officer of the agency - that officer;
+	(fa)	in relation to a contractor or to any subcontractor under the relevant contract - the holder of the office specified in the relevant contract to be the principal officer for the purposes of this Act;
+	(g)	in relation to any other agency - 
+	(i)	if it is an incorporated body that has no members - the person who manages the affairs of the body; or
+	(ii)	if it is a body (whether incorporated or not) that is constituted by 2 or more persons - the person who is entitled to preside at any meeting of the body at which he or she is present;
+	"public body or office" means - 
+	(a)	a department of the Public Service;
+	(b)	an organization specified in column 2 of Schedule 2 to the Public Sector Management Act 1994;
+	(c)	the Police Force of Western Australia;
+	(d)	a local government or a regional local government;
+	(e)	a body or office that is established for a public purpose under a written law;
+	(f)	a body or office that is established by the Governor or a Minister;
+	(g)	any other body or office that is declared by the regulations to be a public body or office being - 
+	(i)	a body or office established under a written law; or
+	(ii)	a corporation or association over which control can be exercised by the State, a Minister, a body referred to in paragraph (a), (b), (e), (f) or (g)(i), or the holder of an office referred to in paragraph (f) or (g)(i);
+		or
+	(h)	a contractor or subcontractor;
+	"record" means any record of information however recorded and includes the following - 
+	(a)	any paper or other material, including affixed papers on which there is writing;
+	(b)	any map, plan, diagram or graph;
+	(c)	any drawing, pictorial or graphic work, or photograph;
+	(d)	any paper or other material on which there are marks, figures, symbols or perforations having a meaning for persons qualified to interpret them;
+	(e)	any article or material from which sounds, images or writing can be reproduced whether or not with the aid of some other article or device;
+	(f)	any article on which information has been stored or recorded, either mechanically, magnetically or electronically;
+	"relative", in relation to a person, includes a de facto partner of a person;
+	"requested documents" means the document or documents requested in an access application;
+	"State archive" has the same definition as in the State Records Act 2000;
+	"subcontractor" means a subcontractor as defined in the Court Security and Custodial Services Act 1999 or the Prisons Act 1981, as is relevant to the case;
+	"third party" means a third party referred to in section 32 or 33.
+	[Clause 1 amended by No. 31 of 1993 s. 45(a); No. 32 of 1994 s. 19; No. 14 of 1996 s. 4; No. 43 of 1999 s. 20; No. 47 of 1999 s. 15; No. 53 of 2000 s. 10(1); No. 28 of 2003 s. 67.]
+2. 	Related agencies 
+	(1)	A person is not to be regarded as a separate agency by reason of - 
+	(a)	holding office as a member or other officer of an agency; or
+	(b)	holding an office established for the purposes of an agency.
+	(2) 	The Bureau of Criminal Intelligence, Protective Services Unit, Witness Security Unit and Internal Affairs Unit of the Police Force of Western Australia are to be regarded as separate agencies and are not to be regarded as part of the Police Force of Western Australia.
+	(3) 	The Internal Investigations Unit of Corrective Services is to be regarded as a separate agency and is not to be regarded as part of the department in which it is established.
+	(4) 	The regulations may declare that a specified office or body is not to be regarded as a separate agency but is to be regarded as part of a specified agency.
+	[Clause 2 amended by No. 31 of 1993 s. 45(b); No. 11 of 1996 s. 41.]
+3. 	Courts are agencies but judges, etc., are not 
+		For the purposes of this Act - 
+	(a)	a court is an agency;
+	(b)	a registry or other office of a court and the staff of such a registry or other office are part of the court;
+	(c)	a person holding a judicial office or other office pertaining to a court, being an office established by the written law establishing the court, is not an agency and is not included in an agency.
+4. 	Documents of an agency 
+	(1)	Subject to subclause (2), a reference to a document of an agency is a reference to a document in the possession or under the control of the agency including a document to which the agency is entitled to access and a document that is in the possession or under the control of an officer of the agency in his or her capacity as such an officer.
+	(2) 	Where the agency is a Minister a reference to a document of an agency is a reference to a document that - 
+	(a)	is in the possession or under the control of the Minister in the Minister's official capacity; and
+	(b)	relates to the affairs of another agency (not being another Minister),
+		and includes a document to which the Minister is entitled to access and a document in the possession or under the control of a member of the staff of the Minister as such a member, but does not include a document of an agency for which the Minister is responsible.
+	(3) 	A document in the possession or under the control of an agency on behalf of or as an agent for - 
+	(a)	the Commonwealth, another State or a Territory; or
+	(b)	an agency or instrumentality of the Commonwealth, another State or a Territory,
+		is not a document of the agency.
+5. 	Documents of a court 
+		A document relating to a court is not to be regarded as a document of the court unless it relates to matters of an administrative nature.
+6. 	Documents of Police and Corrective Services units 
+	(1)	A document of the Bureau of Criminal Intelligence, Protective Services Unit, Witness Security Unit or Internal Affairs Unit of the Police Force of Western Australia is not to be regarded as a document of the Police Force of Western Australia.
+	(2) 	A document of the Internal Investigations Unit of Corrective Services is not to be regarded as a document of the department in which it is established.
+	[Clause 6 amended by No. 31 of 1993 s. 45(b); No. 11 of 1996 s. 41.]
+[7.		Repealed by No. 53 of 2000 s. 10(2).]
+7A.	Documents of Authority etc. under gas pipelines access legislation
+	(1)	In this clause - 
+	"access regulation functions" means the functions referred to in section 36(1) of the Gas Pipelines Access (Western Australia) Act 1998;
+	"arbitrator" has the meaning given by section 61 of the Gas Pipelines Access (Western Australia) Act 1998 and includes any other arbitrator appointed under section 16 of Schedule 1 to that Act;
+	"Authority" means the Economic Regulation Authority established by the Economic Regulation Authority Act 2003;
+	"Board" has the meaning given by section 49 of the Gas Pipelines Access (Western Australia) Act 1998.
+	(2)	A document - 
+	(a)	that is in the possession or under the control of the Authority (because of its access regulation functions), the Board or an arbitrator; or 
+	(b)	to which the Authority (because of its access regulation functions), the Board or an arbitrator is entitled to access, 
+		is not to be regarded as a document of the Authority, the Board or an arbitrator unless it relates to a matter of an administrative nature concerning the Authority, the Board or an arbitrator.
+	[Clause 7A inserted by No. 65 of 1998 s. 89; amended by No. 67 of 2003 s. 62.]
+8. 	Charges for dealing with applications 
+		A reference to charges imposed or payable for dealing with an access application includes a reference to charges for giving access to the requested documents or to edited copies of the requested documents.
+
+Notes
+1	This is a compilation of the Freedom of Information Act 1992 and includes the amendments made by the other written laws referred to in the following table 1a.  The table also contains information about any reprint.
+Compilation table
+Short titleNumber and yearAssentCommencementFreedom of Information Act 199276 of 199215 Dec 1992Pt. 4 Div. 1 and 2: 11 Jun 1993 (see s. 2 and Gazette 11 Jun 1993 p. 2867); 
+balance: 1 Nov 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)Acts Amendment (Ministry of Justice) Act 1993 Pt. 10 231 of 199315 Dec 19931 Jul 1993 (see s. 2)R & I Bank Amendment Act 1994 s. 136 of 199411 Apr 199426 Apr 1994 (see s. 2(2) and Gazette 26 Apr 1994 p. 1743)Acts Amendment (Public Sector Management) Act 1994 s. 1932 of 199429 Jun 19941 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)Perth International Centre for Application of Solar Energy Act 1994 s. 3536 of 19948 Jul 199422 Jul 1994 (see s. 2 and Gazette 22 Jul 1994 p. 3727)Statutes (Repeals and Minor Amendments) Act 1994 s. 473 of 19949 Dec 19949 Dec 1994 (see s. 2)Freedom of Information Amendment Act 199494 of 19945 Jan 19951 Nov 1994 (see s. 2)Young Offenders Act 1994 s. 236104 of 199411 Jan 199513 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)Bank of Western Australia Act 1995 s. 4414 of 19954 Jul 19951 Dec 1995 (see s. 2(3) and 9(1) and Gazette 29 Nov 1995 p. 5529)Freedom of Information Amendment Act 199550 of 19956 Nov 19951 Nov 1995 (see s. 2)Health Services (Conciliation and Review) Act 1995 s. 80(4)75 of 19959 Jan 199616 Aug 1996 (see s. 2 and Gazette 16 Aug 1996 p. 4007)Reprint of the Freedom of Information Act 1992 as at 16 Jan 1996 (includes amendments listed above except those in the Health Services (Conciliation and Review) Act 1995)Witness Protection (Western Australia) Act 1996 s. 4111 of 199628 Jun 19967 Dec 1996 (see s. 2 and Gazette 6 Dec 1996 p. 6699)Local Government (Consequential Amendments) Act 1996 s. 414 of 199628 Jun 19961 Jul 1996 (see s. 2)Official Corruption Commission Amendment Act 1996 s. 2629 of 199628 Aug 199630 Aug 1996 (see s. 2 and Gazette 30 Aug 1996 p. 4365)Financial Legislation Amendment Act 1996 s. 5449 of 199625 Oct 199625 Oct 1996 (see s. 2(1))Reprint of the Freedom of Information Act 1992 as at 16 Jul 1997 (includes amendments listed above)Statutes (Repeals and Minor Amendments) Act 1997 s. 6257 of 199715 Dec 199715 Dec 1997 (see s. 2(1))Industry and Technology Development Act 1998 s. 34(2)13 of 199820 May 19981 Jul 1998 (see s. 2 and Gazette 26 Jun 1998 p. 3369)Gas Pipelines Access (Western Australia) Act 1998 s. 8965 of 199815 Jan 19999 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)Prisons Amendment Act 1999 s. 2043 of 19998 Dec 1999Sch. 1 cl. 4(1) and (3): 18 Dec 1999 (see s. 2(2) and Gazette 17 Dec 1999 p. 6175); 
+Sch. 1 cl. 4(2): 18 Jun 2000 (see s. 2(3) and (4) and Gazette 16 Jun 2000 p. 2939)Court Security and Custodial Services (Consequential Provisions) Act 1999 Pt. 647 of 19998 Dec 199918 Dec 1999 (see s. 2 and Gazette 17 Dec 1999 p. 6175-6)Reprint of the Freedom of Information Act 1992 as at 3 Mar 2000 (includes amendments listed above)State Records (Consequential Provisions) Act 2000 Pt. 453 of 200028 Nov 20001 Dec 2001 (see s. 2 and Gazette 30 Nov 2001 p. 6067)Criminal Investigation (Exceptional Powers) and Fortification Removal Act 2002 s. 7221 of 200215 Jul 200215 Jul 2002 (see s. 2)Acts Amendment (Equality of Status) Act 2003 Pt. 2328 of 200322 May 20031 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)Public Interest Disclosure Act 2003 s. 2829 of 200322 May 20031 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)Corruption and Crime Commission Act 2003 s. 6248 of 20033 Jul 20031 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)Sentencing Legislation Amendment and Repeal Act 2003 s. 6450 of 20039 Jul 200315 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)Economic Regulation Authority Act 2003 s. 6267 of 20035 Dec 20031 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)Inspector of Custodial Services Act 2003 s. 56(1)75 of 200315 Dec 200315 Dec 2003 (see s. 2)Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2)78 of 200322 Dec 20037 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)Reprint 4: The Freedom of Information Act 1992 as at 10 Sep 2004 (includes amendments listed above)Freedom of Information Amendment Act 200456 of 200419 Nov 200419 Nov 2004 (see s. 2)1a	On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation.  For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short titleNumber and yearAssentCommencementActs Amendment (ICWA) Act 1996 s. 38 345 of 199625 Oct 1996To be proclaimed (see s. 2)State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 443 of 20002 Nov 2000To be proclaimed (see s. 2(2))2	The Acts Amendment (Ministry of Justice) Act 1993 s. 68 reads as follows:
+"
+Part 19 - Savings and transitional
+68. 	Savings 
+		If this Act is not passed until after 1 July 1993, anything done after that day but before this Act is passed that would have been in accordance with law if this Act had not come into operation but as a result of the coming into operation of this Act is contrary to law, is deemed to be in accordance with law.
+".
+3	On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 s. 38, which gives effect to Sch. 1 it. 4, had not come into operation.  It reads as follows:
+"
+38.	Consequential Amendments
+		The Acts referred to in the Schedule are amended as set out in Schedule 1.
+".
+	Schedule 1 item 4 reads as follows:
+"
+Schedule 1 - Consequential amendments to other Acts
+4.	Freedom of Information Act 1992
+Provision amendedAmendmentSchedule 2Delete the item "The State Government Insurance Corporation.".".
+4	On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation.  It reads:
+"
+75.	Various provisions repealed
+		The provisions listed in the Table to this section are repealed.
+Table of provisions repealed
+ActProvision..................................Freedom of Information Act 1992s. 62(2)..............................".
+
+
+
+Freedom of Information Act 1992
+
+
+
+
+
+
+
+
+
+	Version 04-b0-05	As at 19 Nov 2004
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+
+As at 19 Nov 2004	Version 04-b0-05	
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+
+
+
+As at 19 Nov 2004	Version 04-b0-05	
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+Freedom of Information Act 1992Contents
+
+Freedom of Information Act 1992Contents
+
+
+page vi	Version 04-b0-05	As at 19 Nov 2004
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+
+As at 19 Nov 2004	Version 04-b0-05	page v
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+
+As at 19 Nov 2004	Version 04-b0-05	page i
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+Freedom of Information Act 1992s. 1
+
+Freedom of Information Act 1992s. 1
+
+
+page 94	Version 04-b0-05	As at 19 Nov 2004 
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+
+As at 19 Nov 2004	Version 04-b0-05	page 93
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+
+
+
+As at 19 Nov 2004	Version 04-b0-05	page 1
+	Extract from www.slp.wa.gov.au, see that website for further information
+
+Freedom of Information Act 1992
+
+Freedom of Information Act 1992
+
+
+
+Freedom of Information Act 1992Schedule 2Exempt agencies
+
+Freedom of Information Act 1992Exempt agenciesSchedule 2
+
+Freedom of Information Act 1992
+
+Freedom of Information Act 1992
+
+
+
+Freedom of Information Act 1992
+
+
+
+
+
+
+Freedom of Information Act 1992
+
+
+
+
+
+
+
+
+

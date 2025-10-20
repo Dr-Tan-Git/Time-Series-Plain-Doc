@@ -1,0 +1,499 @@
+Nr. 80	7. juni 2020
+Kapittul 1 Virkisøki, landøkisásetingar o.a.
+Kapittul 2 Meginreglur og viðgerðarreglur
+Kapittul 3 Serligar viðgerðarstøður
+Kapittul 4 Rættindi hjá skrásetta
+Kapittul 5 Dátuábyrgdari og dátuviðgeri
+Kapittul 6 Flutningur av persónupplýsingum til útlond, triðjalond ella millumtjóðafelagsskapir
+Kapittul 7 Dátueftirlitið
+Kapittul 8 Rættarráð, ábyrgd og revsing
+Kapittul 9 Gildiskoma o.a.
+Løgtingslóg um vernd av persónupplýsingum, sum broytt við løgtingslóg nr. 29 frá 10. mai 2024
+(Dátuverndarlógin)
+Kapittul 1
+Virkisøki, landøkisásetingar o.a.
+Innihald og endamál
+§ 1. Løgtingslógin ásetur reglur um vernd av einstaklingum í sambandi við viðgerð av persónupplýsingum, og reglur um frían flutning av persónupplýsingum.
+Virkisøki
+§ 2. Løgtingslógin er galdandi fyri viðgerð av persónupplýsingum: 
+1)	um viðgerðin heilt ella lutvíst er automatisk, og
+2)	um persónupplýsingar eru ella verða settar í eina skrá, sjálvt um viðgerðin ikki er automatisk.
+§ 3. Løgtingslógin er ikki galdandi fyri ta viðgerð av persónupplýsingum, sum einstaklingar gera til heilt persónlig endamál.
+Stk. 2. Løgtingslógin er ikki galdandi fyri ta viðgerð av persónupplýsingum, sum fer fram í Løgtinginum og stovnum undir Løgtinginum.
+Stk. 3.   Kapitlarnir 2-7 eru ikki galdandi fyri viðgerð av persónupplýsingum við einans listarligum, bókmentaligum ella journalistiskum endamáli. Tó eru §§ 41, 42 og 46 galdandi.
+Stk. 4. 1 Kapitlarnir 2-7 eru ikki galdandi fyri viðgerð av persónupplýsingum, sum eru í kunningardátugrunnum, sum hava journalistiskt endamál, og sum einans rúma tilfari, sum frammanundan er almannakunngjørt. Hetta er treytað av, at tilfarið í kunningardátugrunninum er óbroytt í mun til almannakunngeringina. Tó eru §§ 41, 42 og 46 galdandi. 
+§ 4. Ásetingar um viðgerð av persónupplýsingum í aðrari lóggávu, sum geva skrásetta eina betri rættarstøðu, ganga fram um ásetingarnar í hesi løgtingslóg.
+Landøkisásetingar
+§ 5. Løgtingslógin er galdandi fyri viðgerð av persónupplýsingum, sum verður gjørd fyri:
+1)	privatan dátuábyrgdara ella dátuviðgera, sum er staðsettur í Føroyum, sama um viðgerðin fer fram í Føroyum ella ei, og
+2)	almennan dátuábyrgdara ella dátuviðgera, sum er staðsettur í Føroyum, og sum er undir myndugleika heimastýrisins, sama um viðgerðin fer fram í Føroyum ella ei.
+Stk. 2. Løgtingslógin er galdandi fyri viðgerð av persónupplýsingum um skrásett, sum eru í Føroyum, og verður gjørd av dátuábyrgdara ella dátuviðgera, sum ikki er staðsettur í Føroyum, um viðgerðin viðvíkur:
+1)	útboði av vørum ella tænastum til skrásett í Føroyum, sama um gjald verður kravt frá teimum, ella
+2)	yvirvøku av atferðini hjá skrásettum, um teirra atferð fer fram í Føroyum.
+Allýsingar
+§ 6. Í hesi løgtingslóg er at skilja við:
+1)	Persónupplýsingar: Ein og hvør upplýsing og meting, sum er knýtt ella kann knýtast at einum ávísum likamligum persóni, t.e. tann skrásetti.
+2)	Viðgerð: Øll nýtsla, so sum savnan, skráseting, samkoyring, goyming, víðarigeving, avhending o.a. ella ein sameining av hesum, líkamikið um henda er automatisk ella ei. 
+3)	Profilering: Eitt og hvørt slag av automatiskari viðgerð av persónupplýsingum, sum nýtir persónupplýsingarnar til at meta um ávís persónlig viðurskifti hjá einum ávísum persóni, fyri at greina ella meta um arbeiðsavrik, fíggjarliga støðu, heilsu, persónligar tokkar, áhugamál, álitissemi, atferð, staðseting ella rørslur hjá viðkomandi.
+4)	Dulnevning: Viðgerð av persónupplýsingum á ein slíkan hátt, at persónupplýsingarnar ikki longur kunnu beinast til ein ávísan skrásettan, uttan so at eyka upplýsingar verða nýttar. Tað er ein fortreyt, at slíkar eyka upplýsingar verða goymdar fyri seg og koma undir tøknilig og bygnaðarlig tiltøk, sum tryggja, at persónupplýsingarnar ikki kunnu beinast til ein eyðmerktan persón ella ein persón, sum kann eyðmerkjast.
+5)	Skrá: Eitt og hvørt skipað savn av persónupplýsingum, sum er atkomandi eftir ávísum eyðkennum, annaðhvørt savnið er miðsavnað, miðspjatt ella býtt sundur eftir virki ella staði.
+6)	Dátuábyrgdari: Ein likamligur ella løgfrøðiligur persónur, ein almennur myndugleiki, ein stovnur ella ein onnur eind, sum eina ella saman við øðrum ger av, til hvørji endamál og við hvørjum hjálpitólum persónupplýsingar kunnu viðgerast.
+7)	Dátuviðgeri: Ein likamligur ella løgfrøðiligur persónur, ein almennur myndugleiki, ein stovnur ella ein onnur eind, sum viðger persónupplýsingar dátuábyrgdarans vegna.
+8)	Triðipersónur: Ein likamligur ella løgfrøðiligur persónur, ein almennur myndugleiki, ein stovnur, felagsskapur o.s.fr., sum ikki er tann skrásetti, dátuábyrgdarin, dátuviðgerin og teir persónar undir beinleiðis myndugleika dátuábyrgdarans ella dátuviðgerans, sum hava heimild at viðgera persónupplýsingar. 
+9)	Móttakari: Ein likamligur ella løgfrøðiligur persónur, ein almennur myndugleiki, ein stovnur ella annar, sum fær persónupplýsingar, eisini hóast hetta er triðipersónur. Almennir myndugleikar, sum móttaka persónupplýsingar í sambandi við einstakar fyrispurningar, eru ikki móttakarar. Viðgerðin hjá myndugleikunum av hesum upplýsingum skal halda galdandi dátuverndarreglur.
+10)	Samtykki frá skrásetta: Eitt sjálvboðið, nágreiniligt, kunnað og greitt viljaboð frá skrásetta, har skrásetti við fráboðan ella greiðari váttan játtar, at persónupplýsingar, um viðkomandi kunnu viðgerast.
+11)	Ílegudátur: Persónupplýsingar, sum viðvíkja arvaðum ella ognaðum íleguserkennum hjá einum persóni, sum geva eintýddar upplýsingar um lívvirki ella heilsu hjá persóninum, og sum eru tøkar eftir, at ein lívfrøðilig roynd frá viðkomandi er greinað.
+12)	Biometriskar dátur: Persónupplýsingar, ið sum fylgi av tekniskari viðgerð av likamligum, lívvirkisligum ella atferðarligum serkenni hjá einum persóni loyva ella vátta eina eintýdda eyðmerking av viðkomandi, t.d. andlitsmynd ella fingramerkisupplýsingar.
+13)	Heilsuupplýsingar: Persónupplýsingar, sum viðvíkja likamligu ella sálarligu heilsuni hjá einum persóni, her undir veitingar av heilsutænastum, og sum geva upplýsingar um heilsustøðuna hjá viðkomandi.
+14)	Útland: Land, sum er limur í Evropeiska Samveldinum, ES ella í Evropeiska Búskaparliga Samstarvinum, EBS.
+15)	Triðjaland: Land, sum ikki er limur í Evropeiska Samveldinum, ES ella Evropeiska Búskaparliga Samstarvinum, EBS. 
+16)	Kunningarsamfelagstænasta: Ein og hvør tænasta í kunningarsamfelagnum, t.e. ein og hvør tænasta, sum vanliga verður veitt fyri gjald, og sum verður fjarvarpað elektroniskt eftir umbøn frá einum tænastumóttakara. 
+Kapittul 2
+Meginreglur og viðgerðarreglur
+Meginreglur fyri viðgerð av persónupplýsingum
+§ 7. Persónupplýsingar skulu:
+1)	Viðgerast lógliga, rímiliga og á ein gjøgnumskygdan hátt í mun til tann skrásetta.
+2)	Savnast til nágreiniliga tilskilað og heimilað endamál og skulu ikki seinni viðgerast á ein hátt, sum er í ósamsvari við hesi endamál. 
+3)	Vera nøktandi, viðkomandi og avmarkaðar til tað, sum er neyðugt til tey endamál, sum tær verða viðgjørdar til.
+4)	Vera rættar og nøktandi dagførdar. Øll rímilig stig skulu takast fyri at tryggja, at persónupplýsingar, sum eru rangar í mun til tey endamál, sum tær verða viðgjørdar til, verða strikaðar ella rættaðar beinanvegin.
+5)	Goymast soleiðis, at ikki ber til at eyðmerkja tey skrásettu í longri tíðarskeið enn neyðugt við atliti at endamálinum við viðgerðini. 
+6)	Viðgerast á ein hátt, sum tryggjar nøktandi trygd av persónupplýsingum, undir hesum vernd ímóti óheimilaðari ella ólógligari viðgerð og ímóti missi av tilvild, fyribeining ella skaða, við nýtslu av hóskandi tøkniligum ella bygnaðarligum, herundir fysiskum, tiltøkum.
+Stk. 2. Dátuábyrgdari hevur ábyrgdina av og skal kunna vísa á, at stk. 1 verður hildið.
+Stk. 3. Um seinni viðgerð av persónupplýsingum einans fer fram við søguligum, hagfrøðiligum ella vísindaligum endamáli, er henda viðgerð at rokna sum verandi í samsvari við upprunaendamálið við innsavnanini, um bágin, tann einstaki hevur av hesari, má metast eigur at víkja fyri tí munandi samfelagsliga týdningi, viðgerðin hevur. 
+Lóglig viðgerð
+§ 8. Viðgerð av persónupplýsingum er lóglig um í minsta lagi eini av hesum viðurskiftum gera seg galdandi:
+1)	Skrásetti hevur givið sítt samtykki til viðgerð av persónupplýsingum, til eitt ella fleiri nágreinað endamál.
+2)	Viðgerðin er neyðug fyri at halda eina avtalu, sum skrásetti er partur í, ella fyri at gera tað, sum eftir áheitan frá skrásetta er neyðugt, áðrenn avtalan verður inngingin.
+3)	Viðgerðin er neyðug fyri at halda eina rættarliga skyldu, sum áliggur dátuábyrgdaranum.
+4)	Viðgerðin er neyðug fyri at verja altumráðandi áhugamál hjá skrásetta ella øðrum persóni.
+5)	Viðgerðin er neyðug til tess at røkja samfelagsáhugamál ella uppgávur sum liggja undir almennari myndugleikaútinnan, sum dátuábyrgdaranum er áløgd.
+6)	Viðgerð er neyðug fyri, at dátuábyrgdarin ella ein triðipersónur kann fylgja einum heimilaðum áhugamáli, um ikki áhugamál ella grundleggjandi rættindi hjá skrásetta, sum krevja vernd av persónupplýsingum, ganga fram um. 
+Stk. 2. Stk. 1, nr. 6 er ikki galdandi fyri almennar myndugleikar, tá ið teir røkja sínar uppgávur.
+Treytir fyri samtykki
+§ 9. Er viðgerð av persónupplýsingum grundað á samtykki skal dátuábyrgdarin kunna vísa á, at tann skrásetti hevur givið samtykki til viðgerðina.
+Stk. 2. Verður samtykki hjá skrásetta givið í skrivligari váttan, sum eisini viðvíkur øðrum viðurskiftum, skal fyrispurningurin um samtykki leggjast fram á ein lætt skiljandi og lætt atkomiligan hátt, á einum greiðum og einføldum máli og á ein hátt, sum týðiliga skilur seg frá hinum viðurskiftunum. 
+Stk. 3. Skrásetti hevur til eina og hvørja tíð rætt til at taka sítt samtykki aftur. Afturtøka av samtykki ávirkar ikki lóggildið av viðgerð, sum er grundað á samtykki áðrenn afturtøkuna. 
+Stk. 4. Áðrenn samtykki verður givið, skal skrásetti kunnast um, at samtykki kann verða tikið aftur. Tað skal vera eins lætt at taka samtykki aftur sum at geva tað. 
+Treytir fyri samtykki frá einum barni í sambandi við kunningarsamfelagstænastur
+§ 10. Er viðgerð av persónupplýsingum um eitt barn í sambandi við útboð av kunningarsamfelagstænastum beinleiðis til børn grundað á samtykki, er viðgerðin bara lóglig, um barnið er í minsta lagi 13 ár. 
+Stk. 2. Er barnið undir 13 ár, skal samtykki verða givið ella góðkent av tí, sum hevur foreldramyndugleikan. Í slíkum førum skal dátuábyrgdarin í rímiligan mun royna at kanna, at viðkomandi, sum hevur foreldramyndugleikan, hevur givið ella góðkent samtykkið.
+Viðgerð av viðkvomum persónupplýsingum
+§ 11. Viðgerð av persónupplýsingum um húðarlit, ættarslag ella etniskan uppruna, politiska, átrúnaðarliga ella heimspekiliga sannføring ella yrkisfelagsligt tilknýti eins og viðgerð av ílegudátum, biometriskum dátum við tí endamáli eintýtt at eyðmerkja ein persón, heilsuupplýsingum, upplýsingum um kynslig viðurskifti, revsiverd viðurskifti ella upplýsingar um munandi sosialar trupulleikar og onnur heilt privat viðurskifti er bannað.
+Stk. 2. Viðgerð av persónupplýsingum sbrt. stk. 1 er loyvd um heimild er fyri hesum í §§ 12-14 ella 18-19.
+§ 12. Viðgerð av persónupplýsingum sbrt. § 11, stk. 1 er loyvd, um eitt av hesum viðurskiftum ger seg galdandi:
+1)	Skrásetti hevur givið nágreiniligt samtykki til viðgerð av persónupplýsingunum til eitt ella fleiri nágreinað endamál, uttan so at tað í lóg er ásett, at tað ikki kann víkjast frá banninum í § 11, stk. 1 við samtykki.
+2)	Viðgerðin er heimilað í lóg.
+3)	Viðgerðin er neyðug fyri at halda starvsrættarligar skyldur og tilskilað rættindi hjá dátuábyrgdaranum ella skrásetta.
+4)	Viðgerðin er neyðug fyri at verja altumráðandi áhugamál hjá skrásetta ella einum øðrum persóni í førum, tá skrásetti hvørki likamliga ella løgfrøðiliga fær givið samtykki.
+5)	Viðgerðin verður framd av almannagagnligum felagi ella grunni, sum ikki virkar við vinningi fyri eyga, og hvørs endamál er av politiskum, heimspekiligum, átrúnaðarligum ella yrkisfelagsligum slagi, sum liður í heimilaðum virksemi og við hóskandi trygd, og treytað av, at viðgerðin einans viðvíkur limum, fyrrverandi limum ella persónum, sum við sama endamáli javnan eru í sambandi við hesi, og at persónupplýsingarnar ikki verða víðarigivnar uttan samtykki frá tí skrásetta. 
+6)	Viðgerðin viðvíkur persónupplýsingum, sum eyðsýnt eru almannakunngjørdar av skrásetta.
+7)	Viðgerðin er neyðug fyri, at rættarkrav kann sannast, gerast galdandi ella verjast.
+8)	Viðgerðin er neyðug fyri at fáa haldgóða fyribyrgjandi sjúkraviðgerð, læknafrøðiliga sjúkraviðgerð, sjúkrarøkt, sjúklingaviðgerð, fyri arbeiðslæknafrøði fyri at meta um arbeiðsførleikar hjá arbeiðsfólki, ella fyri veiting ella umsiting av almannarøkt ella umsiting av læknatænastum og heilsutænastum, og persónupplýsingarnar verða viðgjørdar av starvsfólkum innan heilsuverkið, sum sbrt. lóggávuni hava fingið álagt tagnarskyldu.
+Stk. 2. Viðgerð av viðkvomum persónupplýsingum sbrt. § 11, stk. 1 kann eisini fara fram, um viðgerðin er neyðug til tess at røkja týðandi samfelagsáhugamál. Um henda viðgerð fer fram fyri ein privatan dátuábyrgdara, krevst loyvi frá Dátueftirlitinum. Dátueftirlitið kann áseta nærri treytir fyri viðgerðini.
+Stk. 3. Avvarðandi landsstýrismaður kann í samráð við landsstýrismannin í dátuverndarmálum áseta reglur um viðgerð av persónupplýsingum nevndar í § 11, stk. 1. Hesar reglur skulu veita hóskandi trygd fyri rættindum hjá skrásetta.
+Viðgerð av persónupplýsingum um revsiverd viðurskifti
+§ 13. Almennir myndugleikar kunnu viðgera persónupplýsingar um revsiverd viðurskifti, sbrt. § 11, stk. 1, um tað er neyðugt fyri, at myndugleikin kann røkja sínar uppgávur.
+Stk. 2. Tað er ikki loyvt almennum myndugleikum at víðarigeva persónupplýsingar um revsiverd viðurskifti. Víðarigeving kann tó fara fram, um:
+1)	tann skrásetti hevur givið nágreiniligt samtykki til víðarigevingina,
+2)	víðarigevingin skal røkja privat ella almenn áhugamál, sum greitt ganga fram um áhugamálini, sum krevja loynsemi, 
+3)	víðarigevingin er neyðug fyri, at ein almennur myndugleiki kann útinna sítt virksemi, ella er neyðug fyri eina avgerð, sum myndugleikin skal taka, ella
+4)	víðarigeving er neyðug fyri, at uppgávur, sum ein persónur ella fyritøka røkja fyri tað almenna, kunnu útinnast. 
+Stk. 3. Privat kunnu viðgera persónupplýsingar um revsiverd viðurskifti, um tann skrásetti hevur givið nágreiniligt samtykki. Viðgerð kann eisini fara fram, um tað er neyðugt fyri at røkja sjálvsøgd heimilað áhugamál, og hesi áhugamál greitt ganga fram um fyrilitini fyri skrásetta.
+Stk. 4. Tað er ikki loyvt at víðarigeva tær persónupplýsingar, sum eru nevndar í stk. 3, uttan at tann skrásetti hevur givið nágreiniligt samtykki til víðarigevingina. Víðarigeving uttan samtykki kann tó fara fram, tá ið víðarigevingin skal røkja privat ella almenn áhugamál, sum greitt ganga fram um áhugamálini, sum krevja loynsemi. 
+Stk. 5. Viðgerð av persónupplýsingum um revsiverd viðurskifti, sbrt. stk. 1-4, kann eisini fara fram, um treytirnar í § 12 eru loknar. 
+§ 14. Ein fullfíggjað skrá við revsirættarligum dómsúrskurðum er bert loyvd at gera fyri tað almenna.
+Viðgerð, sum ikki krevur eyðmerking
+§ 15. Um endamálini við eini viðgerð av persónupplýsingum ikki krevja ella ikki longur krevja, at tann skrásetti kann eyðmerkjast, hevur dátuábyrgdarin ikki skyldu at varðveita, útvega ella viðgera fleiri upplýsingar fyri at kunna eyðmerkja tann skrásetta bara fyri at halda hesa løgtingslóg.
+Stk. 2. Kann dátuábyrgdarin í slíkum førum, sum nevnd í stk. 1, vísa á, at viðkomandi ikki fær eyðmerkt tann skrásetta, skal dátuábyrgdarin kunna tann skrásetta um hetta, um tað er gjørligt. Í slíkum førum eru §§ 26-31 ikki galdandi, uttan so at tann skrásetti fyri at útinna síni rættindi sbrt. hesum greinum veitir fleiri upplýsingar, ið gera tað møguligt at eyðmerkja viðkomandi.
+Kapittul 3
+Serligar viðgerðarstøður
+Viðgerð av persónstalinum
+§ 16. Almennir myndugleikar kunnu viðgera upplýsingar um persónstalið til eintýdda eyðmerking ella sum skránummar.
+Stk. 2. Privat kunnu viðgera upplýsingar um persónstalið, tá ið:
+1)	viðgerðin er heimilað í lóg,
+2)	skrásetti hevur givið nágreiniligt samtykki, 
+3)	treytirnar í § 12 eru loknar, ella
+4)	viðgerðin bert fer fram til søgulig, vísindalig ella hagfrøðilig endamál. 
+Stk. 3. Viðgerðin í stk. 2, nr. 1-3 fevnir ikki um víðarigeving, sum bert er loyvd, um:
+1)	víðarigevingin er heimilað í lóg,
+2)	skrásetti hevur givið nágreiniligt samtykki til víðarigevingina,
+3)	víðarigevingin er kravd av einum almennum myndugleika, ella
+4)	víðarigevingin er ein natúrligur liður í regluliga virkseminum hjá virkjum o.ø. av tílíkum slagi og er altýðandi fyri eina eintýdda eyðmerking av skrásetta. 
+Stk. 4. Ásetingarnar í stk. 1-3 fevna ikki um at gera persónstalið alment kent. Til tað krevst samtykki frá skrásetta. 
+Viðgerð av persónupplýsingum í sambandi við beinleiðis marknaðarføring
+§ 17. Fyritøkur kunnu ikki, uttan at samtykki er fingið frá skrásetta, geva víðari til aðrar fyritøkur ella vegna aðrar fyritøkur brúka persónupplýsingar um skrásettta sum lið í beinleiðis marknaðarføring. § 6 í løgtingslóg um marknaðarføring er galdandi, tá samtykki skal fáast til vega.
+Stk. 2. Víðarigeving og nýtsla av persónupplýsingum sbrt. stk. 1 er loyvd uttan samtykki, um talan er um almennar kundaupplýsingar, sum eru grundarlag undir flokking í kundabólkar, og um treytin fyri viðgerð av persónupplýsingum í § 8, stk. 1, nr. 6 er lokin. 
+Stk. 3. Viðkvæmar persónupplýsingar, sbrt. § 11, stk. 1 kunnu ikki víðarigevast ella nýtast eftir stk. 2. 
+Viðgerð av persónupplýsingum til søgulig, hagfrøðilig og vísindalig endamál
+§ 18. Viðkvæmar persónupplýsingar, sbrt. § 11, stk. 1, kunnu viðgerast, um viðgerðin er neyðug til søgulig, hagfrøðilig ella vísindalig endamál, og bágin, tann einstaki hevur av viðgerðini, má metast at skula víkja fyri tí munandi samfelagsliga týdningi, viðgerðin hevur.
+Stk. 2. Tær í stk. 1 nevndu persónupplýsingar kunnu ikki seinni viðgerast til annað endamál. Somuleiðis er við øðrum persónupplýsingum, sum bert verða viðgjørdar til søgulig, hagfrøðilig ella vísindalig endamál.
+Stk. 3. Víðarigeving av persónupplýsingum, fevndar av stk. 1 og 2, til triðjapersón, krevur loyvi frá Dátueftirlitinum frammanundan. Dátueftirlitið kann áseta treytir fyri víðarigevingini.
+Rættarkunningarskipanir
+§ 19. Viðkvæmar persónupplýsingar, sbrt. § 11, stk. 1, kunnu viðgerast í rættarkunningarskipanum, sum hava alstóran samfelagsligan týdning, um viðgerðin er neyðug fyri at røkja skipaninar.
+Stk. 2. Tær í stk. 1 nevndu persónupplýsingar kunnu ikki seinni viðgerast til annað endamál. Somuleiðis er við øðrum persónupplýsingum, sum bert verða viðgjørdar til tess at røkja rættarkunningarskipanir. 
+Stk. 3. Landsstýrismaðurin kann áseta nærri reglur um treytir fyri tær viðgerðir, sum eru nevndar í stk. 1. Sama er galdandi fyri tær persónupplýsingar, sum eru fevndar av § 8, og sum bert verða viðgjørdar í sambandi við røkt av rættarkunningarskipanum.
+Goymsla av upplýsingum
+§ 20. Persónupplýsingar fevndar av løgtingslógini kunnu flytast til goymslu í skjalasavni sbrt. løgtingslóg um skjalasøvn.
+Kapittul 4
+Rættindi hjá skrásetta
+Gjøgnumskygd kunning, fráboðanir og nærri reglur um útinnan av rættindunum hjá skrásetta
+§ 21. Dátuábyrgdarin skal tryggja, at allar upplýsingar um viðgerð av persónupplýsingum, sum verða latnar skrásetta eftir løgtingslógini, verða latnar á ein stuttorðaðan, gjøgnumskygdan, lætt skilligan og lætt atkomiligan hátt. 
+Stk. 2. Dátuábyrgdarin skal gera tað ómakaleyst hjá skrásetta at brúka rættindi í §§ 26-36 og kann ikki nokta umbøn frá skrásetta, uttan so at dátuábyrgdarin vísir á, at tað ikki ber til at eyðmerkja skrásetta, sbr. § 15, stk. 2.
+Stk. 3. Dátuábyrgdarin skal uttan óneyðugt drál og í seinasta lagi 4 vikur eftir, at umbøn er móttikin, kunna skrásetta um øll tiltøk, sum verða sett í verk í sambandi við umbønina. Um serstøk viðurskifti so sum nøgd og torgreidni gera, at tað er ógjørligt at svara umbønini innan 4 vikur, kann tíðarskeiðið leingjast við 8 vikum. Dátuábyrgdarin skal tá í einum fyribilssvari innan 4 vikur eftir, at umbønin er móttikin, greiða frá orsøkini til seinkanina, og nær roknast kann við endaligum svari. 
+Stk. 4. Setur dátuábyrgdarin ikki tiltøk í verk í sambandi við umbøn frá skrásetta, skal dátuábyrgdarin alt fyri eitt og í seinasta lagi 4 vikur eftir, at umbønin er móttikin, kunna skrásetta um orsøkina og um møguleikan at kæra til Dátueftirlitið.
+Stk. 5. Upplýsingar, sum verða latnar skrásetta sbrt. §§ 23 og 24 og fráboðanir o.a., sum verða settar í verk sbrt. §§ 26-36 og 48 eru ókeypis. Er umbøn frá skrásetta greitt ógrundað ella órímilig, kann dátuábyrgdarin annaðhvørt krevja eitt hóskandi gjald ella nokta at eftirlíka umbønini. Dátuábyrgdarin ber próvbyrðuna fyri, at umbønin er greitt ógrundað ella órímilig.
+§ 22. Um umbøn frá skrásetta verður latin elektroniskt, skulu upplýsingarnar so vítt møguligt latast elektroniskt, uttan so at skrásetti biður um annað.
+Stk. 2. Upplýsingar kunnu gevast munnliga, um skrásetti biður um tað, treytað av, at hann skjalprógvar sín samleika. Er rímiligur ivi um samleikan hjá persóni, sum setur fram umbøn, kann dátuábyrgdarin biðja um fleiri upplýsingar fyri at staðfesta samleikan hjá viðkomandi.
+Kunningarskylda tá persónupplýsingar verða savnaðar frá skrásetta
+§ 23. Tá persónupplýsingar verða savnaðar frá skrásetta, skal dátuábyrgdarin av sínum eintingum siga skrásetta frá:
+1)	navni og samskiftisupplýsingum dátuábyrgdarans og møguligum umboðsfólkum,
+2)	samskiftisupplýsingum hjá dátuverndarfólki,
+3)	endamálinum við viðgerðini, og heimildini fyri hesari,
+4)	heimilaðu áhugamálunum, sum dátuábyrgdarin ella ein triðipersónur fylgir, um viðgerðin er grundað á § 8, stk. 1, nr. 6,
+5)	móttakarum ella bólkum av móttakarum av persónupplýsingunum, og
+6)	at dátuábyrgdarin ætlar at flyta persónupplýsingarnar til eitt útland, eitt triðjaland ella ein millumtjóðafelagsskap, og um landsstýrismaðurin hevur tikið avgerð um nøktandi verndarstøði. Er talan um flutning sbrt. §§ 61-64 skal dátuábyrgdarin vísa á grundarlagið fyri flutninginum.
+Stk. 2. Um tað er neyðugt fyri at tryggja skrásetta eina rímiliga og gjøgnumskygda viðgerð skal dátuábyrgdarin eisini siga skrásetta frá:
+1)	tíðarskeiðnum persónupplýsingarnar verða goymdar ella, um hetta ikki er gjørligt, teimum fortreytum, sum nýttar verða at áseta hetta tíðarskeið,
+2)	rættindum í kapitli 4,
+3)	rættinum at taka samtykki aftur, um viðgerðin er grundað á samtykki, 
+4)	rættinum at kæra til Dátueftirlitið, 
+5)	um skrásetti hevur upplýsingarskyldu sbrt. lóg ella avtalu, ella um hetta er krav, sum skal vera lokið fyri at innganga avtalu, og um møguligar avleiðingar um upplýsingar ikki verða givnar, og
+6)	at automatiskar avgerðir verða tiknar, og í minsta lagi væntaðu avleiðingunum fyri skrásetta.
+Stk. 3. Ætlar dátuábyrgdarin seinni at viðgera persónupplýsingarnar til annað endamál enn tað, tær eru savnaðar til, letur dátuábyrgdarin skrásetta upplýsingar um hetta og aðrar viðkomandi upplýsingar, sbr. stk. 2, áðrenn seinna viðgerðin fer fram.
+Stk. 4. Stk. 1-3 eru ikki galdandi, um tann skrásetti frammanundan kennir hesar upplýsingar.
+Kunningarskylda tá persónupplýsingar verða savnaðar frá øðrum enn skrásetta
+§ 24. Tá persónupplýsingarnar verða savnaðar frá øðrum enn skrásetta sjálvum, skal dátuábyrgdarin av sínum eintingum siga skrásetta frá:
+1)	navni og samskiftisupplýsingum dátuábyrgdarans og møguligum umboðsfólkum,
+2)	samskiftisupplýsingum hjá dátuverndarfólki,
+3)	endamálinum við viðgerðini og heimildini fyri hesari,
+4)	sløgum av persónupplýsingum,
+5)	móttakarum ella bólkum av móttakarum av persónupplýsingunum, og
+6)	um dátuábyrgdarin ætlar at flyta persónupplýsingarnar til eitt útland, eitt triðjaland ella ein millumtjóðafelagsskap, og um landsstýrismaðurin hevur tikið avgerð um nøktandi verndarstøði. Er talan er um flutning sbrt. §§ 61-64 skal dátuábyrgdarin vísa á grundarlagið fyri flutninginum.
+Stk. 2. Um tað er neyðugt fyri at tryggja skrásetta eina rímiliga og gjøgnumskygda viðgerð, skal dátuábyrgdarin eisini siga skrásetta frá:
+1)	tíðarskeiðnum persónupplýsingarnar verða goymdar ella, um hetta ikki er gjørligt, teimum fortreytum, sum nýttar verða at áseta hetta tíðarskeið,
+2)	heimilaðu áhugamálunum, sum dátuábyrgdarin ella ein triðipersónur fylgir, um viðgerðin er grundað á § 8, stk. 1, nr. 6,
+3)	rættindum í kapitli 4,
+4)	rættinum at taka samtykki aftur, um viðgerðin er grundað á samtykki, 
+5)	rættinum at kæra til Dátueftirlitið, 
+6)	hvaðani persónupplýsingarnar stava, og
+7)	at automatiskar avgerðir verða tiknar, og í minsta lagi væntaðu avleiðingunum fyri skrásetta.
+Stk. 3. Ætlar dátuábyrgdarin seinni at viðgera persónupplýsingarnar til annað endamál enn tað, tær eru savnaðar til, letur dátuábyrgdarin skrásetta upplýsingar um hetta og aðrar viðkomandi upplýsingar, sbr. stk. 2, áðrenn seinna viðgerðin fer fram.
+§ 25. Dátuábyrgdarin skal geva skrásetta upplýsingarnar í § 24, stk. 1 og 2:
+1)	innan eina hóskandi freist eftir, at persónupplýsingarnar eru savnaðar, tó í seinasta lagi áðrenn 4 vikur eru gingnar,
+2)	í seinasta lagi fyrstu ferð samskift verður við skrásetta, ella
+3)	í seinasta lagi fyrstu ferð, persónupplýsingarnar verða givnar víðari.
+Stk. 2. Kunningarskyldan í § 24 er ikki galdandi:
+1)	um tann skrásetti longu kennir upplýsingarnar,
+2)	um tað er ógjørligt ella órímiliga torført at halda skylduna, 
+3)	um tað er ómøguligt ella í sera stóran mun vil forða fyri, at endamálið við viðgerðini verður rokkið, 
+4)	um savnan og víðarigeving er heimilað í lóggávu, sum dátuábyrgdarin er fevndur av, ella
+5)	um persónupplýsingarnar skulu verða verandi í trúnaði sbrt. lógarásettari tagnarskyldu.
+Stk. 3. Í teimum førum, sum eru nevnd í stk. 2, nr. 2 og 3 skal dátuábyrgdarin seta hóskandi tiltøk í verk fyri at verja rættindini hjá skrásetta, her undir við at gera upplýsingarnar alment atkomuligar.
+Innlitsrætturin hjá skrásetta
+§ 26. Krevur skrásetti innlit, skal dátuábyrgdarin upplýsa um persónupplýsingar verða viðgjørdar og geva skrásetta atgongd til persónupplýsingarnar. Dátuábyrgdarin skal eisini geva skrásetta upplýsingar um:
+1)	endamálið við viðgerðini,
+2)	sløg av persónupplýsingum,
+3)	móttakarar ella bólkar av móttakarum, sum persónupplýsingarnar eru ella verða givnar víðari til, serliga móttakarar í útlondum, í triðjalondum ella millumtjóðafelagsskapum,
+4)	hvussu leingi persónupplýsingarnar verða goymdar ella, um hetta ikki er møguligt, tær fortreytir, sum nýttar verða at áseta hetta tíðarskeið,
+5)	rættin at biðja dátuábyrgdaran um rætting í ella striking av persónupplýsingum, viðgerðaravmarking ella at mótmæla viðgerðini,
+6)	rættinum at kæra til Dátueftirlitið,
+7)	tøkar upplýsingar um, hvaðani persónupplýsingarnar stava, um tær ikki eru savnaðar hjá skrásetta, og
+8)	at automatiskar avgerðir verða tiknar, og í minsta lagi væntaðu avleiðingarnar fyri skrásetta. 
+Stk. 2. Verða persónupplýsingarnar fluttar til eitt triðjaland ella ein millumtjóðafelagsskap sbrt. §§ 61-64 skal dátuábyrgdarin vísa á grundarlagið fyri flutninginum.
+Stk. 3. Dátuábyrgdarin útflýggjar eitt avrit av persónupplýsingunum, sum verða viðgjørdar. Biður tann skrásetti um fleiri avrit, kann dátuábyrgdarin krevja eitt hóskandi gjald. 
+Rætturin til rætting
+§ 27. Dátuábyrgdarin skal av sínum eintingum ella eftir áheitan frá skrásetta uttan óneyðugt drál rætta persónupplýsingar, sum eru rangar. 
+Stk. 2. Tann skrásetti hevur rætt til at krevja ófullfíggjaðar persónupplýsingar fullfíggjaðar, t.d. við at leggja fram eina ískoytisváttan.
+Rætturin til striking
+§ 28. Dátuábyrgdarin skal av sínum eintingum ella eftir áheitan frá skrásetta uttan óneyðugt drál strika persónupplýsingar tá:
+1)	persónupplýsingarnar ikki longur eru neyðugar at náa tí endamáli, sum tær vórðu savnaðar ella viðgjørdar til,
+2)	skrásetti tekur samtykkið aftur, sum er heimild fyri viðgerðini, og eingin onnur heimild er fyri viðgerðini,
+3)	skrásetti mótmælir viðgerðini, og treytirnar í §§ 32 ella 33 eru loknar,
+4)	persónupplýsingarnar eru viðgjørdar ólógliga,
+5)	persónupplýsingarnar skulu strikast fyri at halda eina rættarskyldu, sum áliggur dátuábyrgdaranum, ella
+6)	persónupplýsingarnar eru savnaðar í sambandi við útboð av kunningarsamfelagstænastum, sbr. § 10, stk. 1.
+Stk. 2. Hevur dátuábyrgdarin almannakunngjørt persónupplýsingar, sum sbrt. stk. 1 skulu strikast, skal dátuábyrgdarin seta hóskandi tiltøk í verk fyri at boða dátuábyrgdarum, sum viðgera persónupplýsingarnar, frá, at skrásetti hevur biðið hesar dátuábyrgdarar um at strika allar leinkjur til, avrit ella endurgevingar av viðkomandi persónupplýsingum.
+Stk. 3. Stk. 1 og 2 eru ikki galdandi um viðgerðin er neyðug:
+1)	fyri at brúka rættin til framsøgufrælsi og kunningarfrælsi,
+2)	fyri at halda eina rættarliga skyldu, sum áliggur dátuábyrgdaranum, fyri at røkja samfelagsáhugamál ella uppgávur, sum liggja undir almennari myndugleikaútinnan, sum dátuábyrgdaranum er áløgd,
+3)	til savnsendamál, søgulig, hagfrøðilig ella vísindalig endamál í tann mun striking sannlíkt vil gera tað ómøguligt ella í sera stóran mun vil forða fyri at endamálini við viðgerðini verða rokkin, ella
+4)	fyri at rættarkrav kann sannast, gerast galdandi ella verjast.
+Rætturin til viðgerðaravmarking
+§ 29. Krevur skrásetti tað, skal dátuábyrgdarin seta avmarkingar á viðgerð í hesum førum:
+1)	ímeðan dátuábyrgdarin kannar, um persónupplýsingarnar eru rættar, tá skrásetti hevur mótmælt rættleikanum,
+2)	viðgerðin er ólóglig, og skrásetti setir seg upp ímóti, at persónupplýsingarnar verða strikaðar og í staðin biður um, at nýtslan av teimum verður avmarkað,
+3)	dátuábyrgdarin hevur ikki longur tørv á persónupplýsingunum til viðgerð, men tær eru neyðugar fyri, at rættarkrav kann sannast, gerast galdandi ella verjast, ella
+4)	ímeðan dátuábyrgdarin kannar, hvørt treytirnar í § 32 eru loknar, tá skrásetti hevur mótmælt viðgerðini.
+Stk. 2. Er viðgerðin avmarkað sbrt. stk. 1, kunnu persónupplýsingarnar bert viðgerast: 
+1)	um skrásetti samtykkir, 
+2)	fyri at eitt rættarkrav kann sannast, gerast galdandi ella verjast,
+3)	fyri at verja ein annan likamligan ella løgfrøðiligan persón, ella 
+4)	fyri at verja týdningarmikil samfelagsáhugamál.
+Stk. 3. Er viðgerðaravmarking framd sbrt. stk. 1, skal dátuábyrgdarin kunna skrásetta, áðrenn viðgerðaravmarkingin verður tikin av.
+Fráboðanarskylda dátuábyrgdarans
+§ 30. Dátuábyrgdarin skal geva øllum móttakarum, sum persónupplýsingar eru víðarigivnar til, boð um allar rættingar, strikingar ella viðgerðaravmarkingar, sum eru gjørdar sbrt. § 27, § 28, stk. 1 og § 29, uttan so at hetta vísir seg at vera ógjørligt ella órímiliga torført. Dátuábyrgdarin skal kunna skrásetta um hesar móttakarar, um skrásetti biður um tað.
+Rætturin til dátuflutning
+§ 31. Skrásetti kann krevja tær persónupplýsingar frá dátuábyrgdara, sum skrásetti sjálvur hevur latið, og kann flyta hesar upplýsingar til ein annan dátuábyrgdara, tá:
+1)	viðgerðin er grundað á samtykki ella avtalu, og
+2)	viðgerðin er automatisk.
+Stk. 2. Persónupplýsingarnar, sum skrásetti móttekur sbrt. stk. 1, skulu verða í einum skipaðum, vanliga nýttum og teldutøkum sniði.
+Stk. 3. Um tað er tøkniliga gjørligt, kann skrásetti krevja, at persónupplýsingarnar, sbr. stk. 1, verða fluttar beinleiðis frá einum dátuábyrgdara til ein annan.
+Rætturin til mótmæli
+§ 32. Av orsøkum, sum viðvíkja serligu støðuni hjá viðkomandi, kann skrásetti mótmæla viðgerð av sínum persónupplýsingum, sum er grundað á § 8, stk. 1, nr. 5 ella 6. 
+Stk. 2. Dátuábyrgdarin hevur eftir mótmæli ikki loyvi at viðgera persónupplýsingarnar, uttan so at dátuábyrgdarin kann vísa á týðandi heimilaðar orsakir til viðgerðina, sum ganga fram um áhugamálini hjá skrásetta, ella um viðgerðin er neyðug fyri, at rættarkrøv kunnu sannast, gerast galdandi ella verjast.
+§ 33. Um persónupplýsingar verða viðgjørdar til beinleiðis marknaðarføring, kann skrásetti til eina og hvørja tíð mótmæla viðgerðini.
+Stk. 2. Um skrásetti mótmælir viðgerð til beinleiðis marknaðarføring, hevur dátuábyrgdarin ikki longur loyvi at viðgera persónupplýsingarnar til hetta endamál.
+§ 34. Fyrstu ferð samskift verður við skrásetta skal viðkomandi nágreiniliga verða kunnaður um rættin í §§ 32 og 33. Henda kunning skal vera greið og sundurskild frá øllum øðrum upplýsingum.
+Automatiskar individuellar avgerðir, undir hesum profilering
+§ 35. Skrásetti eigur ikki at vera fyri avgerð, sum einans er grundað á automatiska viðgerð, undir hesum profilering, og sum hevur rættarvirknað ella á líknandi hátt týðandi ávirkar viðkomandi. 
+Stk. 2. Stk. 1 er ikki galdandi, um avgerðin:
+1)	er neyðug fyri at gera ella halda eina avtalu millum tann skrásetta og ein dátuábyrgdara,
+2)	er heimilað í lóggávu, sum dátuábyrgdarin er fevndur av, ella
+3)	er grundað á nágreiniligt samtykki frá skrásetta.
+Stk. 3. Í førum, nevnd í stk. 2, nr. 1 og 3, skal dátuábyrgdarin seta hóskandi tiltøk í verk fyri at verja rættindini hjá skrásetta.
+Stk. 4. Avgerðir, sbrt. stk. 2, kunnu ikki grundast á viðkvæmar persónupplýsingar sbrt. § 11, stk. 1 uttan so, at § 12, stk. 1, nr. 1 ella § 12, stk. 2 eru galdandi, og hóskandi tiltøk eru sett í verk fyri at verja rættindini hjá skrásetta.
+Avmarkingar í rættindunum hjá skrásetta
+§ 36. Ásetingarnar í § 23, stk. 1-3 og § 24 um kunningarskyldu, § 26 um innlit og § 48 um fráboðan til skrásetta um brot fevna ikki um persónupplýsingar, sum:
+1)	um tær koma í ljósmála, kunnu skaða landsins trygd, verju ella samskifti við útlendskar tjóðir ella felagsskapir, 
+2)	eiga at dyljast við atliti at fyribyrging, eftirkanning, avdúking og rættarsøkjan av revsiverdum gerðum ella fremjan av revsirættarligum tiltøkum, her undir verjan ímóti og fyribyrgjan av hóttanum ímóti tí almennu trygdini, 
+3)	ikki er ráðiligt, at skrásetti fær kunnleika um, umhugsandi heilsuna hjá skrásetta ella tøtt persónsambond við skrásetta,
+4)	eru fevndar av tagnarskyldu ásett í lóggávu, ella
+5)	áhugin hjá skrásetta at fáa kunning um eigur at víkja fyri, orsakað av altavgerandi almennum ella privatum áhugamálum. 
+Stk. 2. Upplýsingar, sum verða viðgjørdar av almennu fyrisitingini sum liður í umsitingarligari málsviðgerð, kunnu verða undantiknar rættinum til innlit í § 26 í sama mun sum ásett í §§ 2, 7-11 og 14 í løgtingslóg um innlit í fyrisitingina.
+Stk. 3. Ásetingarnar í §§ 26, 27, 29 og 32 eru ikki galdandi, um upplýsingarnar einans verða viðgjørdar til søgulig, hagfrøðilig ella vísindalig endamál, og um persónupplýsingarnar bert verða goymdar sum persónupplýsingar so leingi, sum neyðugt er, við atliti at endamálinum við viðgerðini, og um hesar ásetingar gera tað ómøguligt ella í sera stóran mun forða fyri, at endamálið við viðgerðini verður rokkið.
+Stk. 4. Landsstýrismaðurin kann áseta nærri reglur um onnur undantøk frá reglunum um innlit og kunningarskyldu og um treytir annars í sambandi við, at innlit verður givið.
+Kapittul 5
+Dátuábyrgdari og dátuviðgeri
+Ábyrgd dátuábyrgdarans
+§ 37. Dátuábyrgdarin skal seta hóskandi tøknilig og bygnaðarlig tiltøk í verk fyri at tryggja og kunna vísa á, at viðgerð er í samsvari við løgtingslógina. Dátuábyrgdarin skal í hesum sambandi leggja upp fyri slagi, vavi, samanhangi og endamáli við viðgerðini umframt váðum fyri rættindini hjá skrásetta.
+Dátuvernd ígjøgnum sniðgeving og dátuvernd ígjøgnum standardstillingar
+§ 38. Dátuábyrgdarin skal seta hóskandi tøknilig og bygnaðarlig tiltøk í verk, bæði tá tólini til viðgerð verða løgd føst, og tá viðgerðin fer fram, sum eru sniðgivin á ein slíkan hátt, at viðgerðin lýkur krøvini í løgtingslógini.
+Stk. 2. Dátuábyrgdarin skal seta hóskandi tøknilig og bygnaðarlig tiltøk í verk fyri ígjøgnum standardstillingar at tryggja, at einans persónupplýsingar, sum eru neyðugar til endamálið, verða viðgjørdar. 
+Felags dátuábyrgdarar
+§ 39. Um tveir ella fleiri dátuábyrgdarar í felag skipa endamálini við og hjálpitólini til viðgerð, eru teir felags dátuábyrgdarar. Dátuábyrgdararnir skipa á gjøgnumskygdan hátt sínámillum ábyrgd at halda skyldurnar sbrt. hesi løgtingslóg. 
+Umboð fyri dátuábyrgdarar og dátuviðgerar, sum ikki eru staðsettir í Føroyum 
+§ 40. Dátuábyrgdari ella dátuviðgeri fevndur av § 5, stk. 2 skal skrivliga tilnevna eitt umboð í Føroyum.
+Stk. 2. Ásetingin í stk. 1 er ikki galdandi fyri:
+1)	viðgerð, sum er viðhvørt, sum ikki í stórum fevnir um viðkvæmar persónupplýsingar, sbrt. § 11, stk. 1, og sum sannlíkt ikki hevur við sær ein váða fyri rættindi hjá einstaklingum, ella
+2)	almennar myndugleikar, stovnar og eindir.
+Stk. 3. Umboðið kann móttaka fráboðanir afturat ella vegna dátuábyrgdaran ella dátuviðgeran í sambandi við allar spurningar um viðgerð av persónupplýsingum.
+Dátuviðgeri
+§ 41. Dátuábyrgdarin skal einans nýta dátuviðgerar, sum veita fullgóða trygd fyri, at hóskandi tøknilig og bygnaðarlig tiltøk verða sett í verk, sum tryggja, at viðgerðin lýkur krøvini í løgtingslógini.
+Stk. 2. Viðgerðin hjá einum dátuviðgera skal vera grundað á avtalu, sum er bindandi, og sum m.a. ásetir evnið fyri viðgerðini, endamál, eins og skyldur og rættindi hjá dátuábyrgdaranum. Avtalan ásetir harafturat serliga, at dátuviðgerin:
+1)	einans viðger persónupplýsingar eftir skjalfestum boðum frá dátuábyrgdaranum, uttan so at hetta er ásett í lóggávu, sum dátuviðgerin er fevndur av,
+2)	tryggjar, at teir persónar, sum hava heimild til at viðgera persónupplýsingar, hava tagnarskyldu, 
+3)	lýkur treytirnar í § 42 fyri at brúka annan dátuviðgera, 
+4)	fremur tiltøk, sum eru kravd sbrt. § 46,
+5)	stuðlar dátuábyrgdaranum við at svara umbønum sbrt. kapittul 4,
+6)	hjálpir dátuábyrgdaranum at tryggja, at skyldurnar sbrt. §§ 46-52 verða hildnar,
+7)	strikar ella letur aftur allar persónupplýsingar eftir, at viðgerðin er liðug, og strikar verandi avrit, um ikki er álagt í lóggávu at goyma persónupplýsingarnar, 
+8)	letur dátuábyrgdaranum allar upplýsingar, sum eru neyðugar fyri at vísa á, at krøvini í hesi grein verða hildin, og 
+9)	fær í lag og hjálpir til við skoðan. 
+Stk. 3. Um dátuviðgerin metir, at eini kravboð frá dátuábyrgdaranum eru í ósamsvari við galdandi lóggávu, boðar dátuviðgerin uttan drál dátuábyrgdaranum frá hesum.
+Stk. 4. Um ein dátuviðgeri brýtur hesa løgtingslóg við at gera av, til hvørji endamál og við hvørjum hjálpitólum persónupplýsingar kunnu viðgerast, verður dátuviðgerin mettur at vera dátuábyrgdari í mun til hesa viðgerð, uttan at hetta ávirkar §§ 77-79.
+§ 42. Ein dátuviðgeri hevur ikki loyvi at nýta annan dátuviðgera uttan ítøkiligt ella alment loyvi frá dátuábyrgdaranum. Hevur dátuviðgerin alment loyvi, skal hann boða dátuábyrgdaranum frá ætlaðari broyting av dátuviðgera, so at dátuábyrgdarin kann mótmæla. 
+Stk. 2. Um ein dátuviðgeri nýtir ein annan dátuviðgera í sambandi við viðgerð fyri dátuábyrgdaran, skal hesin dátuviðgeri halda somu dátuverndarskyldur sum tær, sum eru í avtaluni millum dátuábyrgdaran og dátuviðgeran. 
+§ 43. Landsstýrismaðurin kann eftir ummæli frá Dátueftirlitinum góðkenna standardásetingar í teimum førum, sum eru nevnd í § 41, stk. 2 og § 42, stk. 2.
+Stk. 2. Avtalan millum dátuábyrgdaran og dátuviðgeran kann heilt ella lutvíst verða grundað á tær standardásetingar, sum landsstýrismaðurin góðkennir. Avtalan skal vera til taks skrivliga, her undir elektroniskt.
+Yvirlit yvir viðgerðir
+§ 44. Dátuábyrgdarar skulu gera yvirlit yvir allar viðgerðir undir teirra ábyrgd. Hesi yvirlit skulu fata um:
+1)	navn og samskiftisupplýsingar hjá dátuábyrgdaranum,
+2)	endamálið við viðgerðini,
+3)	eina lýsing av bólkum av skrásettum og sløgum av persónupplýsingum,
+4)	bólkar av móttakarum, her undir móttakarum í útlondum, triðjalondum ella millumtjóðafelagsskapum,
+5)	upplýsing um flutning av persónupplýsingum til eitt útland, eitt triðjaland ella ein millumtjóðafelagsskap, 
+6)	ætlaðu tíðarfreistirnar fyri striking av ymisku sløgunum av upplýsingum, og
+7)	eina almenna lýsing trygdartiltøkunum, sum eru nevnd í § 46, stk. 1.
+Stk. 2. Dátuviðgerar skulu gera yvirlit yvir øll sløg av viðgerðum, sum verða framd dátuábyrgdarans vegna. Hesi yvirlit skulu fata um:
+1)	navn og samskiftisupplýsingar hjá dátuviðgera og fyri hvønn dátuábyrgdara, persónupplýsingarnar verða viðgjørdar,
+2)	sløg av viðgerð av persónupplýsingum,
+3)	upplýsing um flutning av persónupplýsingum til eitt útland, eitt triðjaland ella ein millumtjóðafelagsskap, og
+4)	eina almenna lýsing av trygdartiltøkunum, sum eru nevnd í § 46, stk. 1.
+Stk. 3. Yvirlitini í stk. 1 og 2 skulu vera skrivlig, her undir elektronisk, og skulu eftir umbøn latast Dátueftirlitinum.
+Stk. 4. Stk. 1-3 eru eisini galdandi fyri umboð dátuábyrgdarans og dátuviðgerans.
+§ 45. § 44 er ikki galdandi fyri fyritøkur, sum hava færri enn 250 starvsfólk. § 44 er hóast 1. pkt. galdandi um viðgerðin: 
+1)	sannlíkt hevur við sær ein váða fyri rættindi hjá teimum skrásettu, 
+2)	ikki bara er viðhvørt, ella 
+3)	fevnir um viðkvæmar persónupplýsingar sbrt. § 11, stk. 1.
+Viðgerðartrygd
+§ 46. Dátuábyrgdarin og dátuviðgerin skulu seta í verk hóskandi tøknilig og bygnaðarlig tiltøk, sum tryggja eitt trygdarstøði, sum hóskar til váðarnar, sum standast av viðgerðini. Dátuábyrgdarin og dátuviðgerin skulu í hesum sambandi hava fyrilit fyri verandi tøkniliga støði, verksetanarkostnaði og slagi av viðgerð, vavi, samanhangi og endamáli, umframt sannlíku váðunum og álvarum fyri rættindi hjá einstaklingum. Hesi tiltøk kunnu fevna um:
+1)	dulnevning ella bronglan av persónupplýsingum,
+2)	at tryggja áhaldandi trúnað, integritet, atkomu og haldføri frá viðgerðarskipanum og viðgerðartænastum,
+3)	føri til rættstundis at fáa í rættlag atkomu og atgongd til persónupplýsingar eftir fysiskan ella tøkniligan tilburð, og
+4)	mannagongd til regluliga royndarkanning, meting og eftirmeting av virkisføri í sambandi við tøkniligu og bygnaðarligu tiltøkini, sum tryggja viðgerðartrygd.
+Stk. 2. Í metingini av, um trygdarstøðið er hóskandi, skulu serlig atlit takast til teir váðar, sum standast av viðgerðini, herundir serliga møguleikanum fyri, at persónupplýsingar av tilvild ella ólógliga verða burturbeindar, burturmistar, broyttar ella minka í virði ella at óviðkomandi fáa kunnleika til persónupplýsingar, sum eru sendar, goymdar ella á annan hátt viðgjørdar, misbrúka tær ella annars ólógliga viðgera tær.
+Stk. 3. Dátuábyrgdarin og dátuviðgerin skulu taka stig til at tryggja, at ein og hvør, sum fremur arbeiði fyri dátuábyrgdaran ella dátuviðgeran, og sum fær innlit í persónupplýsingar, bert viðger hesar eftir boðum frá dátuábyrgdaranum, um ikki viðgerð er kravd sbrt. lóg.
+Stk. 4. Landsstýrismaðurin kann, í samráð við avvarðandi landsstýrismann, áseta nærri reglur um, at persónupplýsingar, sum verða viðgjørdar í ávísum kt-skipanum fyri almennu fyrisitingina, heilt ella lutvíst skulu goymast í Føroyum.
+Fráboðan til Dátueftirlitið um brot á persóndátutrygdina
+§ 47. Dátuábyrgdarin skal boða Dátueftirlitinum frá broti á persóndátutrygdina uttan óneyðugt drál og um gjørligt innan 72 tímar eftir, at hesin er vorðin kunnugur við brotið. Verður brotið ikki fráboðað innan 72 tímar skal grundgevast fyri hesum, tá fráboðanin verður givin. 
+Stk. 2. Stk. 1 er ikki galdandi um tað er ósannlíkt, at brotið á persóndátutrygdina hevur við sær ein váða fyri rættindi hjá einstaklingum.
+Stk. 3. Eftir at vera vorðin kunnugur við brot á persóndátutrygdina skal dátuviðgerin uttan óneyðugt drál boða dátuábyrgdaranum frá brotinum.
+Stk. 4. Fráboðanin í stk. 1 skal í minsta lagi:
+1)	lýsa slag av broti á persóndátutrygdina, her undir so vítt møguligt sløgini og umleið hvussu nógv skrásett hetta fevnir um og eisini sløgini og umleið hvussu nógvar skrásetingar av persónupplýsingum talan er um,
+2)	upplýsa navn og samskiftisupplýsingar hjá dátuverndarfólkinum ella øðrum sambindingarliði, har fleiri upplýsingar kunnu fáast til vega,
+3)	lýsa sannlíkar avleiðingar av brotinum, og
+4)	lýsa tey tiltøk, sum dátuábyrgdarin hevur sett í verk ella mælir til, fyri at handfara brotið.
+Stk. 5. Er tað ikki gjørligt at lata upplýsingarnar í einum, kunnu upplýsingarnar latast stigvíst uttan óneyðugar eyka seinkingar.
+Stk. 6. Dátuábyrgdarin skal skjalfesta øll brot á persóndátutrygdina. Dátueftirlitið kann nýta skjalfestingina at kanna, at henda grein er hildin.
+Fráboðan til skrásetta um brot á persóndátutrygdina
+§ 48. Tá brot á persóndátutrygdina eftir øllum at døma hevur við sær stóran váða fyri rættindi hjá einstaklingum, skal dátuábyrgdarin uttan óneyðugt drál boða skrásetta frá um brotið.
+Stk. 2. Fráboðanin til skrásetta skal á einum greiðum og skilligum máli lýsa slag av broti og í minsta lagi innihalda upplýsingarnar í § 47, stk. 4, nr. 2-4.
+Stk. 3. Ikki er neyðugt at boða skrásetta frá brotinum um ein av hesum treytum er lokin:
+1)	dátuábyrgdarin hevur sett í verk hóskandi tøknilig og bygnaðarlig tiltøk, og hesi tiltøk eru nýtt til tær persónupplýsingar, sum brotið fevnir um, serliga tiltøk, sum gera persónupplýsingarnar óskiljandi fyri tann, sum ikki hevur heimilaða atgongd til hesar,
+2)	dátuábyrgdarin hevur sett í verk eftirfylgjandi tiltøk, sum tryggja, at stóri váðin fyri rættindi hjá skrásetta, sbrt. stk. 1, sannlíkt ikki longur er til staðar, ella
+3)	tað krevur eitt ósamsvarandi arbeiði.
+Stk. 4. Um dátuábyrgdarin ikki longu hevur boðað skrásetta frá um brotið, kann Dátueftirlitið eftir at hava mett um sannlíkindini fyri, at brotið hevur við sær ein stóran váða, krevja, at dátuábyrgdarin ger hetta, ella avgera, at ein av treytunum í stk. 3 er lokin.
+Avleiðingargreining um dátuvernd
+§ 49. Um eitt slag av viðgerð, serliga tá ið nýggj tøkni verður nýtt, við atliti at slagi, vavi, samanhangi og endamáli, sannlíkt hevur við sær stóran váða fyri rættindi hjá einstaklingum, skal dátuábyrgdarin undan viðgerðini gera eina greining av, hvørjar avleiðingar ætlaða viðgerðin hevur fyri dátuverndina. Ein avleiðingargreining kann fevna um fleiri sløg av viðgerðum, sum hava líknandi stóran váða við sær.
+Stk. 2. Ein avleiðingargreining um dátuvernd er m.a. kravd í sambandi við:
+1)	eina skipaða og víðfevnda meting av persónligum viðurskiftum um einstaklingar, sum er grundað á automatiska viðgerð, og sum er grundarlag fyri avgerðum, sum hava rættarvirknað fyri einstaklingin ella á samsvarandi hátt munandi ávirka viðkomandi,
+2)	viðgerð í stórum av viðkvæmum persónupplýsingum, sbrt. § 11, stk. 1, ella 
+3)	umfatandi og skipaða yvirvøku av alment atkomiligum øki.
+Stk. 3. Dátueftirlitið skal gera og almannakunngera ein lista yvir sløg av viðgerðum, tá avleiðingargreining um dátuvernd er neyðug.
+Stk. 4. Dátueftirlitið kann eisini gera og almannakunngera ein lista yvir sløg av viðgerðum, tá avleiðingargreining um dátuvernd ikki er neyðug.
+§ 50. Avleiðingargreiningin, sbrt. § 49, skal í minsta lagi fevna um:
+1)	eina skipaða lýsing av ætlaðu viðgerðini og endamálinum við viðgerðini, her undir heimilaðu áhugamálunum, sum verða fylgd av dátuábyrgdaranum,
+2)	eina meting av, um viðgerðin er neyðug og stendur í rímiligum lutfalli við endamálið,
+3)	eina meting av váðunum fyri rættindi hjá teimum skrásettu, og
+4)	tey tiltøk, sum eru ætlaði fyri at ganga váðunum á møti, her undir trygdir, trygdarfyriskipanir og mekanismur, sum kunnu tryggja dátuvernd og vísa á, at henda løgtingslóg verður hildin.
+Stk. 2. Er broyting í váðanum, sum stendst av viðgerðini, skal dátuábyrgdarin gjøgnumganga viðgerðina av nýggjum fyri at meta um, hvørt viðgerðin er í samsvari við avleiðingargreiningina.
+§ 51. Er ein avleiðingargreining um dátuvernd gjørd í sambandi við, at ein lóg, sum viðvíkur viðgerð av persónupplýsingum, er sett í gildi, eru §§ 49 og 50 ikki galdandi.
+Ummæli frá Dátueftirlitinum áðrenn viðgerð
+§ 52. Vísir ein avleiðingargreining um dátuvernd, at viðgerðin fer at hava við sær stóran váða, sum dátuábyrgdarin ikki fær avmarkað, skal dátuábyrgdarin biðja Dátueftirlitið um ummæli, áðrenn viðgerðin verður sett í verk.
+Stk. 2. Um Dátueftirlitið metir, at ætlaða viðgerðin er brot á løgtingslógina, skal Dátueftirlitið innan átta vikur, geva dátuábyrgdaranum ella dátuviðgeranum skrivliga ráðgeving og kann brúka sínar heimildir sbrt. løgtingslógini. Tíðarskeiðið kann leingjast við seks vikum, um ætlaða viðgerðin er torgreidd. Dátueftirlitið skal tá í einum fyribilssvari innan fýra vikur eftir, at umbønin er móttikin, greiða frá orsøkini til seinkanina. 
+Stk. 3. Dátuábyrgdarin skal lata Dátueftirlitinum hesar upplýsingar í sambandi við umbøn um ummæli, sbrt. stk. 1:
+1)	ábyrgdarøkini hjá ávikavist dátuábyrgdarum, felags dátuábyrgdarum og dátuviðgerum, sum er uppi í viðgerðini,
+2)	endamálið við ætlaðu viðgerðini og hvørji hjálpitól skulu nýtast,
+3)	tiltøk og trygdir at verja rættindi hjá teimum skrásettu í mun til hesa løgtingslóg,
+4)	samskiftisupplýsingar hjá dátuverndarfólkinum, 
+5)	avleiðingargreiningina um dátuvernd, og
+6)	aðrar upplýsingar, sum Dátueftirlitið biður um.
+Val av dátuverndarfólki
+§ 53. Í hesum førum skulu dátuábyrgdarin og dátuviðgerin tilnevna eitt dátuverndarfólk:
+1)	tá dátuábyrgdarin ella dátuviðgerin er ein almennur myndugleiki,
+2)	tá kjarnuvirksemi dátuábyrgdarans ella dátuviðgerans er viðgerð, sum sbrt. sínum eyðkenni, vavi ella endamáli krevur umfatandi regluliga og skipaða yvirvøku av skrásettum persónum, ella
+3)	tá kjarnuvirksemi dátuábyrgdarans ella dátuviðgerans er umfatandi viðgerð av viðkvæmum persónupplýsingum, sbrt. § 11, stk. 1.
+Stk. 2. Eitt samtak kann velja eitt felags dátuverndarfólk.
+Stk. 3. Almennir myndugleikar kunnu í samsvari við bygnað og stødd velja eitt felags dátuverndarfólk.
+§ 54. Dátuverndarfólkið skal tilnevnast grundað á fakligan førleika, serliga serkunnleika í dátuverndarrætti og dátuverndarsiðvenju umframt førleika at útinna tær uppgávur, sum eru ásettar í § 58.
+Stk. 2. Dátuverndarfólkið kann antin vera starvsfólk hjá dátuábyrgdaranum ella dátuviðgeranum ella útinna uppgávurnar sbrt. einum tænastuveitingarsáttmála.
+Stk. 3. Dátuábyrgdarin ella dátuviðgerin skal almannakunngera samskiftisupplýsingarnar hjá dátuverndarfólkinum og geva Dátueftirlitinum boð.
+Starvið hjá dátuverndarfólkinum
+§ 55. Dátuábyrgdarin og dátuviðgerin skulu tryggja, at dátuverndarfólkið rættstundis verður tikið við upp á ráð í øllum spurningum um vernd av persónupplýsingum.
+Stk. 2. Dátuábyrgdarin og dátuviðgerin skulu stuðla dátuverndarfólkinum, í tann mun tað er neyðugt, fyri at hesin kann útinna uppgávurnar sbrt. § 58 og varðveita sín sakkunnleika, umframt at veita atgongd til persónupplýsingar og viðgerðir.
+Stk. 3. Dátuábyrgdarin og dátuviðgerin skulu tryggja, at dátuverndarfólkið ikki fær kravboð um, hvussu starvið skal røkjast. Dátuverndarfólkið kann ikki sigast upp ella aðramáta verða fyri agatiltøkum vegna uppgávur sínar sum dátuverndarfólk. 
+Stk. 4. Dátuverndarfólkið kann hava aðrar uppgávur og skyldur. Dátuábyrgdarin ella dátuviðgerin tryggja, at slíkar uppgávur og skyldur ikki hava við sær áhugamálsstríð.
+§ 56. Dátuverndarfólkið skal geva frágreiðing beinleiðis til ovasta leiðslustig.
+Stk. 2. Skrásett kunnu seta seg í samband við dátuverndarfólkið um allar spurningar um viðgerð av teirra persónupplýsingum og um útinnanina av rættindum teirra sbrt. hesi løgtingslóg.
+§ 57. Dátuverndarfólk, tilnevnd sbrt. § 53, stk. 1, nr. 2 og 3, hava ikki loyvi óheimilað at geva víðari ella brúka upplýsingar, sum eru komnar til teirra kunnleika sum dátuverndarfólk.
+Uppgávur hjá dátuverndarfólki
+§ 58. Dátuverndarfólkið skal í minsta lagi hava hesar uppgávur:
+1)	kunna og ráðgeva dátuábyrgdaran, dátuviðgeran og starvsfólk, sum viðgera persónupplýsingar um teirra skyldur sbrt. løgtingslógini,
+2)	halda eyga við, at løgtingslógin, aðrar reglur o.a. um dátuvernd verða hildnar, 
+3)	ráðgeva, tá ið biðið verður um tað, um avleiðingargreiningina um dátuvernd og at halda eyga við, at hon verður gjørd í samsvari við reglurnar,
+4)	samstarva við Dátueftirlitið, og
+5)	virka sum samskiftisstað hjá Dátueftirlitinum í spurningum um viðgerð av persónupplýsingum.
+Stk. 2. Dátuverndarfólkið skal røkja sínar uppgávur við hóskandi fyriliti fyri tí váða, sum er knýttur at ítøkiligu uppgávuni.
+Kapittul 6
+Flutningur av persónupplýsingum til útlond, triðjalond ella millumtjóðafelagsskapir
+Flutningur av persónupplýsingum til útlond
+§ 59. Flutningur av persónupplýsingum til útlond krevur ikki serliga góðkenning ella loyvi frammanundan. 
+Flutningur til triðjalond o.a., sum er grundaður á nøktandi verndarstøði
+§ 60. Persónupplýsingar kunnu flytast til eitt triðjaland ella ein millumtjóðfelagsskap uttan góðkenning ella loyvi frammanundan, um landsstýrismaðurin hevur ásett, at triðjalandið, eitt øki ella ein ella fleiri ávísir geirar í hesum triðjalandi ella millumtjóðfelagsskapurin, hevur eitt nøktandi verndarstøði. 
+Stk. 2. Landsstýrismaðurin ásetir eftir ítøkiliga meting av verndarstøðinum, og eftir ummæli frá Dátueftirlitinum, at eitt triðjaland o.a. tryggja eitt nøktandi verndarstøði.
+Stk. 3. Dátueftirlitið fylgir við um verndarstøðið í einum triðjalandi o.a., sbrt. stk. 2, er nøktandi. Metir Dátueftirlitið, at verndarstøði ikki longur er nøktandi, boðar Dátueftirlitið uttan drál landsstýrismanninum frá hesum. 
+Flutningur til triðjalond o.a., sum er grundaður á fullgóða trygd
+§ 61. Um nøktandi verndarstøði ikki er ásett sbrt. § 60, kann ein dátuábyrgdari ella dátuviðgeri flyta persónupplýsingar til eitt triðjaland o.a., um viðkomandi veitir fullgóða trygd, og treytað av, at rættindi og virkin rættarstig fyri skrásett eru tøk.
+Stk. 2. Fullgóð trygd, sbrt. stk. 1, kann veitast í:
+1)	einum bindandi skjali, sum kann handhevjast, millum almennar myndugleikar, ella
+2)	standardásetingum um dátuvernd, góðkendar av landsstýrismanninum eftir ummæli frá Dátueftirlitinum.
+Stk. 3. Við fyrivarni fyri góðkenning frá Dátueftirlitinum kann fullgóð trygd sbrt. stk. 1 eisini veitast í sáttmálaásetingum ímillum dátuábyrgdaran ella dátuviðgeran og dátuábyrgdaran, dátuviðgeran ella móttakaran av persónupplýsingum í triðjalandinum o.a.
+Undantøk í serligum førum
+§ 62. Er ikki heimild fyri flutningi í §§ 60 ella 61 kann flutningur av persónupplýsingum til eitt triðjaland o.a. bert fara fram um ein av hesum treytum er lokin:
+1)	skrásetti hevur givið nágreiniligt samtykki til ætlaða flutningin eftir at vera kunnaður um møguliga váðan, sum flutningurin kann hava við sær fyri skrásetta, av tí at treytirnar í §§ 60 og 61 ikki eru loknar,
+2)	flutningurin er neyðugur fyri at halda eina avtalu ímillum skrásetta og dátuábyrgdaran ella fyri at fremja tey tiltøk, sum verða sett í verk eftir áheitan frá skrásetta, áðrenn avtalan verður inngingin,
+3)	flutningurin er neyðugur fyri at fáa í lag ella halda eina avtalu, sum skrásetta til fyrimuns verður inngingin ímillum dátuábyrgdaran og ein annan likamligan ella løgfrøðiligan persón,
+4)	flutningurin er neyðugur fyri týðandi samfelagsáhugamál,
+5)	flutningurin er neyðugur fyri, at rættarkrav kann sannast, gerast galdandi ella verjast,
+6)	flutningurin er neyðugur fyri at verja altumráðandi áhugamál hjá skrásetta ella einum øðrum persóni í førum, tá skrásetti hvørki likamliga ella løgfrøðiliga fær givið samtykki, ella
+7)	flutningurin verður framdur frá eini skrá, sum sbrt. lóg er ætlað at kunna almenningin, og sum annaðhvørt er atkomulig hjá almenninginum ella hjá persónum, sum kunnu ávísa at hava ein heimilaðan áhuga í hesum, um treytirnar fyri almennari atkomu eru loknar í hvørjum einstøkum føri.
+Stk. 2. Flutningur sbrt. stk. 1, nr. 7 kann ikki fevna um allar persónupplýsingar ella heilar bólkar av persónupplýsingum í eini skrá. 
+§ 63. Er ikki heimild fyri flutningi í §§ 60 ella 61, og eru treytirnar í § 62 ikki loknar, kann flutningur til eitt triðjaland o.a. bert fara fram um flutningurin: 
+1)	ikki verður endurtikin, 
+2)	bara snýr seg um eitt avmarkað tal av skrásettum, 
+3)	er neyðugur í mun til týðandi heimilað áhugamál, sum dátuábyrgdarin fylgir, og áhugamálini ella rættindi hjá skrásetta ikki ganga fram um hesi áhugamál, og 
+4)	dátuábyrgdarin hevur mett um allar umstøður í sambandi við flutningin og á hesum grundarlagi veitir fullgóða trygd fyri vernd av persónupplýsingum.
+Stk. 2. Dátuábyrgdarin skal kunna Dátueftirlitið um flutning sbrt. stk. 1. Dátuábyrgdarin skal eisini kunna skrásetta um flutning sbrt. stk. 1, og um tey týðandi heimilaðu áhugamálini, sum verða fylgd.
+§ 64. § 62, stk. 1, nr. 1-3 og § 63 eru ikki galdandi fyri almennar myndugleikar, tá ið teir røkja sínar uppgávur. 
+Stk. 2. Dátuábyrgdarin ella dátuviðgerin skulu skjalfesta metingina og fullgóðu trygdina sbrt. § 63, stk. 1, nr. 4 í yvirlitunum nevnd í § 44.
+Forboð fyri flutningi av viðkvomum persónupplýsingum
+§ 65. Er avgerð um nøktandi verndarstøði sbrt. § 61 ikki tikin, kann Dátueftirlitið í serligum førum nokta, avmarka ella fyribils banna flutningi av viðkvomum persónupplýsingum sbrt. § 11, stk. 1 til eitt triðjaland o.a.
+Kapittul 7
+Dátueftirlitið
+Bygnaður
+§ 66. Dátueftirlitið er ein óheftur fyrisitingarmyndugleiki og fremur sítt virksemi í fullum óheftni.
+Stk. 2. Dátueftirlitið er skipað við ráði og avgreiðsluskrivstovu og hevur eftirlit við allari viðgerð av persónupplýsingum, sum løgtingslógin fevnir um. 
+Stk. 3. Dagliga virksemið hjá Dátueftirlitinum verður røkt av avgreiðsluskrivstovuni undir leiðslu av einum stjóra.
+Stk. 4. Dáturáðið ásetir egna starvsskipan og nærri reglur um arbeiðsbýtið millum Dáturáð og avgreiðsluskrivstovu.
+§ 67. Landsstýrismaðurin setir eitt Dáturáð, sum er skipað við formanni, sum skal verða løgfrøðingur, umframt fýra øðrum limum. Tveir av limunum vera tilnevndir eftir tilmæli frá Kommunufelagnum og Føroya Arbeiðsgevarafelag.
+Stk. 2. Tiltaksfólk verða tilnevnd fyri limirnar. Limir og tiltakslimir verða tilnevndir fyri 4 ár, og kunnu endurtilnevnast tvær ferðir. Tilnevningin av formanni, øðrum limum og tiltakslimum skal vera grundað á teirra fakligu førleikar.
+Uppgávur
+§ 68. Dátueftirlitið skal m.a.:
+1)	av sínum eintingum ella eftir klagu frá skrásetta ansa eftir, at viðgerð av persónupplýsingum bert fer fram í samsvari við løgtingslógina og tær reglur, sum eru ásettar sbrt. løgtingslógini,
+2)	styrkja almenna kunnleikan til dátuvernd,
+3)	ráðgeva Føroya landsstýri og øðrum stovnum o.a. um lóggávu og umsitingarlig tiltøk dátuvernd til frama,
+4)	styrkja kunnleikan hjá dátuábyrgdarum og dátuviðgerum um teirra skyldur sbrt. hesi løgtingslóg,
+5)	gera kanningar, har persónupplýsingar verða viðgjørdar, 
+6)	fylgja við í og kunna um gongdina í viðgerðini av persónupplýsingum her á landi og uttanlands, og
+7)	gera eina ársfrágreiðing, sum skal almannakunngerast.
+§ 69. Dátueftirlitið skal samstarva við aðrar eftirlitsmyndugleikar í Føroyum og uttanlands í tann mun, tað er neyðugt.
+Heimildir
+§ 70. Dátueftirlitið kann geva dátuábyrgdara ella dátuviðgera ávaring um, at ætlað viðgerð sannlíkt er í ósamsvar við løgtingslógina og kann geva dátuábyrgdara ella dátuviðgera átalu, um viðgerð hevur verið í ósamsvari við løgtingslógina.
+Stk. 2. Dátueftirlitið kann krevja, at dátuábyrgdari ella dátuviðgeri steðgar viðgerð, og at viðkomandi rættar, strikar ella viðgerðaravmarkar ávísar upplýsingar, sum eru fevndar av tílíkari viðgerð. 
+Stk. 3. Dátueftirlitið kann geva dátuábyrgdara ella dátuviðgera kravboð um at fáa viðgerð o.a. í samsvar við løgtingslógina innan eina nærri ásetta freist.
+Stk. 4. Dátueftirlitið kann geva dátuábyrgdara ella dátuviðgera kravboð um at fremja tøknilig og bygnaðarlig, herundir fysisk, trygdartiltøk, so at bert viðgerð fer fram, sum hevur heimild í løgtingslógini, og so at persónupplýsingar ikki ólógliga forkomast, missast ella skerjast, og at tær ikki koma óviðkomandi til kunnleika ella verða misnýttar. 
+§ 71. Dátueftirlitið kann krevja allar upplýsingar útflýggjaðar, sum eru av týdningi fyri virksemið hjá eftirlitinum.
+Stk. 2. Ráðslimir og leiðandi starvsfólk í Dátueftirlitinum hava til eina og hvørja tíð uttan dómsúrskurð, við at vísa galdandi samleikaprógv, atgongd til øll høli, haðani persónupplýsingar verða viðgjørdar og til høli, haðani atgongd er til tær persónupplýsingar, sum verða viðgjørdar. Dátueftirlitið hevur eisini atgongd til høli, har persónupplýsingar ella teknisk hjálparamboð verða goymd ella nýtt. 
+Avgerðir hjá Dátueftirlitinum o.a. 
+§ 72. Fyrisitingarligar avgerðir hjá Dátueftirlitinum sbrt. løgtingslógini eru endaligar innan fyrisitingina.
+§ 73. 1 Dátueftirlitið kann almannakunngera síni úttalilsi og avgerðir. Í avgerðum, sum Dátueftirlitið almannakunnger, skulu einstaklingar ikki verða nevndir við sínum navni. § 36 er galdandi í mun til almannakunngeringina.
+§ 74. Uppskot til løgtingslógir, kunngerðir, rundskriv o.tíl., sum hava ásetingar um viðgerð av persónupplýsingum, skulu sendast til ummælis hjá Dátueftirlitinum.
+§ 75. Landsstýrismaðurin kann áseta reglur um, at samskifti við Dátueftirlitið skal vera talgilt, her undir at samskiftast skal ígjøgnum ávísa kt-skipan, at ávíst talgilt fílasnið skal nýtast o.tíl.
+Kapittul 8
+Rættarráð, ábyrgd og revsing
+Rætturin at klaga
+§ 76. Skrásetti kann klaga til Dátueftirlitið um viðgerð av persónupplýsingum viðvíkjandi honum.
+Endurgjald
+§ 77. Dátuábyrgdarin ella dátuviðgerin skal endurgjalda skaða, sum kemur av, at viðgerð fer fram ímóti ásetingum í løgtingslógini, uttan so at sannað verður, at skaðin ikki kundi verið forðaður við tí eftiransni og umhugsni, sum krevst í sambandi við viðgerð av persónupplýsingum.
+Revsing
+§ 78. Um ikki hægri revsing er ásett eftir aðrari lóg, verður tann revsaður við sekt ella fongsli í upp til 6 mánaðir, sum:
+1)	ikki heldur skyldur dátuábyrgdarans ella dátuviðgerans í § 10, § 15, §§ 38-42, § 43, stk. 2, 2. pkt., § 44, §§ 46-50, § 52, stk. 1 og 3, § 53, § 55 ella § 58,
+2)	viðger persónupplýsingar ímóti § 7, stk. 1 og 2, § 8, § 9, stk. 1-2 og 4, § 11, § 12, stk. 1-2, §§ 13-14, §§ 16-17, § 18 ella § 19, stk. 1-2,
+3)	ikki heldur ásetingar um rættindini hjá skrásettum í § 9, stk. 3, §§ 21-22, § 23, stk. 1-3, § 24, § 25, stk. 1 ella §§ 26-27, § 28, stk. 1-2 ella §§ 29-35,
+4)	flytur persónupplýsingar til triðjalond o.a. ímóti §§ 60-63, § 64, stk. 2 ella § 65.
+5)	ikki gevur upplýsingar ella forðar atgongd sbrt. § 71,
+6)	ikki aktar treytir ella kravboð, sett av Dátueftirlitinum sbrt. § 12, stk. 2, § 18, stk. 3, § 19, stk. 3 ella § 70, stk. 1-4,
+7)	á annan hátt letur vera við at eftirlíka avgerðum frá Dátueftirlitinum sbrt. løgtingslógini ella setur til síðis treytir fyri einum loyvi sbrt. løgtingslógini.
+Stk. 2. Tann sum brýtur § 57 verður revsaður við sekt, um ikki hægri revsing er ásett eftir aðrari lóg.
+Stk. 3. Í reglum givnum við heimild í hesi løgtingslóg kann ásetast revsing við sekt.
+Stk. 4. Feløg og aðrir løgfrøðiligir persónar, koma undir revsiábyrgd eftir reglunum í kapitli 5 í revsilógini.
+Stk. 5. Fyrningarfreistin fyri brot á hesa løgtingslóg, ella reglur givnar við heimild í hesi løgtingslóg, er 5 ár.
+Fyrisitingarlig sektaruppskot
+§ 79. Um mett verður, at brot á hesa løgtingslóg, sbrt. § 78, ella brot á reglur givnar við heimild í hesi løgtingslóg, ikki kemur undir strangari revsing enn sekt, kann Dátueftirlitið við einum fyrisitingarligum sektaruppskoti boða frá, at málið kann avgerast uttan rættarmál, um tann, sum hevur framt brotið, játtar seg sekan í brotinum og váttar at gjalda sektina sbrt. sektaruppskotinum innan nærri ásetta freist.
+Stk. 2. Reglurnar í rættargangslógini um innihald í ákæruritum og um, at skuldsetti ikki hevur skyldu til at úttala seg, verða at nýta samsvarandi.
+Stk. 3. Verður fyrisitingarliga sektaruppskotið samtykt, fellur onnur revsirættarsókn burtur.
+Frádøming av vinnurætti
+§ 80. Tann, sum rekur ella fæst við rættarkunningarskipanir, sbrt. § 19, og privatir dátuviðgerar, sum goyma persónupplýsingar, kunnu við dómi fyri revsiverd viðurskifti frádømast rættin hesum viðvíkjandi, um nærliggjandi vandi er fyri misbrúki. § 79, stk. 3 og 4 í revsilógini eru galdandi.
+Kapittul 9
+Gildiskoma o.a.
+§ 81. Henda løgtingslóg kemur í gildi 1. januar 2021, og samstundis fer løgtingslóg nr. 73 frá 8. mai 2001 um viðgerð av persónsupplýsingum úr gildi, sbr. tó stk. 2.
+Stk. 2. § 67 kemur í gildi 1. juli 2020, og samstundis fer § 36, stk. 3 í løgtingslóg nr. 73 frá 8. mai 2001 úr gildi.
+Stk. 3. Loyvi, sum Dátueftirlitið hevur givið, sbrt. løgtingslóg nr. 73 frá 8. mai 2001 um viðgerð av persónsupplýsingum, eru hóast stk. 1 galdandi til 1. januar 2022.
+Stk. 4. Dátuviðgeraravtalur, sbrt. § 31, stk. 2 í løgtingslóg nr. 73 frá 8. mai 2001 um viðgerð av persónsupplýsingum, inngingnar, áðrenn henda løgtingslóg kemur í gildi, skulu í seinasta lagi 1. januar 2022 vera í samsvari við hesa løgtingslóg.
+
+
+Í Tinganesi, 7. juni 2020
+
+Bárður á Steig Nielsen (sign.)
+løgmaður
+Lm. nr. 51/2019

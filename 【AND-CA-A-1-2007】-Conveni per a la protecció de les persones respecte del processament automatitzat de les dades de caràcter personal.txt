@@ -1,0 +1,1907 @@
+Núm. 98 any 2007 (20 de novembre de 2007)
+Consell General
+
+Conveni
+per a la protecció de les persones respecte del processament automatitzat de 
+les dades de caràcter personal, fet a Estrasburg el 28 de gener de 1981, i del 
+Protocol addicional del Conveni per a la protecció de les persones respecte del 
+processament automatitzat de les dades de caràcter personal relatiu a les 
+autoritats de control i els fluxos transfronterers de dades, fet a Estrasburg el 8 
+de novembre del 2001
+Atès que el Consell General en la seva sessió del dia 18 d'octubre del 2007 ha 
+aprovat la ratificació del següent:
+Conveni per a la protecció de les persones respecte del processament 
+automatitzat de les dades de caràcter personal, fet a Estrasburg el 28 de gener 
+de 1981, i del Protocol addicional del Conveni per a la protecció de les 
+persones respecte del processament automatitzat de les dades de caràcter 
+personal relatiu a les autoritats de control i els fluxos transfronterers de dades, 
+fet a Estrasburg el 8 de novembre del 2001
+Signats el 31 de maig del 2007, el Conveni per a la protecció de les persones 
+respecte del processament automatitzat de les dades de caràcter personal i el 
+Protocol addicional del Conveni per a la protecció de les persones respecte del 
+processament automatitzat de les dades de caràcter personal relatiu a les 
+autoritats de control i els fluxos transfronterers de dades, tenen com a fita 
+principal protegir sobre el territori de cada Estat part totes les persones físiques, 
+sigui quina sigui la seva nacionalitat, contra la utilització abusiva del tractament 
+automatitzat de dades personals i alhora regular els fluxos transfronterers 
+d'aquestes dades.
+El Conveni i el seu Protocol addicional, oberts a la signatura dels Estats 
+membres el 28 de gener de 1981 i el 8 de novembre del 2001, respectivament, 
+són el resultat d'un llarg procés que va començar el 1968, amb la Recomanació 
+509, adreçada per l'Assemblea Parlamentària del Consell d'Europa al Comitè 
+de Ministres per demanar-li de determinar si la Convenció europea per a la 
+salvaguarda dels drets humans i de les llibertats fonamentals oferia un grau 
+suficient de protecció del dret a la vida privada davant la ciència i la tecnologia 
+modernes. Seguint aquesta recomanació, el Comitè de Ministres va encomanar 
+un estudi sobre l'estat de les legislacions nacionals pel que fa a la protecció de 
+la vida privada i als drets existents en relació amb el processament automatitzat 
+de dades. Els resultats obtinguts van posar de manifest una protecció 
+insuficient, que va incitar així l'adopció per part del Comitè de Ministres de les 
+resolucions 22 i 29 del 1973 i el 1974, les quals enumeren les regles 
+fonamentals que s'han de respectar per a l'enregistrament de dades personals 
+en els fitxers digitals. Aquestes dos resolucions van incitar una gran quantitat 
+de països a adoptar legislacions generals sobre la protecció de dades (Àustria, 
+Dinamarca, França, Alemanya, Luxemburg, Noruega, Suècia) que coincideixen 
+en uns objectius precisos: que les persones concernides puguin accedir 
+fàcilment a les dades processades i que les autoritats públiques encarregades 
+del control vetllin pel respecte i la protecció de les dades de caràcter personal.
+Tanmateix, durant aquests anys, els avenços en el camp de les noves 
+tecnologies de la informació i la comunicació i les xarxes de telecomunicacions 
+van facilitar i intensificar l'intercanvi de fitxers entre entitats a escala 
+internacional, cosa que va dur el Comitè de Ministres a demanar al Comitè 
+d'Experts sobre la Protecció de Dades l'elaboració d'un conveni internacional 
+que resolgués els problemes de jurisdicció dels estats quan en el tractament de 
+les dades personals hi intervenen parts de diversos països, així com garantir a 
+les persones que resideixen a l'estranger l'exercici dels seus drets d'accés, 
+rectificació, supressió i oposició en relació amb les seves dades personals al 
+seu país d'origen. Resultant dels treballs del Comitè d'Experts sobre la 
+Protecció de Dades, el Conveni per a la protecció de les persones respecte del 
+processament automatitzat de les dades de caràcter personal ha estat 
+completat pel seu Protocol addicional. Aquest últim, reforça l'aplicació del 
+Conveni amb disposicions relatives a les autoritats de control que han de vetllar 
+pel respecte, en l'àmbit intern, de les mesures de protecció de les dades de 
+caràcter personal. També introdueix un nou aspecte ja que regula els fluxos 
+transfronterers de dades personals a destinació de països tercers, no sotmesos 
+a la jurisdicció del Conveni.
+El Conveni per a la protecció de les persones respecte del processament 
+automatitzat de les dades de caràcter personal, del 28 de gener del 1981, i que 
+va entrar en vigor el 10 d'octubre del 1985, ha estat adoptat per 38 països 
+(entre els quals: Espanya, França i Portugal).
+El Conveni es compon de tres parts principals:
+- Disposicions de dret material sota la forma de principis de base.
+- Regles especials aplicables als fluxos transfronterers de dades.
+- Mecanismes de cooperació i de consulta entre les parts.
+Els principis de base fixats pel capítol II del Conveni haurien de ser incorporats 
+a la legislació interna sobre la protecció de dades personals, abans de l'entrada 
+en vigor del Conveni. Tanmateix, l'article 11 del Conveni preveu la possibilitat 
+de construir un sistema més avançat de protecció, cosa que la Llei de protecció 
+de dades, del 18 de desembre del 2003, i el Reglament de l'Agència Andorrana 
+de Protecció de Dades ja duen a terme, ja que no solament garanteixen a tota 
+persona física el respecte del dret a la intimitat, o dret a la vida privada, pel que 
+fa al processament automatitzat de dades, sinó que ho fan per a tot tipus de 
+dades corresponents a persones físiques. Aquesta situació també es repeteix 
+per a les mesures de seguretat i les garanties complementàries previstes pel 
+Conveni, ja que les disposicions de la legislació interna superen algunes de les 
+seves disposicions, en l'àmbit de la protecció i de l'accés a les dades 
+processades per les persones concernides. Seguint aquesta lògica, cal 
+efectuar, en el moment de ratificar el Conveni i en virtut de l'article 3.2, dues 
+declaracions amb les disposicions següents:
+- S'aplica el Conveni als fitxers de dades de caràcter personal que no són 
+objecte de processament automatitzat i que estan considerats en la legislació 
+interna andorrana.
+- S'exclou de l'àmbit d'aplicació del Conveni les dades personals relatives a la 
+seguretat de l'Estat i la investigació i prevenció d'infraccions penals, les dades 
+de persones físiques vinculades a la seva activitat empresarial, professional i 
+comercial, així com tots els registres públics expressament regulats per llei a 
+Andorra, la normativa aplicable al secret bancari i les normes reguladores del 
+secret professional.
+Pel que fa a les disposicions relatives als fluxos transfronterers de dades, no 
+formen part de les disposicions imperatives del Conveni, i de conformitat amb la 
+Constitució andorrana s'integrarien directament en el nostre ordenament intern. 
+En aquest sentit, podem destacar que la legislació interna preveu un nivell de 
+protecció per a la comunicació internacional de dades personals, equivalent 
+com a mínim al que està establert en la Llei qualificada de protecció de dades 
+personals.
+En l'àmbit de la cooperació entre les parts, el Conveni preveu l'obligació de 
+facilitar una assistència mútua mitjançant una autoritat designada especialment. 
+Es tracta d'un control efectuat abans i després de l'intercanvi de dades de 
+caràcter personal, amb l'objectiu, d'una banda, de certificar que els terminals 
+connectats a centres informàtics que estan situats en un país diferent respectin 
+les regles de seguretat de les dades, i d'altra part, facilitar la verificació de 
+l'activitat d'un centre de tractament de dades particular. L'Agència Andorrana 
+de Protecció de Dades és l'autoritat competent per dur a terme aquesta tasca, 
+cosa que s'ha de notificar a través d'una declaració que disposi el següent: En 
+virtut de l'apartat 2.a de l'article 13 del Conveni per a la protecció de les 
+persones respecte del processament automatitzat de les dades de caràcter 
+personal, el Principat d'Andorra designa com a autoritat competent per dur a 
+terme les missions d'assistència mútua l'Agència Andorrana de Protecció de 
+Dades.
+Pel que fa al Protocol addicional del Conveni per a la protecció de les persones 
+respecte del processament automatitzat de les dades de caràcter personal 
+relatiu a les autoritats de control i els fluxos transfronterers de dades, del 8 de 
+novembre del 2001, i entrat en vigor l'1 de juliol del 2004, ha estat signat per 32 
+països, dels quals solament 16 l'han oficialment ratificat, com ara França i 
+Portugal.
+El Protocol esmentat completa el Conveni per a la protecció de les persones 
+respecte del processament automatitzat de les dades de caràcter personal, 
+amb la introducció de dos noves disposicions.
+La primera, relativa a les autoritats de control que han de vetllar pel respecte, a 
+nivell intern, dels principis de base del capítol II del Conveni, preveu l'obligació 
+de crear una o diverses autoritats de control per protegir els drets i les llibertats 
+de les persones envers les dades de caràcter personal, sense prejudici de la 
+competència de les jurisdiccions internes i amb els recursos humans i tècnics 
+apropiats. En aquest sentit, Andorra ja disposa d'una autoritat de control, com 
+és l'Agència Andorrana de Protecció de Dades, cosa que s'ha de notificar a 
+través de la declaració següent: "De conformitat amb l'apartat 1 de l'article 1 del 
+Protocol addicional del Conveni per a la protecció de les persones respecte del 
+processament automatitzat de les dades de caràcter personal relatiu a les 
+autoritats de control i els fluxos transfronterers de dades, es designa l'Agència 
+Andorrana de Protecció de Dades com a autoritat competent per controlar i 
+vetllar pel respecte de les mesures incloses en el dret intern que donen efecte 
+als capítols II i III del Conveni per a la protecció de les persones respecte del 
+processament automatitzat de les dades de caràcter personal.".
+La segona preveu regularitzar els fluxos transfronterers de dades personals a 
+destinació de països tercers, no sotmesos a la jurisdicció del Conveni, i per 
+aconseguir-ho el Protocol estableix l'obligació d'un nivell de protecció "adequat" 
+del país destinatari de les informacions, en base al capítol II del Conveni per a 
+la protecció de les persones respecte del processament automatitzat de les 
+dades de caràcter personal.
+La ratificació del Conveni i del seu Protocol addicional aportaria un grau 
+superior de protecció sense la necessitat d'una modificació de la legislació 
+interna sobre la protecció de dades personals. Tanmateix, i sense que aquesta 
+protecció no impliqui l'establiment d'obligacions excessives que puguin impedir 
+o dificultar greument les activitats econòmiques, administratives o de gestió de 
+les entitats públiques i privades andorranes, aquesta normativa internacional 
+ens aproparia al nostre entorn, i així es transmetria la imatge d'un país amb un 
+nivell suficient de protecció de les dades de caràcter personal.
+Tenint en compte les consideracions anteriors i atès que Andorra va signar el 
+31 de maig del 2007 a Estrasburg el Conveni esmentat i el seu Protocol 
+addicional;
+S'aprova
+La ratificació del Conveni per a la protecció de les persones respecte del 
+processament automatitzat de les dades de caràcter personal, fet a Estrasburg 
+el 28 de gener de 1981, i la ratificació del Protocol addicional del Conveni per a 
+la protecció de les persones respecte del processament automatitzat de les 
+dades de caràcter personal relatiu a les autoritats de control i els fluxos 
+transfronterers de dades, fet a Estrasburg el 8 de novembre del 2001.
+El Ministeri d'Afers Exteriors donarà a conèixer la data d'entrada en vigor per a 
+Andorra del Conveni i del Protocol esmentats.
+Casa de la Vall, 18 d'octubre del 2007
+Joan Gabriel i Estany
+Síndic General
+
+Nosaltres els coprínceps manifestem el consentiment de l'Estat per obligar a 
+través d'ell, n'ordenem la publicació en el Butlletí Oficial del Principat d'Andorra, 
+i autoritzem que a partir d'aquell moment es pugui lliurar l'instrument de 
+ratificació corresponent.
+Joan Enric Vives Sicília
+Nicolas Sarkozy
+Bisbe d'Urgell
+President de la República Francesa
+Copríncep d'Andorra
+Copríncep d'Andorra
+Conveni
+per a la protecció de les persones respecte del processament automatitzat de 
+les dades de caràcter personal, fet a Estrasburg el 28 de gener de 1981
+Preàmbul
+Els estats membres del Consell d'Europa, signataris d'aquest Conveni,
+Considerant que l'objectiu del Consell d'Europa és de realitzar una unió més 
+estreta entre els seus membres, en el respecte especialment de la 
+preeminència del dret i també dels drets humans i les llibertats fonamentals;
+Considerant que és desitjable estendre la protecció dels drets i les llibertats 
+fonamentals de cadascú, especialment el dret al respecte de la vida privada, 
+tenint en compte la intensificació de la circulació a través de les fronteres de les 
+dades de caràcter personal que són objecte de processaments automatitzats;
+Reafirmant alhora el seu compromís a favor de la llibertat d'informació sense 
+consideració de fronteres;
+Reconeixent la necessitat de conciliar els valors fonamentals del respecte de la 
+vida privada i de la lliure circulació de la informació entre els pobles;
+Han convingut el següent:
+Capítol I. Disposicions generals
+Article 1
+Objectiu i finalitat
+La finalitat d'aquest Conveni és garantir, al territori de cada part, a tota persona 
+física, sigui quina sigui la seva nacionalitat o residència, el respecte dels seus 
+drets i de les seves llibertats fonamentals i, especialment, el seu dret a la vida 
+privada, pel que fa al processament automatitzat de les dades de caràcter 
+personal que la concerneixen ("protecció de dades").
+Article 2
+Definicions
+Als efectes d'aquest Conveni:
+a) "Dades de caràcter personal" significa tota informació referent a una persona 
+física identificada o identificable ("persona concernida").
+b) "Fitxer automatitzat" significa tot conjunt d'informacions que són objecte d'un 
+processament automatitzat.
+c) Per "processament automatitzat" s'entén les operacions efectuades en 
+totalitat o en part amb l'ajut de procediments automatitzats com ara: 
+emmagatzematge de dades, aplicació a aquestes dades d'operacions lògiques 
+i/o aritmètiques, la seva modificació, la seva supressió, la seva extracció o la 
+seva difusió.
+d) "Controlador del fitxer" significa la persona física o jurídica, l'autoritat pública, 
+el servei o qualsevol altre organisme competent segons la legislació nacional, 
+per decidir quina ha de ser la finalitat del fitxer automatitzat, quines categories 
+de dades de caràcter personal hi han de ser emmagatzemades i quines 
+operacions els han de ser aplicades.
+Article 3
+Camp d'aplicació
+1. Les parts es comprometen a aplicar el Conveni als fitxers i als 
+processaments automatitzats de dades de caràcter personal en els sectors 
+públic i privat.
+2. Tot estat pot, en el moment de la signatura o del dipòsit del seu instrument 
+de ratificació, acceptació, aprovació o adhesió, o en qualsevol moment 
+posterior, comunicar mitjançant una declaració adreçada al secretari general 
+del Consell d'Europa:
+a) Que no aplica aquest Conveni a determinades categories de fitxers 
+automatitzats de dades de caràcter personal de les quals n'ha de dipositar una 
+llista. En aquesta llista no s'han d'incloure però, les categories de fitxers 
+automatitzats que segons la seva legislació interna estan sotmeses a 
+disposicions de protecció de dades. En conseqüència, ha d'esmenar aquesta 
+llista amb una nova declaració quan sotmeti al seu règim de protecció de dades 
+altres categories addicionals de fitxers automatitzats de dades de caràcter 
+personal.
+b) Que aplica el Conveni igualment a informacions corresponents a 
+agrupacions, associacions, fundacions, societats, corporacions o a tot altre 
+organisme que agrupi directament o indirecta persones físiques que tinguin o 
+no personalitat jurídica.
+c) Que aplica el Conveni també als fitxers de dades de caràcter personal que 
+no siguin objecte de processaments automatitzats.
+3. Tot estat que hagi estès el camp d'aplicació d'aquest Conveni mitjançant una 
+de les declaracions previstes en les lletres b o c de l'apartat 2 anterior, pot 
+indicar en aquesta declaració que les extensions només s'apliquen a 
+determinades categories de fitxers de dades de caràcter personal de les quals 
+n'ha de dipositar una llista.
+4. Tota part que ha exclòs determinades categories de fitxers automatitzats de 
+dades de caràcter personal mitjançant la declaració prevista a l'apartat 2, lletra 
+a anterior, no pot pretendre l'aplicació d'aquest Conveni a aquestes categories 
+per una part que no les hagi excloses.
+5. Igualment, una part que no ha fet les extensions previstes en les lletres b i c 
+de l'apartat 2 d'aquest article, no pot fer valer l'aplicació del Conveni sobre 
+aquests punts respecte d'una part que ha procedit a fer aquestes extensions.
+6. Les declaracions previstes a l'apartat 2 d'aquest article esdevenen efectives 
+en el moment de l'entrada en vigor del Conveni respecte de l'estat que les ha 
+formulades, si aquest estat les ha fetes en el moment de la signatura o del 
+dipòsit del seu instrument de ratificació, acceptació, aprovació o adhesió, o bé 
+tres mesos després de la seva recepció per part del secretari general del 
+Consell d'Europa si han estat formulades en un moment ulterior. Aquestes 
+declaracions poden ser retirades, en la totalitat o en part, mitjançant una 
+notificació adreçada al secretari general del Consell d'Europa. La retirada 
+esdevindrà efectiva tres mesos després de la data de recepció d'aquesta 
+notificació.
+Capítol II. Principis de base per a la protecció de dades
+Article 4
+Compromisos de les parts
+1. Cada part inclou, en la seva legislació interna, les mesures necessàries per 
+donar efecte als principis de base per a la protecció de les dades enumerades 
+en aquest Capítol.
+2. Aquestes mesures han de ser efectives com a molt tard, en el moment de 
+l'entrada en vigor d'aquest Conveni per a aquesta part.
+Article 5
+Qualitat de les dades
+Les dades de caràcter personal que són objecte d'un processament 
+automatitzat són:
+a) Obtingudes i processades lleialment i lícitament.
+b) Enregistrades per a finalitats determinades i legítimes i no són utilitzades de 
+manera incompatible amb aquestes finalitats.
+c) Adequades, pertinents i no excessives en relació amb les finalitats per a les 
+quals són enregistrades.
+d) Exactes i, si és necessari, actualitzades.
+e) Conservades sota una forma que permeti la identificació de les persones 
+concernides durant un període que no sigui superior al necessari per a les 
+finalitats per a les quals són enregistrades.
+Article 6
+Categories especials de dades
+Les dades de caràcter personal que revelen l'origen racial, les opinions 
+polítiques, les conviccions religioses o altres creences, com també les dades de 
+caràcter personal relatives a la salut o a la vida sexual, no poden ser 
+processades automàticament llevat que la legislació interna estableixi les 
+garanties adequades. El mateix s'aplica a les dades de caràcter personal 
+relatives a les condemnes penals.
+Article 7
+Seguretat de les dades
+Es prenen les mesures de seguretat adequades per a la protecció de les dades 
+de caràcter personal enregistrades en fitxers automatitzats contra la destrucció 
+accidental o no autoritzada, o la pèrdua accidental, com també contra l'accés, 
+la modificació o la difusió no autoritzats.
+Article 8
+Garanties complementàries per a la persona concernida
+Tota persona ha de poder:
+a) Conèixer l'existència d'un fitxer automatitzat de dades de caràcter personal, 
+les seves finalitats principals, com també la identitat i la residència habitual o 
+l'establiment principal del controlador del fitxer.
+b) Obtenir en intervals raonables i sense demores o despeses excessives la 
+confirmació de l'existència o no, en el fitxer automatitzat, de dades de caràcter 
+personal que l'afectin com també la comunicació d'aquestes dades en una 
+forma intel·ligible.
+c) Obtenir, si escau, la rectificació d'aquestes dades o la seva supressió quan 
+han estat processades en violació de les disposicions de la legislació interna 
+que donen efecte als principis de base enunciats als articles 5 i 6 del Conveni.
+d) Disposar d'una via de recurs si no s'ha donat curs a una demanda de 
+confirmació o, si escau, de comunicació, rectificació o supressió a què fan 
+referència les lletres b i c d'aquest article.
+Article 9
+Excepcions i restriccions
+1. No s'admet cap excepció a les disposicions dels articles 5, 6 i 8 del Conveni, 
+a excepció dels límits definits en aquest article.
+2. Hi ha possibilitat de derogar les disposicions dels articles 5, 6 i 8 del 
+Conveni, si aquesta derogació prevista per la llei de l'estat constitueix una 
+mesura necessària en una societat democràtica:
+a) Per a la protecció de la seguretat de l'estat, de la seguretat pública, dels 
+interessos econòmics de l'estat o per a la repressió de les infraccions penals.
+b) Per a la protecció de la persona concernida i dels drets i llibertats d'altri.
+3. La llei pot establir restriccions a l'exercici dels drets que s'enuncien a les 
+lletres b, c i d de l'article 8 per als fitxers automatitzats de dades de caràcter 
+personal utilitzats amb finalitats estadístiques o de recerca científica, quan no 
+existeixen de manera evident riscos d'atemptat contra la vida privada de les 
+persones concernides.
+Article 10
+Sancions i recursos
+Cada part es compromet a establir les sancions i els recursos adequats 
+respecte de les violacions de les disposicions de la legislació interna que donen 
+efecte als principis de base per a la protecció de dades enunciats en aquest 
+capítol.
+Article 11
+Protecció més àmplia
+Cap de les disposicions d'aquest capítol no s'ha d'interpretar en el sentit que 
+limita o atempta contra la facultat de cada part d'atorgar a les persones 
+concernides una protecció més àmplia que l'establerta per aquest Conveni.
+Capítol III. Fluxos transfronterers de dades
+Article 12
+Fluxos transfronterers de dades de caràcter personal i legislació interna
+1. Les disposicions següents s'apliquen a les transmissions a través de les 
+fronteres nacionals, sigui quin sigui el suport utilitzat, de dades de caràcter 
+personal que són objecte d'un processament automatitzat o recollides amb la 
+finalitat de sotmetre-les a un processament automatitzat.
+2. Una part no pot, amb l'única finalitat de la protecció de la vida privada, 
+prohibir o sotmetre a una autorització especial els fluxos transfronterers de 
+dades de caràcter personal amb destinació al territori d'una altra part.
+3. Això no obstant, tota part té la facultat de contravenir les disposicions de 
+l'apartat 2:
+a) En la mesura que la seva legislació estableix una reglamentació específica 
+per a determinades categories de dades de caràcter personal o de fitxers 
+automatitzats de dades de caràcter personal, per raó de la naturalesa 
+d'aquestes dades o d'aquests fitxers, llevat que la reglamentació de l'altra part 
+aporti una protecció equivalent.
+b) Quan la transmissió s'efectua a partir del seu territori cap al territori d'un 
+estat no contractant a través del territori d'una altra part, per evitar que 
+aquestes transmissions portin a eludir la legislació de la part esmentada a l'inici 
+d'aquest apartat.
+Capítol IV. Cooperació
+Article 13
+Cooperació entre les parts
+1. Les parts es comprometen a atorgar-se mútuament assistència per a 
+l'aplicació d'aquest Conveni.
+2. Amb aquesta finalitat,
+a) Cada part designa una o diverses autoritats i comunica la seva denominació 
+i l'adreça al secretari general del Consell d'Europa.
+b) Cada part que ha designat diverses autoritats indica, en la comunicació 
+referida a la lletra a precedent, la competència de cadascuna d'aquestes 
+autoritats.
+3. Una autoritat designada per una part, a demanda d'una autoritat designada 
+per una altra part:
+a) Proporciona informació sobre el seu dret i sobre la seva pràctica 
+administrativa en matèria de protecció de dades.
+b) Pren, de conformitat amb la seva legislació interna i únicament amb la 
+finalitat de la protecció de la vida privada, totes les mesures adequades per 
+proporcionar les informacions de fet referents a un processament automatitzat 
+determinat efectuat en el seu territori a excepció, tanmateix, de les dades de 
+caràcter personal que són objecte d'aquest processament.
+Article 14
+Assistència a les persones concernides que tenen la seva residència a 
+l'estranger
+1. Cada part presta assistència a tota persona que tingui la seva residència a 
+l'estranger per a l'exercici dels drets previstos per la seva legislació interna fent 
+efectius els principis enunciats a l'article 8 del Conveni.
+2. Quan aquesta persona resideix al territori d'una altra part, ha de tenir la 
+facultat de presentar la seva demanda per mitjà de l'autoritat designada per 
+aquesta part.
+3. La demanda d'assistència ha de contenir totes les indicacions necessàries 
+referents especialment a:
+a) El nom, l'adreça i tots els altres elements d'identificació referents al 
+sol·licitant.
+b) El fitxer automatitzat de dades de caràcter personal al qual es refereix la 
+demanda o el controlador d'aquest fitxer.
+c) L'objectiu de la demanda.
+Article 15
+Garanties referents a l'assistència donada per les autoritats designades
+1. Una autoritat designada per una part que ha rebut informacions d'una 
+autoritat designada per una altra part, ja sigui en suport d'una demanda 
+d'assistència, ja sigui en resposta a una demanda d'assistència que ella 
+mateixa ha formulat, no pot fer ús d'aquestes informacions amb altres finalitats 
+que les especificades en la demanda d'assistència.
+2. Cada part vetlla perquè les persones que pertanyen o que actuen en nom de 
+l'autoritat designada estiguin vinculades per les obligacions adequades de 
+secret o de confidencialitat respecte d'aquestes informacions.
+3. En cap cas, una autoritat designada no està autoritzada a formular, en els 
+termes de l'article 14, apartat 2, una demanda d'assistència en nom d'una 
+persona concernida que resideix a l'estranger, a iniciativa pròpia i sense el 
+consentiment exprés d'aquesta persona.
+Article 16
+Refús de demandes d'assistència
+Una autoritat designada, que rebi una demanda d'assistència en els termes 
+dels articles 13 o 14 del Conveni, no pot refusar de donar-hi curs llevat que:
+a) La demanda sigui incompatible amb les competències, en l'àmbit de la 
+protecció de dades, de les autoritats habilitades a respondre.
+b) La demanda no sigui conforme a les disposicions del Conveni.
+c) L'execució de la demanda sigui incompatible amb la sobirania, la seguretat o 
+l'ordre públic de la part que l'ha designada o amb els drets i les llibertats 
+fonamentals de les persones que depenen de la jurisdicció d'aquesta part.
+Article 17
+Despeses i procediments de l'assistència
+1. La cooperació que les parts s'atorguen en els termes de l'article 13, com 
+també l'assistència que presten a les persones concernides que resideixen a 
+l'estranger en els termes de l'article 14, no dóna lloc al pagament de despeses 
+o drets altres que no siguin els que corresponen a experts o a intèrprets. 
+Aquestes despeses i aquests drets són a càrrec de la part que ha designat 
+l'autoritat que ha fet la demanda d'assistència.
+2. La persona concernida no pot ser obligada a pagar, en relació amb les 
+gestions fetes pel seu compte en el territori d'una altra part, les despeses i els 
+drets altres que no siguin els exigibles a les persones que resideixen al territori 
+d'aquesta part.
+3. Les altres modalitats relatives a l'assistència que concerneixen especialment 
+les formes i els procediments, com també les llengües que cal utilitzar, les 
+estableixen directament les parts interessades.
+Capítol V. Comitè Consultiu
+Article 18
+Composició del Comitè
+1. Es constitueix un Comitè Consultiu després de l'entrada en vigor del 
+Conveni.
+2. Tota part designa un representant i un suplent a aquest Comitè. Tot estat 
+membre del Consell d'Europa que no és part del Conveni té el dret de fer-se 
+representar en el Comitè per un observador.
+3. El Comitè Consultiu pot, per decisió presa per unanimitat, invitar tot estat no 
+membre del Consell d'Europa que no és part del Conveni a fer-se representar 
+per un observador en aquestes reunions.
+Article 19
+Funcions del Comitè
+El Comitè Consultiu:
+a) Pot fer propostes amb vista a facilitar o millorar l'aplicació del Conveni.
+b) Pot fer propostes d'esmena del Conveni de conformitat amb l'article 21.
+c) Formula una opinió sobre tota proposta d'esmena del Conveni que se li 
+sotmeti de conformitat amb l'article 21, apartat 3.
+d) Pot, a demanda d'una part, expressar la seva opinió sobre qualsevol qüestió 
+relativa a l'aplicació del Conveni.
+Article 20
+Procediment
+1. El secretari general del Consell d'Europa convoca el Comitè Consultiu. La 
+seva primera reunió té lloc en el termini dels dotze mesos següents a l'entrada 
+en vigor del Conveni. Després, es reuneix com a mínim una vegada cada dos 
+anys i, en tot cas, cada vegada que un terç dels representants de les parts 
+demani la seva convocatòria.
+2. La majoria dels representants de les parts constitueix el quòrum necessari 
+per tenir una reunió del Comitè Consultiu.
+3. Després de cadascuna de les reunions, el Comitè Consultiu sotmet al 
+Consell de Ministres del Consell d'Europa un informe sobre els seus treballs i 
+sobre el funcionament del Conveni.
+4. Amb reserva de les disposicions del Conveni, el Comitè Consultiu estableix 
+el seu reglament intern.
+Capítol VI. Esmenes
+Article 21
+Esmenes
+1. Les esmenes del Conveni poden ser proposades per una part, pel Comitè de 
+Ministres del Consell d'Europa o pel Comitè Consultiu.
+2. Tota proposta d'esmena és comunicada pel secretari general del Consell 
+d'Europa als estats membres del Consell d'Europa i a cada estat no membre 
+que s'hagi adherit o que hagi estat invitat a adherir-se al Conveni de conformitat 
+amb les disposicions de l'article 23.
+3. A més, tota esmena proposada per una part o pel Comitè de Ministres és 
+comunicada al Comitè Consultiu, que sotmet al Comitè de Ministres la seva 
+opinió sobre l'esmena proposada.
+4. El Comitè de Ministres examina l'esmena proposada i tota opinió sotmesa 
+pel Comitè Consultiu i pot aprovar l'esmena.
+5. El text de tota esmena aprovat pel Comitè de Ministres de conformitat amb 
+l'apartat 4 d'aquest article és tramès a les parts perquè sigui acceptat.
+6. Tota esmena aprovada de conformitat amb l'apartat 4 d'aquest article, 
+entrarà en vigor el trentè dia després que totes les parts hagin informat el 
+secretari general que l'han acceptada.
+Capítol VII. Disposicions
+Article 22
+Entrada en vigor
+1. El Conveni s'obre a la signatura dels estats membres del Consell d'Europa. 
+Se sotmet a ratificació, acceptació o aprovació. Els instruments de ratificació, 
+acceptació o aprovació es dipositen prop del secretari general del Consell 
+d'Europa.
+2. El Conveni entrarà en vigor el primer dia del mes següent a l'expiració d'un 
+període de tres mesos després de la data en què cinc estats membres del 
+Consell d'Europa hagin expressat el seu consentiment a estar vinculats pel 
+Conveni, de conformitat amb les disposicions de l'apartat precedent.
+3. Per a tot estat membre que expressi posteriorment el seu consentiment a 
+estar vinculat pel Conveni, aquest entrarà en vigor el primer dia del mes 
+següent a l'expiració d'un període de tres mesos després de la data del dipòsit 
+de l'instrument de ratificació, acceptació o aprovació.
+Article 23
+Adhesió d'estats no membres
+1. Després de l'entrada en vigor del Conveni, el Comitè de Ministres del Consell 
+d'Europa pot invitar tot estat no membre del Consell d'Europa a adherir-se al 
+Conveni, per decisió presa per la majoria que disposa l'article 20 d de l'Estatut 
+del Consell d'Europa i per unanimitat dels representants dels estats 
+contractants que tinguin el dret de formar part del Comitè.
+2. Per a tot estat que s'hi adhereixi, el Conveni entrarà en vigor el primer dia del 
+mes següent a l'expiració d'un període de tres mesos després de la data del 
+dipòsit de l'instrument d'adhesió prop del secretari general del Consell 
+d'Europa.
+Article 24
+Disposició territorial
+1. Tot estat pot, en el moment de la signatura o en el moment del dipòsit del 
+seu instrument de ratificació, acceptació, aprovació o adhesió, designar el o els 
+territoris als quals s'aplica el Conveni.
+2. Tot estat pot, en qualsevol altre moment posterior, mitjançant una declaració 
+adreçada al secretari general del Consell d'Europa, fer extensiva l'aplicació del 
+Conveni a qualsevol altre territori designat en la declaració. El Conveni entrarà 
+en vigor respecte d'aquest territori el primer dia del mes següent a l'expiració 
+d'un període de tres mesos després de la data de recepció de la declaració per 
+part del secretari general.
+3. Tota declaració feta en virtut dels dos apartats anteriors pot ser retirada pel 
+que fa a tot territori designat en aquesta declaració, mitjançant una notificació 
+adreçada al secretari general. La retirada esdevindrà efectiva el primer dia del 
+mes següent a l'expiració d'un període de sis mesos després de la data de 
+recepció de la notificació per part del secretari general.
+Article 25
+Reserves
+No s'admet cap reserva a les disposicions d'aquest Conveni.
+Article 26
+Denúncia
+1. Tota part pot, en tot moment, denunciar el Conveni adreçant una notificació 
+al secretari general del Consell d'Europa.
+2. La denúncia esdevindrà efectiva el primer dia del mes següent a l'expiració 
+d'un període de sis mesos després de la data de recepció de la notificació per 
+part del secretari general.
+Article 27
+Notificacions
+El secretari general del Consell d'Europa ha de notificar als estats membres del 
+Consell i a tot estat que s'hagi adherit al Conveni:
+a) Tota signatura.
+b) El dipòsit de qualsevol instrument de ratificació, acceptació, aprovació o 
+adhesió.
+c) Tota data d'entrada en vigor del Conveni, de conformitat amb els seus 
+articles 22, 23 i 24.
+d) Tot altre acte, notificació o comunicació relatius al Conveni.
+En fe de la qual cosa, els sotasignats, degudament autoritzats a aquest efecte, 
+han signat aquest Conveni.
+Fet a Estrasburg, el 28 de gener de 1981, en francès i en anglès, ambdós 
+textos igualment fefaents, en un únic exemplar que serà dipositat als arxius del 
+Consell d'Europa. El secretari general del Consell d'Europa en trametrà còpia 
+certificada conforme a cadascun dels estats membres del Consell d'Europa i a 
+tot estat que hagi estat invitat a adherir-se a aquest Conveni.
+Situació
+del Conveni per a la protecció de les persones pel que fa al tractament 
+automatitzat de dades de caràcter personal, fet a Estrasburg el 28 de gener de 
+1981
+Entrada en vigor: 1 d'octubre de 1985
+Situació al 4 de juliol del 2007: estats signataris 5; estats part 38 
+Estats	Signatura	Ratificació	Entrada en vigor	R	D	A	T
+Albània 	9 de juny del 2004 	14 de febrer del 2005 	1 de juny del 2005 		X 	X 	
+Alemanya 	28 de gener de 1981 	19 de juny de 1985 	1 d’octubre de 1985 		X 	X 	X 
+Andorra 	31 de maig del 2007 						
+Antiga República Iugoslava de Macedònia 	24 de març del 2006 	24 de març del 2006 	1 de juliol del 2006 		X 	X 	
+Àustria 	28 de gener de 1981 	30 de març de 1988 	1 de juliol de 1988 		X 	X 	
+Bèlgica 	7 de maig de 1982 	28 de maig de 1993 	1 de setembre de 1993 		X 	X 	
+Bòsnia i Hercegovina 	2 de març del 2004 	31 de març del 2006 	1 de juliol del 2006 				
+Bulgària 	2 de juny de 1998 	18 de setembre del 2002 	1 de gener del 2003 				
+Croàcia 	5 de juny del 2003 	21 de juny del 2005 	1 d’octubre del 2005 		X 	X 	
+Dinamarca 	28 de gener de 1981 	23 d’octubre de 1989 	1 de febrer de 1990 			X 	X 
+Eslovàquia 	14 d’abril del 2000 	13 de setembre del 2000 	1 de gener del 2001 			X 	
+Eslovènia 	23 de novembre de 1993 	27 de maig de 1994 	1 de setembre de 1994 			X 	
+Espanya 	28 de gener de 1982 	31 de gener de 1984 	1 d’octubre de 1985 			X 	
+Estònia 	24 de gener del 2000 	14 de novembre del 2001 	1 de març del 2002 		X 	X 	
+Finlàndia 	10 d’abril de 1991 	2 de desembre de 1991 	1 d’abril de 1992 			X 	
+França 	28 de gener de 1981 	24 de març de 1983 	1 d’octubre de 1985 		X 	X 	
+Geòrgia 	21 de novembre del 2001 	14 de desembre del 2005 	1 d’abril del 2006 				
+Grècia 	17 de febrer de 1983 	11 d’agost de 1995 	1 de desembre de 1995 				
+Hongria 	13 de maig de 1993 	8 d’octubre de 1997 	1 de febrer de 1998 		X 	X 	
+Irlanda 	18 de desembre de 1986 	25 d’abril de 1990 	1 d’agost de 1990 		X 	X 	
+Islàndia 	27 de setembre de 1982 	25 de març de 1991 	1 de juliol de 1991 			X 	
+Itàlia 	2 de febrer de 1983 	29 de març de 1997 	1 de juliol de 1997 		X 	X 	
+Letònia 	31 d’octubre del 2000 	30 de maig del 2001 	1 de setembre del 2001 		X 	X 	
+Liechtenstein 	2 de març del 2004 	11 de maig del 2004 	1 de setembre del 2004 		X 	X 	
+Lituània 	11 de febrer del 2000 	1 de juny del 2001 	1 d’octubre del 2001 			X 	
+Luxemburg 	28 de gener de 1981 	10 de febrer de 1988 	1 de juny de 1988 		X 	X 	
+Malta 	15 de gener del 2003 	28 de febrer del 2003 	1 de juny del 2003 				
+Moldàvia 	4 de maig de 1998 						
+Montenegro 	6 de setembre del 2005 	6 de setembre del 2005 	6 de juny del 2006 				
+Noruega 	13 de març de 1981 	20 de febrer de 1984 	1 d’octubre de 1985 		X 	X 	X 
+Països Baixos 	21 de gener de 1988 	24 d’agost de 1993 	1 de desembre de 1993 		X 	X 	X 
+Polònia 	21 d’abril de 1999 	23 de maig del 2002 	1 de setembre del 2002 				
+Portugal 	14 de maig de 1981 	2 de setembre de 1993 	1 de gener de 1994 			X 	
+República Txeca 	8 de setembre del 2000 	9 de juliol del 2001 	1 de novembre del 2001 			X 	
+Romania 	18 de març de 1997 	27 de febrer del 2002 	1 de juny del 2002 		X 	X 	
+Regne Unit 	14 de maig de 1981 	26 d’agost de 1987 	1 de desembre de 1987 		X 	X 	X 
+Rússia 	7 de novembre del 2001 						
+Sèrbia 	6 de setembre del 2005 	6 de setembre del 2005 	1 de gener del 2006 		X 	X 	
+Suècia 	28 de gener de 1981 	29 de setembre de 1982 	1 d’octubre de 1985 			X 	
+Suïssa 	2 d’octubre de 1997 	2 d’octubre de 1997 	1 de febrer de 1998 		X 	X 	
+Turquia 	28 de gener de 1981 						
+Ucraïna 	29 d’agost del 2005 						
+Xipre 	25 de juliol de 1986 	21 de febrer del 2002 	1 de juny del 2002 			X 	
+
+a.: Adhesió - s.: Signatura sense reserva de ratificació - su.: Successió - r.: 
+signatura ad referendum.
+R.: Reserves - D.: Declaracions - A.: Autoritats - T.: Aplicació territorial
+Declaracions
+Albània
+Declaració consignada en l'instrument de ratificació dipositat el 14 de febrer del 
+2005 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, la República 
+d'Albània declara que no aplica el Conveni a les dades personals de les 
+categories següents:
+a) Al tractament de dades personals efectuat per persones amb finalitats 
+exclusivament personals, a condició que aquestes dades no estiguin 
+destinades a ser difoses a través de diferents mitjans de comunicació.
+b) A les dades personals que, per Llei, siguin accessibles al públic i les dades 
+personals que es publiquin de conformitat amb la llei.
+De conformitat amb l'article 3, apartat 2, lletra b, del Conveni, la República 
+d'Albània declara que aplica el Conveni a les dades aferents a agrupacions, 
+associacions, fundacions, societats, corporacions o a qualsevol altre organisme 
+que agrupi directament o indirectament persones físiques que gaudeixin o no 
+de la personalitat jurídica.
+Data d'efecte: 1/6/2005
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 14 de febrer del 
+2005 -Original en anglès- i en una nota verbal de la Representació Permanent 
+d'Albània, del 4 d'abril del 2005, enregistrada a la Secretaria General el 5 d'abril 
+del 2005 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, del Conveni, la República d'Albània 
+declara que les autoritats designades per a la cooperació entre les parts són:
+1. Ministeri de JustíciaBoulevard Zogu I No. 5 TIRANA - Albània
+2. INSTAT (InstitutiiStatistikave) Rruga Lekë Dukagjini TIRANA - Albània
+Quant a les competències respectives de les autoritats designades més amunt:
+- L'INSTAT és l'autoritat responsable per a la cooperació entre les parts per a 
+totes les qüestions relatives a les estadístiques o tot tipus de dades o 
+informació elaborada per l'INSTAT o sota la seva autoritat.
+- El Ministeri de Justícia és l'autoritat competent responsable de les altres 
+qüestions no tractades per l'INSTAT com ara les esmentades més amunt.
+Data d'efecte: 1/6/2005
+Declaració anterior relativa als articles: 13
+Alemanya
+Declaració consignada en una carta del representant permanent de la 
+República Federal d'Alemanya, del 19 de juny de 1985, lliurada al secretari 
+general en el moment del dipòsit de l'instrument de ratificació, el 19 de juny de 
+1985 -Original en alemany.
+La República Federal d'Alemanya part del principi que no es pot donar 
+seguiment a una demanda d'informació de conformitat amb la lletra b de 
+l'article 8, si la persona concernida no pot especificar de manera suficient la 
+seva demanda d'informació.
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 8
+Declaració consignada en una carta del representant permanent de la 
+República Federal d'Alemanya, del 19 de juny de 1985, lliurada al secretari 
+general en el moment del dipòsit de l'instrument de ratificació, el 19 de juny de 
+1985 -Original en alemany.
+Quant al punt 5 de l'apartat 67 de l'Informe explicatiu relatiu al Conveni per a la 
+protecció de les persones pel que fa al tractament automatitzat de les dades de 
+caràcter personal, el Govern de la República Federal d'Alemanya part del 
+principi que l'apartat 2 de l'article 12, deixa a les parts la llibertat d'establir, en el 
+marc de la seva legislació interna en matèria de protecció de dades, unes 
+normes que prohibeixin en certs casos particulars la transferència de dades de 
+caràcter personal per tal de tenir en compte els interessos de la persona 
+concernida dignes de ser protegits.
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 12
+Declaració consignada en una carta del representant permanent d'Alemanya, 
+del 21 d'octubre de 1994, enregistrada a la Secretaria General el 25 d'octubre 
+de 1994 -Original en anglès.
+L'autoritat competent a nivell de la Federació és:
+Bundesministerium des Innern
+Graurheindorfer Strasse 198
+53117 Bonn
+Data d'efecte: 25/10/1994
+Declaració anterior relativa als articles:
+Declaració consignada en una carta del representant permanent d'Alemanya, 
+del 21 d'octubre de 1994, enregistrada a la Secretaria General el 25 d'octubre 
+de 1994 -Original en anglès.
+Les autoritats competents a nivell dels Länder són:
+Baden-Württemberg
+Innenministerium Baden-Württemberg
+Dorotheenstrasse 6
+70173 Stuttgart
+Freistaat Bayern
+Bayerisches Staatsministerium des Innern
+Odeonsplatz 3
+80539 München
+Berlin
+Senatsverwaltung für Inneres von Berlin
+Fehrbelliner Platz 2
+10707 Berlin
+Brandenburg
+Ministerium des Innern des Landes Brandenburg
+Postfach 60 11 65
+14411 Potsdam
+Freie Hansestadt Bremen
+Senator für Inneres und Sport der Freien Hansestadt Bremen
+Postfach 10 15 05
+28203 Bremen
+Freie und Hansestadt
+Hamburg
+Finanzbehörde
+- Amt für Informacions - und Kommunikationstechnik -
+Steckelhörn 12 (Gotenhof)
+20457 Hamburg
+Hessen
+Hessisches Ministerium des Innern und für Europaangelegenheiten
+Friedrich-Ebert-Allee 12
+65185 Wiesbaden
+Mecklenburg-Vorpommern
+Innenminister des Landes
+Mecklenburg-Vorpommern
+Karl-Marx-Strasse 1
+19055 Schwerin
+Niedersachsen
+Niedersächsisches Innenministerium
+Postfach 2 21
+30002 Hannover
+Nordrhein-Westfalen
+Innenministerium des Landes
+Nordrhein-Westfalen
+40190 Düsseldorf
+Rheinland-Pfalz
+Ministerium des Innern und für Sport
+Postfach 32 80
+55022 Mainz
+Saarland
+Ministerium des Innern des Saarlandes
+Postfach 10 24 41
+66024 Saarbrücken
+Freistaat Sachsen
+Sächsisches Staatsministerium des Innern
+01095 Dresden
+Sachsen-Anhalt
+Ministerium des Innern des Landes Sachsen-Anhalt
+Postfach 35 60
+39010 Magdeburg
+Schleswig-Holstein
+Innenminister des Landes
+Schleswig Holstein
+Düsternbrooker Weg 92
+24105 Kiel
+Freistaat Thüringen
+Innenministerium Thüringen
+Postfach 2 61
+99006 Erfurt
+Data d'efecte: 25/10/1994
+Declaració anterior relativa als articles:
+Àustria
+Declaració interpretativa consignada en l'instrument de ratificació dipositat el 30 
+de març de 1988 -Original en alemany/francès/anglès.
+La República d'Àustria interpreta el terme "difusió" en el sentit dels termes 
+"transmissió" i "lliurament" utilitzats en l'article 3, punts 9 i 10, de la llei austríaca 
+relativa a la protecció de dades, en la versió de l'esmena publicada al Butlletí 
+de les Lleis Federals núm. 370/1986.
+Data d'efecte: 1/7/1988
+Declaració anterior relativa als articles: 2
+Declaració interpretativa consignada en l'instrument de ratificació dipositat el 30 
+de març de 1988 -Original en alemany/francès/anglès.
+La República d'Àustria estima que aquesta obligació [article 5, lletra e] la 
+compleix totalment la Llei austríaca sobre la protecció de dades que preveu la 
+supressió de les dades a demanda de la persona concernida.
+Data d'efecte: 1/7/1988
+Declaració anterior relativa als articles: 5
+Declaració interpretativa consignada en l'instrument de ratificació dipositat el 30 
+de març de 1988 -Original en alemany/francès/anglès.
+La República d'Àustria estima que l'expressió "prevista per la Llei de la part" en 
+la primera frase de l'article 9, apartat 2, del Conveni té exactament el mateix 
+sentit que l'expressió "prevista per la Llei" a l'article 8 apartat 2, del Conveni 
+europeu dels drets humans i que, per tant, és compatible amb el Conveni que, 
+segons el dret fonamental austríac a la protecció de les dades, aquest dret 
+fonamental només pot ser limitat si està previst per la Llei.
+Data d'efecte: 1/7/1988
+Declaració anterior relativa als articles: 9
+Declaració interpretativa consignada en l'instrument de ratificació dipositat el 30 
+de març de 1988 -Original en alemany/francès/anglès.
+La República d'Àustria estima a més que la restricció a favor dels "interessos 
+econòmics de l'Estat" segons l'article 9, apartat 2, lletra a, del Conveni, 
+juntament amb la restricció segons l'apartat 2, lletra b, correspon, quant al seu 
+abast, a la restricció segons l'article 8, apartat 2, del Conveni europeu dels 
+drets humans, a favor del "benestar econòmic del país".
+Data d'efecte: 1/7/1988
+Declaració anterior relativa als articles: 9
+Declaració consignada en l'instrument de ratificació dipositat el 30 de març de 
+1988 -Original en alemany/francès/anglès.
+L'autoritat austríaca competent per a la cooperació en l'aplicació d'aquest 
+Conveni, és, de conformitat amb l'article 13, apartat 2, el
+Bundeskanzleramt
+Ballhausplatz 2,
+A-1014 VIENA
+Data d'efecte: 1/7/1988
+Declaració anterior relativa als articles: 13
+Declaració consignada en l'instrument de ratificació dipositat el 30 de març del 
+1988 -Original en alemany/francès/anglès.
+De conformitat amb l'article 3, apartat 2, lletra b, la República d'Àustria fa saber 
+que aplica el present Conveni també a les informacions aferents a agrupacions, 
+associacions, fundacions, societats, corporacions o qualsevol altre organisme 
+que agrupi directament o indirectament, persones físiques, que gaudeixin o no 
+de personalitat jurídica (persones jurídiques o comunitats de persones en el 
+sentit de l'article 3, apartat 2, de la Llei sobre la protecció de dades).
+Data d'efecte: 1/7/1988
+Declaració anterior relativa als articles: 3
+Bèlgica
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 28 de 
+maig de 1993 -Original en francès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, Bèlgica no aplica 
+el Conveni als tractaments de dades de caràcter personal gestionats per 
+persones físiques, que per la seva naturalesa estan destinades a un ús privat, 
+familiar o domèstic i mantenen aquesta destinació.
+Data d'efecte: 1/9/1993
+Declaració anterior relativa als articles: 3
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 28 de 
+maig de 1993 -Original en francès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, Bèlgica no aplica 
+el Conveni als tractaments que tracten exclusivament dades de caràcter 
+personal que són objecte d'una publicitat en virtut d'una disposició legal o 
+reglamentària.
+Data d'efecte: 1/9/1993
+Declaració anterior relativa als articles: 3
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 28 de 
+maig de 1993 -Original en francès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, Bèlgica no aplica 
+el Conveni als tractaments que tracten exclusivament dades de caràcter 
+personal, la persona a la qual fan referència n'assegura o en fa assegurar la 
+publicitat, sempre que el tractament respecti la finalitat d'aquesta publicitat.
+Data d'efecte: 1/9/1993
+Declaració anterior relativa als articles: 3
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 28 de 
+maig de 1993 -Original en francès.
+De conformitat amb l'article 3, apartat 2, lletra c, del Conveni, Bèlgica aplica 
+també el Conveni als fitxers de dades de caràcter personal mantinguts en 
+suports no automatitzats.
+Data d'efecte: 1/9/1993
+Declaració anterior relativa als articles: 3
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 28 de 
+maig de 1993 -Original en francès.
+L'autoritat designada per proporcionar les informacions a què fa referència 
+l'article 13, apartat 3, lletra a, és el
+Ministère de la Justice
+Administration des Affaires civiles et criminelles
+Place Poelaert, 3
+1000 BRUXELLES
+Data d'efecte: 1/9/1993
+Declaració anterior relativa als articles: 13
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 28 de 
+maig de 1993 -Original en francès.
+L'autoritat competent per proporcionar les informacions a què fa referència 
+l'article 13, apartat 3, lletra b, és la
+Commission de la protection de la vie privée
+Place Poelaert, 3
+1000 BRUXELLES
+Data d'efecte: 1/9/1993
+Declaració anterior relativa als articles: 13
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 28 de 
+maig de 1993 -Original en francès.
+L'autoritat designada als efectes de l'article 14 és la
+Commission de la protection de la vie privée
+Place Poelaert, 3
+1000 BRUXELLES
+Data d'efecte: 1/9/1993
+Declaració anterior relativa als articles: 14
+Croàcia
+Declaració consignada en l'instrument de ratificació dipositat el 21 de juny del 
+2005 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, la República de 
+Croàcia declara que el Conveni no s'aplica als fitxers automatitzats de dades 
+de caràcter personal mantinguts per persones amb finalitat exclusivament 
+personal o amb fins familiars.
+Data d'efecte: 1/10/2005
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 21 de juny del 
+2005 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra c, del Conveni, la República de 
+Croàcia declara que el Conveni s'aplica també als fitxers de dades de caràcter 
+personal que no siguin objecte de tractament automatitzat.
+Data d'efecte: 1/10/2005
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 21 de juny del 
+2005 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, del Conveni, la República de 
+Croàcia declara que l'autoritat competent és l'Agència de Protecció de Dades 
+de Caràcter Personal.
+Data d'efecte: 1/10/2005
+Declaració anterior relativa als articles: 13
+Dinamarca
+Declaració consignada en una carta del representant permanent de Dinamarca, 
+del 23 d'octubre de 1989, lliurada al secretari general en el moment del dipòsit 
+de l'instrument de ratificació el 23 d'octubre del 1989 -Original en anglès.
+El Conveni no s'aplica a les illes Fèroe ni a Groenlàndia.
+Data d'efecte: 1/2/1990
+Declaració anterior relativa als articles: 24
+Declaració consignada en una carta del representant permanent de Dinamarca, 
+del 23 d'octubre de 1989, lliurada al secretari general en el moment del dipòsit 
+de l'instrument de ratificació el 23 d'octubre de 1989 -Original en anglès.
+L'autoritat danesa designada és:
+Data Surveillance Authority (D.S.A.)
+(Registertilsynet)
+Christians Brygge 28, 4
+DK-1559 COPENHAGEN V
+Tel: 31 14 38 44
+Data d'efecte: 1/2/1990
+Declaració anterior relativa als articles: 13
+Eslovàquia
+Declaració consignada en una nota verbal del viceprimer ministre de la 
+República Eslovaca, lliurada al secretari general en el moment de la signatura, 
+el 14 d'abril del 2000 -Original en anglès- i confirmada en una carta de la 
+representant permanent d'Eslovàquia, del 10 de novembre del 2000, 
+enregistrada a la Secretaria General el 13 de novembre del 2000 -Original en 
+francès.
+De conformitat amb l'article 13, apartat 2, del Conveni per a la protecció de les 
+persones pel que fa al tractament automatitzat de les dades de caràcter 
+personal, l'organisme d'estat responsable del control sobre la protecció de les 
+dades de caràcter personal a la República Eslovaca és:
+el Comissari del Govern per a la protecció de les dades de caràcter personal 
+dels sistemes d'informació i la Unitat de control de les dades de caràcter 
+personal
+Seu del Govern de la República Eslovaca
+Namestie slobody 1
+SK-813 70 Bratislava 1
+República Eslovaca
+Data d'efecte: 1/1/2001
+Declaració anterior relativa als articles: 13
+Eslovènia
+Declaració consignada en una carta del ministre de Justícia d'Eslovènia del 10 
+de gener de 1995, enregistrada a la Secretaria General el 19 de gener de 1995 
+-Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, l'autoritat designada és:
+Ministry of Justice of the Republic of Slovenia
+M. Joze Santovec
+Counsellor to the Government
+(Chief of the Data Protection Sector)
+Zupanciceva 3
+61000 LJUBLJANA
+Tel: 386 61 1765 211
+Fax: 386 61 210 200
+Data d'efecte: 19/1/1995
+Declaració anterior relativa als articles: 13
+Espanya
+Declaració consignada en una carta del representant permanent d'Espanya, del 
+25 de gener de 1999, enregistrada a la Secretaria General el 26 de gener de 
+1999 -Original en francès- i confirmada mitjançant una carta del 9 de març del 
+1999, enregistrada a la Secretaria General el 10 de març de 1999 -Original en 
+francès.
+Autoritat central:
+Ministerio de Justicia
+Secretaría General Técnica
+San Bernardo, 45
+28071 Madrid, España
+Data d'efecte: 26/1/1999
+Declaració anterior relativa als articles: 13
+Estònia
+Declaració consignada en l'instrument de ratificació dipositat el 14 de novembre 
+del 2001 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, la República 
+d'Estònia declara que no aplica el present Conveni al tractament de les dades 
+de caràcter personal compilades per persones físiques amb fins privats.
+Data d'efecte: 1/3/2002
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 14 de novembre 
+del 2001 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, del Conveni, la República 
+d'Estònia designa l'Agència de Protecció de Dades com a autoritat competent.
+Data d'efecte: 1/3/2002
+Declaració anterior relativa als articles: 13
+Finlàndia
+Declaració consignada en una carta del representant permanent de Finlàndia 
+prop del Consell d'Europa, del 18 de març de 1992, enregistrada a la Secretaria 
+General el 19 de març de 1992 -Original en anglès.
+Autoritat competent:
+Ombudsman per a la protecció de dades
+Kauppakartanonkatu 7 A 41
+P.O. Box 31
+00931 HELSINKI
+Finlàndia
+Data d'efecte: 1/4/1992
+Declaració anterior relativa als articles: 13
+França
+Declaració feta en el moment de la signatura, el 28 de gener de 1981 -Original 
+en francès.
+El Govern de la República Francesa declara que interpreta els termes "Sécurité 
+de l'Etat" de l'article 9, apartat 2, lletra a, en el sentit de "Sûreté de l'Etat" i els 
+termes "Sûreté publique" en el sentit de "Sécurité publique".
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 9
+Declaració consignada en una carta del ministre de Relacions Exteriors, del 14 
+d'abril de 1983, enregistrada a la Secretaria General el 16 de maig de 1983 -
+Original en francès.
+El Govern de la República Francesa desitja fer la declaració complementària 
+següent:
+De conformitat amb les disposicions de l'article 3, apartat 2, lletra c, també 
+aplica el present Conveni als fitxers de dades de caràcter personal que no 
+siguin objecte de tractaments automatitzats.
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta del Ministeri d'Afers Estrangers, del 10 de 
+març de 1992, enregistrada a la Secretaria General el 13 de març de 1992 -
+Original en francès.
+Autoritat competent:
+Commission Nationale de l'Informatique et des Libertés
+21, rue Saint-Guillaume
+75007 PARIS
+Tel: (1) 45 44 40 65
+Fax: (1) 45 49 04 55
+Data d'efecte: 13/3/1992
+Declaració anterior relativa als articles: 13
+Hongria
+Declaració consignada en una nota verbal del 10 de juliol de 1997, lliurada al 
+secretari general en el moment del dipòsit de l'instrument de ratificació, el 8 
+d'octubre de 1997 -Original en anglès.
+El Govern de la República d'Hongria declara per la present que de conformitat 
+amb l'article 3, apartat 2, lletra c, del Conveni, també aplica el Conveni a les 
+dades classificades sense l'ajut de mitjans electrònics o automatitzats.
+Data d'efecte: 1/2/1998
+Declaració anterior relativa als articles: 3
+Declaració consignada en una nota verbal del 6 d'octubre de 1997, lliurada al 
+secretari general en el moment del dipòsit de l'instrument de ratificació, el 8 
+d'octubre de 1997 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, del Conveni per a la protecció 
+de les persones pel que fa al tractament automatitzat de les dades de caràcter 
+personal, fet a Estrasburg, el 28 de gener del 1981, el Ministeri de Justícia de la 
+República d'Hongria ha estat designat pel Govern de la República d'Hongria 
+com a autoritat competent per cooperar amb les parts en l'aplicació del 
+Conveni.
+L'adreça del Ministeri de Justícia de la República d'Hongria és la següent:
+Igazságügyi Minisztérium
+H-1363 Budapest
+Szalay u. 16.
+Data d'efecte: 1/2/1998
+Declaració anterior relativa als articles: 13
+Irlanda
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 25 
+d'abril de 1990 -Original en anglès.
+El Govern d'Irlanda desitja fer, de conformitat amb l'article 3, apartat 2, lletra a, 
+del Conveni per a la protecció de les persones pel que fa al tractament 
+automatitzat de les dades de caràcter personal, una declaració per tal 
+d'excloure de l'aplicació del Conveni, les categories següents de fitxers 
+automatitzats de dades de caràcter personal que s'enumeren a l'article 1, 
+apartat 4 de la Llei del 1988 sobre la protecció de dades, és a dir:
+a) Dades de caràcter personal que, en opinió del ministre de Justícia o del 
+ministre de Defensa són, o eren en qualsevol moment, conservades, a fi de 
+salvaguardar la seguretat de l'estat.
+b) Dades de caràcter personal que consisteixen en informacions que el 
+detentor de les dades té l'obligació, per Llei, de fer-les públiques.
+c) Dades de caràcter personal mantingudes per una persona i que només 
+concerneixen la gestió de la seva vida personal, familiar o domèstica, o 
+mantingudes per una persona amb finalitat únicament recreativa.
+Data d'efecte: 1/8/1990
+Declaració anterior relativa als articles: 3
+Declaració feta en el moment del dipòsit de l'instrument de ratificació, el 25 
+d'abril de 1990 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, del Conveni per a la protecció 
+de les persones pel que fa al tractament automatitzat de les dades de caràcter 
+personal, tinc l'honor d'informar-vos que l'autoritat designada per Irlanda és:
+M. Dónal Linehan
+Comissari per a la protecció de dades
+Earl Court
+Adelaide Road
+DUBLIN 2
+Irlanda
+Data d'efecte: 1/8/1990
+Declaració anterior relativa als articles: 13
+Islàndia
+Declaració consignada en una carta del Ministeri de Justícia i Afers Eclesiàstics 
+d'Islàndia, del 12 d'abril del 2002, enregistrada a la Secretaria General el 18 
+d'abril del 2002 -Original en anglès.
+Persónuvernd (Autoritat sobre el tractament automatitzat de les dades)
+Rauðarárstíg 10
+105 Reykjavík
+Islande
+Tel.: (00354)510.9600
+Fax: (00354)510.9606
+Data d'efecte: 18/4/2002
+Declaració anterior relativa als articles: 13
+Itàlia
+Declaració consignada en una carta del representant permanent d'Itàlia, del 28 
+de març de 1997, enregistrada per la Secretaria General en el moment del 
+dipòsit de l'instrument de ratificació, el 29 de març de 1997 -Original en francès.
+Itàlia declara, en el sentit de l'article 3, apartat 2, lletra a, del Conveni, que no 
+aplica el Conveni als tractaments de dades personals per part de persones 
+físiques, sempre que aquestes dades no estiguin destinades a una 
+comunicació sistemàtica o a la difusió.
+- Llista prevista segons l'article 3, apartat 2, lletra a:
+Tractaments de dades personals efectuats per persones físiques amb finalitats 
+exclusivament personals, sempre que les dades no estiguin destinades a una 
+comunicació sistemàtica o a la difusió.
+Data d'efecte: 1/7/1997
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta del representant permanent d'Itàlia, del 28 
+de març de 1997, enregistrada per la Secretaria General en el moment del 
+dipòsit de l'instrument de ratificació, el 29 de març de 1997 -Original en francès.
+Itàlia declara, en el sentit de l'article 3, apartat 2, lletra b, del Conveni, que 
+també aplica el Conveni als tractaments de dades personals relatives a 
+persones jurídiques, agrupacions, fundacions, associacions.
+Data d'efecte: 1/7/1997
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta del representant permanent d'Itàlia, del 28 
+de març de 1997, enregistrada per la Secretaria General en el moment del 
+dipòsit de l'instrument de ratificació, el 29 de març de 1997 -Original en francès.
+Itàlia declara, en el sentit de l'article 3, apartat 2, lletra c, del Conveni, que 
+també aplica el Conveni a les dades classificades sense l'ajut de mitjans 
+electrònics o automatitzats.
+Data d'efecte: 1/7/1997
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta del representant permanent d'Itàlia, del 28 
+de març de 1997, enregistrada per la Secretaria General en el moment del 
+dipòsit de l'instrument de ratificació, el 29 de març de 1997 -Original en francès.
+Itàlia declara que l'autoritat designada amb finalitat de cooperació i ajuda mútua 
+entre les parts establertes pel capítol IV del Conveni és el "Garante per la tutela 
+delle persone e di altri soggetti rispetto al trattamento dei dati personali", la seu 
+provisional del qual es troba a la Cambra dels Diputats, Palau Montecitorio, I-
+00100 ROME.
+Data d'efecte: 1/7/1997
+Declaració anterior relativa als articles: 13
+Letònia
+Declaració consignada en l'instrument de ratificació dipositat el 30 de maig del 
+2001 -Original en anglès- i parcialment retirada mitjançant una nota del ministre 
+d'Afers Exteriors de Letònia, del 28 de novembre del 2005, tramesa per la 
+Representació Permanent de Letònia, i enregistrada a la Secretaria General el 
+8 de desembre del 2005 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, la República de 
+Letònia declara que no aplica l'esmentat Conveni a les categories següents de 
+fitxers automatitzats de dades de caràcter personal:
+[1. Els que siguin l'objecte d'un secret d'estat.] (*)
+2. Els que siguin tractats per institucions públiques amb finalitats de seguretat 
+nacional i de legislació penal.
+[(*) Nota de la Secretaria: vegeu la declaració del 28 de novembre del 2005, 
+enregistrada a la Secretaria General el 8 de desembre del 2005.]
+Data d'efecte: 1/9/2001
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 30 de maig del 
+2001 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, del Conveni, la República de 
+Letònia declara que l'autoritat competent designada per la República de Letònia 
+és:
+Data State Inspection Kr. Barona Street 5-4
+Riga, LV-1050
+Letònia
+Fax: (+371) 722.3556
+Telèfon: (+371) 722.3131
+Data d'efecte: 1/9/2001
+Declaració anterior relativa als articles: 13
+Retirada parcial de declaració consignada en una nota del ministre d'Afers 
+Exteriors de Letònia, del 28 de novembre del 2005, tramesa per la 
+Representació Permanent de Letònia i enregistrada a la Secretaria General el 8 
+de desembre del 2005 -Original en anglès- i en una nota del ministre d'Afers 
+Exteriors de Letònia, del 9 de maig del 2006, enregistrada a la Secretaria 
+General el 19 de maig del 2006 -Original en anglès- que aporta precisions
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, la República de 
+Letònia declara:
+- Que aplica el Conveni als fitxers de dades de caràcter personal sotmesos a la 
+Llei "sobre els Secrets Oficials" ateses les excepcions enumerades en aquesta 
+Llei, és a dir, les informacions que no poden ser un Secret Oficial. De 
+conformitat amb l'article 5 de la Llei "sobre els Secrets Oficials", no està permès 
+d'atorgar l'estatut de secret oficial i de restringir l'accés a les informacions 
+següents:
+1. Les informacions relatives als desastres naturals, les calamitats naturals o 
+altres, i les seves conseqüències.
+2. Les informacions relatives a l'estat del medi ambient, la protecció de la salut, 
+l'educació i la cultura, i a la situació demogràfica.
+3. Les informacions relatives a les violacions dels drets humans.
+4. Les informacions relatives als índexs de criminalitat i les seves estadístiques, 
+els afers de corrupció, les conductes irregulars dels funcionaris.
+5. Les informacions relatives a la situació econòmica de l'estat, l'aplicació del 
+pressupost, els nivells de vida de la població, i també les escales salarials, els 
+privilegis, els avantatges i les garanties específiques dels funcionaris i empleats 
+de l'estat i de les institucions d'administració local.
+6. I les informacions relatives a l'estat de salut dels caps de l'estat.
+- Que no aplica el Conveni als fitxers de dades de caràcter personal tractats per 
+les institucions públiques amb finalitats de seguretat nacional i de legislació 
+penal.
+Aquesta declaració substitueix la declaració precedent formulada per la 
+República de Letònia en el moment de la ratificació del Conveni, el 30 de maig 
+del 2001.
+Data d'efecte: 8/12/2005
+Declaració anterior relativa als articles: 3
+Antiga República Iugoslava de Macedònia
+Declaració consignada en l'instrument de ratificació dipositat el 24 de març del 
+2006 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, la República de 
+Macedònia declara que no aplica el Conveni a les categories següents de 
+dades de caràcter personal:
+- Tractament de dades de caràcter personal efectuat per persones amb 
+finalitats exclusivament personals o per a ús familiar.
+- Tractament de dades de caràcter personal amb la finalitat de garantir la 
+seguretat nacional i la defensa nacional de la República de Macedònia.
+- O mentre es dugui a terme un procediment penal.
+Data d'efecte: 1/7/2006
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 24 de març del 
+2006 -Original en anglès- i actualitzada mitjançant una nota verbal de la 
+Representació Permanent de l'Antiga República Iugoslava de Macedònia, del 
+15 de maig del 2006, enregistrada a la Secretaria General el 16 de maig del 
+2006 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, del Conveni, les funcions de 
+centre d'informació de Macedònia seran exercides pel:
+Directorate for Personal Data Protection
+"Kej 13 Noemvri"
+GTC, floor II, Section II
+1000 Skopje Republic of Macedonia
+Agent d'enllaç: Sra. Marijana Marusic
+Tel.: +389 2 3 230 635
+Fax: +389 2 3 230 617
+A/e: marijana.marusic@dzip.gov.mk i
+info@dzip.gov.mk
+Data d'efecte: 1/7/2006
+Declaració anterior relativa als articles: 13
+Liechtenstein
+Declaració consignada en l'instrument de ratificació dipositat l'11 de maig del 
+2004 -Original en francès.
+De conformitat amb l'article 3, apartat 2, del Conveni, el Principat de 
+Liechtenstein declara que:
+1. El Conveni s'aplica també a les dades de caràcter personal relatives a les 
+persones jurídiques i les associacions amb capacitat jurídica i també als fitxers 
+de dades de caràcter personal que no siguin objecte d'un tractament 
+automatitzat.
+2. El Conveni no s'aplica:
+a) Als fitxers de dades de caràcter personal que siguin objecte d'un tractament 
+per part d'una persona exclusivament per al seu ús personal i que no són 
+comunicades a terceres persones.
+b) A les deliberacions del Parlament (Landtag) i les comissions parlamentàries.
+c) A les activitats de l'Administració de Finances.
+d) Als fitxers de dades de caràcter personal establerts en aplicació de la Llei de 
+Liechtenstein sobre la diligència deguda.
+Data d'efecte: 1/9/2004
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat l'11 de maig del 
+2004 -Original en francès.
+De conformitat amb l'article 13, apartat 2, del Conveni, el Principat de 
+Liechtenstein declara que la Unitat de Protecció de Dades és l'autoritat 
+competent per assegurar la cooperació per a l'aplicació del Conveni.
+Data d'efecte: 1/9/2004
+Declaració anterior relativa als articles: 13
+Lituània
+Declaració consignada en l'instrument de ratificació dipositat el 8 de març del 
+2002 -Original en anglès.
+L'autoritat designada per la República de Lituània de conformitat amb l'article 
+13 apartat 2, lletra a, del Conveni, és:
+Agència de l'Estat per a la Protecció de Dades
+Gedimino pr. 27/2
+LT- 2600 Vilnius
+LITUÀNIA
+Data d'efecte: 15/2/2002
+Declaració anterior relativa als articles: 13
+Luxemburg
+Declaració feta en el moment del dipòsit de l'instrument de ratificació el 10 de 
+febrer de 1988 -Original en francès.
+El Gran Ducat de Luxemburg declara que es reserva el dret, dins els límits de 
+l'article 3, apartat 2, lletra a, del Conveni, de no aplicar el Conveni:
+a) Als bancs de dades que en virtut d'una llei o un reglament són accessibles al 
+públic.
+b) Als que contenen exclusivament dades relacionades amb el propietari del 
+banc.
+c) Als que s'estableixen per compte de les institucions de dret internacional 
+públic.
+Data d'efecte: 1/6/1988
+Declaració anterior relativa als articles: 3
+Declaració feta en el moment del dipòsit de l'instrument de ratificació el 10 de 
+febrer de 1988 -Original en francès.
+El Gran Ducat de Luxemburg designa com a autoritat competent per cooperar 
+en l'aplicació d'aquest Conveni: la Comissió Consultiva instituïda per la Llei del 
+31 de març del 1979 que regula la utilització de les dades nominatives en els 
+tractaments informàtics c/o Ministeri de Justícia, 
+L-2910 LUXEMBOURG.
+Data d'efecte: 1/6/1988
+Declaració anterior relativa als articles: 13
+Malta
+Declaració consignada en una carta lliurada en el moment del dipòsit de 
+l'instrument de ratificació, el 28 de febrer del 2003 -Original en anglès.
+Malta declara que de conformitat amb l'article 3, apartat 2, lletra a, del Conveni, 
+aquest Conveni no s'aplica a les categories següents de fitxers automatitzats 
+de dades de caràcter personal que s'estableixen a l'article 5 de la Llei núm. 
+XXVI del 2001 de Malta sobre la protecció de dades:
+a) Fitxers de dades de caràcter personal gestionats per persones físiques per a 
+un ús privat.
+b) Fitxers de dades de caràcter personal gestionats amb finalitats de seguretat 
+pública, la defensa o la seguretat de l'estat (inclosa la prosperitat econòmica de 
+l'estat quan la gestió de l'operació està relacionada amb problemes de 
+seguretat).
+Data d'efecte: 1/6/2003
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta lliurada en el moment del dipòsit de 
+l'instrument de ratificació, el 28 de febrer del 2003 -Original en anglès.
+Malta entén que no es pot donar curs a una demanda d'informació de 
+conformitat amb la lletra b de l'article 8 si la persona concernida no pot 
+especificar de manera suficient la seva demanda d'informació.
+Data d'efecte: 1/6/2003
+Declaració anterior relativa als articles: 8
+Declaració consignada en una carta lliurada en el moment del dipòsit de 
+l'instrument de ratificació, el 28 de febrer del 2003 -Original en anglès.
+Malta declara que l'autoritat designada per a la cooperació entre les parts de 
+conformitat amb l'article 13, apartat 2, lletra a, del Conveni és:
+Bureau del Comissari per a la Protecció de Dades
+280 Republic Street
+Vallette CMR 02
+Malta
+Tel. 00 (356) 21 221 630
+Fax. 00 (356) 21 221 629
+Data d'efecte: 1/6/2003
+Declaració anterior relativa als articles: 13
+Montenegro
+Declaració consignada en l'instrument de ratificació dipositat el 6 de setembre 
+del 2005 -Original en anglès- i confirmada en una carta del Ministeri d'Afers 
+Estrangers de Montenegro, del 13 d'octubre del 2006, enregistrada a la 
+Secretaria General el 19 d'octubre del 2006 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, la República de 
+Montenegro declara que el Conveni no s'aplica als fitxers automatitzats de 
+dades de caràcter personal que es conserven de conformitat amb la 
+reglamentació relativa als antecedents penals i a la seguretat de l'estat.
+[Nota de la Secretaria: El Comitè de Ministres del Consell d'Europa va decidir 
+en la 967a reunió que la República de Montenegro fos considerada com a part 
+d'aquest tractat amb efecte a partir del 6 de juny del 2006.]
+Data d'efecte: 6/6/2006
+Declaració anterior relativa als articles: 3
+Declaració consignada en dues cartes de la representant permanent de Sèrbia i 
+Montenegro lliurades en el moment del dipòsit de l'instrument de ratificació, el 6 
+de setembre del 2005 -Original en anglès- i confirmada en una carta del 
+Ministeri d'Afers Estrangers de Montenegro, del 13 d'octubre del 2006, 
+enregistrada a la Secretaria General el 19 d'octubre del 2006 -Original en 
+anglès.
+De conformitat amb l'article 13 del Conveni, la República de Montenegro 
+designa l'autoritat competent següent:
+Secretaria per al Desenvolupament de la República de Montenegro
+46, Rimski trg
+81000 Podgorica
+[Nota de la Secretaria: El Comitè de Ministres del Consell d'Europa va decidir 
+en la 967a reunió que la República de Montenegro fos considerada com a part 
+d'aquest tractat amb efecte a partir del 6 de juny del 2006.]
+Data d'efecte: 6/6/2006
+Declaració anterior relativa als articles: 13
+Noruega
+Declaració continguda en l'instrument de ratificació dipositat el 20 de febrer de 
+1984 -Original en anglès.
+El Conveni no s'aplica als fitxers privats de caràcter personal que no són 
+utilitzats ni en el sector privat ni per societats o fundacions.
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 3
+Declaració continguda en l'instrument de ratificació dipositat el 20 de febrer de 
+1984 -Original en anglès.
+Les disposicions del Conveni s'apliquen també a les informacions 
+corresponents a associacions o fundacions.
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 3
+Declaració continguda en l'instrument de ratificació dipositat el 20 de febrer de 
+1984 -Original en anglès.
+El Conveni no s'aplica a Svalbard.
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 24
+Declaració continguda en l'instrument de ratificació dipositat el 20 de febrer de 
+1984 -Original en anglès.
+L'autoritat a Noruega designada de conformitat amb l'article 13, apartat 2, lletra 
+a, del Conveni és:
+Datatilsynet (Inspecció de dades)
+Postboks 8177 Dep.
+OSLO 1
+Data d'efecte: 1/10/1985
+Declaració anterior relativa als articles: 13
+Països Baixos
+Declaració consignada en una carta de la Representació Permanent, lliurada al 
+secretari general en el moment de l'acceptació, el 24 d'agost de 1993 -Original 
+en anglès.
+De conformitat amb l'article 24, apartat 1, el Conveni s'aplica als territoris del 
+Regne situats a Europa.
+Data d'efecte: 1/12/1993
+Declaració anterior relativa als articles: 24
+Declaració consignada en una carta de la Representació Permanent, lliurada al 
+secretari general en el moment de l'acceptació, el 24 d'agost de 1993 -Original 
+en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, el Regne dels 
+Països Baixos (per al Regne a Europa) declara que:
+I. El Conveni no s'aplica als fitxers de dades de caràcter personal següents:
+- Fitxers de dades de caràcter personal destinats per la seva naturalesa a una 
+utilització personal o interna.
+- Fitxers de dades de caràcter personal portats exclusivament amb finalitats 
+d'informació del públic, per la premsa, la ràdio o la televisió.
+- Llibres i altres publicacions escrites i tot índex corresponent.
+- Fitxers de dades de caràcter personal conservats en els arxius designats a 
+aquest efecte per la Llei.
+- Fitxers de dades de caràcter personal, la creació i la consulta per part del 
+públic dels quals són exigides per la Llei.
+- Fitxers de dades de caràcter personal destinats a l'aplicació de la Llei 
+electoral ("Kieswet").
+II. El Conveni no s'aplica pel moment als fitxers de dades de caràcter personal 
+següents:
+- Fitxers de dades de caràcter personal establerts en el marc o de conformitat 
+amb la Llei sobre els antecedents penals i els certificats de bona conducta 
+("Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag").
+- Fitxers de dades de caràcter personal establerts de conformitat amb la Llei 
+sobre els registres civils i el lloc de residència ("Wet bevolkings- en 
+verblijfsregisters").
+- Fitxer central d'estudiants de l'ensenyament superior, establert en el marc de 
+la Llei sobre l'ensenyament universitari, la Llei sobre l'ensenyament 
+professional superior i la Llei sobre la universitat popular ("Wet op het 
+wetenschappelijk onderwijs, Wet op het hoger beroepsonderwijs, Wet op de 
+open universiteit").
+- I els fitxers dels números de matrícules dels vehicles i dels permisos de 
+conduir emesos lliurats de conformitat amb la Llei de circulació per carretera 
+("Wegenverkeerswet").
+Data d'efecte: 1/12/1993
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta de la Representació Permanent, lliurada al 
+secretari general en el moment de l'acceptació, el 24 d'agost de 1993 -Original 
+en anglès.
+L'autoritat designada pel Regne dels Països Baixos (per al Regne a Europa) en 
+el sentit de l'article 13, apartat 2, lletra a, del Conveni és:
+Registratiekamer
+Postbus 3011
+NL - 2280 GA Rijswijk
+Països Baixos
+Tel.: 19-31-70-3190190
+Fax: 19-31-70-3940460
+Data d'efecte: 1/6/1988
+Declaració anterior relativa als articles: 13
+Portugal
+Declaració consignada en una carta de la Representació Permanent de 
+Portugal, del 31 de maig del 2002, enregistrada a la Secretaria General el 31 
+de maig del 2002 -Original en francès.
+Autoritat competent:
+Comissão Nacional de Protecção de Dados (CNPD)
+Rua de São Bento n° 148, 3° andar
+1200-821 Lisboa
+Portugal
+Tel: (00351) 21 3928400
+Fax: (00351) 21 3976832
+A/e: geral@cnpd.pt
+Data d'efecte: 31/5/2002
+Declaració anterior relativa als articles: 13
+República Txeca
+Declaració consignada en l'instrument de ratificació dipositat el 9 de juliol del 
+2001 -Original en anglès.
+De conformitat amb l'article 13 del Conveni, la República Txeca declara que 
+l'autoritat competent designada és:
+Oficina de Protecció de Dades de Caràcter Personal
+Havelkova 22130 00 Praga 3
+Data d'efecte: 1/11/2001
+Declaració anterior relativa als articles: 13
+Declaració lliurada pel representant permanent de la República Txeca al 
+secretari general en ocasió de la ratificació del Protocol addicional al Conveni, 
+el 24 de setembre del 2003 -Original en anglès.
+La República Txeca declara que de conformitat amb l'article 3, apartat 2, lletra 
+c, del Conveni, aplica també aquest Conveni als fitxers de dades de caràcter 
+personal que no siguin objecte de tractaments automatitzats.
+Data d'efecte: 25/12/2003
+Declaració anterior relativa als articles: 3
+Romania
+Declaracions consignades en l'instrument de ratificació dipositat el 28 de febrer 
+del 2002 -Original en anglès- i confirmades mitjançant una nota verbal de la 
+Representació Permanent de Romania, del 8 de juliol del 2004, enregistrada a 
+la Secretaria General el 9 de juliol del 2004 -Original en anglès.
+La República de Romania fa les declaracions següents:
+De conformitat amb l'article 3, apartat 2, lletra a, el present Conveni no s'aplica 
+als tractaments de dades de caràcter personal incloses en una base de dades 
+quan:
+a) El tractament automatitzat es faci en el marc d'activitats en els àmbits de la 
+defensa nacional i la seguretat nacional, que es duguin a terme dins els límits i 
+amb les restriccions establertes per la Llei.
+b) El tractament automatitzat de les dades concerneixi dades obtingudes a 
+partir de documents accessibles al públic, de conformitat amb la Llei.
+c) El tractament automatitzat sigui fet per persones físiques per a un ús 
+exclusivament personal, si aquestes dades no són divulgades.
+De conformitat amb l'article 3, apartat 2, lletra c, el Conveni s'aplica també als 
+tractaments no automatitzats de dades de caràcter personal que formin part 
+d'una base de dades o que hagin de ser incloses en una base de dades.
+Data d'efecte: 1/6/2002
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 28 de febrer del 
+2002 -Original en anglès- i confirmada mitjançant una nota verbal de la 
+Representació Permanent de Romania, del 8 de juliol del 2004, enregistrada a 
+la Secretaria General el 9 de juliol del 2004 -Original en anglès.
+De conformitat amb l'article 13, l'autoritat competent nacional és:
+"Ombudsperson"
+3-5 lancu de Hunedoara Avenue
+Sector 1, Bucarest
+Codi postal 71204
+Tel: 231 50 01 / Fax: 231 50 00
+Data d'efecte: 1/6/2002
+Declaració anterior relativa als articles: 13
+Declaració consignada en l'instrument de ratificació dipositat el 27 de febrer del 
+2002 -Original en anglès- i confirmada mitjançant una nota verbal de la 
+Representació Permanent de Romania, del 8 de juliol del 2004, enregistrada a 
+la Secretaria General el 9 de juliol del 2004 -Original en anglès.
+Aquest Conveni s'aplica també als tractaments automatitzats de dades de 
+caràcter personal realitzats en el marc de les activitats legítimes de qualsevol 
+fundació, associació o qualsevol altre organisme amb finalitat no lucrativa i que 
+tingui un caràcter polític, filosòfic, religiós o sindical, a condició que les 
+persones concernides siguin membres d'aquest organisme o mantinguin unes 
+relacions constants amb aquest organisme, vinculades a l'activitat específica de 
+l'organisme i que les dades no siguin comunicades a tercers sense l'acord previ 
+de la persona concernida.
+Data d'efecte: 1/6/2002
+Declaració anterior relativa als articles:
+Regne Unit
+Declaració consignada en una carta del representant permanent del Regne Unit 
+del 26 d'agost de 1987 i lliurada al secretari general en el moment del dipòsit de 
+l'instrument de ratificació, el 26 d'agost de 1987 -Original en anglès.
+El Conveni no s'aplica a les categories següents de fitxers automatitzats de 
+dades de caràcter personal:
+a) Registres de pagaments i pensions: dades de caràcter personal 
+mantingudes exclusivament per calcular les remuneracions i les pensions del 
+personal o les deduccions a aquests.
+b) Fitxers de comptabilitat i de transaccions: dades de caràcter personal 
+mantingudes exclusivament per portar comptes o fitxers de transaccions.
+c) informacions disponibles al públic en virtut de la Llei: dades de caràcter 
+personal que han d'estar disponibles al públic en virtut de la Llei.
+[Nota de la Secretaria: El Regne Unit retira aquesta declaració respecte del 
+Regne Unit, la manté però respecte de Jersey, Guernesey i l'Illa de Man (data 
+d'efecte: 27 d'abril del 2001)]
+Data d'efecte: 1/12/1987
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta del representant permanent del Regne Unit 
+del 26 d'agost de 1987 i lliurada al secretari general en el moment del dipòsit de 
+l'instrument de ratificació, el 26 d'agost de 1987 -Original en anglès.
+A més del Regne Unit de Gran Bretanya i Irlanda del Nord, el Conveni s'aplica 
+també a la Batllia de Jersey i la Batllia de Guernesey.
+Data d'efecte: 1/12/1987
+Declaració anterior relativa als articles: 24
+Declaració consignada en una carta del representant permanent del Regne 
+Unit, del 13 de gener de 1993, enregistrada a la Secretaria General el 21 de 
+gener de 1993 -Original en anglès.
+De conformitat amb l'article 24 del Conveni per a la protecció de les persones 
+quant al tractament automatitzat de dades de caràcter personal, declaro per la 
+present, en nom del Govern del Regne Unit, que el Conveni s'aplica a l'Illa de 
+Man, territori les relacions internacionals del qual són de la competència del 
+Govern del Regne Unit.
+Data d'efecte: 21/1/1993
+Declaració anterior relativa als articles: 24
+Declaració consignada en una carta del representant permanent del Regne 
+Unit, del 13 de gener de 1993, enregistrada a la Secretaria General el 21 de 
+gener de 1993 -Original en anglès- i aclarida mitjançant una carta de la 
+Representació Permanent del Regne Unit, del 6 de gener del 1994, 
+enregistrada a la Secretaria General el 7 de gener de 1994 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, declaro que el 
+Conveni no és aplicable als fitxers que serveixen únicament per a la distribució, 
+el subministrament o l'enregistrament de la distribució o el subministrament 
+d'articles, informacions o serveis a les persones concernides.
+[S'ha precisat que la declaració que figura a continuació en el paràgraf segon 
+de la carta del 13 de gener del 1993 (Notificació JJ2897C, Tr./ 108-14, 1 de 
+febrer del 1993) s'aplica únicament a l'Illa de Man i no al Regne Unit o a d'altres 
+illes.]
+Data d'efecte: 21/1/1993
+Declaració anterior relativa als articles: 3
+Declaració consignada en una carta de la Representació Permanent del Regne 
+Unit, del 6 de gener de 1994, enregistrada a la Secretaria General el 7 de gener 
+de 1994 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, lletra a, del Conveni les autoritats 
+designades són:
+PER AL REGNE UNIT:
+The Data Protection Registrar
+Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+PER A LA BATLLIA DE GUERNESEY:
+The Advisory and Finance Committee
+Sir Charles Frossard House, PO Box 43, La Charroterie,
+St Peter Port, Guernsey, GY1 1FH
+PER A LA BATLLIA DE JERSEY:
+States of Jersey Data Protection Registrar
+States Greffe, Royal Square, St Helier, Jersey, JE1 1DD
+PER A L'ILLA DE MAN:
+The Isle of Man Data Protection Registrar
+Willow House, Main Road, Onchan, Isle of Man
+Data d'efecte: 7/1/1994
+Declaració anterior relativa als articles: 13
+Declaració consignada en una carta del ministre d'Afers Estrangers i de la 
+Commonwealth, del 18 de gener del 2001, enregistrada a la Secretaria General 
+el 26 de gener del 2001 -Original en anglès.
+El Regne Unit fa la declaració següent respecte del Regne Unit únicament:
+"El Regne Unit aplica el Conveni a les dades de caràcter personal que no siguin 
+objecte de tractaments automatitzats però que es mantinguin en un sistema de 
+classificació pertinent. "Un sistema de classificació pertinent" significa totes les 
+informacions relatives a persones que, tot i que les informacions no siguin 
+objecte d'un tractament automatitzat de conformitat amb les instruccions 
+donades amb aquesta finalitat, el conjunt està estructurat, sigui per referència a 
+les persones, sigui per referència a criteris relatius a les persones, de tal 
+manera que una informació específica d'una persona concreta sigui fàcilment 
+accessible."
+Data d'efecte: 27/4/2001
+Declaració anterior relativa als articles: 3.2
+Declaració consignada en una carta del ministre d'Afers Estrangers i de la 
+Commonwealth, del 18 de gener del 2001, enregistrada a la Secretaria General 
+el 26 de gener del 2001 -Original en anglès.
+L'autoritat designada pel Regne Unit amb efecte a partir del 20 de gener del 
+2001 és:
+The information Commissioner
+Wycliffe House
+Water Lane
+Wilmslow - Cheshire SK9 5AF
+L'autoritat designada per la Batllia de Guernesey és d'ara endavant:
+The Data Protection Commissioner
+Sir Charles Frossard House
+PO Box 43
+La Charroterie
+St Peter Port - Guernsey GY1 1 FH
+L'adreça de l'autoritat designada per a la Batllia de Jersey és d'ara endavant:
+The Data Protection Registrar
+The Data Protection Registry
+Morier House
+Halkett Place
+St Helier - Jersey JE1 1DD
+L'adreça que ja s'havia notificat de l'autoritat designada per a l'Illa de Man, que 
+és la correcta, no mencionava el codi postal, que és el següent: IM3 4PR.
+Data d'efecte: 20/1/2001
+Declaració anterior relativa als articles: 13.2
+Sèrbia
+Declaració consignada en l'instrument de ratificació dipositat el 6 de setembre 
+del 2005 -Original en anglès.
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, Sèrbia i 
+Montenegro declara que el Conveni no s'aplica als fitxers automatitzats de 
+dades de caràcter personal que es mantinguin de conformitat amb la 
+reglamentació dels registres de penals i de la seguretat de l'estat.
+Data d'efecte: 1/1/2006
+Declaració anterior relativa als articles: 3
+Declaració consignada en dues cartes de la representant permanent de Sèrbia i 
+Montenegro, lliurades en el moment del dipòsit de l'instrument de ratificació, el 
+6 de setembre del 2005 -Original en anglès.
+De conformitat amb l'article 13 del Conveni, Sèrbia i Montenegro designa les 
+autoritats responsables següents:
+Ministeri de l'Interior de la República de Sèrbia
+Departement per a la Cooperació Internacional
+11000 Belgrad, No. 101, Kneza Milosa St.
+Tel. + 381 11 161 78 54
+Fax + 381 11 362 01 89
+Secretariat per al desenvolupament de la República de Montenegro
+No. 46, Rimski trg
+81000 Podgorica
+Data d'efecte: 1/1/2006
+Declaració anterior relativa als articles: 13
+Suècia
+Declaració consignada en una carta del representant permanent de Suècia de 
+l'1 d'octubre de 1985, enregistrada a la Secretaria General el 3 d'octubre de 
+1985 -Original en anglès.
+Data Inspection Board
+Box 12050
+S-102 22 STOCKHOLM
+ha estat designat autoritat competent de conformitat amb l'article 13, apartat 2, 
+lletra a, del Conveni.
+Data d'efecte: 3/10/1985
+Declaració anterior relativa als articles: 13
+Suïssa
+Declaració consignada en l'instrument de ratificació dipositat el 2 d'octubre de 
+1997 -Original en francès.
+De conformitat amb l'article 3, apartat 2, del Conveni:
+El Conveni s'aplica també a les dades personals relatives a persones jurídiques 
+i als fitxers de dades personals que no són objecte d'un tractament 
+automatitzat.
+Data d'efecte: 1/2/1998
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 2 d'octubre de 
+1997 -Original en francès.
+El Conveni no s'aplica:
+a) Als fitxers constituïts i utilitzats pels Parlaments Federal i Cantonal en el 
+marc de les seves deliberacions.
+b) Als fitxers del Comitè Internacional de la Creu Roja.
+c) Als fitxers de dades personals que manté una persona física per a un ús 
+exclusivament personal i que no comunica a tercers.
+Data d'efecte: 1/2/1998
+Declaració anterior relativa als articles: 3
+Declaració consignada en l'instrument de ratificació dipositat el 2 d'octubre de 
+1997 -Original en francès.
+"L'encarregat Federal de la protecció de dades" és l'autoritat competent per a la 
+cooperació en l'aplicació del Conveni.
+Data d'efecte: 1/2/1998
+Declaració anterior relativa als articles: 13
+Xipre
+Declaració consignada en l'instrument de ratificació dipositat el 25 de febrer del 
+2002 -Original en anglès.
+De conformitat amb l'article 13, apartat 2, del Conveni, la República de Xipre 
+declara que l'autoritat competent designada és el Comissari per a la Protecció 
+de les Dades, l'adreça del qual (provisional) és:
+Bureau juridique de la République de Chypre
+1403 Nicosia
+Chypre
+Tél.: 00 357 2 889131
+Fax: 00 357 2 667498
+E-mail: roc-law@cytanet.co.cy
+Data d'efecte: 1/6/2002
+Declaració anterior relativa als articles: 13
+Protocol
+addicional del Conveni per a la protecció de les persones respecte del 
+processament automatitzat de les dades de caràcter personal relatiu a les 
+autoritats de control i els fluxos transfronterers de dades, fet a Estrasburg el 8 
+de novembre del 2001
+Preàmbul
+Les parts en aquest Protocol addicional del Conveni per a la protecció de les 
+persones pel que fa al tractament automatitzat de les dades de caràcter 
+personal, obert a la signatura a Estrasburg, el 28 de gener del 1981 (en 
+endavant denominat "el Conveni");
+Convençudes que les autoritats de control que exerceixen les seves funcions 
+amb una independència total, són un element de la protecció efectiva de les 
+persones pel que fa al tractament de les dades de caràcter personal;
+Considerant la importància de la circulació de la informació entre els pobles;
+Considerant que amb la intensificació dels intercanvis de dades de caràcter 
+personal a través de les fronteres, cal assegurar la protecció efectiva dels drets 
+humans i les llibertats fonamentals i, especialment, del dret al respecte de la 
+vida privada en relació amb aquests intercanvis;
+Han convingut el següent:
+Article 1
+Autoritats de control
+1. Cada part preveu que una o diverses autoritats s'encarreguin de vetllar pel 
+respecte de les mesures que donen efecte, en la seva legislació interna, als 
+principis enunciats en els capítols II i III del Conveni i en aquest Protocol.
+2. a) A aquest efecte, aquestes autoritats disposen especialment de facultats 
+d'investigació i intervenció o també d'emprendre accions judicials o de posar en 
+coneixement de l'autoritat judicial competent, les infraccions a les disposicions 
+del dret intern que donen efecte als principis enunciats a l'apartat 1 de l'article 1 
+d'aquest Protocol.
+b) Tota persona pot interposar davant l'autoritat de control una demanda 
+relativa a la protecció dels seus drets i llibertats fonamentals pel que fa al 
+tractament de dades de caràcter personal que sigui de la seva competència.
+3. Les autoritats de control exerceixen les seves funcions amb una 
+independència total.
+4. Les decisions de les autoritats de control que causin un perjudici poden ser 
+objecte d'un recurs jurisdiccional.
+5. De conformitat amb les disposicions del capítol IV i sense perjudici de les 
+disposicions de l'article 13 del Conveni, les autoritats de control cooperen entre 
+elles en la mesura que sigui necessària per a l'acompliment de les seves 
+missions, especialment amb l'intercanvi de tota informació útil.
+Article 2
+Fluxos transfronterers de dades de caràcter personal cap a un destinatari que 
+no està sotmès a la jurisdicció d'una part del Conveni
+1. Cada part preveu que la transferència de dades de caràcter personal cap a 
+un destinatari sotmès a la jurisdicció d'un estat o una organització que no és 
+part del Conveni, només es pot dur a terme si aquest estat o aquesta 
+organització garanteix un nivell de protecció adequat per a la transferència en 
+qüestió.
+2. Per derogació de l'apartat 1 de l'article 2 d'aquest Protocol, cada part pot 
+autoritzar una transferència de dades de caràcter personal:
+a) Si la legislació interna ho preveu:
+- Per als interessos específics de la persona concernida.
+- O quan prevalen els interessos legítims, en particular els interessos públics 
+importants.
+b) O si la persona responsable de la transferència pot aportar garanties que 
+resultin especialment de clàusules contractuals i que les autoritats competents, 
+de conformitat amb la legislació interna, considerin que són suficients.
+Article 3
+Disposicions finals
+1. Les parts consideren les disposicions dels articles 1 i 2 d'aquest Protocol 
+com a articles addicionals del Conveni, i totes les disposicions del Conveni 
+s'apliquen en conseqüència.
+2. Aquest Protocol està obert a la signatura dels estats signataris del Conveni. 
+Després de la seva adhesió al Conveni en les condicions establertes per 
+aquest Conveni, les Comunitats Europees poden signar aquest Protocol. 
+Aquest Protocol serà sotmès a ratificació, acceptació o aprovació. Un signatari 
+d'aquest Protocol no el pot ratificar, acceptar o aprovar si anteriorment o 
+simultàniament no ha ratificat, acceptat o aprovat el Conveni o no s'hi ha 
+adherit. Els instruments de ratificació, acceptació o aprovació d'aquest Protocol 
+es dipositaran prop del secretari general del Consell d'Europa.
+3.a) Aquest Protocol entrarà en vigor el primer dia del mes següent a l'expiració 
+d'un període de tres mesos després de la data en què cinc dels seus signataris 
+hagin expressat el seu consentiment a estar vinculats per aquest Protocol de 
+conformitat amb les disposicions del seu article 3, apartat 2.
+b) Per a tot signatari d'aquest Protocol que expressi posteriorment el seu 
+consentiment a estar vinculat per aquest, el Protocol entrarà en vigor el primer 
+dia del mes següent a l'expiració d'un període de tres mesos després de la data 
+del dipòsit del seu instrument de ratificació, acceptació o aprovació.
+4.a) Després de l'entrada en vigor d'aquest Protocol, tot estat que s'hagi adherit 
+al Conveni pot també adherir-se a aquest Protocol.
+b) L'adhesió s'efectua mitjançant el dipòsit prop del secretari general del 
+Consell d'Europa, d'un instrument d'adhesió que tindrà efecte el primer dia del 
+mes següent a l'expiració d'un període de tres mesos després de la data del 
+seu dipòsit.
+5.a) Tota part pot, en qualsevol moment, denunciar aquest Protocol adreçant 
+una notificació al secretari general del Consell d'Europa.
+b) La denúncia tindrà efecte el primer dia del mes següent a l'expiració d'un 
+període de tres mesos després de la data de recepció de la notificació pel 
+secretari general.
+6. El secretari general del Consell d'Europa notificarà als estats membres del 
+Consell d'Europa, a les Comunitats Europees i a tot estat que s'hagi adherit a 
+aquest Protocol:
+a) Tota signatura.
+b) El dipòsit de qualsevol instrument de ratificació, acceptació o aprovació.
+c) Tota data d'entrada en vigor d'aquest Protocol de conformitat amb l'article 3.
+d) Qualsevol altre acte, notificació o comunicació respecte d'aquest Protocol.
+En testimoni de la qual cosa, els sotasignats, degudament autoritzats a aquest 
+efecte, han signat aquest Protocol.
+Fet a Estrasburg, el 8 de novembre del 2001, en francès i anglès, sent els dos 
+textos igualment fefaents, en un sol exemplar que serà dipositat en els arxius 
+del Consell d'Europa. El secretari general del Consell d'Europa en trametrà 
+còpia certificada conforme a cadascun dels estats membres del Consell 
+d'Europa, a les Comunitats Europees i a tot estat que hagi estat invitat a 
+adherir-se al Conveni.
+Situació
+del Protocol addicional del Conveni per a la protecció de les persones pel que 
+fa al processament automatitzat de dades de caràcter personal, relatiu a les 
+autoritats de control i als fluxos transfronterers de dades, fet a Estrasburg el 8 
+de novembre del 2001
+Entrada en vigor: 1 de juliol del 2004
+Situació al 4 de juliol del 2007: estats signataris 16, estats part 16 
+Estats	Signatura	Ratificació	Entrada en vigor	R	D	A	T
+Albània 	9 de juny del 2004 	14 de febrer del 2005 	1 de juny del 2005 				
+Alemanya 	8 de gener del 2001 	1 de març del 2003 	1 de juliol del 2004 		X 		
+Andorra 	31 de maig del 2007 						
+Àustria 	8 de novembre del 2001 						
+Bèlgica 	30 d’abril del 2002 						
+Bòsnia i Hercegovina 	2 de març del 2004 	31 de març del 2006 	1 de juliol del 2006 				
+Croàcia 	5 de juny del 2003 	21 de juny del 2005 	1 d’octubre del 2005 				
+Dinamarca 	8 de novembre del 2001 						
+Eslovàquia 	8 de novembre del 2001 	24 de juliol del 2002 	1 de juliol del 2004 				
+Finlàndia 	8 de novembre del 2001 						
+França 	8 de novembre del 2001 	22 de maig del 2007 	1 de setembre del 2007 				
+Grècia 	8 de novembre del 2001 						
+Hongria 	30 de març del 2004 	4 de maig del 2005 	1 de setembre del 2005 				
+Irlanda 	8 de novembre del 2001 						
+Islàndia 	8 de novembre del 2001 						
+Itàlia 	8 de novembre del 2001 						
+Lituània 	8 de novembre del 2001 	2 de març del 2004 	1 de juliol del 2004 				
+Luxemburg 	24 de febrer del 2004 	23 de gener del 2007 	1 de maig del 2007 				
+Noruega 	8 de novembre del 2001 						
+Països Baixos 	12 de maig del 2003 	8 de setembre del 2004 	1 de gener del 2005 				X 
+Polònia 	21 de novembre del 2002 	12 de juliol del 2005 	1 de novembre del 2005 				
+Portugal 	8 de novembre del 2001 	11 de gener del 2007 	1 de maig del 2007 				
+República Txeca 	10 d’abril del 2002 	24 de setembre del 2003 	1 de juliol del 2004 				
+Romania 	13 de juliol del 2004 	15 de febrer del 2006 	1 de juny del 2006 				
+Regne Unit 	8 de novembre del 2001 						X 
+Rússia 	13 de març del 2006 						
+Suècia 	8 de novembre del 2001 	8 de novembre del 2001 	1 de juliol del 2004 				
+Suïssa 	17 d’octubre del 2002 						
+Turquia 	8 de novembre del 2001 						
+Ucraïna 	29 d’agost del 2005 						
+Xipre 	3 d’octubre del 2002 	17 de març del 2004 	1 de juliol del 2004 				
+
+a.: Adhesió - s.: Signatura sense reserva de ratificació - su.: Successió - r.: 
+signatura ad referendum.
+R.: Reserves - D.: Declaracions - A.: Autoritats - T.: Aplicació territorial
+Declaracions
+Alemanya
+Declaració consignada en una Nota verbal de la Representació Permanent 
+d'Alemanya, del 26 de febrer del 2003, que confirma la declaració feta en el 
+moment de la signatura el 8 de novembre del 2001, lliurada al secretari general 
+del Consell d'Europa en el moment del dipòsit de l'instrument de ratificació, el 
+12 de març del 2003 -Original en anglès/alemany.
+L'article 1, apartat 3, del Protocol addicional (com també el paràgraf segon del 
+seu Preàmbul) disposa que les autoritats de control exerceixen les seves 
+funcions amb independència total.
+La República Federal d'Alemanya recorda la declaració que va fer en la reunió 
+del 6 al 8 de juny del 2000 del Comitè Consultiu, establert en virtut de l'article 
+18 del Conveni per a la protecció de les persones pel que fa al tractament 
+automatitzat de dades, segons la qual la pràctica existent de control de la 
+protecció de les dades a Alemanya és conforme a les disposicions de l'article 1, 
+apartat 3, del Protocol addicional, ja que les autoritats de control responsables 
+de la protecció de les dades -encara que estiguin integrades en una estructura 
+administrativa de tipus jeràrquic- exerceixen les seves funcions amb 
+independència total.
+Data d'efecte: 1/7/2004
+Declaració anterior relativa als articles: 1
+Països Baixos
+Declaració consignada en l'instrument d'acceptació dipositat el 8 de setembre 
+del 2004 -Original en anglès.
+El Regne dels Països Baixos accepta el Protocol per al Regne a Europa.
+Data d'efecte: 1/1/2005
+Declaració anterior relativa als articles:
+Regne Unit
+Declaració consignada en una carta del representant permanent del Regne 
+Unit, del 8 de novembre del 2001, lliurada al secretari general del Consell 
+d'Europa en el moment de la signatura de l'instrument, el 8 de novembre del 
+2001 -Original en anglès.
+El Govern del Regne Unit declara que la signatura pel Regne Unit del Protocol 
+addicional s'estén a les Batllies de Jersey i de Guernesey i també a l'Illa de 
+Man, territoris per als quals el Regne Unit assegura les relacions internacionals.
+Declaració anterior relativa als articles:
+Declaracions del Principat d'Andorra
+Declaració en relació amb el Conveni per a la protecció de les persones 
+respecte del processament automatitzat de les dades de caràcter personal, fet 
+a Estrasburg el 28 de gener de 1981
+De conformitat amb l'article 3, apartat 2, lletra a, del Conveni, el Principat 
+d'Andorra declara que no aplica el Conveni a les dades personals de les 
+categories següents:
+a) Dades personals relatives a la seguretat de l'Estat i la investigació i 
+prevenció d'infraccions penals.
+b) Dades de persones físiques vinculades a la seva activitat empresarial, 
+professional i comercial.
+c) Registres públics expressament regulats per llei a Andorra, a la normativa 
+aplicable al secret bancari i a les normes reguladores del secret professional.
+De conformitat amb l'article 3, apartat 2, lletra b, del Conveni, el Principat 
+d'Andorra declara que aplica el Conveni als fitxers de dades de caràcter 
+personal que no són objecte de processament automatitzat i que estan 
+considerats en la legislació interna andorrana.
+De conformitat amb l'article 13, apartat 2, del Conveni, el Principat d'Andorra 
+designa com a autoritat competent per dur a terme les missions de cooperació 
+entre les parts:
+Agència Andorrana de Protecció de Dades
+C/ Prat de la Creu, 59-65,
+AD 500 Andorra la Vella
+Principat d'Andorra
+Tel. (+376) 808115
+Declaració
+del Principat d'Andorra en relació amb el Protocol addicional del Conveni per a 
+la protecció de les persones respecte del processament automatitzat de les 
+dades de caràcter personal relatiu a les autoritats de control i els fluxos 
+transfronterers de dades, fet a Estrasburg el 8 de novembre del 2001
+De conformitat amb l'apartat 1 de l'article 1 del Protocol addicional del Conveni 
+per a la protecció de les persones respecte del processament automatitzat de 
+les dades de caràcter personal relatiu a les autoritats de control i els fluxos 
+transfronterers de dades, el Principat d'Andorra designa l'Agència Andorrana 
+de Protecció de Dades com a autoritat competent per controlar i vetllar pel 
+respecte de les mesures incloses en el dret intern que donen efecte als capítols 
+II i III del Conveni per a la protecció de les persones respecte del processament 
+automatitzat de les dades de caràcter personal.

@@ -1,0 +1,1805 @@
+NORTHERN TERRITORY OF AUSTRALIA
+INFORMATION ACT
+As in force at 1 July 2003
+Table of provisions
+    
+Part 1	Preliminary
+1	Short title	1
+2	Commencement	1
+3	Objects	1
+4	Definitions	2
+5	Public sector organisations	8
+6	Holding government information	10
+7	Nature of rights created by this Act	11
+8	Act binds Crown	11
+9	Relationship with other laws	11
+Part 2	General principles about disclosure of information
+10	General principle of accountability for government information	11
+11	Information about public sector organisations	12
+12	Publicly available information	13
+13	When does this Act apply to government information?	14
+14	When does this Act apply to personal information?	14
+Part 3	Access and correction rights
+Division 1	General principles
+15	Right to access government information	15
+16	Right to access or correct personal information	15
+17	Duty of public sector organisation in dealing with applications	15
+Division 2	Accessing government information
+Subdivision 1	How is an application made and how is it processed?
+18	Application for access to government information	16
+19	Response to application	16
+20	Notice of decision on application	17
+Subdivision 2	What decisions may be made in relation to an application?
+21	Providing access in whole or in part	18
+22	Providing edited copies of information	19
+23	Deferring access	19
+24	Refusing access because information is exempt	20
+25	Refusing access because providing access unreasonably interferes with operations	20
+26	More time may be required to make decision	20
+27	Information cannot be identified or found or does not exist	21
+28	Information not held by organisation	21
+29	Transfer of application	21
+30	Information about third parties	22
+Division 3	Correcting personal information
+Subdivision 1	How is an application made and how is it processed?
+31	Application to correct personal information	24
+32	Response to application	25
+33	Notice of decision on application	25
+Subdivision 2	What decisions may be made in relation to an application?
+34	Correcting information	26
+35	Refusing to correct information	26
+36	More time may be required to make decision	27
+37	Transfer of application	27
+Division 4	Review by public sector organisation
+38	Application for review	28
+39	Conduct of review	29
+40	Decision on review	29
+41	Notice of outcome of review	30
+Division 5	Miscellaneous
+42	Vexatious applicants	30
+Part 4	Exemptions in the public interest
+Division 1	Effect of exemption
+43	Public sector organisation may provide access to exempt information	31
+Division 2	Disclosure generally is not in the public interest
+44	Exemption	31
+45	Executive Council, Cabinet, Territory economy	31
+46	Security and law enforcement	33
+47	Information exempt under corresponding FOI laws	34
+48	Secrecy provisions	34
+49	Preservation of system of justice	35
+Division 3	Disclosure in a particular case is not in the public interest
+50	Exemption	35
+51	Inter-governmental relations	35
+52	Deliberative processes	36
+53	Effective operations of public sector organisations	37
+54	Health, safety, environment	37
+55	Confidentiality obligations, confidential sources	38
+56	Privacy and cultural information	39
+57	Commercial and business information, research, examination papers	39
+58	Financial and property interests of Territory or public sector organisation	41
+Division 4	Exemption certificates
+59	Exemption	41
+60	Issuing exemption certificate	41
+61	Duration of exemption certificate	42
+62	Exemption certificate not to be queried	42
+63	Exemption certificate not to be issued after complaint made	42
+64	Delegation not permitted	43
+Part 5	Protection of privacy
+Division 1	Information privacy principles
+65	What are IPPs?	43
+66	What information do IPPs apply to?	43
+67	What is an interference with a person's privacy?	43
+Division 2	Exemptions from IPPs
+68	Publicly available information	43
+69	Courts and tribunals	44
+70	Law enforcement agencies	44
+71	Statistics and research	45
+Division 3	Codes of practice
+72	Public sector organisation may prepare draft code of practice	45
+73	Commissioner may recommend submission of draft code of practice for approval	46
+74	Minister may submit draft code of practice for approval	46
+75	Administrator may approve code of practice	47
+76	When does a code of practice take effect?	47
+77	Variation of code of practice	47
+78	Revocation of code of practice	47
+79	Compliance with code of practice	47
+80	Register of codes of practice	48
+Division 4	Authorisations by Commissioner
+81	Grant of authorisation	48
+Division 5	Compliance notices
+82	Commissioner may serve compliance notice	49
+83	Extension of time to comply	49
+84	Offence for non-compliance	50
+Part 6	Information Commissioner
+Division 1	Establishment, functions and powers
+85	Information Commissioner	50
+86	Functions of Commissioner	50
+87	Powers of Commissioner	51
+88	Duty to assist persons to exercise rights	52
+89	Delegation	52
+Division 2	Appointment provisions
+90	Terms and conditions of appointment	52
+91	Termination of appointment	52
+92	Leave of absence	53
+93	Resignation	53
+94	Acting Commissioner	53
+95	Members of Legislative Assembly ineligible for appointment	54
+Division 3	Miscellaneous
+96	Staff and consultants	54
+97	Sharing staff and physical resources	54
+98	Annual report	55
+99	Special report	56
+100	Validity of Commissioner's acts and decisions	56
+101	Obstruction etc. of Commissioner	57
+102	Commissioner must not disclose exempt information	57
+Part 7	Complaints to Information Commissioner
+Division 1	Complaints procedure
+103	Complaint after review by public sector organisation	57
+104	Complaint about interference with privacy	58
+105	Form of complaint	58
+106	Commissioner to accept or reject complaint	59
+107	Notification of acceptance or rejection	60
+108	Referral of complaints to Ombudsman, Health Complaints Commissioner or interstate Privacy Commissioner	61
+109	Withdrawal of complaint	61
+110	Investigation of complaint	61
+111	Mediation is pre-condition to hearing	62
+112	Resolution of complaint by mediation or other agreement	63
+113	Hearing of complaint	63
+114	Determination of complaint about accessing or correcting information	63
+115	Determination of complaint about interference with privacy	64
+116	Notice of decision	64
+117	Commissioner may deal with similar complaints together	65
+118	Commissioner may discontinue complaint	65
+119	Effect of complaint on acts and decisions	66
+120	Role of Ombudsman or Health Complaints Commissioner	66
+Division 2	Procedure for hearings
+121	Conduct generally	66
+122	Parties and representation	66
+123	Hearing is closed to public	67
+124	Powers to compel evidence	68
+125	Onus and burden of proof where access refused	68
+126	Costs of hearing	68
+127	Contempt	68
+128	Conduct of hearing other than by Commissioner	68
+Part 8	Appeals from decisions of Information Commissioner
+129	Appeal to Supreme Court	69
+Part 9	Records and archives management
+Division 1	Preliminary
+130	Application of Part	70
+131	Duties of chief executive officers	70
+132	Archives service to have regard to objects of Act	70
+Division 2	Obligations of public sector organisations
+133	Protecting records	70
+134	Managing records	71
+135	Transferring records	71
+136	Form of records	71
+Division 3	Standards
+137	Preparation by archives service	72
+138	Minister may approve standards	72
+139	Review of standards	73
+140	Advice to public sector organisations	73
+Division 4	Managing archives
+141	When should records be transferred to the archives service?	73
+142	Determination of open access period	74
+143	Archives in public access period to be publicly available	75
+144	Accessing and correcting archives not yet publicly available	75
+Division 5	Offence
+145	Mishandling records	75
+Part 10	General offences and matters relating to liability
+Division 1	General offences and related procedural matters
+146	False or misleading statements	77
+147	Concealing or disposing of government information to prevent access or correction	77
+148	Confidentiality	78
+149	Liability of and with respect to contract service providers	79
+150	Conduct of directors, employees and agents	79
+Division 2	Legal immunity
+151	Acts done to administer or comply with this Act	80
+152	Acts done to exercise rights	81
+153	Information volunteered by public sector organisation	81
+Part 11	Miscellaneous
+154	No review or other proceedings outside this Act	81
+155	Applications and complaints on behalf of children, persons with disabilities or deceased persons	81
+156	Fees for applications and complaints	82
+157	Changes in functions of public sector organisations	83
+158	Regulations	84
+159	Application	84
+160	Review after 5 years	84
+Schedule	Information Privacy Principles
+ENDNOTES
+
+
+
+
+
+
+NORTHERN TERRITORY OF AUSTRALIA
+
+____________________
+As in force at 1 July 2003
+____________________
+INFORMATION ACT
+An Act to provide for public access to information held by the public sector, to provide for the correction of personal information held by the public sector, to provide for the responsible collection and handling of personal information by the public sector, to promote appropriate records and archives management in the public sector, and for related purposes
+Part 1	Preliminary
+  
+1	Short title
+This Act may be cited as the Information Act.
+2	Commencement
+	(1)	This Act comes into operation on the date fixed by the Administrator by notice in the Gazette.
+	(2)	If this Act does not come into operation before 1 July 2003, this Act comes into operation on that date.
+3	Objects
+	(1)	The objects of this Act are:
+(a)	to provide the Territory community with access to government information by:
+(i)	making available to the public information about the operations of public sector organisations and, in particular, ensuring that rules and practices affecting members of the public in their dealings with public sector organisations are readily available to persons affected by those rules and practices; and
+(ii)	creating a general right of access to information held by public sector organisations limited only in those circumstances where the disclosure of particular information would be contrary to the public interest because its disclosure would have a prejudicial effect on essential public interests or on the private and business interests of persons in respect of whom information is held by public sector organisations;
+(b)	to protect the privacy of personal information held by public sector organisations by:
+(i)	providing individuals with a right of access to, and a right to request correction of, their personal information held by public sector organisations;
+(ii)	establishing a regime for the responsible collection and handling of personal information by public sector organisations; and
+(iii)	providing remedies for interference with the privacy of an individual's personal information;
+(c)	to establish an independent officeholder, the Information Commissioner, to oversee the freedom of information and privacy provisions of this Act; and
+(d)	to promote efficient and accountable government through appropriate records and archives management by public sector organisations.
+	(2)	This Act is intended to strike a balance between competing interests by giving members of the Territory community a right of access to government information with limited exceptions and exemptions for the purpose of preventing a prejudicial effect on the public interest as described in subsection (1)(a)(ii).
+	(3)	This Act:
+(a)	does not replace other procedures for accessing government information; and
+(b)	does not limit in any way access to government information (other than personal information) that is publicly available.
+4	Definitions
+In this Act, unless the contrary intention appears:
+Aboriginal means a member of the Aboriginal race of Australia and includes a descendant of the indigenous inhabitants of the Torres Strait Islands.
+Aboriginal custodian, in relation to an Aboriginal sacred site, means an Aboriginal who, by Aboriginal tradition, has responsibility for the site.
+Aboriginal sacred site means a site that is sacred to Aboriginals or is otherwise of significance according to Aboriginal tradition, and includes any land that, under a law of the Territory, is declared to be sacred to Aboriginals or of significance according to Aboriginal tradition.
+Aboriginal tradition means the body of traditions, observances, customs and beliefs of Aboriginals generally or of a particular community or group of Aboriginals, and includes any such traditions, observances, customs or beliefs relating to particular persons, areas, objects or relationships.
+act includes an omission.
+annual report, in relation to a public sector organisation, means an annual report of the operations of the organisation during a financial year that is prepared in compliance with a law of the Territory.
+application means:
+(a)	an application under Part 3, Division 2 (Accessing government information);
+(b)	an application under Part 3, Division 3 (Correcting personal information); or
+(c)	an application under Part 3, Division 4 (Review by public sector organisation).
+archive means a record of permanent value that forms part of the Territory Archives.
+archives service means an organisation (whether a public sector organisation or another organisation) responsible for keeping the Territory Archives.
+authorisation means an authorisation under section 81.
+chief executive officer, in relation to a public sector organisation, means the person (however described) responsible for managing the affairs of the organisation.
+child means a person who is under the age of 18 years.
+code of practice, in relation to a public sector organisation, means a code of practice prepared by the organisation under section 72 and approved by the Administrator under section 75, and includes a code of practice as varied and in force from time to time.
+Commissioner means the Information Commissioner under section 85.
+complainant, in relation to a complaint, means the person who made the complaint.
+complaint means a complaint made to the Commissioner under section 103 or 104.
+compliance notice means a compliance notice under section 82 and includes a compliance notice amended under section 83.
+consent means consent whether express or implied.
+contract service provider means the person or body who is collecting or handling personal information under a service contract.
+contravention includes a failure to comply.
+correct means alter by way of amendment, deletion or addition.
+corresponding FOI law means a law of the Commonwealth, or of a State or another Territory of the Commonwealth, that corresponds with the freedom of information provisions of this Act.
+corresponding privacy law means a law of the Commonwealth, or of a State or another Territory of the Commonwealth, that corresponds with the privacy provisions of this Act.
+disability means a disability that:
+(a)	is attributable to an intellectual, psychiatric, sensory or physical impairment or a combination of those impairments;
+(b)	is permanent or likely to be permanent;
+(c)	results in a substantially reduced capacity for communication, learning or mobility and the need for continuing support services; and
+(d)	may or may not be of a chronic episodic nature.
+exemption certificate means an exemption certificate in force under Part 4, Division 4 (Exemption certificates).
+Government Business Division has the same meaning as in the Financial Management Act.
+government information means a record held by or on behalf of a public sector organisation and includes personal information.
+Government owned corporation has the same meaning as in the Government Owned Corporations Act.
+Health Complaints Commissioner means the Commissioner for Health and Community Services Complaints.
+health information means:
+(a)	personal information about:
+(i)	the physical or mental health of a person;
+(ii)	a person's disability; or
+(iii)	the provision of a health service to a person, including the person's expressed wishes about that provision;
+(b)	personal information connected with the provision of a health service;
+(c)	personal information connected with the donation or intended donation by a person of his or her body parts, organs or bodily substances; or
+(d)	personal information that is genetic information about a person in a form that is, or could be, predictive about the person's health at any time.
+health service means:
+(a)	an activity performed in relation to a person that is intended or claimed (expressly or otherwise) by the person or body performing it to:
+(i)	assess, record, maintain or improve the person's health;
+(ii)	diagnose the person's illness or disability; or
+(iii)	treat the person's illness or disability or suspected illness or disability;
+(b)	a disability, palliative care or aged care service; or
+(c)	the dispensing on prescription of a drug or medicinal preparation by a pharmacist.
+hold, in relation to government information, has the meaning in section 6.
+IPP means an information privacy principle referred to in section 65 and specified in the Schedule.
+law enforcement agency means:
+(a)	the Police Force of the Northern Territory;
+(b)	the police force of the Commonwealth or of a State or another Territory of the Commonwealth;
+(c)	the National Crime Authority; or
+(d)	a body established under a law of the Territory, of the Commonwealth, or of a State or another Territory of the Commonwealth, that performs one or more of the following functions:
+(i)	preventing, detecting, investigating, prosecuting or punishing the commission of offences;
+(ii)	managing property seized or restrained under a law relating to the confiscation of the proceeds of crime or the enforcement of such a law or of a decision, direction, order or other requirement under such a law;
+(iii)	protecting public revenue;
+(iv)	executing or implementing a decision, direction, order or other requirement of a court or tribunal, including executing warrants.
+local authority means:
+(a)	a council within the meaning of the Local Government Act;
+(b)	the Authority or Council within the meaning of the Jabiru Town Development Act; or
+(c)	an incorporated association within the meaning of the Associations Incorporation Act that is identified under section 25AZH of that Act to be functioning as a community government council within the meaning of the Local Government Act.
+Ombudsman means the Ombudsman for the Northern Territory.
+outsourcing organisation means the public sector organisation for whom or on whose behalf personal information is collected or handled under a service contract.
+person means a natural person and includes a deceased person within the first 5 years after death.
+personal information means government information from which a person's identity is apparent or is reasonably able to be ascertained.
+privacy means privacy with respect to personal information.
+public register means a register kept by or on behalf of a public sector organisation under an Act that:
+(a)	contains personal information that a person or body was required or permitted to give to the organisation under that Act or another Act; and
+(b)	is made available under that Act or another Act for inspection (whether on payment of a fee or not) by members of the public.
+public sector organisation has the meaning in section 5.
+record means recorded information in any form (including data in a computer system) that is required to be kept by a public sector organisation as evidence of the activities or operations of the organisation, and includes part of a record and a copy of a record.
+respondent, in relation to a complaint, means the public sector organisation the subject of the complaint.
+sensitive information means:
+(a)	personal information about:
+(i)	racial or ethnic origin;
+(ii)	political opinions;
+(iii)	membership of a political association;
+(iv)	religious beliefs or affiliations;
+(v)	philosophical beliefs;
+(vi)	membership of a professional or trade association;
+(vii)	membership of a trade union;
+(viii)	sexual preferences or practices; or
+(ix)	a criminal record; or
+(b)	health information.
+service contract means a contract or other arrangement entered into after the commencement of this Act under which a person or body collects or handles personal information for or on behalf of a public sector organisation.
+standard means a standard prepared by the archives service under section 137 and approved by the Minister under section 138, and includes a standard as revised or replaced from time to time.
+Territory Archives means records held on behalf of the Territory by the archives service.
+tribunal means a body (other than a court) established by or under an Act that has judicial or quasi-judicial functions.
+unique identifier, in relation to a person, means a code (not the person's name) that is assigned by a public sector organisation to identify the person for the purposes of the operations of the organisation.
+5	Public sector organisations
+	(1)	Subject to this section, a public sector organisation is any of the following:
+(a)	an Agency;
+(b)	a Government Business Division;
+(c)	a Government owned corporation;
+(d)	a local authority;
+(e)	a statutory corporation;
+(f)	a person appointed, or body established, by or under an Act or by the Administrator or by a minister;
+(g)	the Police Force of the Northern Territory;
+(h)	a person holding an office or position under an Act;
+(i)	a court of the Territory;
+(j)	a tribunal of the Territory;
+(k)	a person or body declared by the Regulations to be a public sector organisation.
+	(2)	The following are not public sector organisations:
+(a)	the Commissioner;
+(b)	a person or body declared by the Regulations not to be a public sector organisation.
+	(3)	The following are not Agencies:
+(a)	an Agency that is a Government Business Division;
+(b)	if a Government Business Division forms part of an Agency - that part of the Agency.
+	(4)	A Government Business Division or Government owned corporation is a public sector organisation for personal information only.
+	(4A)	A public sector organisation may be declared by the Regulations to be a public sector organisation for personal information only.
+	(5)	This Act does not apply to:
+(a)	a court in relation to its judicial functions;
+(b)	a tribunal in relation to its decision-making functions;
+(c)	a coroner within the meaning of the Coroners Act in relation to an inquest or inquiry under that Act; or
+(d)	a magistrate or justice in relation to a preliminary examination under Part V of the Justices Act.
+	(6)	For the purposes of this Act, other than Part 2 (General principles about disclosure of information) and Part 9 (Records and archives management), a public sector organisation includes a minister and a parliamentary secretary, but only to the extent that the minister or parliamentary secretary holds government information connected with his or her responsibilities as the holder of that office.
+	(7)	A reference to a public sector organisation includes a reference to the following:
+(a)	the chief executive officer of the organisation;
+(b)	an officer, employee or agent of the organisation;
+(c)	a contract service provider to the extent of the services it provides under the service contract;
+(d)	an employee or agent of a contract service provider to the extent of the employee's or agent's involvement in collecting or handling personal information under the service contract;
+(e)	a person (other than a contract service provider) who provides services to the organisation under a contract between the organisation or the Territory and that person or another person to the extent of the services provided.
+	(8)	A reference to a court or tribunal includes a reference to the following:
+(a)	the members of the court or tribunal;
+(b)	the registrar (however described) and the other officers of the court or tribunal;
+(c)	the staff in the registry and other offices of the court or tribunal;
+(d)	the personal staff of the members of the court or tribunal;
+(e)	any other staff of the court or tribunal.
+6	Holding government information
+	(1)	A public sector organisation holds government information if the organisation has possession or control of the information:
+(a)	whether alone or jointly with another person or body; and
+(b)	whether the information is in the Territory or elsewhere.
+	(2)	At any time, a public sector organisation is taken to hold government information that has been transferred to the archives service under Part 9, Division 4 (Managing archives) but is not yet available to the public under that Division if the organisation is responsible at that time for the function to which the record relates.
+7	Nature of rights created by this Act
+Except as expressly provided by this Act:
+(a)	this Act does not give rise to a cause of action or create a legally enforceable right; and
+(b)	a contravention of this Act does not create a criminal liability or make a person liable to be prosecuted.
+8	Act binds Crown
+This Act binds the Crown in right of the Territory and, so far as the legislative powers of the Legislative Assembly permits, the Crown in all its other capacities.
+9	Relationship with other laws
+	(1)	If there is an inconsistency between this Act and another Act, to the extent of the inconsistency, this Act does not apply and the other Act does apply.
+	(2)	This section ceases to operate 3 years after the commencement of this Act.
+Part 2	General principles about disclosure of information
+  
+10	General principle of accountability for government information
+	(1)	Public sector organisations are to:
+(a)	make available to the public such government information as is reasonably possible;
+(b)	provide government information to the public promptly; and
+(c)	assist the public to ensure that personal information is accurate, complete and up to date.
+	(2)	This Act does not prevent or discourage public sector organisations from:
+(a)	publishing government information; 
+(b)	providing access to government information, including information that is exempt under Part 4 (Exemptions in the public interest); or
+(c)	correcting personal information,
+otherwise than under this Act if it is proper to do so or is required or permitted by law to be done.
+	(3)	Public sector organisations are not required to provide access to government information if it is not in the public interest to do so.
+11	Information about public sector organisations
+	(1)	A public sector organisation must publish the following information at least once each calendar year:
+(a)	a description of the structure and functions of the organisation;
+(b)	a description of the kinds of government information usually held by the organisation that specifies whether the information:
+(i)	may be inspected by the public under another Act, including whether inspection is on payment of a fee or not;
+(ii)	may be purchased by the public; or
+(iii)	is distributed free of charge to the public,
+	and how the information may be inspected or obtained;
+(c)	a description of the organisation's procedures for providing access under Part 3 (Access and correction rights) to government information held by the organisation, including:
+(i)	the designation of the officer or employee to whom an initial inquiry about access to the information may be made; and
+(ii)	details of how to lodge a request for access to the information;
+(d)	a description of the organisation's procedures for correcting under Part 3 (Access and correction rights) personal information held by the organisation, including:
+(i)	the designation of the officer or employee to whom an initial inquiry about correcting the information may be made; and
+(ii)	details of how to lodge an application to correct the information.
+	(2)	The information referred to in subsection (1):
+(a)	may be published in a document, a database or any other material form; and
+(b)	must be available in at least one of those forms for inspection and purchase by members of the public.
+	(3)	It is sufficient compliance with this section if a public sector organisation publishes the information referred to in subsection (1) in its annual report.
+	(4)	In this section:
+public sector organisation does not include the following:
+(a)	a minister;
+(b)	a parliamentary secretary;
+(c)	a court or tribunal;
+(d)	a contract service provider.
+12	Publicly available information
+	(1)	The government information referred to in this section is publicly available.
+	(2)	Part 3 (Access and correction rights) does not apply to:
+(a)	publications that are distributed free of charge to, or may be purchased by, the public; or
+(b)	material made available to the public for reference purposes.
+	(3)	Part 3 (Access and correction rights) and Part 5 (Protection of privacy) do not apply to:
+(a)	information published in accordance with section 11;
+(b)	subject to section 68, public registers;
+(c)	archives that are available to the public under Part 9, Division 4 (Managing archives);
+(d)	recorded information of permanent value that forms part of the Territory Archives but is not a record; or
+(e)	materials in the collections of libraries, art galleries and museums that are on public exhibition or are available to the public for reference or study purposes.
+13	When does this Act apply to government information?
+	(1)	Part 3 (Access and correction rights) applies in relation to government information (other than personal information) that a public sector organisation holds at any time after that Part commences if the information was created or received by the organisation not earlier than 10 years before that Part commences.
+	(2)	Part 3 (Access and correction rights) applies in relation to government information (other than personal information) that a public sector organisation holds at any time after that Part has been in operation for 2 years if:
+(a)	the information was created or received by the organisation more than 10 years before that Part commences; and
+(b)	the information is in a class of information that the Commissioner determines, on application, to be a class of information in respect of which the competing interests of giving members of the Territory community a right of access to the information and of preventing a prejudicial effect on essential public interests or on the private and business interests of persons in respect of whom information is held by the organisation are likely to be balanced in favour of giving the right of access.
+	(3)	Part 3 (Access and correction rights) applies in relation to government information (other than personal information) that a public sector organisation holds at any time after that Part commences if the information is reasonably necessary to enable a person to properly understand information to which the person has been provided with access under this Act.
+14	When does this Act apply to personal information?
+	(1)	Part 3 (Access and correction rights) applies in relation to personal information that a public sector organisation holds at any time after that Part commences, regardless of when the organisation created or received the information.
+	(2)	Part 5 (Protection of privacy) applies in relation to personal information that a public sector organisation collects at any time after that Part commences.
+	(3)	Part 5 (Protection of privacy) applies in relation to personal information that a public sector organisation handles at any time after that Part commences, regardless of when the organisation collected the information.
+Part 3	Access and correction rights
+Division 1	General principles
+ 
+15	Right to access government information
+Every person has a right, enforceable under this Act, to access government information other than personal information.
+16	Right to access or correct personal information
+Every person has a right, enforceable under this Act:
+(a)	to access his or her personal information;
+(b)	to correct his or her personal information if the information is inaccurate, incomplete or out of date; and
+(c)	if the person and the public sector organisation holding the information disagree on the correction to be made - to request the organisation to take reasonable steps to associate with the information a statement by the person to the effect that, in the person's opinion, the information is inaccurate, incomplete or out of date.
+17	Duty of public sector organisation in dealing with applications
+	(1)	A public sector organisation that receives an application must deal with the application as promptly and efficiently, and as fairly and openly, as is reasonably possible.
+	(2)	If an application is about access to government information, the public sector organisation is not to be concerned about, or to take into consideration, the reasons that access is being sought.
+	(3)	If an application is about:
+(a)	access to personal information about the applicant or another person; or
+(b)	correcting personal information about the applicant,
+the public sector organisation must deal with the application in a manner that is consistent with the IPPs or a code of practice, as the case requires.
+	(4)	In fulfilling its duties under this Part, a public sector organisation is not expected to act in a manner that would unreasonably interfere with the conduct of its operations.
+Division 2	Accessing government information
+Subdivision 1	How is an application made and how is it processed?
+18	Application for access to government information
+	(1)	A person may apply to a public sector organisation for access to government information held by the organisation, including the person's personal information.
+	(2)	An application is to:
+(a)	be in writing;
+(b)	specify the name of the applicant;
+(c)	include sufficient details to identify the information; and
+(d)	specify an address to which correspondence regarding the application may be sent to the applicant.
+	(2A)	The application is to be accompanied by the application fee (if any).
+	(3)	Before accepting an application, a public sector organisation must satisfy itself as to the identity of the applicant.
+19	Response to application
+	(1)	Within 30 days after receiving an application in accordance with section 18, a public sector organisation must:
+(a)	consider the application and make a decision about it in accordance with this Division; and
+(b)	notify the applicant in writing of that decision.
+	(2)	The notice under subsection (1)(b) is to be in accordance with section 20.
+	(3)	If the applicant is not notified in accordance with this section within 30 days after making the application, the public sector organisation is taken to have refused access to the information.
+	(4)	The kinds of decisions the public sector organisation may make about the application are set out in Subdivision 2 (What decisions may be made in relation to an application?).
+	(5)	The public sector organisation is not required to consider or make a decision about an application made by a person declared under section 42 to be a vexatious applicant in relation to the organisation other than in accordance with the declaration.
+	(6)	Subject to section 17(2), the public sector organisation may request the applicant to provide details additional to those specified in the application in accordance with section 18(2)(c) to enable the organisation to more particularly identify the information to which access is being sought.
+	(7)	If the applicant does not provide the additional details within 30 days after they are requested under subsection (6), the public sector organisation is taken to have refused access.
+20	Notice of decision on application
+For the purpose of section 19(2), a notice of decision is to contain:
+(a)	the matters (if any) that are required to be specified in the notice under sections 21 to 30 (inclusive); and
+(b)	a statement setting out:
+(i)	the applicant's rights of review under Division 4 (Review by public sector organisation), including that the applicant has 30 days after receiving the notice within which to make an application for review; and
+(ii)	the applicant's rights of complaint under Part 7 (Complaints to Information Commissioner), including that the applicant has 90 days after receiving notice of the outcome of a review under Division 4 (Review by public sector organisation) to make a complaint.
+Subdivision 2	What decisions may be made in relation to an application?
+21	Providing access in whole or in part
+	(1)	The public sector organisation may decide to provide access to all or part only of the information (in both cases referred to in subsection (2) as the information).
+	(2)	The public sector organisation must:
+(a)	provide access by:
+(i)	if the organisation is reasonably able to reproduce the information - providing the applicant with a copy; or
+(ii)	permitting the applicant to examine the information; and
+(b)	include in the notice of decision under section 20:
+(i)	details of:
+(A)	how the copy will be provided to the applicant; or
+(B)	the place and time at which the information may be examined,
+	as the case requires; and
+(ii)	the prescribed details (if any) about the fee (if any) payable to the organisation for providing access.
+	(3)	If the public sector organisation decides to provide access to part only of the information, subject to subsection (4), the organisation must include in the notice of decision under section 20 the reasons for refusing access to the remainder of the information, including the provision of this Act because of which access is refused.
+	(4)	If it is not in the public interest for the applicant to know whether or not the remainder of the information exists or not, the public sector organisation is not required in the notice of decision under section 20:
+(a)	to confirm or deny the existence of the remainder of the information; or
+(b)	to give reasons for refusing access to the remainder of the information.
+22	Providing edited copies of information
+	(1)	Subject to subsection (3), this section applies where the public sector organisation would, but for this section, refuse access to government information because part of the information is exempt under Part 4, Division 2 (Disclosure generally is not in the public interest) or Part 4, Division 3 (Disclosure in a particular case is not in the public interest).
+	(2)	The public sector organisation must provide access to a copy of the information with that part of the information that is exempt deleted from the copy (an edited copy) if:
+(a)	it is practicable for the organisation to give the applicant an edited copy; and
+(b)	the edited copy contains information of substance.
+	(3)	The public sector organisation is not required to provide an edited copy if the part of the information that is exempt is the subject of an exemption certificate.
+23	Deferring access
+	(1)	The public sector organisation may decide to defer providing access to the information for a period not exceeding 60 days if the information:
+(a)	is required by a law in force in the Territory to be published but is yet to be published; or
+(b)	has been prepared for presentation to the Legislative Assembly, or as a submission to a particular person or body, and has yet to be presented or submitted.
+	(2)	The public sector organisation must specify in the notice of decision under section 20 the period for which access is likely to be deferred.
+	(3)	If by the end of the period referred to in subsection (2):
+(a)	the information has not been published, presented or submitted as referred to in subsection (1)(a) or (b); and
+(b)	the public sector organisation has not provided access to the information,
+the organisation is taken to have refused access to the information.
+24	Refusing access because information is exempt
+	(1)	The public sector organisation may decide to refuse access to the information because the information is exempt under Part 4 (Exemptions in the public interest).
+	(2)	Subject to subsection (3), the public sector organisation must specify in the notice of decision under section 20 the reasons for refusing access, including the provision of this Act because of which access is refused.
+	(3)	If it is not in the public interest for the applicant to know whether the information exists or not, the public sector organisation is not required in the notice of decision under section 20:
+(a)	to confirm or deny the existence of the information; or
+(b)	to give reasons for refusing access to the information.
+25	Refusing access because providing access unreasonably interferes with operations
+	(1)	A public sector organisation may decide to refuse access to the information because providing access would unreasonably interfere with the operations of the organisation.
+	(2)	A public sector organisation may only decide to refuse access under subsection (1) if the organisation and the applicant are unable to agree on a variation of the information identified in the application.
+26	More time may be required to make decision
+	(1)	If the public sector organisation decides that it requires more than the 30 days referred to in section 19(1) to make a decision about the application, the organisation must include in the notice of decision under section 20 a statement to that effect specifying:
+(a)	the reasons why more time is required; and
+(b)	the period within which the applicant will receive a further notice under section 19(1)(b) in respect of the application.
+	(2)	The public sector organisation may require more time because:
+(a)	the application relates to a large amount of information;
+(b)	extensive searches are required to locate the information to which the application relates;
+(c)	complying with the 30-day period would unreasonably interfere with the conduct of the operations of the organisation; or
+(d)	the information includes information about a third party under section 30 and further time is required to seek the third party's views under that section.
+27	Information cannot be identified or found or does not exist
+	(1)	If, after taking all reasonable steps to find the information, the public sector organisation decides that:
+(a)	the information cannot be identified;
+(b)	the organisation holds the information but cannot find it; or
+(c)	the information does not exist,
+the organisation must include in the notice of decision under section 20 a statement to that effect.
+	(2)	If the applicant is notified in the terms set out in subsection (1), the public sector organisation is taken to have refused access to the information.
+28	Information not held by organisation
+	(1)	The public sector organisation may decide that it does not hold the information.
+	(2)	If the public sector organisation decides that it does not hold the information because it knows or believes on reasonable grounds that another public sector organisation holds the information, the organisation must transfer the application to that other organisation in accordance with section 29.
+29	Transfer of application
+	(1)	If the public sector organisation:
+(a)	knows or believes on reasonable grounds that another public sector organisation holds the information; or
+(b)	is holding the information but knows or believes on reasonable grounds that the information originated from, and is more closely related to the operations of, another public sector organisation,
+the public sector organisation may decide to transfer the application to that other public sector organisation.
+	(2)	Despite the 30-day period referred to in section 19(1), the public sector organisation must transfer the application within 15 days after receiving it.
+	(3)	The public sector organisation transferring the application must include in the notice of decision under section 20 a statement to the effect that the application has been transferred to another public sector organisation and specifying:
+(a)	the date of the transfer;
+(b)	the name of the public sector organisation to whom the application has been transferred; 
+(c)	the name, designation and contact details of an officer or employee of the organisation to whom the application has been transferred who may be contacted about the application; and
+(d)	that, within 30 days after the date of the transfer, the organisation to whom the application has been transferred will give the applicant a further notice of decision in accordance with section 20.
+	(4)	Within 30 days after the date of the transfer, the public sector organisation to whom the application is transferred must deal with the application as if it had been made to that organisation and this Division applies (with the necessary changes) accordingly.
+30	Information about third parties
+	(1)	For the purposes of this section, information is about a third party if disclosure of the information might:
+(a)	prejudice inter-governmental relations between an Australian body politic and a body politic overseas or between 2 or more bodies politic in Australia or in the Territory;
+(b)	be an interference with a person's privacy;
+(c)	disclose information about an Aboriginal sacred site or Aboriginal tradition; or
+(d)	disclose information obtained by a public sector organisation from a business, commercial or financial undertaking that is:
+(i)	a trade secret; or
+(ii)	other information of a business, commercial or financial nature and the disclosure is likely to expose the undertaking unreasonably to disadvantage.
+	(2)	The public sector organisation must not decide to provide access to information about a third party unless the organisation has sought the views (if any) of the third party, the third party being:
+(a)	if the disclosure would prejudice inter-governmental relations between 2 or more bodies politic - each of those bodies politic;
+(b)	if the disclosure would be an interference with a person's privacy:
+(i)	the person whose privacy would be interfered with; or
+(ii)	if that person is a child, has a disability or is deceased - a person who under section 155 may make a complaint on that person's behalf;
+(c)	if information about an Aboriginal sacred site would be disclosed - the Aboriginal custodians of the site;
+(d)	if information about Aboriginal tradition would be disclosed - the community or group to whom the tradition belongs; or
+(e)	if information obtained from a business, commercial or financial undertaking would be disclosed - that undertaking.
+	(3)	The public sector organisation may decide to provide access to the information even though:
+(a)	the third party's views were unable to be obtained after all reasonable attempts were made to do so;
+(b)	the third party did not respond to a request for his or her views within 30 days after receiving the request; or
+(c)	the third party expressed the view that the organisation should not provide access to the information.
+	(4)	The public sector organisation must notify the third party in writing of its decision about the application.
+	(5)	The notices of decision under subsection (4) and section 20 are to include a statement to the effect that access will be provided:
+(a)	30 days after the third party receives the notice of decision; or
+(b)	if within that 30-day period the third party makes a complaint to the Commissioner about the decision - subject to the Commissioner's determination of the complaint, after that determination is made.
+	(6)	If the third party is aggrieved by the decision of the public sector organisation to provide access to the information, the third party may make a complaint to the Commissioner about the decision within the 30-day period referred to in subsection (5) and Part 7 (Complaints to Information Commissioner) applies (with the necessary changes) as if the third party had made a complaint under section 103 and the organisation and the applicant were the respondents.
+	(7)	If the public sector organisation refuses to provide access to the information, for the purposes of a complaint made by the applicant under section 103 in connection with that refusal, Part 7 (Complaints to Information Commissioner) applies (with the necessary changes) as if the organisation and the third party were the respondents.
+	(8)	All notices that the Commissioner is required to give to the complainant under Part 7 (Complaints to Information Commissioner) as applied by subsection (6) or (7) must also be given to the respondents.
+Division 3	Correcting personal information
+Subdivision 1	How is an application made and how is it processed?
+31	Application to correct personal information
+	(1)	A person may apply to a public sector organisation to correct his or her personal information held by the organisation.
+	(2)	An application is to:
+(a)	be in writing;
+(b)	specify the name of the applicant;
+(c)	include sufficient details to identify the information; 
+(d)	give details of why the applicant believes that the information is inaccurate, incomplete or out of date;
+(e)	specify the correction the applicant wants to make to the information; and
+(f)	specify an address to which correspondence regarding the application may be sent to the applicant.
+32	Response to application
+	(1)	Within 30 days after receiving an application in accordance with section 31, a public sector organisation must:
+(a)	consider the application and make a decision about it in accordance with this Division; and
+(b)	notify the applicant in writing of that decision.
+	(2)	The notice under subsection (1)(b) is to be in accordance with section 33.
+	(3)	If the applicant is not notified in accordance with this section within 30 days after lodging the application, the public sector organisation is taken to have refused to correct the information.
+	(4)	The kinds of decisions the public sector organisation may make about the application are set out in Subdivision 2 (What decisions may be made in relation to an application?).
+33	Notice of decision on application
+For the purpose of section 32(2), a notice of decision is to contain:
+(a)	the matters (if any) that are required to be specified in the notice under sections 34 to 37 (inclusive); and
+(b)	a statement setting out:
+(i)	the applicant's rights of review under Division 4 (Review by public sector organisation), including that the applicant has 30 days after receiving the notice within which to make an application for review; and
+(ii)	the applicant's rights of complaint under Part 7 (Complaints to Information Commissioner), including that the applicant has 90 days after receiving notice of the outcome of a review under Division 4 (Review by public sector organisation) to make a complaint.
+Subdivision 2	What decisions may be made in relation to an application?
+34	Correcting information
+	(1)	The public sector organisation may decide to:
+(a)	make the correction specified in the application; or
+(b)	make a correction to the information that is different from the one specified in the application.
+	(2)	The public sector organisation must specify in the notice of decision under section 33:
+(a)	the correction that was made; and
+(b)	if different from the one specified in the application:
+(i)	the reasons for the difference; and
+(ii)	that, if in the applicant's opinion the information as corrected is inaccurate, incomplete or out of date, the applicant is entitled to request the organisation to take reasonable steps to associate with that information a statement by the applicant to that effect.
+	(3)	The public sector organisation must take all reasonable steps to comply with a request made under subsection (2)(b)(ii).
+	(4)	This section does not require a public sector organisation to correct information that is historical only.
+35	Refusing to correct information
+	(1)	The public sector organisation may decide to refuse to correct information.
+	(2)	The public sector organisation must specify in the notice of decision under section 33:
+(a)	the reasons for refusing to correct the information; and
+(b)	that, if the applicant remains of the opinion that the information is inaccurate, incomplete or out of date, the applicant is entitled to request the organisation to take reasonable steps to associate with that information a statement by the applicant to that effect.
+	(3)	The public sector organisation must take all reasonable steps to comply with a request made under subsection (2)(b).
+	(4)	This section does not require a public sector organisation to comply with a request made under subsection (2)(b) if the organisation refused to correct the information because it was historical only.
+36	More time may be required to make decision
+	(1)	If the public sector organisation decides that it requires more than the 30 days referred to in section 32(1) to make a decision about the application, the organisation must include in the notice of decision under section 33 a statement to that effect specifying:
+(a)	the reasons why more time is required; and
+(b)	the period within which the applicant will receive a further notice under section 32(1)(b) in respect of the application.
+	(2)	The public sector organisation may require more time because:
+(a)	the application relates to a large amount of information;
+(b)	extensive searches are required to locate the information to which the application relates; or
+(c)	complying with the 30-day period would unreasonably interfere with the conduct of the operations of the organisation.
+37	Transfer of application
+	(1)	If the public sector organisation:
+(a)	knows or believes on reasonable grounds that another public sector organisation holds the information; or
+(b)	is holding the information but knows or believes on reasonable grounds that the information originated from, and is more closely related to the operations of, another public sector organisation,
+the public sector organisation may decide to transfer the application to that other public sector organisation.
+	(2)	Despite the 30-day period referred to in section 32(1), the public sector organisation must transfer the application within 15 days after receiving it.
+	(3)	The public sector organisation transferring the application must include in the notice of decision under section 33 a statement to the effect that the application has been transferred to another public sector organisation and specifying:
+(a)	the date of the transfer;
+(b)	the name of the public sector organisation to whom the application has been transferred; 
+(c)	the name, designation and contact details of an officer or employee of the organisation to whom the application has been transferred who may be contacted about the application; and
+(d)	that, within 30 days after the date of the transfer, the organisation to whom the application has been transferred will give the applicant a further notice of decision in accordance with section 33.
+	(4)	Within 30 days after the date of the transfer, the public sector organisation to whom the application is transferred must deal with the application as if it had been made to that organisation and this Division applies (with the necessary changes) accordingly.
+Division 4	Review by public sector organisation
+ 
+38	Application for review
+	(1)	A person who is aggrieved by a decision of a public sector organisation:
+(a)	under Division 2 (Accessing government information) on an application for access to government information, including a decision to charge a fee for providing access to the information; or
+(b)	under Division 3 (Correcting personal information) on an application to correct personal information,
+may apply to the public sector organisation for a review of the decision.
+	(2)	An application for review under subsection (1) is to:
+(a)	be in writing;
+(b)	specify the name of the applicant;
+(c)	identify the decision and the application on which it was made;
+(d)	set out the reasons the applicant is seeking a review of the decision; and
+(e)	specify an address to which correspondence regarding the review may be sent to the applicant.
+39	Conduct of review
+	(1)	Within 30 days after receiving an application in accordance with section 38, a public sector organisation must:
+(a)	subject to subsection (2), review the decision the subject of the application; and
+(b)	notify the applicant in writing of the outcome of the review.
+	(2)	A public sector organisation may refuse to review a decision if satisfied that the application for review was not made within 30 days after the applicant was notified of the decision the subject of the application, in which case, the organisation is taken to have confirmed the decision.
+	(3)	A review is to be conducted fairly and with as much expedition as a proper consideration of the matter permits.
+	(4)	Subject to this section and section 40:
+(a)	a public sector organisation is to treat an application for review as if it were an application under Division 2 (Accessing government information) or Division 3 (Correcting personal information), as the case requires; and
+(b)	that Division applies (with the necessary changes) accordingly.
+	(5)	A review is not to be conducted by the officer or employee who made the decision the subject of the review.
+40	Decision on review
+	(1)	After conducting a review, a public sector organisation may:
+(a)	confirm or vary the decision reviewed in whole or in part; or
+(b)	revoke the decision reviewed in whole or in part and substitute another decision that would have been available to the organisation under Division 2 (Accessing government information) or Division 3 (Correcting personal information), as the case may be.
+	(2)	If the applicant is not notified of the outcome of a review within 30 days after making the application, the public sector organisation is taken to have confirmed the decision the subject of the review.
+41	Notice of outcome of review
+For the purposes of section 39(1)(b), a notice of the outcome of a review is to:
+(a)	include the reasons for the outcome; and
+(b)	contain a statement setting out the applicant's rights of complaint under Part 7 (Complaints to Information Commissioner), including that the applicant has 90 days after receiving the notice within which to make a complaint.
+Division 5	Miscellaneous
+ 
+42	Vexatious applicants
+	(1)	On the application of a public sector organisation, the Commissioner may declare in writing that a person is a vexatious applicant in relation to the organisation.
+	(2)	The Commissioner may only make a declaration if satisfied that:
+(a)	over a period of time, the person has repeatedly applied to the public sector organisation:
+(i)	for access under Division 2 (Accessing government information) to government information or a number of pieces of government information that share a common characteristic; or
+(ii)	for review under Division 4 (Review by public sector organisation) of the organisation's decisions about access to government information or a number of pieces of government information that share a common characteristic; and
+(b)	the repeated applications are:
+(i)	unnecessary;
+(ii)	an improper use of the right of access or review; or
+(iii)	made for the purpose of harassing or obstructing or otherwise interfering with the operations of the organisation.
+	(3)	A declaration has effect subject to the terms and conditions (if any) specified in the declaration, which may include a condition that the vexatious applicant may only make an application to the public sector organisation for access under Division 2 (Accessing government information) or review under Division 4 (Review by public sector organisation) with the written permission of the Commissioner.
+Part 4	Exemptions in the public interest
+Division 1	Effect of exemption
+ 
+43	Public sector organisation may provide access to exempt information
+If government information is exempt under this Part, a public sector organisation is not required to provide access to the information under Part 3 (Access and correction rights).
+Division 2	Disclosure generally is not in the public interest
+ 
+44	Exemption
+Government information referred to in this Division is exempt because it is not in the public interest to disclose the information.
+45	Executive Council, Cabinet, Territory economy
+	(1)	Information is exempt under section 44 if:
+(a)	the information:
+(i)	was brought into existence for submission to and consideration by an Executive body, whether or not it has been submitted to or considered by the Executive body;
+(ii)	was brought into existence to brief a minister in relation to a matter to be considered by an Executive body;
+(iii)	was considered by an Executive body;
+(iv)	is an agenda, minute or other record of the deliberations or decisions of an Executive body;
+(v)	would disclose information about the deliberations or decisions of an Executive body, other than information that has been published in accordance with a decision of the Executive body;
+(vi)	would disclose a communication between ministers about the making of a decision or the formulation of a policy if the decision or policy is of a kind generally made or endorsed by an Executive body;
+(vii)	was brought into existence to brief a minister in relation to a matter the subject of consultation between ministers about the making of a decision or the formulation of a policy if the decision or policy is of a kind generally made or endorsed by an Executive body; or
+(viii)	is a draft of information referred to in subparagraph (i), (ii), (iii), (iv), (v), (vi) or (vii);
+(b)	disclosure of the information would prejudice the ability of the Territory Government to manage the Territory economy or would otherwise seriously damage the Territory economy; or
+(c)	disclosure of the information would result in an unfair benefit or detriment to a person by prematurely disclosing decisions in respect of government policy about one or more of the following:
+(i)	taxation;
+(ii)	the stability, control or adjustment of prices of goods or services, rents or other costs or of rates of wages, salaries or other incomes;
+(iii)	borrowing of money by the Territory;
+(iv)	entering into trade agreements with the Commonwealth, a State or another Territory of the Commonwealth or another country.
+	(2)	Information referred to in subsection (1)(a) is not exempt under section 44 if the information is purely statistical, technical, scientific or factual material unless disclosure of the information would involve the disclosure of a deliberation or decision of an Executive body.
+	(3)	Information referred to in subsection (1)(a) is not exempt under section 44 if a period of 10 years has elapsed since the information came into existence.
+	(4)	In this section:
+Executive body means:
+(a)	the Executive Council or a committee of the Executive Council; or
+(b)	Cabinet or a committee of Cabinet.
+46	Security and law enforcement
+	(1)	Information is exempt under section 44 if disclosure of the information would prejudice:
+(a)	the security or defence of the Commonwealth or a State or Territory of the Commonwealth; or
+(b)	the maintenance of law and order in the Territory as specified in subsections (2) and (3).
+	(2)	The disclosure of information prejudices the maintenance of law and order in the Territory if it:
+(a)	prejudices the investigation of a breach or possible breach of the law (whether generally or in a particular case);
+(b)	discloses the identity of a confidential source of information connected with the detection of unlawful conduct or the enforcement or administration of the law;
+(c)	discloses methods or procedures for preventing, detecting, investigating or otherwise dealing with matters connected with breaches or evasions of the law and disclosure of those methods or procedures prejudices or is likely to prejudice their effectiveness;
+(d)	discloses a matter that facilitates or is likely to facilitate a person's escape from lawful custody; or
+(e)	endangers the life or physical safety of a person.
+	(3)	The disclosure of information does not prejudice the maintenance of law and order in the Territory if it discloses information that:
+(a)	reveals that the scope of a law enforcement investigation has exceeded limits imposed by law;
+(b)	reveals the use of illegal methods or procedures for preventing, detecting, investigating, or dealing with matters arising out of, breaches or evasion of the law;
+(c)	contains a general outline of the structure of a program adopted by a public sector organisation for investigating breaches of, or enforcing or administering, the law;
+(d)	is a report on the degree of success achieved in a program adopted by a public sector organisation for investigating breaches of, or enforcing or administering, the law;
+(e)	is a report prepared in the course of routine law enforcement inspections or investigations by a public sector organisation that has a function of enforcing and regulating compliance with a particular law other than the criminal law; or
+(f)	is a report on a law enforcement investigation where the substance of the report has been disclosed to the person or body the subject of the investigation.
+47	Information exempt under corresponding FOI laws
+Information is exempt under section 44 if:
+(a)	it is information that originated with, or has been received from, a person appointed, or a body established, by or under a law of the Commonwealth or of a State or another Territory of the Commonwealth; and
+(b)	the person or body would not be required to disclose the information under the corresponding FOI law of that jurisdiction.
+48	Secrecy provisions
+	(1)	Information is exempt under section 44 if:
+(a)	disclosure of the information is an offence against a law of the Territory, whether or not the offence is subject to exceptions or qualifications; and
+(b)	disclosure to the particular applicant would constitute such an offence.
+	(2)	Subsection (1) ceases to operate 3 years after the commencement of this Act except in relation to information to which section 38 of the Northern Territory Aboriginal Sacred Sites Act applies.
+49	Preservation of system of justice
+Information is exempt under section 44 if disclosure of the information would:
+(a)	prejudice the prosecution of an offence against a law of the Territory or elsewhere;
+(b)	prejudice the right of a person to a fair trial or impartial adjudication;
+(c)	disclose information about a proceeding or other matter before a court or tribunal;
+(d)	breach legal professional privilege;
+(e)	infringe the privileges of the Legislative Assembly or another parliament; or
+(f)	be in contempt of a court or tribunal, or a royal commission or other commission of inquiry, whether in the Territory or elsewhere.
+Division 3	Disclosure in a particular case is not in the public interest
+ 
+50	Exemption
+	(1)	Government information referred to in this Division is exempt only if it can be shown that, in the particular case, it is not in the public interest to disclose the information.
+	(2)	To show that, in a particular case, it is not in the public interest to disclose government information, the following matters are irrelevant:
+(a)	the possibility that the disclosure may result in embarrassment to, or a lack of confidence in, the Territory Government or a public sector organisation;
+(b)	the possibility that the applicant may misunderstand the information disclosed.
+51	Inter-governmental relations
+Information may be exempt under section 50 if disclosure of the information would prejudice inter-governmental relations between an Australian body politic and a body politic overseas or between 2 or more bodies politic in Australia or in the Territory.
+52	Deliberative processes
+	(1)	Information may be exempt under section 50 if disclosure of the information would disclose:
+(a)	an opinion, advice or recommendation brought into existence by or on behalf of a public sector organisation in the course of, or for the purposes of, the deliberative processes that are part of the functions of the organisation; or
+(b)	a record of consultations or deliberations of a public sector organisation in the course of, or for the purposes of, such deliberative processes.
+	(2)	Information referred to in subsection (1) is not exempt under section 50 if the information is purely statistical, technical, scientific or factual.
+	(3)	Information referred to in subsection (1) is not exempt under section 50 if the information is:
+(a)	a final decision, order or ruling given or made in the exercise of an adjudicative function; or
+(b)	the reasons for such a decision, order or ruling.
+	(4)	Information referred to in subsection (1) is not exempt under section 50 if a period of 10 years has elapsed since the information was brought into existence.
+	(5)	To show that, in a particular case, it is not in the public interest to disclose government information referred to in subsection (1), a public sector organisation may have regard to the following factors:
+(a)	the more senior the person who created, annotated or considered the information and the more sensitive the information, the more likely it will be that the information should not be disclosed (but the seniority of the person is not by itself a sufficient reason not to disclose the information);
+(b)	the disclosure of information that was brought into existence in the course of the development and subsequent promulgation of policy tends not to be in the public interest;
+(c)	the disclosure of information that will inhibit frankness and candour in future pre-decisional considerations is likely not to be in the public interest;
+(d)	the disclosure of information that has the potential to inhibit the independence of the decision-maker because of the possibility that the disclosure could result in the decision-maker being unduly pressured or harassed is likely not to be in the public interest;
+(e)	the disclosure of information where there is a risk that the disclosure will result in a mischievous interpretation of the information is likely not to be in the public interest;
+(f)	the disclosure of information that will lead to confusion and unnecessary debate resulting from disclosure of possibilities considered tends not to be in the public interest (but a tentative or optional quality of the information is not by itself a sufficient reason not to disclose the information);
+(g)	the disclosure of information that does not fairly disclose the reasons for a decision subsequently taken may be unfair to a decision-maker and may prejudice the integrity of the decision-making process.
+53	Effective operations of public sector organisations
+Information may be exempt under section 50 if disclosure of the information is reasonably likely to:
+(a)	prejudice the effectiveness of a method or procedure for the conduct of a test, examination or audit by a public sector organisation;
+(b)	prejudice the attainment of the objects of a test, assessment or audit conducted by a public sector organisation;
+(c)	have a substantial, adverse effect on the management by a public sector organisation of the officers or employees of the organisation; or
+(d)	have a substantial, adverse effect on the conduct of industrial relations by a public sector organisation.
+54	Health, safety, environment
+Information may be exempt under section 50 if disclosure of the information would:
+(a)	pose a serious threat to the life or health of a person;
+(b)	prejudice measures for the protection of the health or safety of the public;
+(c)	harm the habitats of, or prejudice measures to protect or manage, species of flora or fauna the continued survival of which are at risk; or
+(d)	prejudice the administration, management or security of a prison, police prison or detention centre.
+55	Confidentiality obligations, confidential sources
+	(1)	Information may be exempt under section 50 if disclosure of the information (otherwise under this Act or another Act) would be a breach of confidence for which a legal remedy could be obtained.
+	(2)	Information referred to in subsection (1) is not exempt under section 50 unless its disclosure would enable a legal remedy to be obtained for a breach of confidence owed to a person other than:
+(a)	a person in their capacity as:
+(i)	a minister or parliamentary secretary;
+(ii)	a member of the staff of a minister or parliamentary secretary; or
+(iii)	a member of a public sector organisation; or
+(b)	the Territory or a public sector organisation.
+	(3)	Information may be exempt under section 50 if:
+(a)	the information was communicated in confidence to a public sector organisation; and
+(b)	either:
+(i)	the information would be exempt under this Part if it had been brought into existence by a public sector organisation; or
+(ii)	disclosure of the information would be reasonably likely to impair the ability of a public sector organisation to obtain similar information in the future and it is in the public interest that such similar information continues to be so obtained.
+	(4)	Information referred to in subsection (3) does not include information that:
+(a)	was obtained by a public sector organisation from a business, commercial or financial undertaking; and
+(b)	is a trade secret or other information of a business, commercial or financial nature.
+	(5)	Information referred to in subsection (3) is not exempt under section 50 if a period of 5 years has elapsed since the information was communicated to the public sector organisation.
+	(6)	The Commissioner may, on application and if of the opinion that it is in the public interest to do so, extend the period referred to in subsection (5) in its application to particular information on one or more occasions and on each such occasion for a limited, specified period or for an unlimited period.
+56	Privacy and cultural information
+	(1)	Information may be exempt under section 50 if disclosure of the information would:
+(a)	be an unreasonable interference with a person's privacy; or
+(b)	disclose information about an Aboriginal sacred site or Aboriginal tradition.
+	(2)	Disclosure of information may be an unreasonable interference with a person's privacy even though the information arises from or out of the performance of a public duty.
+57	Commercial and business information, research, examination papers
+	(1)	Information may be exempt under section 50 if disclosure of the information would disclose information obtained by a public sector organisation from a business, commercial or financial undertaking that is:
+(a)	a trade secret; or
+(b)	other information of a business, commercial or financial nature and the disclosure is likely to expose the undertaking unreasonably to disadvantage.
+	(2)	To decide whether disclosure of information is likely to expose an undertaking unreasonably to disadvantage, a public sector organisation may have regard to the following considerations:
+(a)	whether the information is generally available to the undertaking's competitors;
+(b)	whether the information would be exempt under this Part if it had been brought into existence by a public sector organisation;
+(c)	whether the information could be disclosed without causing substantial harm to the competitive position of the undertaking;
+(d)	whether there are any considerations in the public interest in favour of disclosure that outweigh considerations of competitive disadvantage to the undertaking (for example, the public interest in evaluating aspects of government regulation of corporate practices or environmental controls);
+(e)	any other considerations that in the opinion of the public sector organisation are relevant.
+	(3)	Information may be exempt under section 50 if disclosure of the information would disclose:
+(a)	a trade secret of a public sector organisation;
+(b)	information about a public sector organisation that is engaged in trade or commerce where the information is of a business, commercial or financial nature and the disclosure is reasonably likely to expose the organisation unreasonably to disadvantage;
+(c)	the results of scientific or technical research undertaken or being undertaken by a public sector organisation where:
+(i)	the research could lead to a patentable invention;
+(ii)	the disclosure of the results in an incomplete state is reasonably likely to expose a business, commercial or financial undertaking unreasonably to disadvantage; or
+(iii)	the disclosure of the results before completion of the research is reasonably likely to expose the public sector organisation unreasonably to disadvantage; or
+(d)	an examination paper, a paper submitted by a student in the course of an examination, an examiner's report or any other similar document where the uses to which the paper, report or other document have not been completed.
+	(4)	Information referred to in subsection (1) is not exempt under section 50 if a period of 5 years has elapsed since the information was obtained by the public sector organisation.
+	(5)	Information referred to in subsection (3) is not exempt under section 50 if a period of 5 years has elapsed since the information came into existence.
+	(6)	The Commissioner may, if of the opinion that it is in the public interest to do so, extend the period referred to in subsection (4) or (5) on one or more occasions and on each such occasion for a limited, specified period or for an unlimited period.
+58	Financial and property interests of Territory or public sector organisation
+Information may be exempt under section 50 if disclosure of the information is reasonably likely to have a substantial, adverse effect on the financial or property interests of the Territory or of a public sector organisation.
+Division 4	Exemption certificates
+ 
+59	Exemption
+	(1)	Government information the subject of an exemption certificate is exempt.
+	(2)	An exemption certificate is conclusive evidence that it is not in the public interest to disclose government information identified in the certificate (whether the information exists or not).
+60	Issuing exemption certificate
+	(1)	The Chief Minister may issue an exemption certificate certifying in writing that government information identified in the certificate is exempt because it is:
+(a)	information referred to in section 45(1)(a) other than information to which section 45(2) or (3) applies;
+(b)	information referred to in section 46(1); or
+(c)	information referred to in section 56.
+	(2)	The Chief Minister is not required to confirm or deny in the exemption certificate that the information identified in the certificate exists.
+	(3)	If the Chief Minister does confirm in the exemption certificate that the information exists, he or she must also specify in the certificate that it is:
+(a)	information referred to in section 45(1)(a) other than information to which section 45(2) or (3) applies;
+(b)	information referred to in section 46(1); or
+(c)	information referred to in section 56,
+as the case may be.
+61	Duration of exemption certificate
+	(1)	An exemption certificate has effect:
+(a)	for 2 years from the date on which the Chief Minister signs it; or
+(b)	until it is revoked by him or her,
+whichever occurs first.
+	(2)	There is no limit to the number of times the Chief Minister may issue an exemption certificate in respect of the same information.
+62	Exemption certificate not to be queried
+Despite any other Act, no person or body is entitled to investigate, inquire into, review or otherwise call into question:
+(a)	the issue of an exemption certificate in respect of government information; or
+(b)	the number of times an exemption certificate has been issued in respect of government information.
+63	Exemption certificate not to be issued after complaint made
+	(1)	Once a complaint under section 103 has been made, the Chief Minister is not entitled to issue an exemption certificate in respect of the government information the subject of the complaint.
+	(2)	Subsection (1) operates only in respect of the complaint referred to in that subsection.
+64	Delegation not permitted
+The Chief Minister must not delegate any of his or her functions or powers under this Division.
+Part 5	Protection of privacy
+Division 1	Information privacy principles
+ 
+65	What are IPPs?
+	(1)	The information privacy principles (IPPs) are the principles for collecting and handling personal information by public sector organisations that are specified in the Schedule.
+	(2)	If there is an inconsistency between an IPP and another provision of this Act, to the extent of the inconsistency, the other provision applies and the IPP does not apply.
+66	What information do IPPs apply to?
+	(1)	IPP 1 (Collection) and IPP 10 (Sensitive information) apply in relation to personal information that a public sector organisation collects at any time after this Part commences.
+	(2)	IPPs 2 to 9 (inclusive) apply in relation to personal information that a public sector organisation handles at any time after this Part commences, regardless of when the organisation collected the information.
+67	What is an interference with a person's privacy?
+A public sector organisation interferes with a person's privacy if the organisation contravenes an IPP, a code of practice or an authorisation.
+Division 2	Exemptions from IPPs
+ 
+68	Publicly available information
+	(1)	The IPPs (other than IPP 1 (Collection) and IPP 3 (Data quality)) do not apply in relation to personal information that:
+(a)	is published in a publication (which may be an electronic publication) generally available to members of the public;
+(b)	is on a public register, except to the extent specified in subsection (2);
+(c)	is in an archive available to the public under Part 9, Division 4 (Managing archives);
+(d)	is recorded information of permanent value that forms part of the Territory Archives but is not a record; or
+(e)	is in a collection of a library, art gallery or museum if the collection is on public exhibition or is available to the public for reference or study purposes.
+	(2)	A public register is to be kept in compliance with the IPPs to the extent that it is reasonably practicable to do so given the requirements imposed by or under an Act for keeping the register and making it available for public inspection.
+69	Courts and tribunals
+The IPPs do not apply in relation to a proceeding or other matter before a court or tribunal.
+70	Law enforcement agencies
+A law enforcement agency is not required to comply with an IPP if the agency believes on reasonable grounds that non-compliance is necessary for the purposes of one or more of its or another law enforcement agency's functions, including the following:
+(a)	to prevent, detect, investigate, prosecute or punish the commission of an offence against a law of the Territory or any other offence or breach of a law imposing a penalty or sanction for a breach;
+(b)	to manage property seized or restrained under laws relating to the confiscation of the proceeds of crime or the enforcement of those laws or orders under those laws;
+(c)	to execute or implement an order or decision of a court or tribunal, including to execute warrants, to provide correctional services and to make decisions relating to the release of a person from lawful custody;
+(d)	to locate missing persons and next of kin;
+(e)	to provide services in emergency and disaster situations;
+(f)	if the agency is the Police Force of the Northern Territory - its community policing function.
+71	Statistics and research
+IPP 2 (Use and disclosure) does not apply in relation to the use or disclosure of personal information by a public sector organisation in connection with a function or activity of the organisation that involves compiling statistics or conducting research unless those statistics or that research is published in a form that identifies a person.
+Division 3	Codes of practice
+ 
+72	Public sector organisation may prepare draft code of practice
+	(1)	A public sector organisation may prepare a draft code of practice.
+	(2)	The draft code may:
+(a)	specify:
+(i)	the manner in which the organisation is to apply one or more IPPs; or 
+(ii)	the manner in which the organisation is to comply with one or more IPPs;
+(b)	apply in relation to:
+(i)	specified personal information or a specified class of personal information; or
+(ii)	a specified activity or a specified class of activities; or
+(c)	modify an IPP, but only if:
+(i)	the organisation is not otherwise capable of complying with the IPP;
+(ii)	the draft code modifies the IPP only to the extent necessary to enable the organisation to comply with the IPP; and
+(iii)	the draft code gives effect as nearly as possible to the objects of the IPP.
+	(3)	The matters that the draft code may provide for include but are not limited to the following:
+(a)	the control of data matching and data linkage for the purpose of producing or verifying personal information;
+(b)	how a public register is to be kept so as to comply with the IPPs to the extent that it is reasonably practicable to do so given the requirements imposed by or under an Act for keeping the register and making it available for public inspection;
+(c)	the review of the draft code by the organisation, including the review procedure;
+(d)	when the draft code is to cease to have effect.
+	(4)	In preparing the draft code, the organisation may:
+(a)	consult with the Commissioner or any other person it considers appropriate; or
+(b)	seek comment or submissions from the public.
+	(5)	For the purposes of this section, a draft code of practice may be prepared by or on behalf of a public sector organisation or a group of public sector organisations, including a local authority or a group of local authorities.
+73	Commissioner may recommend submission of draft code of practice for approval
+	(1)	A public sector organisation may submit a draft code of practice to the Commissioner for a recommendation under subsection (2).
+	(2)	If the Commissioner is satisfied that:
+(a)	the draft code substantially complies with the objects of this Act in relation to the personal information to which it applies;
+(b)	the public sector organisation will be able to comply with the draft code; and
+(c)	the draft code is not contrary to the public interest,
+the Commissioner must recommend to the minister responsible for the organisation that the draft code be submitted to the Administrator for approval.
+74	Minister may submit draft code of practice for approval
+	(1)	The minister responsible for a public sector organisation that has prepared a draft code of practice may submit the draft code to the Administrator for approval.
+	(2)	The minister must not submit the draft code for approval unless:
+(a)	the Commissioner has recommended its submission; and
+(b)	the minister is satisfied of the matters referred to in section 73(2)(a), (b) and (c) in respect of the draft code.
+75	Administrator may approve code of practice
+	(1)	The Administrator may, by notice in the Gazette, approve a code of practice prepared in accordance with section 72 and submitted to the Administrator for approval under section 74.
+	(2)	A notice of approval is to specify the public sector organisation to whom the code of practice applies.
+76	When does a code of practice take effect?
+A code of practice approved under section 75 takes effect on:
+(a)	the date the notice of approval is published in the Gazette; or
+(b)	the date specified in that notice,
+whichever is later.
+77	Variation of code of practice
+	(1)	A code of practice may be varied at any time.
+	(2)	This Division applies in respect of a variation of a code of practice as if references to a code of practice were references to a variation of a code of practice.
+78	Revocation of code of practice
+The minister responsible for the public sector organisation to whom a code of practice applies may, by notice in the Gazette, revoke the code of practice.
+79	Compliance with code of practice
+	(1)	A public sector organisation must comply with a code of practice.
+	(2)	If there is an inconsistency between an IPP and a code of practice, to the extent of the inconsistency, the IPP does not apply to the public sector organisation and the organisation must comply with the code of practice.
+80	Register of codes of practice
+	(1)	The Commissioner must keep a register of codes of practice.
+	(2)	The register may be in any form, including an electronic form.
+	(3)	The register is to contain the following details in respect of each code of practice registered:
+(a)	the public sector organisation or organisations to which it applies;
+(b)	the date the code was approved and, if different, the date the code took effect;
+(c)	the date any variation of the code was approved and, if different, the date the variation took effect.
+	(4)	The Commissioner must:
+(a)	make the register available for inspection by the members of the public at all reasonable times; and
+(b)	if requested by a member of the public - provide a copy of an entry in or extract from the register on payment of the prescribed fee (if any).
+Division 4	Authorisations by Commissioner
+ 
+81	Grant of authorisation
+	(1)	On the application of a public sector organisation, the Commissioner may authorise in writing the organisation to collect, use or disclose personal information in a manner that would otherwise contravene or be inconsistent with IPP 1 (Collection), IPP 2 (Use and disclosure) or IPP 10 (Sensitive information).
+	(2)	The Commissioner may only grant an authorisation if, having regard to the purpose for collecting, using or disclosing the personal information, the Commissioner is satisfied that:
+(a)	the public interest in collecting, using or disclosing the information outweighs to a substantial degree the interference with the privacy of persons that might result from collecting, using or disclosing the information; and
+(b)	the benefit to persons of collecting, using or disclosing the information outweighs the interference with the privacy of those persons that might result from collecting, using or disclosing the information. 
+	(3)	An authorisation is subject to the terms and conditions (if any) specified in the authorisation.
+Division 5	Compliance notices
+ 
+82	Commissioner may serve compliance notice
+	(1)	The Commissioner may serve a compliance notice on a public sector organisation if it appears to the Commissioner that:
+(a)	the organisation has contravened an IPP or a code of practice; and
+(b)	the contravention:
+(i)	is serious or flagrant; or
+(ii)	is of a kind that has been done by the organisation on at least 3 separate occasions within the previous 2 years.
+	(2)	A compliance notice is a notice in writing requiring the public sector organisation to take specified action within a specified period to ensure the organisation complies with the IPP or code of practice in the future.
+	(3)	The Commissioner may serve a compliance notice:
+(a)	on his or her own initiative; or
+(b)	because of a complaint made under Part 7, Division 1 (Complaints procedure).
+83	Extension of time to comply
+	(1)	A public sector organisation on whom a compliance notice has been served may apply to the Commissioner for an extension of the period within which to comply with the notice.
+	(2)	The Commissioner must not consider an application for an extension unless the application is made before the period sought to be extended expires.
+	(3)	The Commissioner may grant an extension if:
+(a)	satisfied that it is not reasonably possible for the public sector organisation to take the action specified in the notice within the period specified in the notice; and
+(b)	the organisation gives the Commissioner an undertaking to take that action within the extended period.
+	(4)	If the Commissioner grants an extension, the compliance notice is taken to have been amended accordingly.
+84	Offence for non-compliance
+A public sector organisation must comply with a compliance notice.
+Penalty:	300 penalty units.
+Part 6	Information Commissioner
+Division 1	Establishment, functions and powers
+ 
+85	Information Commissioner
+	(1)	There is to be an Information Commissioner.
+	(2)	The Administrator may, by notice in the Gazette, appoint a person to be the Information Commissioner.
+86	Functions of Commissioner
+	(1)	In addition to the functions conferred on the Commissioner elsewhere under this Act, the functions of the Commissioner include the following:
+(a)	to develop and issue guidelines to public sector organisations about freedom of information, the correction of personal information, and the protection of privacy;
+(b)	to promote within public sector organisations an understanding and acceptance of the principles of freedom of information;
+(c)	to promote within public sector organisations an understanding and acceptance of the IPPs and their objects;
+(d)	to provide advice and training to public sector organisations on the freedom of information and privacy provisions of this Act;
+(e)	to conduct audits of the records held by public sector organisations to determine the extent to which those organisations are complying with the privacy provisions of this Act;
+(f)	to examine and assess proposed legislation and policies relevant to freedom of information and privacy;
+(g)	to research and monitor developments in relation to freedom of information and the protection of privacy;
+(h)	to undertake educational programs to promote public awareness of freedom of information and privacy;
+(i)	to make public statements about matters relevant to freedom of information and privacy;
+(j)	to consult and co-operate with other persons and bodies in relation to freedom of information and the protection of privacy;
+(k)	the functions conferred on the Commissioner under any other Act.
+	(2)	In performing his or her functions under this Act, the Commissioner must have regard to and act consistently with the objects of this Act.
+87	Powers of Commissioner
+	(1)	In addition to the specific powers provided elsewhere under this Act or under any other Act, the Commissioner has the powers that are necessary and convenient for the performance of his or her functions under this Act and any other Act.
+	(2)	For the purposes of:
+(a)	dealing with a complaint;
+(b)	deciding whether or not to serve a compliance notice; or
+(c)	conducting an audit under section 86(1)(e),
+the Commissioner:
+(d)	is entitled to full and free access at all reasonable times to the records of a public sector organisation; and
+(e)	may require a public sector organisation to answer a question or to produce a record.
+88	Duty to assist persons to exercise rights
+	(1)	Subject to subsection (2), the Commissioner's staff must provide appropriate assistance to persons to enable them to exercise their rights under this Act, including assisting persons to make applications or complaints.
+	(2)	The Commissioner or a member of the Commissioner's staff must not give legal advice to a person.
+89	Delegation
+	(1)	Subject to subsection (2), the Commissioner may delegate in writing to a person any of his or her powers or functions under this Act or any other Act.
+	(2)	The Commissioner must not delegate a power or function under subsection (1) without the approval of the Minister.
+Division 2	Appointment provisions
+ 
+90	Terms and conditions of appointment
+	(1)	Subject to this Division, the Commissioner holds office for the period (not exceeding 5 years) specified in the appointment and is eligible for reappointment.
+	(2)	Subject to this Division, the Commissioner holds office on the terms and conditions (including as to remuneration, expenses and allowances) determined by the Administrator and specified in the appointment.
+91	Termination of appointment
+	(1)	The Administrator must terminate the appointment of a person as Commissioner if the person:
+(a)	is found guilty of an indictable offence, whether in the Territory or elsewhere;
+(b)	becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
+(c)	engages in paid employment outside the duties of the office without the Minister's prior written approval.
+	(2)	The Administrator may terminate the appointment of a person as Commissioner:
+(a)	on the ground of misbehaviour;
+(b)	on the ground of inability to satisfactorily perform the duties of the office, whether because of physical or mental incapacity or for any other reason;
+(c)	if the person is guilty of misconduct of a kind that would, if the person were an employee within the meaning of the Public Sector Employment and Management Act, warrant dismissal under that Act; or
+(d)	if the person is absent, without leave and without reasonable excuse, for 14 consecutive days or 28 days in any 12 months.
+	(3)	A termination under this section is to be in writing.
+	(4)	The Minister must report the termination of a person as Commissioner to the Legislative Assembly on the first sitting day after the termination.
+	(5)	The Minister's report under subsection (4) is to specify the reasons for the termination.
+92	Leave of absence
+The Minister may grant leave of absence to the Commissioner on the terms the Minister considers appropriate.
+93	Resignation
+The Commissioner may resign from office by written notice delivered to the Administrator.
+94	Acting Commissioner
+	(1)	The Minister may, by notice in the Gazette, appoint a person to act as the Commissioner:
+(a)	during a vacancy in the office, whether or not an appointment has previously been made to the office; or
+(b)	during any period or all periods when the Commissioner is unable to perform the duties of the office.
+	(2)	A person appointed to act as the Commissioner during a vacancy in the office must not act continuously for more than 6 months.
+	(3)	The terms and conditions (including as to remuneration, expenses and allowances) of an appointment to act as Commissioner are to be determined by the Minister.
+95	Members of Legislative Assembly ineligible for appointment
+	(1)	A member of the Legislative Assembly is not entitled to be appointed as the Commissioner, to act as the Commissioner, or to conduct a hearing under Part 7 (Complaints to Information Commissioner).
+	(2)	Subject to subsection (3), the appointment of a person as the Commissioner, to act as the Commissioner or to conduct a hearing under Part 7 (Complaints to Information Commissioner) ceases on the person becoming a member of the Legislative Assembly.
+	(3)	Despite subsection (2), the appointment continues in force in respect of a complaint made before the person became a member of the Legislative Assembly and in respect of which the person had been performing functions under this Act until the complaint is determined.
+Division 3	Miscellaneous
+ 
+96	Staff and consultants
+	(1)	All members of the staff of the Commissioner are to be employees within the meaning of the Public Sector Employment and Management Act.
+	(2)	A person who assists the Commissioner under an arrangement referred to in section 97(1) is, while assisting the Commissioner, taken to be a member of the Commissioner's staff.
+	(3)	The Commissioner may engage the consultants he or she considers necessary for performance of his or her functions under this Act or any other Act.
+97	Sharing staff and physical resources
+	(1)	The Commissioner may make arrangements for a person who is a member of the staff of another statutory office to assist the Commissioner or for a person who is a member of the Commissioner's staff to assist the holder of another statutory office.
+	(2)	The Commissioner may make arrangements for the use by the Commissioner's office of the physical resources of another statutory office or for the use by another statutory office of the physical resources of the Commissioner's office.
+98	Annual report
+	(1)	The Commissioner must provide the Minister with a report on the operations of the Commissioner's office during each financial year.
+	(2)	The report must:
+(a)	contain details of anything done by or on behalf of a public sector organisation that, in the Commissioner's opinion, interfered with a person's privacy, whether what was done was the subject of a complaint or not;
+(b)	specify the following in respect of each public sector organisation:
+(i)	the number of requests for access to government information the organisation received and dealt with;
+(ii)	the number of decisions the organisation made providing access to government information, providing access to edited copies of government information or refusing access to government information;
+(iii)	the number of times the organisation refused access to government information on the ground that it was exempt or that the applicant was not entitled to access under this Act;
+(iv)	the number of requests to correct personal information the organisation received and dealt with;
+(v)	the number of decisions the organisation made correcting personal information or refusing to correct personal information;
+(vi)	the number of requests for review under Part 3, Division 4 (Review by public sector organisation) the organisation received and the outcomes of those reviews;
+(vii)	the number of complaints made under Part 7 (Complaints to Information Commissioner) about the organisation and the outcomes of those complaints;
+(viii)	the number of times the Commissioner has granted an authorisation to the organisation and the nature of each of those authorisations;
+(ix)	the number of times the Commissioner has made a declaration under section 42 that a person is a vexatious applicant in relation to the organisation and the nature of each of those declarations;
+(x)	the fees charged by the organisation under this Act and details of any fees reduced or waived by the organisation;
+(c)	specify the number of exemption certificates issued, including how many of those certificates neither confirmed nor denied the existence of the information the subject of the certificate;
+(d)	include financial statements in respect of the operations of the Commissioner's office during the financial year to which the report relates;
+(e)	include any matter that the Minister directs in writing the Commissioner to include in the report; and
+(f)	include any matter prescribed by regulation to be included in the report.
+	(3)	A public sector organisation must comply with a request from the Commissioner for the information referred to in subsection (2)(b)(i) to (vi) (inclusive) and (x).
+	(4)	The Chief Minister must comply with a request from the Commissioner for the information referred to in subsection (2)(c).
+	(5)	The Commissioner must forward the report to the Minister within 3 months after the end of the financial year to which it relates.
+	(6)	The Minister must lay a copy of the report before the Legislative Assembly within 6 sitting days after receiving it.
+99	Special report
+	(1)	The Minister may direct in writing the Commissioner to report to him or her on a matter connected with the operation of this Act.
+	(2)	The Commissioner must comply with the Minister's direction.
+100	Validity of Commissioner's acts and decisions
+Anything done by or in relation to a person purporting to act in pursuance of:
+(a)	an appointment as Commissioner under section 85; or
+(b)	an appointment to act as Commissioner under section 94,
+is not invalid on any of the following grounds:
+(c)	that the appointment was ineffective;
+(d)	that the appointment had ceased to have effect;
+(e)	if the appointment is to act as Commissioner - that the occasion to act had not arisen or had ceased.
+101	Obstruction etc. of Commissioner
+A person must not without reasonable excuse:
+(a)	obstruct or hinder the Commissioner in the exercise of a power or the performance of a function under this Act;
+(b)	improperly influence the Commissioner in the exercise of a power or the performance of a function under this Act; or
+(c)	refuse or fail to comply with a requirement made, or a direction given, by the Commissioner under this Act.
+Penalty:	200 penalty units or imprisonment for 12 months.
+102	Commissioner must not disclose exempt information
+This Act does not authorise or permit the Commissioner to disclose government information that is exempt under Part 4 (Exemptions in the public interest) by publishing the information in:
+(a)	a report under section 98 or 99;
+(b)	a decision or order made, or reasons for decision given, under Part 7, Division 1 (Complaints procedure); or
+(c)	any other form.
+Part 7	Complaints to Information Commissioner
+Division 1	Complaints procedure
+ 
+103	Complaint after review by public sector organisation
+A person aggrieved by a decision of a public sector organisation on an application for review by the organisation under Part 3, Division 4 (Review by public sector organisation) may make a complaint to the Commissioner about the decision.
+104	Complaint about interference with privacy
+	(1)	A person may make a complaint to the Commissioner about a public sector organisation on one or both of the following grounds:
+(a)	that the organisation has collected or handled his or her personal information in a manner that contravenes an IPP, a code of practice or an authorisation;
+(b)	that the organisation has otherwise interfered with the person's privacy.
+	(2)	A person is not entitled to make a complaint under subsection (1) unless the person:
+(a)	has requested the public sector organisation to resolve or rectify the matter complained of; and
+(b)	has not received a response or is not satisfied with the response received.
+	(3)	The Commissioner may deal with a complaint referred to him or her by:
+(a)	the Ombudsman under section 17B of the Ombudsman (Northern Territory) Act;
+(b)	the Health Complaints Commissioner under section 27 of the Health and Community Services Complaints Act; or
+(c)	a person or body under a corresponding privacy law,
+as if it were a complaint made under subsection (1).
+105	Form of complaint
+A complaint is to:
+(a)	be in writing in a form approved by the Commissioner;
+(b)	specify the name of the complainant;
+(c)	specify the respondent;
+(d)	if the complaint is made under section 103 - identify the decision and the application for review on which the decision was made;
+(e)	if the complaint is made under section 104: 
+(i)	identify the matter complained of; and
+(ii)	set out details of the attempts made by the person to have the organisation resolve or rectify that matter and the outcomes of those attempts;
+(f)	set out the reasons for making the complaint; and
+(g)	specify an address to which correspondence regarding the complaint may be sent to the complainant.
+106	Commissioner to accept or reject complaint
+	(1)	Within 90 days after receiving a complaint, the Commissioner must:
+(a)	decide whether to accept or reject the complaint; and
+(b)	notify the complainant in writing of that decision.
+	(2)	In deciding whether to accept or reject the complaint, the Commissioner may request the complainant:
+(a)	to attend before the Commissioner to discuss the complaint; or
+(b)	to provide records or other information to support the complaint.
+	(3)	The Commissioner may reject a complaint if the Commissioner is satisfied that:
+(a)	if the complaint is made under section 103 - the complaint was not made within 90 days after the complainant was notified of the decision by the respondent;
+(b)	if the complaint is made under section 104 - the complaint does not disclose a contravention of an IPP, a code of practice or an authorisation in respect of the complainant's personal information or any other interference with the complainant's privacy;
+(c)	if the complaint is made under section 104:
+(i)	the complainant has not requested the respondent to resolve or rectify the matter complained of; or
+(ii)	the respondent is dealing with, or has dealt with, the matter adequately or has not had sufficient time to deal with the matter;
+(d)	if the complaint is made under section 104 - the complaint is made more than 12 months after the complainant became aware that there had been a contravention of an IPP, a code of practice or an authorisation in respect of the complainant's personal information or any other interference with the complainant's privacy;
+(e)	the complaint is trivial, frivolous or vexatious;
+(f)	the complaint is misconceived or lacking in substance; or
+(g)	the matter complained of is more appropriately dealt with under another law or by a court or tribunal or by another person or body.
+	(4)	The Commissioner may reject a complaint if:
+(a)	the matter complained of is being, or has been, dealt with already under this Division; or
+(b)	there are currently proceedings before a court or tribunal in respect of the matter complained of.
+	(5)	If the Commissioner rejects a complaint for a reason other than a reason specified in subsection (3)(c)(i) or (ii), the complainant is not entitled to make another complaint about the same matter.
+107	Notification of acceptance or rejection
+	(1)	For the purpose of section 106(1)(b), a notice of decision is to specify:
+(a)	whether the Commissioner has decided to accept or reject the complaint; and
+(b)	if the Commissioner has decided to reject the complaint - the reason for the rejection.
+	(2)	If the Commissioner decides to accept a complaint, the Commissioner must notify the respondent in writing that the complaint has been made and of the substance of the complaint.
+108	Referral of complaints to Ombudsman, Health Complaints Commissioner or interstate Privacy Commissioner
+	(1)	If a complaint under section 103 is about a matter that could be the subject of a complaint under the Ombudsman (Northern Territory) Act, the Commissioner may refer the complaint to the Ombudsman.
+	(2)	If a complaint under section 103 is about a matter that could be the subject of a complaint under the Health and Community Services Complaints Act, the Commissioner may refer the complaint to the Health Complaints Commissioner.
+	(3)	If a complaint under section 104 is about a matter that could be the subject of an application (however described) under a corresponding privacy law, the Commissioner may refer the complaint to the person or body under that law who has functions in relation to the privacy of persons that correspond with those of the Commissioner.
+	(4)	The Commissioner must notify:
+(a)	the complainant; and 
+(b)	if the Commissioner has notified the respondent in accordance with section 107(2) - the respondent,
+in writing of the referral.
+109	Withdrawal of complaint
+	(1)	A complainant may withdraw a complaint at any time by notice in writing to the Commissioner.
+	(2)	If a complaint is withdrawn, the Commissioner must notify the respondent in writing that the complaint has been withdrawn.
+	(3)	A complainant who withdraws a complaint is not entitled to make another complaint, or to take any other action under this Act, in respect of the matter complained of without the prior written permission of the Commissioner.
+110	Investigation of complaint
+	(1)	If the Commissioner accepts a complaint, the Commissioner must investigate the matter complained of.
+	(2)	Subject to this section, the Commissioner may carry out an investigation in the manner the Commissioner considers appropriate.
+	(3)	On completing an investigation, the Commissioner must decide whether there is sufficient prima facie evidence to substantiate the matter complained of.
+	(4)	If there is sufficient evidence, the Commissioner must refer the matter to mediation.
+	(5)	If there is insufficient evidence, the Commissioner must dismiss the complaint.
+	(6)	In either case, the Commissioner must notify the complainant and the respondent in writing of the decision.
+111	Mediation is pre-condition to hearing
+	(1)	The Commissioner must not hold a hearing in relation to a complaint unless there has been an attempt to resolve the matter complained of by mediation and the attempt has been unsuccessful.
+	(2)	A mediation may be conducted by:
+(a)	the Commissioner if the Commissioner considers that by doing so the matter is more likely to be resolved by mediation; or
+(b)	if paragraph (a) does not apply:
+(i)	a person agreed to by the complainant and the respondent; or
+(ii)	if they cannot agree - a person appointed by the Commissioner.
+	(3)	The Commissioner may give directions in relation to the conduct of a mediation.
+	(4)	At the conclusion of a mediation, the mediator must issue to the complainant and to the respondent a certificate in a form approved by the Commissioner:
+(a)	stating that mediation has taken place; 
+(b)	setting out the records (if any) provided to the mediator by the parties;
+(c)	setting out the recommendations (if any) of the mediator; and
+(d)	setting out the outcome of the mediation.
+	(5)	Anything said, recorded or done in the course of mediation under this section (including a certificate under subsection (4)) is not admissible in any proceedings whatsoever.
+112	Resolution of complaint by mediation or other agreement
+	(1)	If the matter complained of is resolved by mediation or other agreement, the complainant and the respondent may apply jointly to the Commissioner for the orders that, in the opinion of the Commissioner, are sufficient to give effect to the resolution.
+	(2)	The Commissioner must not make an order under subsection (1) unless it is an order that the Commissioner could have made under section 114 or 115 in respect of the complaint.
+	(3)	The Commissioner must provide in writing to the complainant and to the respondent the orders made under subsection (2).
+113	Hearing of complaint
+	(1)	If a matter complained of is not resolved by mediation or other agreement, the Commissioner must hold a hearing in relation to the complaint.
+	(2)	A hearing is to be conducted in accordance with Division 2 (Procedure for hearings).
+114	Determination of complaint about accessing or correcting information
+	(1)	After conducting a hearing in relation to a complaint under section 103, the Commissioner must:
+(a)	confirm or vary the decision complained of in whole or in part; or
+(b)	revoke the decision in whole or in part and substitute another decision that would have been available to the respondent under Part 3, Division 2 (Accessing government information) or Part 3, Division 3 (Correcting personal information).
+	(2)	The Commissioner may make the orders that the Commissioner considers necessary or incidental to give effect to a decision under subsection (1).
+115	Determination of complaint about interference with privacy
+	(1)	After conducting a hearing in relation to a complaint under section 104, the Commissioner must make a finding as to whether the matter complained of has been proved in whole or in part or not.
+	(2)	In respect of so much of the matter complained of as has been proved, the Commissioner may:
+(a)	make the orders referred to in subsection (4) that the Commissioner considers appropriate; or
+(b)	decline to make any orders.
+	(3)	In respect of so much of the matter complained of as has not been proved, the Commissioner must dismiss the complaint.
+	(4)	For the purpose of subsection (2)(a), the Commissioner may make one or more of the following orders:
+(a)	that the respondent refrain from repeating or continuing to do an act specified in the order;
+(b)	that the respondent redress the loss or damage suffered by the complainant (including injury to feelings and humiliation suffered) in the manner specified in the order, which may include the payment of compensation not exceeding $60 000 or the making of an apology;
+(c)	that the respondent correct the complainant's personal information;
+(d)	that the respondent attach a statement provided by the Commissioner to the complainant's personal information.
+	(5)	The Commissioner may make the orders that the Commissioner considers necessary or incidental to give effect to a decision or order under this section.
+116	Notice of decision
+	(1)	The Commissioner must provide in writing to:
+(a)	the complainant;
+(b)	the respondent; and
+(c)	any other party to the hearing of a complaint,
+each of the following:
+(d)	the decision made under section 114 or 115 in respect of the complaint;
+(e)	the orders (if any) made under section 114 or 115 to give effect to that decision;
+(f)	the reasons for the decision, including any relevant findings of fact.
+	(2)	If the Commissioner makes an order of a kind referred to in section 115(4) in respect of the respondent, the Commissioner:
+(a)	must give to the minister responsible for the respondent a report about the order made; and
+(b)	may include in the report recommendations about the collection or handling of personal information by the respondent.
+117	Commissioner may deal with similar complaints together
+If 2 or more complaints arise out of substantially similar circumstances, the Commissioner may deal with the complaints together.
+118	Commissioner may discontinue complaint
+	(1)	If the Commissioner is satisfied that a complainant no longer wishes to pursue a complaint due to:
+(a)	the complainant not attending mediation proceedings or a hearing;
+(b)	the complainant not complying with a direction or requirement of the Commissioner; or
+(c)	any other reason,
+the Commissioner may discontinue the complaint.
+	(2)	If the Commissioner discontinues a complaint, the Commissioner must notify the complainant and the respondent in writing that the complaint has been discontinued.
+	(3)	A complainant whose complaint has been discontinued is not entitled to make another complaint, or to take any other action under this Act, in respect of the matter complained of without the prior written permission of the Commissioner.
+119	Effect of complaint on acts and decisions
+	(1)	The making of a complaint under section 103 does not affect the operation of the decision complained of unless the Commissioner orders otherwise.
+	(2)	The making of a complaint under section 104 does not prevent the respondent from repeating or continuing the act complained of or similar acts unless the Commissioner orders otherwise.
+120	Role of Ombudsman or Health Complaints Commissioner
+The Ombudsman or the Health Complaints Commissioner is not entitled to investigate a matter that could be the subject of a complaint under section 103 or 104 unless the Commissioner:
+(a)	refers the complaint to the Ombudsman or the Health Complaints Commissioner under section 108; or
+(b)	otherwise agrees that the Ombudsman or the Health Complaints Commissioner may investigate the matter.
+Division 2	Procedure for hearings
+ 
+121	Conduct generally
+	(1)	Subject to this Division, the Commissioner may determine the procedures for conducting a hearing and may give directions about those procedures.
+	(2)	The Commissioner is not bound by the rules of evidence.
+	(3)	The Commissioner must keep a record of proceedings in a hearing.
+122	Parties and representation
+	(1)	The parties to a hearing are:
+(a)	the complainant;
+(b)	the respondent; and
+(c)	any other person who is joined as a party by the Commissioner.
+	(2)	The Commissioner may join a public sector organisation or any other person as a party to a hearing, whether or not the organisation or other person consents to being joined.
+	(3)	A party to a hearing may:
+(a)	appear at the hearing in person; 
+(b)	if the party is a public sector organisation - be represented at the hearing by an officer or employee of the organisation; or
+(c)	be represented at the hearing by another person (who may be a legal practitioner) approved by the Commissioner.
+123	Hearing is closed to public
+	(1)	A hearing is closed to the public unless the Commissioner orders otherwise.
+	(2)	The following persons are entitled to be present during a hearing:
+(a)	the parties;
+(b)	the representatives of the parties;
+(c)	the Commissioner;
+(d)	members of the Commissioner's staff;
+(e)	a person giving evidence or producing a record at the hearing, but only while giving evidence or producing the record;
+(f)	a person whom the Commissioner directs to be, or directs is entitled to be, present.
+	(3)	The Commissioner may direct:
+(a)	that evidence given, or a record or other thing produced, at a hearing is not to be published except in accordance with a direction of the Commissioner; or
+(b)	that the identity of a party to, or a person giving evidence or producing a record or other thing at, a hearing is not to be disclosed except in accordance with a direction of the Commissioner.
+	(4)	A person must not contravene a direction under subsection (3).
+Penalty:	200 penalty units or imprisonment for 12 months.
+124	Powers to compel evidence
+	(1)	The Commissioner may require a person giving evidence at a hearing:
+(a)	to take an oath or affirmation; or
+(b)	to answer a question.
+	(2)	The Commissioner may require a person:
+(a)	to attend a hearing and give evidence; or
+(b)	to attend before the Commissioner and produce a record or other thing in the person's possession or control.
+	(3)	A person must comply with a requirement under this section.
+Penalty:	200 penalty units or imprisonment for 12 months.
+125	Onus and burden of proof where access refused
+If the matter complained of at a hearing is a decision by the respondent to refuse access to government information, the respondent must prove on the balance of probabilities:
+(a)	that the information is exempt under Part 4 (Exemptions in the public interest); or
+(b)	that the complainant is not entitled to access under this Act.
+126	Costs of hearing
+Each party to a hearing must bear its own costs of the hearing unless there are exceptional circumstances that would justify the Commissioner ordering otherwise.
+127	Contempt
+A person must not do anything at or in relation to a hearing that would, if the Commissioner were a court of record, constitute a contempt of that court.
+Penalty:	200 penalty units or imprisonment for 12 months.
+128	Conduct of hearing other than by Commissioner
+	(1)	If the Commissioner has personally:
+(a)	conducted an inquiry or investigation of a complaint;
+(b)	been involved in discussions or negotiations in respect of a complaint; or
+(c)	conducted a mediation in respect of a complaint,
+the Commissioner must not conduct the hearing of the complaint.
+	(2)	If subsection (1) applies, the Minister must appoint in writing a person to conduct the hearing instead of the Commissioner.
+	(3)	A person appointed under subsection (2):
+(a)	has, while conducting the hearing, all the powers of the Commissioner; and
+(b)	for the purposes of the hearing, is taken to be the Commissioner.
+Part 8	Appeals from decisions of Information Commissioner
+  
+129	Appeal to Supreme Court
+	(1)	A person aggrieved by a decision of the Commissioner under this Act may appeal to the Supreme Court on a question of law only.
+	(2)	On an appeal, the Supreme Court may:
+(a)	confirm or vary the decision in whole or in part;
+(b)	revoke the decision in whole or in part and substitute another decision that would have been available to the Commissioner;
+(c)	remit the matter to the Commissioner for further consideration; or
+(d)	dismiss the appeal,
+and, for that purpose, may make the orders and give the directions that the Court considers appropriate.
+Part 9	Records and archives management
+Division 1	Preliminary
+ 
+130	Application of Part
+	(1)	Subject to subsection (2), this Part applies in relation to all records of a public sector organisation even though the organisation is a public sector organisation for personal information only.
+	(2)	This Part does not apply in relation to any records of:
+(a)	a contract service provider;
+(b)	an employee or agent of a contract service provider; or
+(c)	a person (other than a contract service provider) who provides services to a public sector organisation under a contract between the organisation or the Territory and that person or another person.
+131	Duties of chief executive officers
+	(1)	The chief executive officer of a public sector organisation has a duty to ensure that the organisation complies with this Part.
+	(2)	The chief executive officer of a public sector organisation must ensure that the organisation's annual report includes a statement about its compliance with this Part.
+132	Archives service to have regard to objects of Act
+In performing its functions under this Part, the archives service must have regard to and act consistently with the objects of this Act.
+Division 2	Obligations of public sector organisations
+ 
+133	Protecting records
+	(1)	A public sector organisation must:
+(a)	implement practices and procedures to safeguard the custody and ensure proper preservation of its records; and
+(b)	if any of its records are in the possession, custody or control of another person - enter into arrangements with the person for the safekeeping, proper preservation and return of the record.
+	(2)	If a public sector organisation:
+(a)	is not in control of a record of the organisation; or
+(b)	is responsible for a record of another public sector organisation but does not have control of the record,
+the organisation must take reasonable steps to recover control of the record.
+	(3)	Subsection (2) does not apply in relation to a record that:
+(a)	has been transferred to another public sector organisation or to the Territory Archives; or
+(b)	is in the lawful control of another person.
+134	Managing records
+A public sector organisation must:
+(a)	keep full and accurate records of its activities and operations;
+(b)	implement the practices and procedures for managing its records necessary for compliance with the standards applicable to the organisation; and
+(c)	make arrangements for the archives service to monitor the management of its records.
+135	Transferring records
+Where a function is transferred from one public sector organisation to another public sector organisation, the first-mentioned organisation must transfer to the other organisation all of its records relating to that function (including records relating to the control of those records).
+136	Form of records
+	(1)	A public sector organisation must keep records created at any time after the commencement of this section in a form in which they are capable of being read and reproduced, which may be an electronic form.
+	(2)	A public sector organisation must take all reasonably practicable steps to keep records created before the commencement of this section in a form in which they are capable of being read and reproduced, which may be an electronic form.
+	(3)	A public sector organisation in possession or control of a record (whether its own or that of another public sector organisation) must ensure that it has access to the equipment and technology necessary to read and reproduce the record.
+Division 3	Standards
+ 
+137	Preparation by archives service
+	(1)	The archives service must prepare standards for managing records.
+	(2)	The matters that are to be dealt with in a standard include but are not limited to the following:
+(a)	the creation, maintenance and security of records;
+(b)	the appraisal of records to determine their continuing value;
+(c)	the transfer of records with archival value to the Territory Archives;
+(d)	the disposal (including by destruction) of records with no archival value.
+	(3)	In preparing a standard, the archives service:
+(a)	must seek comments or submissions from the public sector organisation to whom the standard is intended to apply;
+(b)	must consult with the Commissioner to ensure that compliance with the standard is consistent with the objects of this Act; and
+(c)	may seek comments or submissions from any other person the archives service considers appropriate.
+138	Minister may approve standards
+	(1)	The archives service may submit a standard to the Minister for approval.
+	(2)	If the Minister is satisfied:
+(a)	that, in preparing the standard, the archives service has complied with section 137(3); and
+(b)	that the standard is consistent with the objects of this Act,
+the Minister may, by notice in the Gazette, approve the standard.
+	(3)	The notice of approval is to:
+(a)	identify the standard by name and contain a short description of its contents; and
+(b)	contain a statement about how to obtain a copy of the standard from the archives service.
+	(4)	A standard approved under subsection (2) takes effect on:
+(a)	the date the notice of approval is published in the Gazette; or
+(b)	the date specified in that notice,
+whichever is later.
+139	Review of standards
+	(1)	The archives service must review a standard at least once every 3 years and, as a result of that review, may retain, revise or replace the standard as the archives service considers appropriate.
+	(2)	Sections 137 and 138 apply in respect of a revised standard or a replacement standard as if references to the preparation of a standard were references to the preparation of the revised standard or the replacement standard.
+140	Advice to public sector organisations
+The archives service must provide a public sector organisation with the advice (including training) the archives service considers appropriate to enable the organisation to comply with the standards applicable to the organisation.
+Division 4	Managing archives
+ 
+141	When should records be transferred to the archives service?
+	(1)	A public sector organisation:
+(a)	may transfer a record to the archives service for inclusion in the Territory Archives at any time; and
+(b)	must, subject to this section, transfer a record to the archives service for inclusion in the Territory Archives not later than 30 years after the record was created.
+	(2)	The archives service may, on the application of a public sector organisation and if satisfied the organisation's operations require it, extend the 30-year period for one or more further periods, each of which must not exceed 5 years.
+	(3)	The application is to be in a form approved by the archives service.
+	(4)	The archives service:
+(a)	must revoke the extension if requested by the public sector organisation; or
+(b)	may revoke the extension if satisfied:
+(i)	the operations of the organisation no longer require it; or
+(ii)	the organisation is not complying with the standards applicable to the organisation for a record that would, apart from the extension, have been transferred to the archives service for inclusion in the Territory Archives.
+	(5)	If the extension is revoked, the public sector organisation must transfer the record to the archives service for inclusion in the Territory Archives as soon as practicable.
+142	Determination of open access period
+	(1)	At the time a public sector organisation transfers a record to the archives service for inclusion in the Territory Archives, the archives service must (in consultation with the responsible chief executive officer) determine the open access period for the record while it is an archive.
+	(2)	The open access period for a record while it is an archive is the period that begins:
+(a)	30 years after the record was created; or
+(b)	if it is in the public interest - 45 years after the record was created.
+	(3)	The archives service may, if requested by the responsible chief executive officer and it is in the public interest, extend the period that is required to expire before an archive is in the open access period for one or more further periods, each of which must not exceed 10 years.
+	(4)	The period that is required to expire before an archive is in the open access period (including all extensions of that period under subsection (3)) is not to exceed 100 years.
+	(5)	In this section:
+responsible chief executive officer, in relation to a record or an archive at any time, means the chief executive officer of the public sector organisation that is responsible at that time for the function to which the record or archive relates.
+143	Archives in public access period to be publicly available
+The archives service must make available to the public all archives that are in the open access period under section 142.
+144	Accessing and correcting archives not yet publicly available
+	(1)	An archive that is not yet available to members of the public under this Act may be accessed and corrected in the same way as any other government information and this Act applies accordingly.
+	(2)	A public sector organisation is taken to hold an archive referred to in subsection (1) by virtue of section 6(2).
+	(3)	If it is necessary for the protection or prevention of damage or further damage to a fragile or damaged archive, the provision of a copy of the archive is sufficient for the purpose of providing access under section 21(2)(a).
+Division 5	Offence
+ 
+145	Mishandling records
+	(1)	A person must not:
+(a)	abandon or delete or otherwise dispose of a record;
+(b)	transfer, offer to transfer, or be a party to an arrangement to transfer, the possession or control of a record;
+(c)	take or send a record out of the Territory;
+(d)	damage or alter a record; or
+(e)	intentionally treat a record in a way that results in, or is likely to result in, the record being damaged.
+Penalty:	200 penalty units or imprisonment for 12 months.
+	(2)	Subsection (1) does not apply to a person who:
+(a)	does an act referred to in subsection (1) in compliance with a relevant practice or procedure of a public sector organisation;
+(b)	does an act referred to in subsection (1) in compliance with a relevant standard;
+(c)	does an act referred to in subsection (1) in compliance with this Act or another Act or with an instrument under this Act or another Act;
+(d)	does an act referred to in subsection (1) in compliance with a decision, direction, order or other requirement of a court or tribunal;
+(e)	disposes of a record of the Legislative Assembly in accordance with a resolution of the Legislative Assembly;
+(f)	transfers a record to the Territory Archives; or
+(g)	does an act referred to in subsection (1) for the purpose of placing a record in the possession or control of a public sector organisation.
+	(3)	It is a defence to the prosecution of an offence against subsection (1) if the defendant proves that:
+(a)	the defendant was acting in the ordinary course of the operations of a public sector organisation;
+(b)	the defendant was acting in the course of his or her employment; or
+(c)	the defendant did not know, and could not reasonably have known, that he or she was dealing with a record.
+Part 10	General offences and matters relating to liability
+Division 1	General offences and related procedural matters
+ 
+146	False or misleading statements
+	(1)	A person must not, in purported compliance with a requirement under this Act or for any other reason, provide to a public sector organisation or the Commissioner:
+(a)	information that is, to the person's knowledge, false or misleading in a material particular; or
+(b)	a record containing information that is, to the person's knowledge, false or misleading in a material particular.
+Penalty:	200 penalty units or imprisonment for 12 months.
+	(2)	A person must not knowingly make a statement that:
+(a)	is false or misleading; or
+(b)	contains a material omission, 
+for the purpose of gaining access under this Act to another person's personal information or information about another person's business, professional, commercial or financial affairs.
+Penalty:	100 penalty units or imprisonment for 6 months.
+147	Concealing or disposing of government information to prevent access or correction
+	(1)	A person must not conceal, or destroy or otherwise dispose of, government information to prevent a public sector organisation from providing access to or correcting the information.
+Penalty:	100 penalty units or imprisonment for 6 months.
+	(2)	For the purposes of subsection (1), it is irrelevant whether or not an application under Part 3, Division 2 (Accessing government information) for access to the information had been made.
+	(3)	Subsection (1) does not apply to a person who destroys or otherwise disposes of government information:
+(a)	in the ordinary course of the operations of a public sector organisation;
+(b)	in compliance with a relevant practice or procedure of a public sector organisation;
+(c)	in compliance with a relevant standard;
+(d)	in compliance with this Act or another Act or with an instrument under this Act or another Act;
+(e)	in compliance with a decision, direction, order or other requirement of a court or tribunal; or
+(f)	if the information had been held by or on behalf of the Legislative Assembly and the destruction or other disposal is in accordance with a resolution of the Legislative Assembly.
+148	Confidentiality
+	(1)	This section applies to the following persons:
+(a)	a person who is or has been a person referred to in section 5(7) or (8);
+(b)	a person who is or has been the Commissioner or a member of the Commissioner's staff;
+(c)	a person who is or has been otherwise involved in the administration of this Act.
+	(2)	A person to whom this section applies must not directly or indirectly:
+(a)	use, make a record of, or communicate to another person, information obtained by him or her because of involvement in the administration of this Act; or
+(b)	produce to a person, or permit a person to have access to, a record furnished to him or her for the purposes of this Act,
+unless it is:
+(c)	necessary for the purposes of this Act; or
+(d)	authorised or required by this Act or another law of the Territory.
+Penalty:	400 penalty units or imprisonment for 2 years.
+149	Liability of and with respect to contract service providers
+	(1)	A service contract may provide that the contract service provider is required to comply with an IPP, a code of practice or an authorisation in the same way and to the same extent as the outsourcing organisation.
+	(2)	If a service contract contains a provision of the kind referred to in subsection (1), the contract service provider must comply with the IPP, code of practice or authorisation in the same way and to the same extent as the outsourcing organisation.
+	(3)	Where:
+(a)	the contract service provider does an act for the purposes of a service contract; and
+(b)	the act would, if it had been done by the outsourcing organisation, have contravened an IPP, a code of practice or an authorisation,
+the act is taken to have been done by the outsourcing organisation as well as by the contract service provider unless:
+(c)	the service contract contains a provision of the kind referred to in subsection (1); and
+(d)	the IPP, code of practice or authorisation is capable of being enforced against the contract service provider in accordance with this Act.
+150	Conduct of directors, employees and agents
+	(1)	Where, in a prosecution for an offence against this Act, it is necessary to establish the state of mind of a body corporate or a natural person in relation to particular conduct, it is sufficient to show:
+(a)	that the conduct was engaged in by a director, employee or agent of the body corporate, or an employee or agent of the natural person, within the scope of his or her actual or apparent authority; and
+(b)	that the director, employee or agent had that state of mind.
+	(2)	For the purposes of a prosecution for an offence against this Act, conduct engaged in on behalf of a body corporate or a natural person by a director, employee or agent of the body corporate, or an employee or agent of the natural person, within the scope of his or her actual or apparent authority is taken to have been engaged in also by the body corporate or the natural person.
+	(3)	A natural person is not liable to be punished by imprisonment for an offence against this Act if the person would not have been found guilty of the offence if subsection (1) or (2) had not been enacted.
+	(4)	A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.
+	(5)	A reference in this section to the director of a body corporate includes a reference to a member of a body corporate incorporated for a public purpose by a law of the Territory, the Commonwealth or a State or another Territory of the Commonwealth.
+Division 2	Legal immunity
+ 
+151	Acts done to administer or comply with this Act
+	(1)	This section applies to the following persons:
+(a)	a public sector organisation or a person who is or has been a person referred to in section 5(7) or (8);
+(b)	a person who gives information or produces a record to a public sector organisation;
+(c)	a person who is or has been the Commissioner or a member of the Commissioner's staff;
+(d)	a person who gives information or produces a record or other thing to the Commissioner or who gives evidence at or otherwise participates in the mediation or hearing of a complaint.
+	(2)	No civil or criminal proceedings lie against a person to whom this section applies in relation to an act done in good faith:
+(a)	in the exercise or purported exercise of a power, or the performance or purported performance of a function, under this Act; or
+(b)	in compliance with or purported compliance with a requirement under this Act.
+152	Acts done to exercise rights
+	(1)	No civil or criminal proceedings lie against a person because the person made an application or a complaint.
+	(2)	The provision of access to government information to a person by a public sector organisation in compliance with a requirement under this Act is not taken to be an authorisation or approval of the publication of the information by the person who is provided with access to it.
+153	Information volunteered by public sector organisation
+For the purposes of sections 151 and 152, a public sector organisation is taken to have provided access to government information in compliance with a requirement under this Act if the organisation voluntarily provides access to the information in circumstances where the organisation would have been required to provide that access had an application under Part 3, Division 2 (Accessing government information) been made.
+Part 11	Miscellaneous
+  
+154	No review or other proceedings outside this Act
+Despite any other Act and except as provided by this Act:
+(a)	no person or body is entitled to investigate, inquire into, review or otherwise call into question an act or decision of a public sector organisation or the Commissioner under this Act; and
+(b)	no proceedings for an injunction, a declaration or an order for prohibition or mandamus are to be brought in relation to an act or decision of a public sector organisation or the Commissioner under this Act.
+155	Applications and complaints on behalf of children, persons with disabilities or deceased persons
+	(1)	An application or a complaint may be made:
+(a)	by a child; or
+(b)	subject to subsection (2), on behalf of a child by:
+(i)	the child's parent;
+(ii)	a person chosen by the child or the child's parent; or
+(iii)	a person who has a sufficient interest in the application or complaint.
+	(2)	An application relating to health information about treatment received by a child with the child's consent may only be made on behalf of the child with the child's consent.
+	(3)	An application or a complaint may be made on behalf of a person who has a disability by:
+(a)	a person authorised by the person with the disability to do so; or
+(b)	a person who has a sufficient interest in the application or complaint.
+	(4)	An application or a complaint may be made on behalf of a deceased person within the first 5 years after death by:
+(a)	the administrator or executor of the deceased person's estate; or
+(b)	a person who has a sufficient interest in the application or complaint.
+156	Fees for applications and complaints
+	(1)	A public sector organisation may charge an application fee or a processing fee.
+	(2)	The Commissioner may charge a fee in respect of the making of a complaint.
+	(3)	A fee charged under this section is to be reasonable and a processing fee is not to be charged for time spent locating government information that has been misplaced.
+	(4)	The Regulations may:
+(a)	prescribe:
+(i)	the amount of an application or processing fee; or
+(ii)	the rate, formula or other method to be used to calculate an application or processing fee;
+(b)	for the purposes of paragraph (a), prescribe different amounts, rates, formulae or other methods in respect of different government information or different classes of government information or different public sector organisations or different classes of public sector organisations;
+(c)	provide for the estimation of application or processing fees;
+(ca)	provide for the payment and refund of deposits for processing fees;
+(d)	provide for the recovery of unpaid application or processing fees; or
+(e)	prescribe the amount of a fee in respect of the making of a complaint.
+	(5)	A fee charged under this section is payable by the applicant or the complainant, as the case may be.
+	(6)	A public sector organisation or the Commissioner may waive or reduce a fee payable under this section if, having regard to:
+(a)	the circumstances of the application or the complaint, including any impecuniosity or indigence of the applicant or the complainant; and
+(b)	the objects of this Act,
+the organisation or the Commissioner considers a waiver or reduction appropriate.
+	(7)	In this section:
+application fee means a fee in respect of the making of an application.
+processing fee means a fee in respect of the time taken, and the costs incurred, by a public sector organisation in response to an application.
+157	Changes in functions of public sector organisations
+	(1)	If a function is transferred from one public sector organisation to another public sector organisation, the outstanding responsibilities of the first-mentioned organisation under this Act that are connected with the function are transferred with that function.
+	(2)	If a public sector organisation ceases to exist and its functions are taken over by another public sector organisation, the functions taken over include the outstanding responsibilities of the former public sector organisation under this Act.
+	(3)	If a public sector organisation ceases to exist and its functions are not taken over by another public sector organisation, a public sector organisation nominated by the Minister must take over the outstanding responsibilities of the former public sector organisation under this Act.
+158	Regulations
+The Administrator may make regulations, not inconsistent with this Act, prescribing matters that are:
+(a)	required or permitted by this Act to be prescribed; or
+(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+159	Application
+	(1)	This Act does not apply in relation to government information held by or a record of a local authority for the first 2 years after the commencement of this Act.
+	(2)	A public sector organisation is not required to publish any information under section 11 in the calendar year in which this Act commences but may do so if it wishes.
+	(3)	A person is not entitled to apply under Part 3, Division 4 (Review by public sector organisation) for a review of a decision of a public sector organisation under Part 3, Division 2 (Accessing government information) or Part 3, Division 3 (Correcting personal information) if the decision is made within the first 12 months after the commencement of this Act.
+	(4)	A person is not entitled to make a complaint under Part 7 (Complaints to Information Commissioner) about the collection or handling of the person's personal information, or any other interference with the person's privacy, by a public sector organisation if the collection, handling or other interference occurs within the first 12 months after the commencement of this Act.
+160	Review after 5 years
+There is to be a review of the first 5 years of operation of this Act.
+
+Schedule	Information Privacy Principles
+IPP 1	Collection
+	1.1	A public sector organisation must not collect personal information unless the information is necessary for one or more of its functions or activities.
+	1.2	A public sector organisation must collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
+	1.3	At or before the time (or, if that is not practicable, as soon as practicable after) a public sector organisation collects personal information about an individual from the individual, the organisation must take reasonable steps to ensure that the individual is aware of:
+(a)	the identity of the organisation and how to contact it;
+(b)	the fact that the individual is able to have access to the information;
+(c)	the purpose for which the information is collected;
+(d)	the persons or bodies, or classes of persons or bodies, to which the organisation usually discloses information of the same kind;
+(e)	any law that requires the particular information to be collected; and
+(f)	the main consequences (if any) for the individual if all or part of the information is not provided.
+	1.4	If it is reasonable and practicable to do so, a public sector organisation must collect personal information about an individual only from the individual.
+	1.5	If a public sector organisation collects personal information about an individual from another person, it must take reasonable steps to ensure that the individual is or has been made aware of the matters listed in IPP 1.3 except to the extent that making the individual aware of the matters would pose a serious threat to the life or health of the individual or another individual.
+IPP 2	Use and disclosure
+	2.1	A public sector organisation must not use or disclose personal information about an individual for a purpose (the secondary purpose) other than the primary purpose for collecting it unless one or more of the following apply:
+(a)	if the information is sensitive information:
+(i)	the secondary purpose is directly related to the primary purpose; and 
+(ii)	the individual would reasonably expect the organisation to use or disclose the information for the secondary purpose;
+(b)	if the information is not sensitive information:
+(i)	the secondary purpose is related to the primary purpose; and 
+(ii)	the individual would reasonably expect the organisation to use or disclose the information for the secondary purpose;
+(c)	the individual consents to the use or disclosure of the information;
+(d)	the organisation reasonably believes that the use or disclosure is necessary to lessen or prevent:
+(i)	a serious and imminent threat to the individual's or another individual's life, health or safety; or
+(ii)	a serious threat to public health or public safety;
+(e)	the organisation has reason to suspect that unlawful activity has been, is being or may be engaged in and uses or discloses the information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities;
+(f)	the use or disclosure is required or authorised by law;
+(g)	the organisation reasonably believes that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of a law enforcement agency:
+(i)	preventing, detecting, investigating, prosecuting or punishing an offence or a breach of a prescribed law;
+(ii)	enforcing a law relating to the confiscation of proceeds of crime;
+(iii)	protecting public revenue;
+(iv)	preventing, detecting, investigating or remedying seriously improper conduct or prescribed conduct;
+(v)	preparing for or conducting proceedings before a court or tribunal or implementing the orders of a court or tribunal;
+(h)	the Australian Security Intelligence Organisation (ASIO) has requested the organisation to disclose the information, the disclosure is made to an officer or employee of ASIO authorised by the Director-General of ASIO to receive the information and an officer or employee of ASIO authorised by the Director-General of ASIO to do so has certified in writing that the information is required in connection with the performance of the functions of ASIO;
+(i)	the Australian Secret Intelligence Service (ASIS) has requested the organisation to disclose the information, the disclosure is made to an officer or employee of ASIS authorised by the Director-General of ASIS to receive the information and an officer or employee of ASIS authorised by the Director-General of ASIS to do so has certified in writing that the information is required in connection with the performance of the functions of ASIS.
+Note 1:	It is not intended to deter public sector organisations from lawfully co-operating with law enforcement agencies in the performance of their functions.
+Note 2:	IPP 2.1 does not override any existing legal obligations not to disclose personal information. IPP 2.1 does not require a public sector organisation to disclose personal information - a public sector organisation is always entitled not to disclose personal information in the absence of a legal obligation to disclose it.
+Note 3:	A public sector organisation is also liable to the requirements of IPP 9 if it transfers personal information to a person outside the Territory.
+	2.2	If a public sector organisation uses or discloses personal information under IPP 2.1(g), the organisation must make a written note of the use or disclosure.
+IPP 3	Data quality
+	3.1	A public sector organisation must take reasonable steps to ensure that the personal information it collects, uses or discloses is accurate, complete and up to date.
+IPP 4	Data security
+	4.1	A public sector organisation must take reasonable steps to protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.
+	4.2	A public sector organisation must take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose.
+IPP 5	Openness
+	5.1	A public sector organisation must make available to the public a document in which it clearly expresses its policies for the management of personal information that it holds.
+	5.2	On the request of an individual, a public sector organisation must take reasonable steps to inform the individual of the kind of personal information it holds, why it holds the information and how it collects, holds, uses and discloses the information.
+IPP 6	Access and correction
+	6.1	If an individual requests a public sector organisation holding personal information about the individual for access to the personal information, the organisation must provide the individual with access to the information except to the extent that:
+(a)	providing access would pose a serious threat to the life or health of the individual or another individual;
+(b)	providing access would prejudice measures for the protection of the health or safety of the public;
+(c)	providing access would unreasonably interfere with the privacy of another individual;
+(d)	the request for access is frivolous or vexatious;
+(e)	the information relates to existing or anticipated legal proceedings between the organisation and the individual and the information would not be accessible by the process of discovery or subpoena in those proceedings;
+(f)	providing access would reveal the intentions of the organisation in relation to negotiations with the individual in such a way that would prejudice the negotiations;
+(g)	providing access would be unlawful;
+(h)	denying access is required or authorised by law;
+(i)	providing access would be likely to prejudice an investigation of possible unlawful activity;
+(j)	providing access would be likely to prejudice one or more of the following by or on behalf of a law enforcement agency:
+(i)	preventing, detecting, investigating, prosecuting or punishing an offence or a breach of a prescribed law;
+(ii)	enforcing a law relating to the confiscation of proceeds of crime;
+(iii)	protecting public revenue;
+(iv)	preventing, detecting, investigating or remedying seriously improper conduct or prescribed conduct;
+(v)	preparing for or conducting proceedings in a court or tribunal or implementing the orders of a court or tribunal; or
+(k)	providing access would prejudice:
+(i)	the security or defence of the Commonwealth or a State or Territory of the Commonwealth; or
+(ii)	the maintenance of law and order in the Territory.
+	6.2	However, where providing access under IPP 6.1 would reveal evaluative information generated within a public sector organisation in connection with a commercially sensitive decision-making process, the organisation may give the individual an explanation for the commercially sensitive decision rather than access to the decision.
+	6.3	If a public sector organisation holds personal information about an individual and the individual establishes that the information is not accurate, complete or up to date, the organisation must take reasonable steps to correct the information so that it is accurate, complete and up to date.
+	6.4	If:
+(a)	an individual and a public sector organisation disagree about whether personal information about the individual held by the organisation is accurate, complete or up to date; and
+(b)	the individual requests the organisation to associate with the information a statement to the effect that, in the individual's opinion, the information is inaccurate, incomplete or out of date,
+the organisation must take reasonable steps to comply with that request.
+	6.5	A public sector organisation must provide reasons for refusing to provide access to or correct personal information.
+	6.6	If a public sector organisation charges a fee for providing access to personal information, the fee is not to be excessive.
+	6.7	If an individual requests a public sector organisation for access to or to correct personal information held by the organisation, the organisation must:
+(a)	provide access or reasons for refusing access;
+(b)	make the correction or provide reasons for refusing to make it; or
+(c)	provide reasons for the delay in responding to the request,
+within a reasonable time.
+IPP 7	Identifiers
+	7.1	A public sector organisation must not assign unique identifiers to individuals unless it is necessary to enable the organisation to perform its functions efficiently.
+	7.2	A public sector organisation must not adopt a unique identifier of an individual that has been assigned by another public sector organisation unless:
+(a)	it is necessary to enable the organisation to perform its functions efficiently;
+(b)	it has obtained the consent of the individual to do so; or
+(c)	it is an outsourcing organisation adopting the unique identifier created by a contract service provider in the performance of its obligations to the outsourcing organisation under a service contract.
+	7.3	A public sector organisation must not use or disclose a unique identifier assigned to an individual by another public sector organisation unless:
+(a)	the use or disclosure is necessary for the organisation to fulfil its obligations to that other organisation;
+(b)	IPP 2.1(d), (e), (f) or (g) applies to the use or disclosure; or
+(c)	it has obtained the consent of the individual to the use or disclosure.
+	7.4	A public sector organisation must not require an individual to provide a unique identifier in order to obtain a service unless its provision:
+(a)	is required or authorised by law; or
+(b)	is in connection with the purpose for which the unique identifier was assigned or for a directly related purpose.
+IPP 8	Anonymity
+	8.1	A public sector organisation must give an individual entering transactions with the organisation the option of not identifying himself or herself unless it is required by law or it is not practicable that the individual is not identified.
+IPP 9	Transborder data flows
+	9.1	A public sector organisation must not transfer personal information about an individual to a person (other than the individual) outside the Territory unless:
+(a)	the transfer is required or authorised under a law of the Territory or the Commonwealth;
+(b)	the organisation reasonably believes that the person receiving the information is subject to a law, or a contract or other legally binding arrangement, that requires the person to comply with principles for handling the information that are substantially similar to these IPPs;
+(c)	the individual consents to the transfer;
+(d)	the transfer is necessary for the performance of a contract between the organisation and the individual or for the implementation of pre-contractual measures taken in response to the individual's request;
+(e)	the transfer is necessary for the performance or completion of a contract between the organisation and a third party, the performance or completion of which benefits the individual;
+(f)	all of the following apply:
+(i)	the transfer is for the benefit of the individual;
+(ii)	it is impracticable to obtain the consent of the individual to the transfer;
+(iii)	it is likely that the individual would consent to the transfer; or
+(g)	the organisation has taken reasonable steps to ensure that the information will not be held, used or disclosed by the person to whom it is transferred in a manner that is inconsistent with these IPPs.
+IPP 10	Sensitive information
+	10.1	A public sector organisation must not collect sensitive information about an individual unless:
+(a)	the individual consents to the collection;
+(b)	the organisation is required by law to collect the information;
+(c)	the individual is:
+(i)	physically or legally incapable of giving consent to the collection; or 
+(ii)	physically unable to communicate his or her consent to the collection,
+	and collecting the information is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual or another individual; or
+(d)	collecting the information is necessary to establish, exercise or defend a legal or equitable claim.
+	10.2	Despite IPP 10.1, a public sector organisation may collect sensitive information about an individual if:
+(a)	the collection:
+(i)	is necessary for research, or the compilation or analysis of statistics, relevant to government funded targeted welfare or educational services; or
+(ii)	is of information relating to an individual's racial or ethnic origin and is for the purpose of providing government funded targeted welfare or educational services; 
+(b)	there is no other reasonably practicable alternative to collecting the information for that purpose; and
+(c)	it is impracticable for the organisation to seek the individual's consent to the collection.
+
+ENDNOTES
+
+1	KEY
+Key to abbreviations
+
+amd = amended 				od = order
+app = appendix				om = omitted
+bl = by-law					pt = Part
+ch = Chapter					r = regulation/rule
+cl = clause					rem = remainder
+div = Division					renum = renumbered
+exp = expires/expired				rep = repealed
+f = forms					s = section
+Gaz = Gazette					sch = Schedule
+hdg = heading					sdiv = Subdivision
+ins = inserted					SL = Subordinate Legislation
+lt = long title					sub = substituted
+nc = not commenced				
+2	LIST OF LEGISLATION
+Information Act 2002 (Act No. 62, 2002)Assent date8 November 2002Commenced1 July 2003 (s 2)Information Amendment Act 2003 (Act No. 26, 2003)Assent date26 June 2003Commenced26 June 20033	LIST OF AMENDMENTS
+s 5	amd No. 26, 2003, s 3
+s 18	amd No. 26, 2003, s 4
+s 39	amd No. 26, 2003, s 5
+s 130	amd No. 26, 2003, s 6
+s 141	amd No. 26, 2003, s 7
+s 148	amd No. 26, 2003, s 8
+s 156	amd No. 26, 2003, s 9
+
+
+
+
+
+
+
+
+
+Information Act	vii
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information Act	vii
+
+
+
+
+
+
+Part 7	Complaints to Information Commissioner
+Division 1	Complaints procedure
+
+
+
+Information Act	61
+
+
+
+
+
+
+
+Schedule	Information Privacy Principles
+
+
+
+
+Information Act	93
+
+
+
+
+
+
+
+ENDNOTES
+
+
+
+
+Information Act	94
+
+
+
+
+
+
+
+Information Act	2
+
+

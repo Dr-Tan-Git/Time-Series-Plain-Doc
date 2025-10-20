@@ -1,0 +1,647 @@
+Law No. 6 of 2022 concerning Electronic Transactions
+
+
+House of Representatives
+
+After reviewing:
+
+The Provisional Constitutional Declaration issued on August 3, 2011, and its amendments.
+Law Number 10 for the Year 2014, concerning the election of the House of Representatives during the transitional phase and its amendments.
+Law Number 4 for the Year 2014, concerning the adoption of the internal system of the House of Representatives.
+The Civil Law, and its amendments.
+The Procedural Law, and its amendments.
+The Penal Code and its amendments, and the laws complementing it.
+Law Number 4 for the Year 1990, concerning the national system for information and documentation.
+Law Number 22 for the Year 2010, concerning telecommunications.
+Law Number 23 for the Year 2010, concerning commercial activity, and its amendments.
+Law Number 76 for the Year 1972, concerning publications.
+Law Number 9 for the Year 1968, concerning copyright.
+Law Number 1 for the Year 2005, concerning banks.
+Law Number 13 for the Year 2010, concerning the regulation of the Libyan Investment Corporation.
+And based on what was concluded by the House of Representatives in its meeting held on Monday, October 25, 2021.
+The following law was issued:
+
+Table of Contents
+
+Chapter One: General Provisions
+Chapter Two: Electronic Signatures and Electronic Documents
+Chapter Three: Electronic Authentication
+Chapter Four: Electronic Transactions
+Chapter Six: Banking Operations
+Chapter Seven: Protection of Personal Data
+Chapter Eight: Crimes and Penalties
+Chapter Nine: Final Provisions
+Chapter One: General Provisions
+Article 1
+
+Definitions
+
+In the application of the provisions of this law, the following words and phrases shall have the meanings assigned to them unless the context otherwise indicates:
+
+State: The Libyan State
+Law: The Law of Electronic Transactions
+Government: The administrative unit of the state and its equivalents.
+Authority: The National Authority for Information Security and Safety.
+Regulation: The executive regulation for this law.
+Electronic: Technology involving the use of electrical, digital, magnetic, wireless, optical, electromagnetic, photonic, or any other similar means of technology.
+Electronic Data: Data and information with electronic characteristics in the form of text, symbols, sounds, drawings, images, computer programs, or other forms based on electronic representation.
+Electronic Information System: A set of software or devices designed to create, process, and manage data electronically or other signals that represent information or a concept.
+Electronic Contract or Record: An information message created, processed, or managed electronically through another electronic medium, and is retrievable in an understandable and identifiable content.
+Electronic Information Technology Tool: An electronic, optical, electrochemical tool or any other tool used for processing and transferring data, managing logical and computational operations, or storage functions. This includes any data storage or communication capabilities related or associated with such a tool.
+Originator: Any person who sends an electronic message or is sent on his behalf based on his authorization.
+Addressee: The person whom the originator intends to direct his message.
+Intermediary: The person acting on behalf of another person in sending, delivering, adopting, or storing the electronic transaction or performing services related to that transaction.
+Electronic Agent: A program or electronic system that operates automatically, either entirely or partially, to execute or respond to an action.
+Electronic Message: Electronic information sent or received by electronic means, regardless of the extraction method in the place where it is received.
+Electronic Correspondence: The sending and receiving of electronic messages.
+Electronic Signature: A statement consisting of letters, numbers, symbols, or signs, or any processing system in an electronic form authenticated by an accredited entity and sealed with an authentication structure. The transactions or correspondence of its owner attach or logically link to his electronic message.
+Signatory: The natural or legal person holding a special electronic signature tool, and signs or is signed on his behalf on the electronic message using this tool.
+Electronic Signature Tool: Any independent or collaborative systems or devices that produce or capture specific information as an electronic signature for a specific person.
+Certification Service Provider: Any person authorized by the competent authority to issue electronic authentication certificates or any services or tasks related to it, or to issue electronic signature tools, and his work is regulated according to the provisions of this law.
+Electronic Authentication Certificate: A document issued by an authentication service provider confirming the identity of the person who holds the electronic signing tool.
+Rigorous Authentication Procedures: Procedures aimed at verifying that the electronic message has been sent from or to a specific person, and detecting any errors or modifications in the content or in the sending or storage using mathematical methods, codes, identifiers, encryption, or procedures for response or acknowledgment of receipt and other means of protecting information from the moment it is sent to the moment it is received.
+The Accredited: The person who acts based on an electronic signature or an electronic authentication certificate.
+Electronic Transaction: Any action or conduct that is entirely or partially executed through electronic correspondence.
+Self-Managed Electronic Transactions: Transactions that are concluded or executed entirely or partially by electronic means or records, and these actions or records are not subject to any follow-up or review by a natural person, as in the normal context of establishing and executing contracts and transactions.
+E-commerce: Commercial and non-commercial transactions conducted through electronic correspondence.
+Encryption: The process of converting electronic data into unknown or incomprehensible symbols that cannot be read or understood without returning them to their original forms.
+Data Processing and Management: A process or set of processes performed on electronic data using electronic or other means for the purpose of collecting, recording, organizing, storing, modifying, altering, retrieving, reviewing, disclosing by sending, distributing, making available by other means, coordinating, combining some, concealing, erasing, or canceling them.
+Electronic Financial Card: A tangible electronic intermediary used in withdrawal, deposit, or electronic payment transactions using an information network or information technology means.
+Financial Institution: The entity licensed to deal with financial transfers.
+Electronic Payment Systems: A set of methods, means, and procedures related to payment operations that are electronically carried out.
+Service Payment Card: A card used in providing electronic service to the beneficiary.
+Electronic Record: The data that is generated, sent, delivered, recorded, or stored electronically and is retrievable or accessible in an understandable manner.
+Electronic Support: The paper copy of the original electronic editor serves as a proof to all, as long as the original electronic editor and electronic signature exist on the electronic support, which is any material means used for storage to exchange electronic information and data.
+Electronic Money: It is a monetary value stored on an electronic device paid in advance and not linked to a bank account, widely accepted by those other than the issuer, and used as a payment tool for various purposes.
+Article 2
+
+The aim of this law is to regulate and protect electronic transactions and enhance public confidence in their validity and safety.
+
+Article 3
+
+The provisions of this law apply to electronic records or signatures and electronic means, as well as actions and transactions between persons who have agreed to conduct their transactions electronically. A person's consent may be inferred from their conduct.
+
+Article 4
+
+The provisions of this law do not apply to:
+
+Creating and modifying wills.
+Establishing endowments and modifying their terms.
+Actions relating to real property rights and leases lasting more than three years.
+Matters related to personal status.
+Notices related to the cancellation and termination of contracts specified by the executive regulation.
+Litigation procedures.
+Any document requiring notarization.
+Article 5
+
+Without prejudice to the provisions prescribed by the banking law, the Cabinet determines the operating system for electronic payments based on a proposal from the Central Bank of Libya.
+
+Article 6
+
+Government agencies may perform the following tasks using electronic means:
+
+Accept the deposit, submission, creation, or storage of a document.
+Issue any permit, license, or approval.
+Accept fees or any other payments.
+Launch tenders and receive bids related to public contracts.
+Any other matters determined by the executive regulation.
+Article 7
+
+If government agencies decide to use electronic means in accordance with Article 6, they must specify the necessary terms and conditions for doing so.
+
+The Cabinet may exempt some agencies from the provisions of this Article for considerations related to national security.
+
+Chapter Two: Electronic Signatures and Electronic Documents
+Article 8
+
+Any natural or legal person may create an electronic signature through a reliable creation system. The executive regulation specifies the necessary terms and conditions for this.
+
+Article 9
+
+Unless the law states otherwise, it is permissible to agree on using a specific type or form of electronic signature.
+
+I hope you find this translation helpful. Let me know if you have further questions or need additional clarification.
+
+Article 10
+
+The electronic signature is valid if it fulfills the following conditions:
+
+It is unique to the person who used it.
+It identifies the owner of the signature.
+The information for creating the signature and the method of its use are entirely under the control of the owner of the signature.
+No change has occurred in the electronic transaction since the electronic signature was applied; and after signing, it is void if any of the conditions stated in this article are not met.
+Article 11
+
+The person who creates an electronic signature is obliged to the following:
+
+Not to use the signature tool in an unlawful manner.
+To exercise care to prevent unauthorized use of his signature-creating information.
+To immediately use the means available to him by the certification service provider and to make efforts to notify any person who is expected to rely on or provide services based on his electronic signature if the signer knows that the signature creation tool has been compromised or if the circumstances known to the signer suggest a significant likelihood that the signature tool has been compromised.
+To exercise care when using a certificate to enhance the electronic signature, to ensure the accuracy and completeness of all essential data provided by the signer that is closely related to the certificate or that should be included in the certificate.
+To notify the certification service provider of any breaches or unauthorized use of the signature elements and provide necessary information.
+The executive regulation of this law specifies the procedures, deadlines, and form of the notification referred to.
+
+Article 12
+
+Without prejudice to any special provisions, the signer bears the legal consequences resulting from his non-compliance with the provisions of the previous article.
+
+Article 13
+
+After the electronic signature is effective, it has the same legal effect regardless of the geographic location where this signature is created or used, or the geographic location of the place of business of the site creator.
+
+Article 14
+
+Anyone who relies on an electronic signature bears the legal consequences of failing to take the necessary steps to verify that the electronic signature meets the conditions set forth in Article 10 of this law.
+
+The executive regulation defines the conditions for verifying the validity of the authentication certificate and its source or its suspension or cancellation or any known restriction, in case the electronic signature is enhanced by the authentication certificate.
+
+Article 15
+
+If the law requires the writing of any paper, document, record, statement, information, or arranges results for lack of writing, then the occurrence of any of these in electronic form fulfills the writing requirement if it meets the preservation conditions provided for in Article 16.
+
+Article 16
+
+When any law requires the preservation of any paper, document, record, statement, or information for any reason, this is achieved by preserving it in electronic form, taking into account the following:
+
+Preserve the paper, document, record, information, or data electronically in the form in which it was originally created, sent, or received, or in a manner that allows proof that it accurately represents the paper, document, record, information, or data that was originally created, sent, or received.
+The paper, document, record, information, or data remains preserved in a manner that allows access to, and use of, it and reference to it later.
+The paper, document, record, information, or data is stored in a manner that enables identification of the origin and destination of the electronic message and the time it was sent or delivered.
+Article 17
+
+If the law requires presenting or retaining a paper, document, record, or electronic message in its original form, or arranges specific consequences for the unavailability of that, it is considered original if email is used for its transmission in a manner that ensures the integrity of the data, or any other method that technically guarantees the integrity of the information contained in it from the time it was originally created in its final form. This also allows for the display of the required information and the fulfillment of any other required conditions.
+
+Article 18
+
+A paper copy of the original electronic document is valid proof for everyone to the extent that it matches the original of that document, provided that the original electronic document and electronic signature exist on an electronic medium, which is any physical means used for the storage and exchange of electronic information and data.
+
+Article 19
+
+Electronic records and messages have the same legal effects recognized for traditional papers, and this effect cannot be ignored merely because they appear wholly or partially in electronic form, taking into account the following:
+
+The method by which the record, contract, or electronic message was created or preserved.
+The method by which it was signed.
+The method used to maintain the integrity of the information contained in the record, contract, or message.
+The method that identified the creator’s age.
+Article 20
+
+An electronic message is considered to be issued by the creator if he sent it himself, or if it was sent by someone authorized to act on his behalf due to his job, or if it was sent in accordance with an automated information system programmed by the creator or on his behalf to operate automatically.
+
+Article 21
+
+The recipient may consider the electronic message to have been issued by the creator and may act based on that, unless he is notified by the creator that the message was not issued by him in sufficient time, or if the recipient knew or should have known, if adequate care was taken or an agreed procedure was followed, that the electronic message was not issued by the creator.
+
+Article 22
+
+If the sender stipulates in the electronic message the receipt of an acknowledgment, the message is considered as if it was not sent until the acknowledgment is received.
+
+If the sender has not specified, or it has not been agreed upon, that the acknowledgment should be in a certain form, acknowledgment can be made through any automated communication or any other means or any behavior on the part of the recipient that is sufficient to inform the sender of receipt.
+
+Article 23
+
+An electronic message is considered sent when it enters an electronic information system outside the control of the creator or the person who sent the message on his behalf, unless there is an agreement between them to the contrary.
+
+Article 24
+
+The delivery time of the electronic message is determined as follows:
+
+If the recipient has not designated an information system, the delivery of the electronic message is the time it enters an information system controlled by the recipient.
+
+In the case where the recipient designates an information system for the purpose of receiving, delivery is at the time when the electronic message enters that system. If the message enters an information system controlled by the recipient other than the designated system, the delivery time is when the electronic message is retrieved by the recipient.
+
+Article 25
+
+An electronic message is considered to have been sent from the place where the sender's place of business is located and is considered to have been received at the recipient's place of business, even if the place where the information system is located differs from the place where the message is assumed to have been delivered. If the creator or the recipient has more than one place of business, the place of business most closely related to the relevant transaction is considered. The main place of business is considered if there is no specific transaction. If neither has a place of business, their place of residence is considered.
+
+Article 26
+
+The acknowledgment of receipt itself is not evidence that the content of the received message matches the content of the message sent from the sender.
+
+Chapter Three: Electronic Authentication
+Article 27
+
+The National Authority for Information Security and Safety is responsible for accrediting and monitoring electronic authentication processes and managing electronic sites. The executive regulations determine the necessary controls and specifications for this.
+
+Article 28
+
+Subject to the provisions of the previous article, the authority is responsible for the following:
+
+Granting licenses to practice the activity of an authentication service provider.
+Verifying the compliance of the authentication service provider with this law and all regulations and decisions issued under it.
+Issuing, delivering, and preserving electronic authentication certificates for licensed individuals, which can be done directly or through a public service provider.
+Organizing and sponsoring specialized seminars and conferences and participating in them.
+Importing or licensing the import of encryption tools necessary for authentication services, or those used by government agencies except those exempted by the Council of Ministers for reasons related to national security.
+Monitoring, supervision, and inspection of the activities of authentication service providers.
+Verifying that authentication service providers use means, software, and procedures that guarantee the confidentiality and security of signatures and electronic certificates.
+Prohibiting licenses for electronic sites and monitoring their operation in a manner that does not violate public order and public morals.
+Other competencies determined by its founding document.
+Article 29
+
+Any natural or legal person wishing to practice the activity of an authentication service provider must obtain the necessary licenses from the Authority before starting the activity.
+
+Article 30
+
+The following conditions must be met for a natural person or the legal representative of a legal person who wishes to obtain a license to practice the activity of the provider:
+
+Must be of Libyan nationality.
+Must be a resident in Libya.
+Must be in full possession of his political rights.
+Must not have been convicted of bankruptcy or of charges affecting honor, trust, or integrity.
+Must have at least a master’s degree in Information Technology.
+Must not be engaged in any other activity.
+Article 31
+
+The authentication service provider must issue, deliver, and store certificates in accordance with a conditions booklet approved by the Authority.
+
+It is permissible to suspend or cancel the certificates referred to in the first paragraph of this article in accordance with the provisions of this law.
+
+Article 32
+
+The conditions booklet referred to in Article 31 of this law must specifically include the following matters:
+
+Expenses of studying and following up on certificate application files.
+The specified period for studying the files.
+The material, financial, and human capabilities that must be available to practice the activity.
+Conditions for securing the mutual interaction of authentication systems and linking the authentication certificate records.
+Rules related to reporting and specifically related to its services and the certificates that it has issued and must keep.
+Article 33
+
+Authentication service providers and website managers must use reliable means for issuing, delivering, and storing certificates, and take necessary measures to protect them from forgery, in accordance with the conditions set forth in Article 37 of this law.
+
+Article 34
+
+The authentication service provider must maintain an electronic record of authentication certificates, and this record must be continuously available for electronic access.
+
+The record of authentication certificates should include, if necessary, the dates of suspension or cancellation of the certificates. This record and the authentication certificate must be protected from any unauthorized changes.
+
+The authentication service provider and its affiliates must maintain the confidentiality of the information they have obtained due to their activity, except for those that the certificate owner has permitted, either in writing or electronically, to be published or disclosed, or in cases stipulated in effective legislation.
+
+Article 35
+
+When requesting an electronic authentication certificate, the service provider collects personal information directly from the person requesting the certificate. The provider can obtain this information from others only after obtaining written or electronic consent.
+
+The service provider is prohibited from collecting information that is not essential for delivering the certificate. It is also prohibited from using the collected information for purposes outside the scope of authentication activities unless it has obtained written or electronic consent from the certificate requester.
+
+Article 36
+
+The authentication service provider issues authentication certificates according to safety and security conditions, and an order is issued by the Authority in this regard. The authentication certificates must contain the following information:
+
+The name of the certificate owner and his identity number if the person is a natural person. For legal persons, the certificate should mention their name, commercial registration number, and tax identification number.
+The name of the person who issued it and his electronic signature.
+Verification elements in the signature of the certificate owner.
+The validity period of the certificate.
+Areas of certificate usage.
+Article 37
+
+The authentication service provider is responsible for ensuring the following:
+
+The accuracy of the authenticated information contained in the certificate on the date of its delivery.
+The relationship between the certificate owner and his signature verification system.
+The certificate owner's independence in maintaining a signature creation system that complies with the technical and regulatory controls specified by the executive regulations of the law, and is integrated with the verification system specified in the certificate at the time of its delivery.
+Article 38
+
+When delivering an authentication certificate to a legal person, the authentication service provider must verify the identity of the natural person who comes forward and represents the legal entity.
+
+Article 39
+
+The authentication service provider must immediately suspend the operation of the electronic authentication certificate upon request from its owner or in the following cases:
+
+If it turns out that the certificate was issued based on incorrect or forged information.
+If the signature creation system has been violated.
+If the certificate is used for fraudulent purposes.
+Change of the information contained in the certificate.
+The service provider must immediately notify the certificate owner of the suspension and its reason.
+
+This suspension must be lifted immediately if the accuracy of the information written in the certificate and its legitimate use are proven.
+
+The certificate owner or others may challenge the decision of the authentication service provider to suspend the certificate from the date of its publication in the electronic register provided for in this law.
+
+Article 40
+
+The authentication service provider has the right to immediately cancel the certificate in the following cases:
+
+At the request of the certificate owner.
+Upon notification of the death of the natural person or the dissolution of the legal entity owning the certificate.
+If it is found after the suspension of the certificate that the information contained in it is incorrect, forged, does not correspond to reality, or that the signature creation system has been violated or the certificate has been used for fraud.
+The certificate owner or others may challenge the service provider's decision to cancel the certificate from the date of its publication in the electronic register provided for in this law.
+
+Article 41
+
+The confidentiality and security of the signature creation system used by the certificate holder are his responsibility, and any use of this system is deemed to have been issued by him.
+
+The certificate holder must notify the authentication service provider of any changes to the information contained in the certificate.
+
+The certificate holder whose certificate has been suspended or canceled may not use the personal encryption elements of the subject certificate and authenticate these elements anew with another service provider.
+
+Article 42
+
+The authentication service provider is responsible for any damage incurred by any person in good faith who relied on the guarantees provided for in Article 37 of this law.
+
+The authentication service provider is responsible for the damage incurred by any person in good faith as a result of not suspending or canceling the certificate according to the provisions of Articles 39 and 40 of this law.
+
+The authentication service provider is not responsible for the damage resulting from the certificate holder not respecting the conditions for its use or the conditions for creating his electronic signature.
+
+Article 43
+
+Certificates issued by an authentication service provider in another country are considered as if issued by an authentication service provider located in Libya, if acknowledged within the framework of a mutual recognition agreement concluded by the authority.
+
+Article 44
+
+An authentication service provider wishing to cease its activities must notify the authority at least three months before the date of cessation.
+
+The authentication service provider may transfer part or all of its activities to another authentication service provider, and this transfer occurs under the following conditions:
+
+Notifying the certificate holders whose certificates have not yet expired of his desire to transfer the certificates to another service provider at least one month before the transfer.
+Specifying the authentication service provider to whom the certificates will be transferred.
+Informing certificate holders of the possibility of refusing the transfer as well as the deadlines and methods for refusal, and the certificates are canceled if their owners express their refusal in writing or electronically within the same period.
+In the case of death, bankruptcy, dissolution, merger, or liquidation of the authentication service provider, his heirs or the merging company or his agents or liquidators are subject to the provisions of the second paragraph of this article within a period not exceeding three months.
+In all cases of ceasing activity, the personal data that remained at the disposal of the authentication service provider must be destroyed by the authority.
+
+Chapter Four: Electronic Transactions
+Article 45
+
+When concluding a contract, expression of consent or acceptance, either in whole or in part, is permissible via electronic messages. Using multiple messages does not affect the contract's validity or enforceability as long as it is in accordance with the provisions of this law.
+
+Article 46
+
+Contracting can occur between autonomous electronic means, including one or more pre-programmed electronic information systems designated to carry out such tasks. The contract is valid, enforceable, and produces its legal effects despite the absence of personal or direct intervention of any natural person in the contract formation process.
+
+Furthermore, contracting may occur between an autonomous electronic information system under the control of a natural or legal person and an individual, provided the latter knows or is supposed to know that the system will undertake the contracting process, whether the individual is acting on their own behalf or on behalf of another.
+
+Electronic contracts have the same legal effects as contracts made through traditional methods in terms of proof, validity, enforceability, and other provisions.
+
+Article 47
+
+Unless otherwise agreed upon, the time and place of contract formation are the time and place where the electronic message accepting the offer is received.
+
+Article 48
+
+In electronic commercial transactions, the seller must provide the consumer with the following information before concluding the contract:
+
+Name, address, phone number, and email of the seller or service provider.
+Detailed steps for completing the commercial transaction.
+Nature, specifications, and price of the product or service.
+Delivery expenses, insurance amount, and any other expenses.
+The period during which the product is displayed at the specified prices.
+Commercial warranty terms and post-sale service.
+Methods and procedures of payment.
+Methods and deadlines for contract execution, delivery location, and consequences of non-fulfillment.
+Possibility of withdrawal from the purchase and its deadlines.
+How to confirm the deal.
+Methods for returning the product or replacing it, refunding the amount and its deadlines.
+Communication technology costs when calculated on a different basis than the current tariff.
+Termination conditions if the contract is for an unspecified period or exceeds one year.
+The minimum contract period concerning contracts related to providing the consumer with a product or service for an extended period or on a recurring basis.
+All this information must be provided electronically and made available to the consumer for review at all stages of the transaction.
+Article 49
+
+It is prohibited for the seller to deliver a product conditioned upon payment, unless a contract concerning the consumer has been made. In the case of delivering a product to the consumer that hasn't been contracted for, the latter can't be charged for its price or its delivery expenses.
+
+Article 50
+
+The seller must enable the consumer—before finalizing the contract—to review all of his choices and to confirm or modify the sale according to his will. This also includes viewing the digital certificate related to his signature.
+
+Article 51
+
+The seller must provide the consumer—upon request—within ten days following the conclusion of the contract, with a written or electronic message containing all information related to the sales process.
+
+Article 52
+
+The consumer may return the product in its original condition if it does not conform to the terms of the sale or if the seller does not respect the delivery timelines, within ten days calculated from the date of delivery. In this case, the seller must refund the amount paid and any expenses incurred back to the consumer within ten days from the date of the product's return.
+
+In all cases, the seller is obligated to compensate for the damages he might have caused the consumer, if applicable.
+
+Article 53
+
+In consideration of the provisions of Article 18 of this law and except for cases of apparent or hidden defects, the consumer may not cancel the purchase in the following situations:
+
+When the consumer requests the provision of the service before the expiry of the withdrawal period, and the seller provides it.
+If the consumer is provided with products according to personal specifications, or products that cannot be sent back, or are susceptible to damage, deterioration, or expiration.
+If the consumer removes the seals from audio recordings, visual recordings, software, and media materials.
+Purchase of books, newspapers, and magazines.
+Article 54
+
+If the purchase is entirely or partially the result of a loan granted to the consumer by the seller or another party based on a contract made between the seller and someone other than the consumer, then the consumer's withdrawal from the purchase nullifies the loan contract without any compensation.
+
+Article 55
+
+In the case of a sale with a trial period, the seller is liable for any damages that the product may sustain until the end of the trial period, except in cases of misuse by the consumer. This is after nullifying any conditions that exempt from liability.
+
+Article 56
+
+In the event that the product or service is not available, the seller must inform the consumer within a maximum period of 24 hours before the delivery date stipulated in the contract and return the full amount paid to the owner.
+
+The contract is voided if the seller fails to fulfill his obligations, and the consumer recovers the amount paid while retaining the right to compensation in the case of damage, unless such breach or damage results from force majeure.
+
+Article 57
+
+In the event of a dispute, the seller is required to prove that he has fulfilled his obligations stipulated in this chapter. Any agreement to the contrary is null and void.
+
+Chapter 5: Methods of Protecting Electronic Transactions
+
+Article 58
+
+Encryption is used to protect electronic transactions with the aim of maintaining the confidentiality of the information or data contained in the electronic message and verifying the identity of the creator, and to prevent others from intercepting the information or electronic messages with the purpose of preventing them from reaching the recipient or distorting them.
+
+Article 59
+
+The following methods are used to protect information systems:
+
+Information system encryption methods.
+Firewalls.
+Information filters.
+A set of means related to non-repudiation.
+Data and file encryption technologies.
+Backup protection procedures.
+Anti-virus software.
+Any other method determined by the executive regulations.
+Article 60
+
+Except for encryption keys related to national security, a designated employee of the general authority for authentication may request the owner of any encryption key to enable him to examine the necessary information related to that key. The key owner must enable such examination.
+
+Chapter Six: Banking Operations
+Article 61
+
+Before any electronic payment or transfer, a clear and detailed agreement must be established between customers, banks, and financial institutions on the regulatory conditions for electronic payment orders or electronic transfers of cash. These conditions should include:
+
+Effective date for incoming and outgoing transfer orders.
+Applicable commissions and value of the completed transaction.
+Rights and obligations of both parties in the contract.
+Special rules concerning errors in entries or unauthorized entries.
+Methods of objection available to the customer.
+Procedures followed in case of unauthorized access to the customer's account.
+Exchange rates for foreign currency and restrictions on transactions.
+The order for cash transfer may be in writing or electronically, and if issued electronically, it must be authenticated.
+
+Article 62
+
+The electronic systems used must be capable of transferring the electronic payment order or the electronic transfer of cash and storing data related to the order for reference. This data must include identification of the sending party, the name of the customer, the value of the amounts, and other important elements necessary to verify the correctness of the payment order.
+
+These electronic systems should enable the issuer of the payment or transfer order to immediately know the result of this order, whether it is accepted or rejected, and the reasons for the rejection.
+
+Article 63
+
+The customer is not responsible for any entry made on his account resulting from an electronic transfer of cash after he has informed the bank or financial institution of doubts about the possibility of others accessing his account unlawfully or about the loss of his bank card or the possibility of others knowing his personal identification code. The customer must follow the rules and procedures agreed upon with the bank or financial institution concerning the reporting process.
+
+The customer cannot cancel or reverse an electronic transfer order issued by him after the amount has been withdrawn from his account.
+
+Article 64
+
+The bank or financial institution bears responsibility for the non-execution of an electronic transfer order issued by it after withdrawing the amount from its account.
+
+Article 65
+
+The bank or financial institution must explicitly notify the customer at least fifteen days before its desire to make any modifications to the contract terms, especially those related to commissions or restrictions on operations.
+
+In exceptional cases related to the preservation and safety of the customer's account or the electronic payment system, the bank or financial institution may impose restrictions on the service provided to the customer, provided that they inform him of the restrictions without incurring any financial burdens.
+
+Article 66
+
+Payment for goods and services executed according to the contracts mentioned in this law may be made using one of the electronic payment methods, which are:
+
+Final payment cards.
+Electronic money transfers.
+Electronic documentary credits.
+Electronic trade papers.
+Any other payment method approved by the central bank.
+A written form on a paper or electronic medium must be adopted for requesting a bank card or for the contract related to its issuance.
+
+Article 67
+
+The bank or financial institution issuing bank cards must:
+
+Inform the cardholder of the characteristics of this card and its usage system.
+Give the cardholder identification information that enables its use, ensuring the confidentiality of this information.
+Keep detailed statements of the operations carried out by the card for the last ten years.
+Provide the cardholder with appropriate means to report the loss or theft of the card.
+Cease any use of the bank card immediately upon reporting its loss or theft.
+The cardholder must indicate that he is fully informed and has received the characteristics and information related to the card by signing a document indicating consent, or any other means approved by the bank or financial institution.
+
+The bank and the institution are responsible for the non-execution or poor execution of orders issued by the cardholder, as well as for transactions carried out without his consent and for errors in account restrictions. They must pay the cardholder amounts withdrawn from his account without a legitimate reason, or contrary to what was agreed upon in the contract.
+
+Article 68
+
+The cardholder must use his banking card according to the agreed-upon terms and take all necessary precautions to protect the card and the identification information that enables its use. The cardholder cannot reverse any electronic payment order issued by this card.
+
+He also has no right to object to any payment operation unless his card or the identification information enabling its use is lost, stolen, used unlawfully, fraudulently, or in the case of an error made by the issuing entity.
+
+The cardholder must immediately notify the bank or the financial institution upon discovering the loss of his banking card, theft, or any operation carried out without his consent, and any errors in his account statement.
+
+Article 69
+
+The cardholder is liable for the consequences of losing the card or having it stolen until the date of notifying the bank or financial institution, within limits set by the Central Bank of Libya. This limit does not apply if the cardholder has made a grave mistake or gross negligence or has not reported according to the previous article within a reasonable period.
+
+The cardholder is not responsible for:
+
+Payment operations carried out after he has objected to the use of the banking card.
+Payment operations carried out remotely unlawfully or fraudulently without physically presenting the banking card or identifying the payment orderer.
+Forgery of the banking card if it was physically in his possession at the time of the objected operation.
+In these cases, the bank or financial institution will re-credit the disputed amounts to the cardholder's account without charging any fees or expenses within a period of one month from the date of receiving the cardholder's objection.
+
+Article 70
+
+Electronic money is issued by commercial banks and other financial institutions according to the regulations set by the Central Bank of Libya, based on a contract concluded with the customer that includes the obligations of both parties.
+
+Article 71
+
+Banks operating in Libya can deal with electronic checks.
+
+Article 72
+
+The provisions of this section do not conflict with the provisions established by the Banking Law.
+
+Chapter Seven: Protection of Personal Data
+Article 73
+
+Any public entity and any authentication service provider may collect personal data directly from the person whom the data is collected about or from someone else, only after the explicit consent of this person and only for the purposes of issuing, maintaining, or facilitating a certificate.
+
+Data may not be collected, processed, or used for any other purpose without the explicit consent of the person from whom the data was collected.
+
+Article 74
+
+Except for the previous article, obtaining, disclosing, providing, or processing personal data is legitimate if it is:
+
+Necessary for the purpose of preventing or detecting a crime based on an official request from investigative bodies.
+Required or permitted under law or a court decision.
+For the assessment or collection of any tax or fee.
+To protect a vital urgent interest of the person whose data was collected.
+Article 75
+
+Taking into account the previous article, the authentication service provider must follow appropriate procedures to ensure the confidentiality of the personal data in his custody while performing his duties. He may not disclose, transfer, declare, or publish such data for any purpose whatsoever without prior consent from the person whose data was collected.
+
+Article 76
+
+Any person who controls personal data by virtue of his work in electronic transactions must, before processing such data, inform the person from whom the data was collected by a special notification of the procedures he follows to protect personal data. These procedures must include identifying the person responsible for the processing, the nature of the data, the purpose of its processing, methods and locations of processing, and all the necessary information to ensure secure data processing.
+
+Article 77
+
+The authentication service provider must enable the person from whom personal data has been collected to access and update it. This right includes access to all personal data sites related to the person from whom the data was collected. Therefore, he must provide appropriate technological means to enable electronic access.
+
+Article 78
+
+If necessary to transfer personal data outside of Libya, due consideration must be given to an appropriate level of protection, specifically:
+
+The nature of the personal data.
+The source of the information included in the data.
+The purposes for which the data is to be processed and its duration.
+The country to which the data is being transferred, its international commitments, and the applicable law therein.
+The relevant rules in that country.
+The security measures taken to protect the data in that country.
+Chapter Eight: Crimes and Penalties
+Article 79
+
+Entities collecting personal data according to Article 73 of this law are prohibited from sending electronic documents to the person from whom the data was collected if he explicitly refuses to accept them.
+
+Processing of personal data by the person who collected it is not allowed if he explicitly refuses to accept it. Additionally, processing is not allowed if it causes harm to the individuals from whom the data was collected, or infringes upon their rights or freedoms. The data may also not be used for any other purposes than those agreed upon unless consent is obtained from the data owner.
+
+Article 80
+
+It is prohibited to engage in the following activities:
+
+Providing authentication services without obtaining a license from the competent authority.
+Providing false or incorrect information to the authority or the authentication service provider.
+Creating a forged electronic record, electronic signature, or digital authentication certificate.
+Using a forged electronic record, electronic signature, or digital authentication certificate knowingly to gain benefit or harm others, or for any unlawful purpose.
+Intentionally providing false information about the electronic signature to any of the parties who have relied on that signature under this law.
+Impersonating another person or falsely claiming to be authorized by him to request or accept a digital authentication certificate, or request its suspension or cancellation.
+Accessing another person's electronic signature system without proper authorization, or copying it, or reconfiguring it, or seizing it.
+Publishing a forged, incorrect, canceled, or suspended digital authentication certificate, or making it available to another person, knowing its status, except for declarations made for the purposes of this law.
+Article 81
+
+Without prejudice to any stricter penalty stipulated by the Penal Code or any other law, anyone who commits any of the acts stipulated in Articles 70 and 80 of this law shall be punished with imprisonment for a period not less than one year and a fine of not less than three thousand dinars and not exceeding ten thousand dinars.
+
+The penalty will be imprisonment and a fine of not less than ten thousand dinars if these acts were committed to disrupt electronic transactions related to the government or military or security institutions or banks.
+
+Article 82
+
+Without prejudice to the individual criminal liability of the perpetrator of the crime, the legal representative of the legal person shall be punished with the same penalties prescribed for the acts committed in violation of the provisions of this law, if it is proven that his failure to perform his duties contributed to the occurrence of the crime.
+
+The legal person shall be jointly responsible for any financial penalties or compensations if the crime was committed on his behalf or in his name or for his benefit.
+
+Article 83
+
+Without prejudice to any stricter penalty stipulated by the Penal Code or any other law, anyone who exploits the weakness or ignorance of a person in electronic operations by compelling him to commit, presently or in the future, in any form, shall be punished with imprisonment for a period not less than one year and a fine not less than five thousand dinars and not exceeding ten thousand dinars, provided that it is proven from the circumstances that this person is unable to distinguish the dimensions of his commitments and obligations.
+
+Article 84
+
+Without prejudice to the rights of bona fide third parties, in all cases, the devices, programs, or means used in committing any of the crimes stipulated in this law or the funds obtained from them shall be confiscated.
+
+It also provides for the closure of the shop or the site where any of these crimes are committed and the cancellation of its license if the crime was committed with the owner's knowledge.
+
+The closure is either complete or for the period determined by the court.
+
+Chapter Nine: Final Provisions
+Article 85
+
+Employees designated by a decision from the Prime Minister, based on a proposal from the head of the authority, will have the status of judicial officers in apprehending acts that violate the provisions of this law.
+
+Article 86
+
+The executive regulations for this law will be issued by the Council of Ministers within a year from the date of the law's publication in the Official Gazette.
+
+Article 87
+
+The provisions of this law shall take effect from the date of its issuance and any ruling that contradicts it shall be annulled. It will be published in the Official Gazette and the media.
+
+House of Representatives
+Issued in the city of Tobruk.
+Date: October 4, 2022
