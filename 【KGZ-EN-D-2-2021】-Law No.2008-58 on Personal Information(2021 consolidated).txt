@@ -1,0 +1,514 @@
+Unofficial translation
+
+      This Law regulates the public relations in the scope of personal data, as well as determines the purpose, principles and legal bases of activity, related with collection, processing and protection of personal data.
+Chapter 1. GENERAL PROVISIONS
+Article 1. Basic concepts used in this Law
+
+      The following basic concepts shall be used in this Law:
+
+      1) biometric data – personal data that characterize physiological and biological features of the subject of personal data, on the basis of which may establish his (her) identity;
+
+      2) personal data – details, related to the subject of personal data, specific or defined on their basis, recorded on an electronic, paper and (or) other physical media;
+
+      2-1) state service of controlling access to personal data (hereinafter - state service) is a service providing information interaction of owners and/or operators, third parties with the subject of personal data and the competent authority when accessing personal data contained in the information objects of state authorities and/or state legal entities, including obtaining consent from the personal data entity to collect, process personal data or transfer it to third parties;
+
+      2-2) non-state service of controlling access to personal data (hereinafter - non-state service) - service providing information interaction of owners and/or operators, third parties with the subject of personal data during access to personal data contained in non-state facilities of information, including obtaining from the personal data entity consent for collection, processing of personal data or its transfer to third parties;
+
+      3) blocking of personal data – actions on temporary termination of collection, accumulation, change, supplement, use, distribution, depersonalization and destruction of personal data;
+
+      4) accumulation of personal data – actions by inclusion in the database, contained the personal data;
+
+      5) collection of personal data – actions, directed to reception of personal data;
+
+      6) destruction of personal data – actions, in the result of commission of which is impossible to restore the personal data;
+
+      7) depersonalization of personal data – actions, in the result of commission of which determination of belonging of personal data to the subject of personal data is impossible;
+
+      8) the base, containing the personal data (hereinafter – base), a set of ordered personal data;
+
+      9) the owner of the base containing the personal data (hereinafter – owner), - the state body, individual and (or) legal entity, exercising the right of possession, use and disposition of base, contained the personal data in accordance with the Laws of the Republic of Kazakhstan;
+
+      10) operator of base, containing the personal data (hereinafter – operator), - the state body, individual and (or) legal entity, carrying out collection, processing and protection of personal data;
+
+      11) protection of personal data – a set of measures, as well as legal, organization and technical, carrying out for the purposes established by this Law;
+
+      11-1) the authorised body in the field of personal data protection (hereinafter referred to as the authorised body) - the central executive body responsible for supervising the personal data protection field;
+      11-2) Excluded by Law of the RK No. 96-VII of 30.12.2021 (shall be put into effect sixty calendar days after the date of its first official publication);
+
+      12) processing of personal data – actions, directed to accumulation, storage, change, supplement, use, distribution, depersonalization, blocking and destruction of personal data;
+
+      13) use of personal data – actions with personal data, directed to implementation of purposes of activity of owner, operator and third person;
+
+      14) storage of personal data – actions on ensuring of integrity, confidentiality and availability of personal data;
+
+      15) distribution of personal data – actions, in the result of commission of which there is a transfer of personal data, as well as through the mass media or provision of access to the personal data by any method;
+
+      16) a subject of personal data (hereinafter – subject) – individual, to which the personal data are referred;
+
+      17) third person – a person, not being a subject, owner and (or) operator, but related to them (him (her) by consequences or legal relationship on collection, processing and protection of personal data.
+      Footnote. Article 1 as amended by Law of the RK No. 347-VI dated 25.06.2020 (shall come into effect ten calendar days after the date of its first official publication); No. 96-VII of 30.12.2021 (shall come into force sixty calendar days after the date of its first official publication).
+Article 2. The purpose of this Law
+
+      The purpose of this Law shall be ensuring of protection of rights and freedoms of person and citizen upon collection and processing of his (her) personal data.
+Article 3. The actions of this Law
+
+      1. The relations, related to collection, processing and protection of personal data shall be regulated by this Law.
+
+      2. Features of collection, processing and protection of personal data may be regulated by other Laws and acts of the President of the Republic of Kazakhstan.
+
+      3. An operation of this Law shall not be distributed to the relations, arising upon:
+
+      1) collection, processing and protection of personal data by the subjects exclusively for the personal and family needs, if upon that the rights of other individuals and (or) legal entities and requirements of the Laws of the Republic of Kazakhstan are nor violated;
+
+      2) generation, storage and use of the documents of the National archive fund of the Republic of Kazakhstan and other archive documents, containing the personal data, in accordance with the legislation of the Republic of Kazakhstan on the National archive fund and archives;
+
+      3) collection, processing and protection of personal data, referred to the state secrets in accordance with the Laws of the Republic of Kazakhstan “On the state secrets”;
+
+      4) collection, processing and protection of personal data in the course of intelligence, counterintelligence, operational and search activity, as well as implementation of security measures on safety ensuring of protected persons and objects within the limits established by the Laws of the Republic of Kazakhstan.
+Article 4. The legislation of the Republic of Kazakhstan on personal data and their protection
+
+      1. The legislation of the Republic of Kazakhstan on personal data and their protection shall be based on the Constitution of the Republic of Kazakhstan and shall consist of this Law and other regulatory legal acts of the Republic of Kazakhstan.
+
+      2. If by the international treaty, ratified by the Republic of Kazakhstan, made other rules than those that contained in this Law, the rules of the international treaty shall be applied.
+Article 5. Principles of collection, processing and protection of personal data
+
+      Collection, processing and protection of personal data shall be carried out in accordance with the principles of:
+
+      1) observation of constitution rights and freedoms of person and citizens;
+
+      2) legality;
+
+      3) confidentiality of personal data of limited access;
+
+      4) equality of the rights of subjects, owners and operators;
+
+      5) safety ensuring of personality, society and the state.
+Chapter 2. COLLECTION AND PROCESSING OF PERSONAL DATA
+Article 6. Accessibility of personal data
+
+      Personal data shall be categorised in terms of accessibility into publicly available ones and restricted data.
+
+      Publicly accessible personal data shall be personal data or information that is not subject to confidentiality requirements under the laws of the Republic of Kazakhstan, access to which is free with the consent of the person.
+
+      Information on the entity, the collection and processing whereof has been performed in violation of the legislation of the Republic of Kazakhstan, shall be excluded from publicly accessible sources of personal data within one working day upon request of the entity or its legal representative or by decision of a court or other authorised public authorities.
+
+      The costs arising from the destruction of personal data from publicly accessible sources of personal data shall be borne by the owner and/or operator, the third party.
+
+      The amount of costs arising from withdrawal of the consent of the person or his/her legal representative for dissemination of his/her personal data in publicly accessible sources of personal data, related to destruction of personal data from publicly accessible sources of personal data, as well as the persons to be charged with such costs, if necessary, shall be determined in court.
+
+      Restricted personal data shall be the personal data, access to which is restricted by the legislation of the Republic of Kazakhstan.
+      Footnote. Article 6 as reworded by Law of the RK No. 347-VI dated 25.06.2020 (shall be enacted ten calendar days after the date of its first official publication); as amended by Law of the RK No. 96-VII of 30.12.2021 (shall be enacted upon expiry of sixty calendar days after its first official publication).
+Article 7. Conditions for the collection and processing of personal data and specifics of the collection and processing of personal data from publicly accessible sources
+
+      1. Personal data shall be collected and processed by the owner and/or operator, as well as by a third party with the consent of the individual or his/her legal representative, in a way specified by the competent authority, unless the cases provided for in point 5 of this Article and in Article 9 of this Law.
+
+      2. The collection and processing of personal data on deceased (recognised by the court as missing or declared dead) individuals shall be carried out as prescribed by the legislation of the Republic of Kazakhstan.
+
+      3. Dissemination of personal data in publicly accessible sources shall be permitted with the consent of the data individual or his/her legal representative.
+
+      4. The requirements of paragraph 3 hereof shall not apply to holders of information in cases of publication of information the obligation to publish is established by the laws of the Republic of Kazakhstan.
+
+      5. The re-collection, processing and dissemination by third parties of personal data published pursuant to paragraphs 3 and 4 hereof shall be allowed, provided that reference is made to the source of the information.
+
+      6. Processing of personal data in the form of cross-border transfer of personal data, excluding the cases prescribed by Article 16 of this Law, dissemination of personal data in publicly accessible sources, as well as its transfer to third parties shall be subject to the consent of the individual.
+
+      7. Specifics of collection, processing of personal data in electronic information resources containing personal data shall be specified by the legislation of the Republic of Kazakhstan on informatization, considering the provisions of this Law.
+
+      8. Processing of personal data shall be limited to achieving specific, predetermined and legitimate objectives. Processing of personal data that is incompatible with the purpose of personal data collection shall be prohibited.
+
+      9. Personal data containing excessive content and scope in relation to the objectives of processing shall not be processed.
+      Footnote. Article 7 - as reworded by Law of the RK No. 96-VII of 30.12.2021 (shall come into force sixty calendar days after the date of its first official publication).
+Article 8. Procedure of giving (withdrawal) of consent of subject for collection, processing of personal data
+
+      1. The individual or his/her legal representative shall give (withdraw) consent to the collection and processing of personal data in writing, via a state service, a non-state service or in another manner enabling confirmation of consent.
+
+      When collecting and/or processing personal data stored in the information objects of public authorities and/or public legal entities, consent shall be provided through the public service.
+
+      2. The subject or his (her) legal representative may not withdraw the consent for collection, processing of personal data in the cases, if it is contrary to the Laws of the Republic of Kazakhstan, or in the existence of not executed obligation.
+      3. Excluded by Law of the RK No. 96-VII of 30.12.2021 (shall be put into effect sixty calendar days after the date of its first official publication).
+
+      4. Consent to the collection and processing of personal data shall include:
+
+      1) the name (surname, first name, patronymic (if stated in the identity document), business identification number (individual identification number) of the operator;
+
+      2) the person's surname, first name, patronymic (if it appears on the identity document);
+
+      3) the term or period within which consent to the collection, processing of personal data is valid;
+
+      4) information on the operator's ability, or lack thereof, to transfer personal data to third parties;
+
+      5) whether or not personal data are transmitted across borders during the processing of personal data;
+
+      6) information on the dissemination of personal data in publicly accessible sources;
+
+      7) a list of data collected related to the individual;
+
+      8) other information as designated by the owner and/or operator.
+      Footnote. Article 8 as amended by the Law of the Republic of Kazakhstan dated 17.11.2015 № 408-V (shall be enforced from 01.03.2016); No. 347-VI of 25.06.2020 (shall come into force ten calendar days after the date of its first official publication); No. 96-VII of 30.12.2021 (shall take effect sixty calendar days after the date of its first official publication).
+Article 8-1. Public service
+
+      1. Owners and (or) operators, third parties in the case of interaction with the information objects of the public authorities and (or) public legal entities containing personal data, shall ensure the integration of their own information objects involved in the personal data collection and processing processes with the public service, unless it is envisaged by sub-paragraphs 1), 2), 9) and 9-2) of Article 9 of this Law.
+
+      Integration shall be performed with the observance of the legislation of the Republic of Kazakhstan on the disclosure of information classified as state secrets, personal, family, banking, commercial secrets, medical employee secrets and other secrets protected by law, as well as other confidential information.
+
+      Otherwise, integration with a public service shall take place on a voluntary basis.
+
+      The procedure for integration with a public service shall be established by the competent authority and the rules for the integration of e-government information objects”.
+
+      2. The public service shall ensure:
+
+      1) provision of consent (refusal) by the individual or his/her legal representative for the collection and/or processing of personal data contained in the information objects of public authorities and/or state-owned legal entities;
+
+      2) revocation by the individual or his/her legal representative of consent to the collection and (or) processing of personal data contained in the information objects of public authorities and (or) public legal entities;
+
+      3) notification of the individual of actions with his/her personal data stored in information objects of public authorities and (or) state legal entities (access, viewing, modification, addition, transfer, blocking, destruction);
+
+      4) provision of information to the individual on the owners and/or operators who have consent to the collection and/or processing of his/her personal data stored in the information objects of public authorities and/or state-owned legal entities.
+
+      3. In the events specified in sub-paragraphs 4), 6), 8) and 9-3) of Article 9 of this Law, the individual shall be notified of the initiators of requests for access (collection and processing) to his/her personal data stored in the information objects of public authorities and (or) public legal entities, through a public service.
+      Footnote. Chapter 2 as supplemented by Article 8-1 pursuant to Law of the RK No. 96-VII of 30.12.2021 (shall be enacted upon expiry of sixty calendar days after the date of its first official publication).
+Article 8-2. Non-state service
+
+      1. To optimize the procedures for obtaining the consent of the individual or his/her legal representative for the collection and (or) processing of personal data, in the absence of interaction with the information objects of public authorities and/or state legal entities that contain personal data, owners and/or operators, third parties may use non-state services.
+
+      2. The non-state service shall ensure:
+
+      1) provision of consent (refusal) by the individual or his/her legal representative for the collection and/or processing of personal data;
+
+      2) notification of the individual on the actions with his or her personal data (viewing, amending, supplementing, transferring, blocking, destroying);
+
+      3) notifying the individual of third party access to his or her personal data.
+      Footnote. Chapter 2 as supplemented by Article 8-2 pursuant to Law of the RK No. 96-VII of 30.12.2021 (shall take effect from sixty calendar days after the date of its first official publication).
+Article 9. Collection, processing of personal data without the consent of subject
+
+      Collection, processing of personal data shall be carried out without the consent of subject or his (her) legal representative in the cases of:
+
+      1) conducting the activities of law enforcement agencies, courts and other authorized public authorities that bring and hear cases of administrative offences, and enforcement proceedings;
+
+      2) carrying out of the state statistical activity;
+
+      3) use of personal data by the state bodies for the statistical purposes with compulsory condition of their depersonalization;
+
+      4) implementation of international treaties, ratified by the Republic of Kazakhstan;
+
+      5) protection of constitution rights and freedoms of person and citizen, if obtaining the consent of subject or his (her) legal representative is impossible;
+
+      6) performing lawful professional activities of a journalist and (or) the activities of television or radio stations, periodicals, news agencies, network publications or scientific, literary or other creative activities, provided that the requirements of the legislation of the Republic of Kazakhstan for ensuring human and civil rights and freedoms are observed;
+
+      7) publication of personal data in accordance with the Laws of the Republic of Kazakhstan, as well as personal data of candidates for elective public positions;
+
+      8) non-performance of responsibilities of the subject on presentation of personal data in accordance with the Laws of the Republic of Kazakhstan;
+
+      9) reception of information from individuals and legal entities by the state body, carrying out regulation, control and supervision of financial market and financial organizations in accordance with the legislation of the Republic of Kazakhstan;
+
+      9-1) obtaining information from natural and legal persons for tax (customs) administration and (or) control by the state revenue authorities in conformity with the laws of the Republic of Kazakhstan;
+
+      9-2) transferring a backup copy of electronic information resources containing personal data of restricted access to the unified national backup platform for the storage of electronic information resources in cases stipulated by the laws of the Republic of Kazakhstan;
+
+      9-3) use of personal data of business entities directly related to their business activities to form a register of business partners, subject to the requirements of the legislation of the Republic of Kazakhstan;
+
+      10) in other cases, established by the Laws of the Republic of Kazakhstan.
+      Footnote. Article 9 as amended by Laws of the Republic of Kazakhstan No. 359-VI of 03.07.2020 (shall be enacted upon expiration of ten calendar days after its first official publication); No. 399-VI of 02.01.2021 (see Art. 2 for the enactment procedure); No. 96-VII of 30.12.2021 (shall come into force sixty calendar days after the date of its first official publication).
+Article 10. An access to the personal data
+
+      1. An access to the personal data shall be determined by the conditions of the consent of subject or his (her) legal representative, provided to the owner and (or) operator for their collection and processing, unless otherwise provided by the legislation of the Republic of Kazakhstan.
+
+      An access to the personal data shall be prohibited, if the owner and (or) operator, and (or) third person are refused to accept obligations on ensuring of carrying-out of requirements of this Law or may not provide them.
+
+      2. Application (request) of subject or his (her) legal representative respectively of the access to their personal data shall be filed to the owner and (or) operator in written form or in the form of electronic document or by other method with application of the elements of protective actions, not contradicted to the legislation of the Republic of Kazakhstan.
+
+      3. Relations between the owner and (or) operator, and (or) third person respectively of the access to their personal data shall be regulated by the legislation of the Republic of Kazakhstan.
+
+      4. Third parties may receive personal data stored in the information objects of public authorities and/or public legal entities via the e-government web portal, providing the individual's consent has been confirmed via a public service.
+      Footnote. Article 10 as amended by the Law of the Republic of Kazakhstan dated 17.11.2015 № 408-V (shall be enforced from 01.03.2016); No. 347-VI of 25.06.2020 (shall come into force ten calendar days after the date of its first official publication); No. 96-VII of 30.12.2021 (shall be enforced sixty calendar days after the date of its first official publication).
+Article 11. Confidentiality of personal data
+
+      1. The owners and (or) operators, as well as third persons, receiving an access shall ensure their confidentiality by observance of requirements to prevent their distribution without the consent of subject or his (her) legal representative or existence of other legal basis.
+
+      2. The persons who became known about personal data of limited access shall be obliged to ensure their confidentiality in connection with professional, official necessity, as well as labour relations.
+
+      3. Confidentiality of biometric data shall be established by the legislation of the Republic of Kazakhstan.
+Article 12. Accumulation and storage of personal data
+
+      1. Accumulation of personal data shall be carried out by collection of personal data, necessary and sufficient for performance of tasks, carrying out by the owner and (or) operator, as well as third person.
+
+      2. Personal data shall be stored by the owner and/or operator, as well as by a third party in a database located in the territory of the Republic of Kazakhstan.
+
+      The term of storage of personal data shall be determined by the date of achievement of purposes of their collection and processing, unless otherwise provided by the legislation of the Republic of Kazakhstan.
+      Footnote. Article 12 as amended by the Law of the Republic of Kazakhstan dated 24.11.2015 № 419-V (shall be enforced from 01.01.2016); No. 399-VI of 02.01.2021 (shall go into effect ten calendar days after the date of its first official publication).
+Article 13. Change and supplement of personal data
+
+      Change and supplement of personal data shall be carried out by the owner and (or) operator on the basis of application (request) of the subject or his (her) legal representative or in other cases provided by the Laws of the Republic of Kazakhstan.
+Article 14. Use of personal data
+
+      Use of personal data shall be carried out by the owner, operator and third person only for the previously stated purposes of their collection.
+Article 15. Distribution of personal data
+
+      1. Disclosure of personal data shall be subject to the consent of the individual or his/her legal representative, provided that the legitimate interests of other individuals and/or legal entities are not affected thereby.
+
+      2. Distribution of personal data in the cases, fallen beyond the scope of previously stated purposes of their collection shall be carried out with the consent of subject or his (her) legal representative.
+      Footnote. Article 15 as amended by Law of the RK No. 96-VII of 30.12.2021 (shall be enacted upon expiration of sixty calendar days after its first official publication).
+Article 16. Trans-border transfer of personal data
+
+      1. Trans-border transfer of personal data – a transfer of personal data to the territory of the foreign states.
+
+      2. Trans-border transfer of personal data to the territory of the foreign states shall be carried out only in the case of ensuring of protection of personal data by these states in accordance with this Law.
+
+      3. Trans-border transfer of personal data to the territory of the foreign states, not ensuring protection of personal data may be carried out in the cases of:
+
+      1) existence of the consent of subject or his (her) legal representative to the trans-border transfer of his (her) personal data;
+
+      2) provided international treaties, ratified by the Republic of Kazakhstan;
+
+      3) provided by the Laws of the Republic of Kazakhstan, if it is necessary for the purposes of protection of constitutional order, protection of public order, rights and freedoms of person and citizen, health and morals of population;
+
+      4) protection of constitutional rights and freedoms of person and citizen, if reception of the consent of subject or his (her) legal representative is impossible.
+
+      4. Trans-border transfer of personal data to the territory of the foreign states may be prohibited or restricted by the Laws of the Republic of Kazakhstan.
+
+      5. Specifics for trans-border transfer of service information about subscribers and (or) users of communication services shall be determined by the Law of the Republic of Kazakhstan "On Communications".
+      Footnote. Article 16 as amended by the Law of the Republic of Kazakhstan dated 28.12.2017 No. 128-VI (shall be enforced upon expiry of ten calendar days after its first official publication).
+Article 17. Depersonalisation of personal data
+
+      1. The owner and/or operator, as well as the third party transferring the personal data must anonymise them in compliance with the rules for collecting, processing personal data when collecting, processing personal data for statistical, sociological, scientific, marketing research.
+
+      2. When collecting, processing personal data for data analytics for the purpose of performing the functions of public authorities, the depersonalization of personal data shall be performed by the operator of the information and communication infrastructure of the e-government in obedience to the rules for collection, processing, storage, transmission of electronic information resources for the purpose of performing the functions of public authorities, approved by the competent authority in the field of information, unless the depersonalisation of personal data has been carried out by the owner and/or operator.
+      Footnote. Article 17 as reworded by Law of the RK No. 347-VI of 25.06.2020 (shall be enacted ten calendar days after the date of its first official publication).
+Article 18. Destruction of personal data
+
+      The personal data shall subject to destruction by the owner and (or) operator, as well as third person:
+
+      1) upon expiration of the term of storage in accordance with paragraph 2 of Article 12 of this Law;
+
+      2) upon termination of legal relations between the subject, owner and (or) operator, as well as third person;
+
+      3) upon entering of court decision into legal force;
+
+      3-1) if it is discovered that personal data have been collected and processed without the individual's or his or her legal representative's consent, excluding the cases envisaged in Article 7, paragraph 5, and Article 9 of this Law;
+
+      4) in other cases, established by this Law and other regulatory legal acts of the Republic of Kazakhstan.
+      Footnote. Article 18 as amended by Law of the RK No. 96-VII of 30.12.2021 (shall be put into effect upon expiration of sixty calendar days after its first official publication).
+Article 19. Report on actions with personal data
+
+      1. In the existence of condition on notification of subject on transfer of his (her) personal data to the third person, the owner and (or) operator shall notify on that the subject or his (her) legal representative during ten business days, unless otherwise provided by the Laws of the Republic of Kazakhstan.
+
+      2. Requirements of paragraph 1 of this Article shall not be distributed in the case of:
+
+      1) exercise functions, provided by the legislation of the Republic of Kazakhstan by the state bodies, as well as carrying out activity by the private notaries, private judicial enforcement agents and lawyers;
+
+      2) carrying out collection and processing of personal data in the statistical, sociological or scientific purposes.
+Chapter 3. PROTECTION OF PERSONAL DATA
+Article 20. Guarantee of protection of personal data
+
+      1. Personal data shall be subject to protection which is guaranteed by the state in the manner determined by the Government of the Republic of Kazakhstan.
+
+      2. Collection and processing of personal data shall be carried out only in the cases of ensuring of their protection.
+      Footnote. Article 20 as amended by Law No. 399-VI of the RK of 02.01.2021 (shall be enacted ten calendar days after the date of its first official publication).
+Article 21. Purposes of protection of personal data
+
+      Protection of personal data shall be carried out by application a set of measures, as well as legal, organizational and technical, for the purposes of:
+
+      1) exercise of rights of privacy, personal and family secret;
+
+      2) ensuring of their integrity and security;
+
+      3) observance of their confidentiality;
+
+      4) exercise of right of access to them;
+
+      5) prevention of illegal collection and processing.
+Article 22. Obligations of the owner and (or) operator, as well as third person on protection of personal data
+
+      1. The owner and/or operator, as well as the third party, must undertake the necessary measures to protect personal data under this Law and the procedure specified by the Government of the Republic of Kazakhstan, ensuring:
+
+      1) prevention of unauthorized access to the personal data;
+
+      2) timely detection of facts of unauthorized access to the personal data, if such unauthorized access could not prevent;
+
+      3) minimization of adverse consequences of unauthorized access to the personal data;
+
+      4) providing access for the state technical service to the software that use, store, process and disseminate personal data of limited access contained in electronic information resource to carry out a survey to ensure the security of the processes of storage, processing and dissemination of personal data of limited access contained in electronic information resources in a manner determined by the competent authority;
+
+      5) the registration and recording of actions under sub-paragraphs 3), 4), 5) and 6) of paragraph 4 of Article 8 of this Law.
+
+      2. Obligations of owner and (or) operator, as well as third person on protection of personal data shall arise from the date of collection of personal data and act up to the date of their destruction or depersonalization.
+      Footnote. Article 22 as amended by Law of the RK No. 399-VI of 02.01.2021 (shall come into force ten calendar days after its first official publication); No. 96-VII of 30.12.2021 (shall come into force sixty calendar days after the date of its first official publication).
+
+Article 23. Protection of electronic information resources containing personal data
+
+      Electronic information resources containing personal data shall be protected in compliance with this Law and the legislation of the Republic of Kazakhstan on informatization.
+      Footnote. Article 23 as reworded by Law of the RK No. 399-VI of 02.01.2021 (shall go into effect ten calendar days after the date of its first official publication).
+
+Article 23-1. Voluntary cyber-insurance
+
+      1. The goal of voluntary cyber-insurance shall be to compensate for property damage caused to the person, owner and/or operator, a third party pursuant to the legislation of the Republic of Kazakhstan on insurance and insurance activities.
+
+      2. Voluntary cyber-insurance shall be by expression of the will of the parties.
+
+      The types, terms and procedure of voluntary cyber-insurance shall be determined by agreement between the parties.
+      Footnote. Chapter 3 as supplemented by Article 23-1 in obedience to Law of the RK No. 347-VI dated 25.06.2020 (shall be enacted ten calendar days after the date of its first official publication).
+Chapter 4. RIGHTS AND OBLIGATIONS OF THE SUBJECT,
+OWNER AND (OR) OPERATOR
+Article 24. Rights and obligation of the subject
+
+      1. The subject shall have a right to:
+
+      1) know on existence of the owner and (or) operator, as well as third person of their personal data, as well as receive information, containing:
+
+      certification of the fact, purpose, resources, methods of collection and processing of personal data;
+
+      the list of personal data;
+
+      the terms of processing of personal data, as well as terms of their storage;
+
+      2) require the change and supplement of personal data from the owner and (or) operator in the existence of the grounds, approved by the relevant documents;
+
+      3) require blocking of personal data from the owner and (or) operator, as well as third person in the case of existence of information on violation of condition of collection, processing of personal data;
+
+      4) require destruction of personal data from the owner and (or) operator, as well as third person, collection and processing of which are carried out with violation of the legislation of the Republic of Kazakhstan, as well as in other persons, established by this Law and other regulatory legal acts of the Republic of Kazakhstan;
+
+      5) revoke consent for the collection, processing, dissemination to publicly accessible sources, transfer to third parties and cross-border transfer of personal data, unless specified in paragraph 2 of Article 8 of this Law;
+
+      6) give the consent (withdraw) to the owner and (or) operator for distribution of personal data in the publicly available sources of personal data;
+
+      7) protection of his (her) rights and legal interests, as well as compensation of moral and material damage;
+
+      8) exercise other rights, provided by this Law and other Laws of the Republic of Kazakhstan.
+
+      2. The subject shall be obliged to present his (her) personal data in the cases established by the Laws of the Republic of Kazakhstan.
+      Footnote. Article 24 as amended by Law of the RK No. 96-VII of 30.12.2021 (shall be put into effect upon expiration of sixty calendar days after its first official publication).
+Article 25. Rights and obligations of the owner and/or operator, the person responsible for organising the processing of personal data
+
+      Footnote. The title of Article 25 as reworded by Law of the RK No. 347-VI dated 25.06.2020 (shall be enacted ten calendar days after the day of its first official publication).
+
+      1. The owner and (or) operator shall have a right to carry out collection, processing of personal data in the manner established by this Law and other regulatory legal acts of the Republic of Kazakhstan.
+
+      2. The owner and (or) operator shall be obliged to:
+
+      1) approve the list of personal data, necessary and sufficient for performance of tasks carried out by them, unless otherwise provided by the Laws of the Republic of Kazakhstan;
+
+      1-1) adopt documents specifying the operator's policy on the collection, processing and protection of personal data;
+
+      2) accept and observe the necessary measures, as well as legal, organizational and technical for protection of personal data in accordance with the legislation of the Republic of Kazakhstan;
+
+      3) observe the legislation of the Republic of Kazakhstan on personal data and their protection;
+
+      3-1) upon the request of the competent authority, as part of the review of applications from natural and legal persons, supply information on the methods and procedures used to ensure the owner and/or operator's compliance with the requirements of this Law;
+
+      4) accept the measures on destruction of personal data in the case of achievement of purpose of their collection and processing, as well as in other cases, established by this Law and other regulatory legal acts of the Republic of Kazakhstan;
+
+      5) give evidence on obtaining the consent of the subject for collection and processing of his (her) personal data in the cases, provided by the legislation of the Republic of Kazakhstan;
+
+      6) upon the request of the individual, communicate information relating to him or her within the time limits stipulated by the legislation of the Republic of Kazakhstan;
+
+      7) in the event of refusal to provide information, the individual or his/her legal representative shall submit a reasoned response within the deadline specified by the legislation of the Republic of Kazakhstan;
+
+      8) during one business day:
+
+      change and (or) supplement the personal data on the basis of relevant documents, approving their reliability, or destroy the personal data upon impossibility of their change and (or) supplement;
+
+      block the personal data, relating to the subject, in the case of existence of information on violation of conditions of their collection, processing;
+
+      destroy the personal data in the case of detection of fact of their collection, processing with violation of the legislation of the Republic of Kazakhstan, as well as in other cases, established by this Law and other regulatory legal acts of the Republic of Kazakhstan;
+
+      withdraw blocking of personal data in the case of disconfirmation of the fact of violation of conditions of collection, processing of personal data;
+
+      9) provide the person or his/her legal representative with access to personal data relating to that person, free of charge;
+
+      10) appoint a person responsible for organising the processing of personal data, if the owner and/or operator is a legal entity.
+
+      Sub-paragraph 10) of the first part of this paragraph shall not apply to the processing of personal data in court proceedings.
+
+      3. The person responsible for the organisation of personal data processing shall be obliged to:
+
+      1) exercise internal control over the observance by the owner and/or operator and its employees of the legislation of the Republic of Kazakhstan on personal data and its protection, including requirements for the protection of personal data;
+
+      2) inform employees of the owner and/or operator on the provisions of the legislation of the Republic of Kazakhstan on personal data and their protection on the processing of personal data, the requirements for the protection of personal data;
+
+      3) supervise the reception and processing of appeals from persons or their legal representatives.
+      Footnote. Article 25 as amended by Law of the RK No. 347-VI dated 25.06.2020 (shall be enacted upon expiry of ten calendar days after its first official publication); No. 96-VII of 30.12.2021 (shall enter into force sixty calendar days after the date of its first official publication).
+Chapter 5. THE STATE REGULATION IN THE SCOPE OF PERSONAL
+DATA AND THEIR PROTECTION
+Article 26. The competence of the Government of the Republic of Kazakhstan
+
+      The Government of the Republic of Kazakhstan shall:
+
+      1) develop the basic directions of the state policy in the scope of personal data and their protection;
+
+      2) carry out management of activity of central executive bodies, including in the structure of the Government of the Republic of Kazakhstan, local executive bodies, in the scope of personal data and their protection;
+
+      3) approve procedure of determination of the list of personal data by the owner and (or) operator, necessary and sufficient for performance of tasks, carrying out by them;
+
+      4) approve procedure of implementation of measures on protection of personal data by the owner and (or) operator, as well as third person;
+
+      5) exercise other functions, imposed to it by the Constitution, the Laws of the Republic of Kazakhstan and acts of the President of the Republic of Kazakhstan.
+Article 27. The competence of the state bodies
+
+      The state bodies within their competence shall:
+
+      1) develop and (or) approve the regulatory legal acts in the scope of personal data and their protection;
+
+      2) consider applications of individuals and (or) legal entities on issues of personal data and their protection;
+
+      3) take measures on bringing of persons, committed violation of the legislation of the Republic of Kazakhstan on personal data and their protection to the responsibility, established by the Laws of the Republic of Kazakhstan;
+
+      4) exercise other powers, provided by the Laws of the Republic of Kazakhstan, acts of the President of the Republic of Kazakhstan and the Government of the Republic of Kazakhstan.
+Article 27-1. Competence of the competent authority
+
+      1. Within its competence, the competent authority shall:
+
+      1) participate in the implementation of state policy on personal data and their protection;
+
+      2) develop procedures for the implementation of personal data protection measures by the owner and/or operator, as well as by a third party;
+
+      2-1) develop the rules for the owner and/or operator to determine the list of personal data necessary and sufficient for the performance of their objectives;
+
+      3) consider appeals of the person or his/her legal representative regarding the compliance of the content of personal data and the means of processing it with the purposes of its processing and make a decision in this regard;
+
+      4) take measures to bring persons who have violated the legislation of the Republic of Kazakhstan on personal data and its protection to justice as prescribed by the laws of the Republic of Kazakhstan;
+
+      5) require the owner and/or operator, as well as third parties, to clarify, block or destroy unreliable or illegally obtained personal data;
+
+      6) implement measures aimed at improving the protection of the persons’ rights;
+
+      6-1) establish an advisory council on personal data and their protection, and outline the procedure for its formation and operation;
+
+      7) approve the rules for the collection and processing of personal data;
+
+      7-1) approve the rules for the survey of the security of the storage, processing and dissemination of restricted personal data contained in electronic information resources, in coordination with the National Security Committee of the Republic of Kazakhstan;
+
+      7-2) endorse the operating rules of the state service for the control of access to personal data;
+
+      7-3) agree on the integration of non-state information objects with the information objects of public authorities and (or) state legal entities, where personal data is transferred and (or) access to personal data is granted;
+
+      7-4) adopts regulations for integration with the government's personal data access control service;
+
+      8) exercise other powers stipulated by this Law, other laws of the Republic of Kazakhstan, acts of the President of the Republic of Kazakhstan and the Government of the Republic of Kazakhstan.
+
+      2. Personal data that become known to the competent authority in the course of its activities shall be kept confidential.
+      Footnote. Chapter 5 as supplemented by Article 27-1 in compliance with Law of the RK No. 347-VI dated 25.06.2020 (shall be enacted upon expiration of ten calendar days after its first official publication); as amended by Law of the RK No. 399-VI dated 02.01.2021 (shall come into force upon expiration of ten calendar days after its first official publication); No. 96-VII of 30.12.2021 (shall enter into force sixty calendar days after the date of its first official publication).
+Article 28. Supervision of application of this Law
+
+      1. The bodies of the Prosecutor’s Office exercise supreme supervision over compliance with the law in the field of personal data and their protection.
+
+      2. The acts of procuracy supervision, made on the basis and in the manner established by the Law of the Republic of Kazakhstan “On Prosecutor's office”, are compulsory for all types of bodies, organizations, civil servants and citizens.
+      Footnote. Article 28 as amended by the Law of the Republic of Kazakhstan dated 11.07.2017 № 91-VI (shall be enforced upon expiry of ten calendar days after the day its first official publication).
+Chapter 6. FINAL AND TRANSITIONAL PROVISIONS
+Article 29. Responsibility for violation of the legislation of the Republic of Kazakhstan on personal data and their protection
+
+      Violation of the legislation of the Republic of Kazakhstan on personal data and their protection shall entail responsibility in accordance with the Laws of the Republic of Kazakhstan.
+Article 30. Procedure of appeal and consideration of disputes
+
+      Actions (omission) of subject, owner and (or) operator, as well as third person upon collection, processing and protection of personal data may be appealed in the manner established by the Laws of the Republic of Kazakhstan.
+
+      Disputes arising upon collection, processing and protection of personal data shall subject to consideration in the manner established by the Laws of the Republic of Kazakhstan.
+Article 31. The order of enforcement of this Law
+
+      1. This Law shall be enforced upon expiry of six months after its first official publication.
+
+      2. The owners and (or) operators shall be obliged to bring the regulatory legal acts and other documents into compliance with the requirements of this Law during three months from the date of enforcement of this Law.
+
+      3. Collection, processing of personal data, carried out according to the legislation of the Republic of Kazakhstan shall be recognized as relevant to the requirements of this Law before enforcement of this Law, if their further processing and protection correspond to the purposes of their collection.
+
+      The President
+of the Republic of Kazakhstan 	N.Nazarbayev

@@ -1,1106 +1,751 @@
-Väljaandja: Riigikogu
-Akti liik: seadus
-Teksti liik: algtekst
-Avaldamismärge: RT I 1996, 48, 944
+Isikuandmete kaitse seadus1
 
-Isikuandmete kaitse seadus
+Vastu võetud 15.02.2007
 
-Vastu võetud 12.06.1996
+	Välja kuulutatud
+Vabariigi Presidendi 7. märtsi 2007. a otsusega nr 128
 
+1. peatükk
+ÜLDSÄTTED
 
- 
- 
-  
- Välja kuulutatud 
-Vabariigi Presidendi 28. juuni 1996. a 
- otsusega nr 747
- 
- 
- 
- 
- 
-
-
- 1. peatükk. ÜLDSÄTTED
- 
- 
-
+§ 1. Seaduse reguleerimisala ja eesmärk
 
- § 1. Seaduse eesmärk
- 
- 
-
+(1) Seaduse eesmärk on kaitsta isikuandmete töötlemisel füüsilise isiku põhiõigusi ja -vabadusi, eelkõige õigust eraelu puutumatusele.
 
- Käesoleva seaduse eesmärk on isiku põhiõiguste ja vabaduste kaitsmine 
- isikuandmete töötlemisel kooskõlas isiku õigusega vabalt saada üldiseks 
- kasutamiseks levitatavat teavet.
- 
- 
-
+(2) Seadus sätestab:
+1) isikuandmete töötlemise tingimused ja korra;
+2) isikuandmete töötlemise riikliku järelevalve korra;
+3) vastutuse isikuandmete töötlemise nõuete rikkumise eest.
 
- § 2. Seaduse kohaldamise ala
- 
- 
+§ 2. Seaduse kohaldamine
 
+(1) Käesolevat seadust ei kohaldata, kui:
+1) isikuandmeid töötleb füüsiline isik isiklikul otstarbel;
+2) isikuandmeid üksnes edastatakse läbi Eesti territooriumi, ilma et neid andmeid Eestis muul viisil töödeldaks.
 
- (1) Käesolevat seadust kohaldatakse isikuandmete:
-1) täielikult 
- või osaliselt automatiseeritud töötlemisel;
-2) mitteautomatiseeritud 
- töötlemisel, kui kasutatavad isikuandmed võetakse isikuandmete 
- korrastatud kogumist või on ette nähtud kasutatavate andmete kandmine 
- isikuandmete korrastatud kogumisse.
- 
- 
+(2) Käesolevat seadust kohaldatakse kriminaalmenetlusele ja kohtumenetlusele menetlusseadustikes sätestatud erisustega.
 
+(3) Käesolevat seadust kohaldatakse isikuandmeid sisaldava riigisaladuse töötlemisele, kui see tuleneb:
+1) 1990. aasta 19. juulil allakirjutatud konventsioonist, millega rakendatakse 14. juuni 1985. aasta Beneluxi Majandusliidu riikide, Saksamaa Liitvabariigi ja Prantsuse Vabariigi valitsuste vahel sõlmitud Schengeni lepingut kontrolli järkjärgulise kaotamise kohta nende ühispiiridel (Schengeni konventsioon) või
+2) 1995. aasta 26. juulil vastuvõetud Euroopa Liidu lepingu artiklil K.3 põhinevast Euroopa Politseiameti konventsioonist (Europoli konventsioon).
 
- (2) Käesolevat seadust ei kohaldata:
-1) füüsilise isiku 
- enda poolt kogutud isikuandmete töötlemisele isiklikuks otstarbeks;
-2) riigisaladust 
- sisaldavate isikuandmete töötlemisele.
- 
- 
+§ 3. Haldusmenetluse seaduse kohaldamine
 
+Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.
 
- § 3. Isikuandmete kaitse tagamine
- 
- 
+§ 4. Isikuandmed
 
-
- (1) Isikuandmete kaitse tagatakse vastutava töötleja ja volitatud 
- töötleja kohustusega:
-1) töödelda isikuandmeid käesolevas 
- seaduses lubatud eesmärkidel ja tingimustel;
-2) täita 
- isikuandmete töötlemise nõudeid ja kaitse abinõusid käesolevas seaduses 
- sätestatud korras;
-3) registreerida delikaatsete isikuandmete 
- töötlemine vastavalt käesolevale seadusele.
- 
- 
+(1) Isikuandmed on mis tahes andmed tuvastatud või tuvastatava füüsilise isiku kohta, sõltumata sellest, millisel kujul või millises vormis need andmed on.
 
+(2) Delikaatsed isikuandmed on:
+1) poliitilisi vaateid, usulisi ja maailmavaatelisi veendumusi kirjeldavad andmed, välja arvatud andmed seadusega ettenähtud korras registreeritud eraõiguslike juriidiliste isikute liikmeks olemise kohta;
+2) etnilist päritolu ja rassilist kuuluvust kirjeldavad andmed;
+3) andmed terviseseisundi või puude kohta;
+4) andmed pärilikkuse informatsiooni kohta;
+5) biomeetrilised andmed (eelkõige sõrmejälje-, peopesajälje- ja silmaiirisekujutis ning geeniandmed);
+6) andmed seksuaalelu kohta;
+7) andmed ametiühingu liikmelisuse kohta;
+8) andmed süüteo toimepanemise või selle ohvriks langemise kohta enne avalikku kohtuistungit või õigusrikkumise asjas otsuse langetamist või asja menetluse lõpetamist.
 
- (2) Isikuandmete kaitse tagatakse ka isiku õigusega käesolevas seaduses 
- sätestatud korras:
-1) anda nõusolek oma isikuandmete 
- töötlemiseks;
-2) saada teavet oma isikuandmete töötlemisest;
-3) keelata 
- oma isikuandmete töötlemine.
- 
- 
+§ 5. Isikuandmete töötlemine
 
-
- § 4. Isikuandmed
- 
- 
+Isikuandmete töötlemine on iga isikuandmetega tehtav toiming, sealhulgas isikuandmete kogumine, salvestamine, korrastamine, säilitamine, muutmine ja avalikustamine, juurdepääsu võimaldamine isikuandmetele, päringute teostamine ja väljavõtete tegemine, isikuandmete kasutamine, edastamine, ristkasutamine, ühendamine, sulgemine, kustutamine või hävitamine, või mitu eelnimetatud toimingut, sõltumata toimingute teostamise viisist ja kasutatavatest vahenditest.
 
+§ 6. Isikuandmete töötlemise põhimõtted
 
- (1) Isikuandmed on kõik andmed üheselt tuvastatud, samuti otseselt või 
- kaudselt üheselt tuvastatava füüsilise isiku kohta, mis väljendavad 
- selle isiku füüsilisi, psüühilisi, psühholoogilisi, majanduslikke, 
- kultuurilisi või sotsiaalseid omadusi, suhteid ja kuuluvust.
- 
- 
-
-
- (2) Isikuandmed käesoleva seaduse mõistes on kas delikaatsed või 
- mittedelikaatsed isikuandmed.
- 
- 
-
-
- (3) Delikaatsed isikuandmed on:
-1) poliitilisi vaateid, usulisi 
- ja filosoofilisi veendumusi kirjeldavad andmed;
-2) etnilist päritolu 
- ja rassilist kuuluvust kirjeldavad andmed;
-3) andmed tervisliku 
- seisundi ja seksuaalelu kohta;
-4) andmed toimepandud kuritegude ja 
- kohtulike karistuste kohta;
-5) andmed kriminaalmenetluse kohta.
- 
- 
-
-
- (4) Delikaatsete isikuandmete loetelu võib täiendada vastavat valdkonda 
- reguleeriva seadusega.
- 
- 
-
-
- (5) Füüsilise isiku kohta kogutud statistilised andmed ei ole 
- isikuandmed, kui puudub võimalus isikut, kelle kohta need andmed on 
- kogutud, üheselt tuvastada.
- 
- 
-
-
- § 5. Isikuandmete töötlemine
- 
- 
-
-
- Isikuandmete töötlemine on isikuandmete kogumine, salvestamine, 
- korrastamine, säilitamine, muutmine, päringute teostamine, väljavõtete 
- tegemine, kasutamine, üleandmine, ühendamine, sulgemine, kustutamine või 
- hävitamine või mitu eeltoodud toimingut, sõltumata toimingute teostamise 
- viisist või kasutatavatest vahenditest.
- 
- 
-
-
- § 6. Vastutav töötleja ja volitatud töötleja
- 
- 
-
-
- (1) Vastutav töötleja on füüsiline või juriidiline isik või riigi- või 
- kohaliku omavalitsuse asutus, kes töötleb või kelle tellimisel 
- töödeldakse isikuandmeid ning kes on käesolevast seadusest, muudest 
- seadustest ja nende alusel kehtestatud õigusaktidest juhindudes pädev 
- otsustama:
-1) isikuandmete töötlemise eesmärgid;
-2) töödeldavate 
- isikuandmete koosseisu;
-3) isikuandmete töötlemise korra ja viisi;
-4) isikuandmete 
- kolmandatele isikutele üleandmise lubamise.
- 
- 
-
-
- (2) Volitatud töötleja on füüsiline või juriidiline isik või riigi- või 
- kohaliku omavalitsuse asutus, kes töötleb isikuandmeid vastutava 
- töötleja tellimisel.
- 
- 
-
-
- § 7. Kolmas isik
- 
- 
-
-
- (1) Kolmas isik on füüsiline või juriidiline isik või riigi- või 
- kohaliku omavalitsuse asutus, kes ei ole:
-1) volitatud töötleja;
-2) isik, 
- kelle isikuandmeid töödeldakse;
-3) isik, kes vastutava või 
- volitatud töötleja alluvuses töötleb isikuandmeid.
- 
- 
-
-
- (2) Kolmas isik, kes töötleb talle vastutava töötleja poolt üleantud 
- isikuandmeid, on vastavalt käesoleva seaduse § 6 lõikele 1 vastutav 
- töötleja ning ta on kohustatud täitma käesoleva seaduse, muude seaduste 
- ja nende alusel kehtestatud õigusaktide nõudeid isikuandmete töötlemisel.
- 
- 
-
-
- 
- 
- 
- 2. peatükk. ISIKUANDMETE TÖÖTLEMISE LUBATAVUS
- 
- 
-
-
- § 8. Mittedelikaatsete isikuandmete töötlemise lubatavus
- 
- 
-
-
- (1) Mittedelikaatsete isikuandmete töötlemine on lubatud ilma isiku 
- nõusolekuta, kui töötlemise eesmärk on:
-1) isikuga 
- sõlmitud lepingu täitmine või tööde teostamine, mis toimub isiku 
- tellimisel;
-2) isiku elu, tervise või vabaduse kaitse;
-3) seaduse 
- või välislepinguga ettenähtud kohustuste täitmine;
-4) avalikku 
- huvi silmas pidava ülesande täitmine, mis on seaduse või selle alusel 
- kehtestatud õigusaktiga pandud vastutavale töötlejale või kolmandale 
- isikule, kellele andmed üle antakse;
-5) üldiste huvide või 
- vastutava töötleja õigustatud huvide või kolmanda isiku, kellele andmed 
- üle antakse, õigustatud huvide arvestamine, kui isiku huvid ei ole 
- olulisemad.
- 
- 
-
-
- (2) Käesoleva paragrahvi lõikes 1 loetletud eesmärkidel töödeldavate 
- mittedelikaatsete isikuandmete üleandmine kolmandale isikule on lubatud, 
- kui nende töötlemine, sealhulgas kasutamine kolmanda isiku poolt, toimub 
- samadel eesmärkidel. Kui mittedelikaatsete isikuandmete töötlemine, 
- sealhulgas nende kasutamine kolmanda isiku poolt, ei toimu samadel 
- eesmärkidel, on nende üleandmine lubatud ainult isiku nõusolekul.
- 
- 
-
-
- (3) Eesmärkidel, mis ei ole loetletud käesoleva paragrahvi lõikes 1, on 
- isikuandmete töötlemine, sealhulgas nende üleandmine kolmandale isikule, 
- lubatud, kui selleks on isiku nõusolek ja töötlemine ei ole vastuolus 
- seaduse ning selle alusel kehtestatud õigusaktiga.
- 
- 
-
-
- § 9. Delikaatsete isikuandmete töötlemise lubatavus
- 
- 
-
-
- (1) Eesti kodaniku ja alalise elamisloa alusel Eestis viibiva 
- välismaalase usulisi, poliitilisi ja muid veendumusi kirjeldavate 
- delikaatsete isikuandmete töötlemine, sealhulgas nende üleandmine 
- kolmandale isikule, on lubatud ainult isiku nõusolekul. Muudel juhtudel 
- on isiku usulisi, poliitilisi ja muid veendumusi kirjeldavate 
- delikaatsete isikuandmete töötlemine, sealhulgas nende üleandmine 
- kolmandale isikule, lubatud:
-1) ilma isiku nõusolekuta, kui 
- töötlemine toimub seadusega ettenähtud kohustuse täitmiseks;
-2) isiku 
- nõusolekul, kui töötlemine ei ole vastuolus seaduse ja selle 
- alusel kehtestatud õigusaktiga.
- 
- 
-
-
- (2) Etnilist päritolu ja rassilist kuuluvust, tervislikku seisundit ja 
- seksuaalelu kirjeldavate delikaatsete isikuandmete töötlemine on lubatud 
- ilma isiku nõusolekuta, kui töötlemine toimub:
-1) seadusega 
- ettenähtud kohustuse täitmiseks;
-2) isiku elu, tervise ja 
- vabaduse kaitseks;
-3) avalikku või üldist huvi silmas pidava ülesande 
- täitmiseks, mis on seadusega pandud vastutavale töötlejale või 
- kolmandale isikule, kellele andmed üle antakse.
- 
- 
-
-
- (3) Isikuandmete töötlemine seoses toimepandud kuritegude, kohtulike 
- karistuste ja kriminaalmenetlusega on lubatud ilma isiku nõusolekuta, 
- kui töötlemine toimub:
-1) seadusega ettenähtud kohustuse 
- täitmiseks;
-2) avalikku või üldist huvi silmas pidava ülesande 
- täitmiseks, mis on seadusega pandud vastutavale töötlejale või 
- kolmandale isikule, kellele andmed üle antakse.
- 
- 
-
-
- (4) Muudel juhtudel on käesoleva paragrahvi lõigetes 2 ja 3 loetletud 
- delikaatsete isikuandmete töötlemine lubatud, kui selleks on isiku 
- nõusolek ja töötlemine ei ole vastuolus seaduse ning selle alusel 
- kehtestatud õigusaktiga.
- 
- 
-
-
- (5) Delikaatsete isikuandmete töötlemise lubatavuse täpsemad tingimused 
- sätestatakse vastavat valdkonda reguleeriva seadusega.
- 
- 
-
-
- § 10. Isiku nõusolek
- 
- 
-
-
- (1) Isiku nõusolek on selgelt väljendatud tahteavaldus, millega isik 
- lubab oma isikuandmete töötlemist pärast seda, kui teda on teavitatud:
-1) isikuandmete 
- töötlemise eesmärgist ja õiguslikust alusest;
-2) isikuandmete 
- koosseisust ja allikast;
-3) kolmandatest isikutest või nende 
- kategooriatest, kellele isikuandmete üleandmine on lubatud;
-4) üldiseks 
- kasutamiseks antavate isikuandmete loetelust;
-5) vastutava töötleja 
- või tema esindaja nimest ja aadressist.
- 
- 
-
-
- (2) Nõusolek kehtib konkreetse töötlemisjuhu suhtes, peab olema antud 
- vabatahtlikult ja võib olla isiku poolt igal ajal tagasi võetud. 
- Nõusoleku tagasivõtmisel ei ole tagasiulatuvat jõudu.
- 
- 
-
-
- 3. peatükk. ISIKUANDMETE TÖÖTLEMISE NÕUDED JA KAITSE ABINÕUD
- 
- 
-
-
- § 11. Isikuandmete töötlemise nõuded
- 
- 
-
-
- Vastutav töötleja ja volitatud töötleja on kohustatud isikuandmeid 
- töötlema ainult täpselt kindlaksmääratud ja käesolevas seaduses lubatud 
- eesmärkidel ja tingimustel ning tagama, et:
-1) isikuandmete 
- koosseis vastaks töötlemise eesmärkidele ega ületaks nende eesmärkide 
- saavutamise vajadusi;
-2) eesmärkide saavutamiseks mittevajalikud 
- isikuandmed kustutatakse või suletakse;
-3) isikuandmed on 
- õiged ja, kui see on eesmärkide saavutamiseks vajalik, viimases seisus;
-4) mittetäielikud 
- ja ebaõiged isikuandmed suletakse ning nende täiendamiseks ja 
- parandamiseks võetakse kohe kasutusele vajalikud abinõud;
-5) ebaõiged 
- andmed säilitatakse märkusega nende kasutamise aja kohta koos õigete 
- andmetega;
-6) isikuandmed, mille õigsus on vaidlustatud, suletakse 
- kuni andmete õigsuse kindlakstegemiseni või õigete andmete 
- väljaselgitamiseni.
- 
- 
-
-
- § 12. Isikuandmete kaitse organisatsioonilised ja tehnilised abinõud
- 
- 
-
-
- (1) Vastutav töötleja ja volitatud töötleja on kohustatud, lähtudes 
- töödeldavate isikuandmete koosseisust, kasutusele võtma 
- organisatsioonilised ja tehnilised abinõud isikuandmete kaitseks:
-1) juhusliku 
- või tahtliku rikkumise eest;
-2) juhusliku hävimise ja tahtliku 
- hävitamise eest;
-3) omavolilise korrastamise, üleandmise või muu 
- töötlemise eest.
- 
- 
-
-
- (2) Vastutav töötleja ja volitatud töötleja on isikuandmete 
- automatiseeritud töötlemisel kohustatud:
-1) vältima 
- kõrvaliste isikute ligipääsu isikuandmete töötlemiseks kasutatavatele 
- seadmetele (ligipääsu kontroll);
-2) takistama andmekandjate 
- omavolilist lugemist, kopeerimist, muutmist või kaasaviimist 
- (andmekandjate kasutamise kontroll);
-3) takistama isikuandmete 
- omavolilist salvestamist ja salvestatud isikuandmete muutmist või 
- kustutamist (salvestuskontroll) ning tagama, et tagantjärele oleks 
- võimalik kindlaks teha, millal, kelle poolt ja milliseid isikuandmeid 
- muudeti;
-4) takistama andmetöötlussüsteemi omavolilist kasutamist 
- isikuandmete ülekandmiseks andmesidevahendite abil (andmeside kontroll);
-5) tagama, 
- et igal andmetöötlussüsteemi kasutajal oleks juurdepääs ainult temale 
- töötlemiseks lubatud isikuandmetele (juurdepääsu kontroll);
-6) säilitama 
- andmed isikuandmete üleandmise kohta: millal, kellele ja millised 
- isikuandmed üle anti (üleandmise kontroll);
-7) tagama, et 
- tagantjärele oleks võimalik kindlaks teha, millal, kelle poolt ja 
- millised isikuandmed andmetöötlussüsteemi sisestati (sisestuskontroll);
-8) tagama, 
- et isikuandmete edasiandmisel andmesidevahenditega ja andmekandjate 
- transportimisel ei toimuks isikuandmete omavolilist lugemist, 
- kopeerimist, muutmist või kustutamist (transpordi kontroll);
-9) kujundama 
- ettevõtte, asutuse või organisatsiooni töökorralduse niisuguseks, et see 
- võimaldaks täita andmekaitse erinõudeid (organisatsiooni kontroll).
- 
- 
-
-
- (3) Vastutav töötleja ja volitatud töötleja on kohustatud tutvustama oma 
- alluvuses isikuandmeid töötlevaid isikuid isikuandmete töötlemist 
- reguleerivate õigusaktidega ning isikuandmete automatiseeritud 
- töötlemise korral korraldama nimetatud isikute väljaõpet.
- 
- 
-
-
- § 13. Nõuded volitatud töötleja valikul
- 
- 
-
-
- Vastutav töötleja on kohustatud valima tellimuse täitjaks sellise 
- volitatud töötleja, kes tagab isikuandmete kaitse organisatsioonilised 
- ja tehnilised abinõud vastavalt käesoleva seaduse §-le 12.
- 
- 
-
-
- § 14. Isikuandmete töötlemiseks sõlmitud lepingus arvestatavad nõuded
- 
- 
-
-
- (1) Isikuandmete töötlemiseks sõlmib vastutav töötleja volitatud 
- töötlejaga kirjaliku lepingu, milles järgitakse käesoleva seaduse, muude 
- seaduste ja nende alusel kehtestatud õigusaktide nõudeid.
- 
- 
-
-
- (2) Lepingus sätestatakse, et volitatud töötleja on kohustatud:
-1) isikuandmeid 
- töötlema ainult lepingus määratud korras, viisil ja tingimustel;
-2) kasutusele 
- võtma ettenähtud isikuandmete kaitse tehnilised ja organisatsioonilised 
- abinõud;
-3) sõlmima alltöövõtulepinguid ainult lepingus lubatud 
- tingimustel.
- 
- 
-
-
- (3) Lepingus nähakse ette poolte vastutus lepinguliste kohustuste 
- täitmata jätmise eest.
- 
- 
-
-
- (4) Volitatud töötlejal on keelatud kolmandatele isikutele 
- lepinguväliselt üle anda lepingu täitmiseks töödeldavaid isikuandmeid, 
- välja arvatud juhud, kui:
-1) selleks on vastutava töötleja 
- kirjalik nõusolek;
-2) üleandmise kohustus on ette nähtud 
- seadusega.
- 
- 
-
-
- § 15. Nõuded isikuandmeid töötlevatele isikutele
- 
- 
-
-
- (1) Isik, kes vastutava või volitatud töötlejana ise töötleb, ning 
- isikud, kes vastutava või volitatud töötleja alluvuses töötlevad 
- isikuandmeid, on kohustatud neid töötlema, sealhulgas üle andma, 
- käesolevas seaduses lubatud eesmärkidel ja tingimustel.
- 
- 
-
-
- (2) Käesoleva paragrahvi lõikes 1 nimetatud isikud on kohustatud hoidma 
- saladuses neile tööülesannete täitmisel teatavaks saanud isikuandmeid, 
- mida pole antud üldiseks kasutamiseks, ning ärisaladust ka pärast 
- töötlemisega seotud tööülesannete täitmist või töö- või teenistussuhte 
- lõppemist.
- 
- 
-
-
- § 16. Isikuandmete töötlemise dokumenteerimine
- 
- 
-
-
- (1) Vastutav töötleja on kohustatud koostama, hoidma töötlemiskohas ja 
- käesolevas seaduses ettenähtud juhtudel esitama:
-1) põhiandmestiku 
- isikuandmete töötlemise kohta;
-2) töötlemisel kasutatavate 
- seadmete ja vahendite loetelu (isikuandmete automatiseeritud 
- töötlemisel);
-3) isikuandmete kaitse organisatsioonilised 
- ja tehnilised abinõud.
- 
- 
-
-
- (2) Ärakirjad käesoleva paragrahvi lõikes 1 nimetatud dokumentidest on 
- hoiul volitatud töötleja juures, kes on kohustatud need esitama 
- käesolevas seaduses ettenähtud juhtudel.
- 
- 
-
-
- (3) Põhiandmestik isikuandmete töötlemise kohta peab sisaldama järgmisi 
- andmeid:
-1) vastutava ja volitatud töötleja nimi, asu- või elukoht;
-2) isikuandmete 
- töötlemise eesmärgid ja õiguslik alus;
-3) isikuandmete 
- koosseis;
-4) isikute kategooriad, kelle andmeid töödeldakse;
-5) isikuandmete 
- allikad;
-6) kolmandad isikud või nende kategooriad, kellele 
- isikuandmete üleandmine on lubatud;
-7) üldiseks kasutamiseks 
- antavate isikuandmete loetelu;
-8) isikuandmete sulgemise ja 
- kustutamise tingimused;
-9) isikuandmete välisriikidesse üleandmise 
- tingimused.
- 
- 
-
-
- (4) Seadmete ja vahendite loetelu peab sisaldama järgmisi andmeid:
-1) kasutatava 
- seadme nimetus, tüüp, number ja asukoht ning selle seadme valmistanud 
- ettevõtte nimi;
-2) kasutatava tarkvara nimetus, litsentsi number 
- ning tarkvara valmistanud ettevõtte nimi;
-3) kasutatava tarkvara 
- ja vastavate dokumentide asukoht.
- 
- 
-
-
- (5) Isikuandmete kaitse organisatsioonilistes ja tehnilistes abinõudes 
- kirjeldatakse üksikasjalikult käesoleva seaduse §-s 12 sätestatud nõuete 
- täitmist.
- 
- 
-
-
- (6) Kui isikuandmete töötlemine toimub volitatud töötleja poolt, võib 
- seadmete ja vahendite loetelu ning isikuandmete kaitse 
- organisatsioonilised ja tehnilised abinõud koostada volitatud töötleja.
- 
- 
-
-
- (7) Täiendused käesoleva paragrahvi lõikes 1 loetletud dokumentides 
- tehakse enne vastavate muudatuste rakendamist isikuandmete töötlemisel.
- 
- 
-
-
- 4. peatükk. DELIKAATSETE ISIKUANDMETE TÖÖTLEMISE REGISTREERIMINE
- 
- 
-
-
- § 17. Registreerimiskohustus
- 
- 
-
-
- (1) Vastutav töötleja on kohustatud registreerima delikaatsete 
- isikuandmete töötlemise andmekaitse järelevalveasutuses.
- 
- 
-
-
- (2) Vastutav töötleja, kes taotleb tegevusluba või litsentsi 
- tegevusalal, millega kaasneb delikaatsete isikuandmete töötlemine, on 
- kohustatud tegevusloa või litsentsi taotlemisel esitama andmekaitse 
- järelevalveasutuse dokumendi delikaatsete isikuandmete töötlemise 
- registreerimise kohta.
- 
- 
-
-
- § 18. Registreerimistaotlus
- 
- 
-
-
- (1) Registreerimistaotlus esitatakse vähemalt üks kuu enne delikaatsete 
- isikuandmete töötlemise algust. Vastutav töötleja võib mitme sama või 
- seotud eesmärgiga delikaatsete isikuandmete töötlemise registreerimiseks 
- esitada ühise registreerimistaotluse.
- 
- 
-
-
- (2) Registreerimistaotlusele, milles märgitakse vastutava töötleja nimi 
- ja aadress ning volitatud töötleja olemasolul ka viimase nimi ja 
- aadress, lisatakse:
-1) põhiandmestik delikaatsete isikuandmete 
- töötlemise kohta vastavalt käesoleva seaduse § 16 lõikele 3;
-2) isikuandmete 
- kaitse organisatsioonilised ja tehnilised abinõud vastavalt käesoleva 
- seaduse §-le 12;
-3) juriidilisest isikust vastutava 
- töötleja omanike (aktsionäride) nimed ja isikukoodid, kui vastutav 
- töötleja ei ole riigi või kohaliku omavalitsuse ametiasutus.
- 
- 
-
-
- § 19. Registreerimise otsustamine
- 
- 
-
-
- (1) Andmekaitse järelevalveasutus otsustab 15 tööpäeva jooksul, arvates 
- registreerimistaotluse saamise päevast, töötlemise registreerimise või 
- registreerimisest keeldumise ja teatab sellest vastutavale töötlejale 
- või tema esindajale. Registreerimisest keeldumine peab olema põhjendatud.
- 
- 
-
-
- (2) Andmekaitse järelevalveasutus keeldub delikaatsete isikuandmete 
- töötlemise registreerimisest, kui:
-1) delikaatsete 
- isikuandmete töötlemine on vastuolus käesoleva seaduse, muude seaduste 
- ja nende alusel kehtestatud õigusaktidega;
-2) isikuandmete 
- kaitse organisatsioonilised ja tehnilised abinõud ei taga käesoleva 
- seaduse §-s 12 sätestatud nõuete täitmist;
-3) registreerimistaotlus 
- ja sellele lisatud dokumendid ei sisalda registreerimiseks vajalikke 
- andmeid.
- 
- 
-
-
- (3) Kui delikaatsete isikuandmete töötlemine on eriti ohtlik isiku 
- õigustele ja vabadustele, on andmekaitse järelevalveasutus kohustatud 
- kontrollima kohapeal ettevalmistusi delikaatsete isikuandmete 
- töötlemiseks. Sel juhul pikeneb registreerimisest või sellest 
- keeldumisest teatamise tähtaeg 10 tööpäeva võrra. Kontrollimise 
- tulemusena võib andmekaitse järelevalveasutus anda soovitusi täiendavate 
- isikuandmete kaitse organisatsiooniliste ja tehniliste 
- abinõude rakendamiseks.
- 
- 
-
-
- § 20. Andmete muutmisest ja täiendamisest teatamine
- 
- 
-
-
- Vastutav töötleja on kohustatud käesoleva seaduse § 18 lõikes 2 
- nimetatud andmete muutmisest või täiendamisest teatama andmekaitse 
- järelevalveasutusele 15 tööpäeva jooksul enne vastavate muudatuste ja 
- täienduste rakendamist. Andmekaitse järelevalveasutusel on õigus keelata 
- vastavate muudatuste ja täienduste rakendamine, kui need ei ole 
- kooskõlas käesoleva seaduse, muude seaduste ja nende alusel kehtestatud 
- õigusaktidega.
- 
- 
-
-
- 
- 
- 
- 5. peatükk. ISIKU ÕIGUSED
- 
- 
-
-
- § 21. Isiku õigus saada teavet enne isikuandmete kogumist
- 
- 
-
-
- (1) Kui isikuandmete töötlemiseks on vaja isiku nõusolekut, teavitab 
- vastutav töötleja või tema esindaja teda enne isikuandmete kogumist 
- vastavalt käesoleva seaduse § 10 lõikele 1.
- 
- 
-
-
- (2) Käesoleva seaduse § 10 lõikes 1 nimetatud andmete muutmisest või 
- täiendamisest on vastutav töötleja või tema esindaja kohustatud isikut 
- teavitama vähemalt 15 tööpäeva enne vastavate muudatuste või täienduste 
- rakendamist. Isikul on õigus keelata nimetatud muudatuste ja täienduste 
- rakendamine.
- 
- 
-
-
- § 22. Isiku õigus saada teavet ja tema kohta käivaid 
- isikuandmeid isikuandmete töötlemisel
- 
- 
-
-
- (1) Isiku soovil teavitab vastutav töötleja teda:
-1) tema 
- kohta käivate isikuandmete olemasolust või nende puudumisest;
-2) isikuandmete 
- töötlemise eesmärgist ja õiguslikust alusest;
-3) isikuandmete 
- koosseisust ja allikast;
-4) kolmandatest isikutest või nende 
- kategooriatest, kellele isikuandmete üleandmine on lubatud;
-5) vastutava 
- töötleja või tema esindaja nimest ja aadressist.
- 
- 
-
-
- (2) Isikul on õigus saada vastutavalt töötlejalt enda kohta käivaid 
- isikuandmeid.
- 
- 
-
-
- (3) Isikul on õigus saada vastutavalt töötlejalt enda kohta käivaid 
- isikuandmeid üks kord aastas tasuta. Edaspidi on isikul õigus saada enda 
- kohta käivaid isikuandmeid tasu eest. Tasu ei tohi ületada andmete 
- väljastamisega seotud kulusid.
- 
- 
-
-
- (4) Vastutav töötleja on kohustatud andma isikule teavet ja väljastama 
- nõutavad isikuandmed või põhjendama andmete või teabe andmisest 
- keeldumist vastavalt käesoleva seaduse §-le 25 15 tööpäeva jooksul, 
- arvates avalduse saamise päevast.
- 
- 
-
-
- § 23. Isiku nõue isikuandmete parandamiseks, 
- sulgemiseks, kustutamiseks
- 
- 
-
-
- (1) Isikul on õigus nõuda vastutavalt töötlejalt:
-1) ebaõigete 
- isikuandmete parandamist;
-2) isikuandmete sulgemist või nende 
- kustutamist, kui töötlemine ei ole vastavuses käesoleva seaduse, muude 
- seaduste ja nende alusel kehtestatud õigusaktidega.
- 
- 
-
-
- (2) Vastutav töötleja on ebaõigete isikuandmete parandamisest või 
- isikuandmete sulgemisest või kustutamisest kohustatud kohe teavitama 
- kolmandaid isikuid, kellele isikuandmeid on üle antud.
- 
- 
-
-
- (3) Vastutav töötleja ja kolmandad isikud on kohustatud kohe täitma 
- isiku õigustatud nõude, kui seaduses ei ole sätestatud teisiti.
- 
- 
-
-
- § 24. Isiku õigus keelata oma isikuandmete 
- üleandmine üldiseks kasutamiseks
- 
- 
-
-
- Isikul on õigus keelata oma isikuandmete üleandmine üldiseks 
- kasutamiseks, kui see ei ole vastavuses käesoleva seaduse, muude 
- seaduste ja nende alusel kehtestatud õigusaktidega.
- 
- 
-
-
- § 25. Teabe ja isikuandmete saamise õiguse erandid
- 
- 
-
-
- (1) Isiku õigust saada teavet enne isikuandmete kogumist vastavalt 
- käesoleva seaduse §-le 21 ning isiku õigust saada teavet ja enda kohta 
- käivaid isikuandmeid isikuandmete töötlemisel vastavalt käesoleva 
- seaduse §-le 22 piiratakse, kui see võib kahjustada:
-1) teiste 
- isikute õigusi ja vabadusi;
-2) lapse põlvnemise saladuse kaitset;
-3) kuriteo 
- tõkestamist või kurjategija tabamist;
-4) kriminaalmenetluses 
- tõe väljaselgitamist.
- 
- 
-
-
- (2) Otsuse andmete või teabe andmisest keeldumise kohta langetab 
- vastutav töötleja ja teatab sellest isikule.
- 
- 
-
-
- § 26. Isiku õigus pöörduda andmekaitse 
- järelevalveasutuse ja kohtu poole
- 
- 
-
-
- Isikul on õigus pöörduda andmekaitse järelevalveasutuse ja kohtu poole, 
- kui ta leiab, et isikuandmete töötlemisel rikutakse tema õigusi või 
- piiratakse tema vabadusi.
- 
- 
-
-
- 
- 
- 
- 6. peatükk. JÄRELEVALVE ISIKUANDMETE TÖÖTLEMISE ÜLE
- 
- 
-
-
- § 27. Järelevalve
- 
- 
-
-
- Käesoleva seaduse ja selle alusel kehtestatud õigusaktide nõuete 
- järgimist kontrollib andmekaitse järelevalveasutus.
- 
- 
-
-
- § 28. Nõuded andmekaitse järelevalveasutuse juhile
- 
- 
-
-
- (1) Andmekaitse järelevalveasutuse juhina võib töötada isik, kellel on 
- juriidiline kõrgharidus.
- 
- 
-
-
- (2) Andmekaitse järelevalveasutuse juhiks ei saa olla isik, kes on 
- vabastatud või välja heidetud mõnelt juriidilist kõrgharidust nõudvalt 
- töökohalt või ametist seoses sobimatusega edasitöötamiseks.
- 
- 
-
-
- (3) Andmekaitse järelevalveasutuse juht ei tohi ametisoleku ajal töötada 
- muudel palgalistel töö- või ametikohtadel.
- 
- 
-
-
- (4) Andmekaitse järelevalveasutuse juht on oma ülesannete täitmisel 
- sõltumatu ja tegutseb, lähtudes käesolevast seadusest, muudest 
- seadustest ja nende alusel kehtestatud õigusaktidest.
- 
- 
-
-
- § 29. Isikuandmete saladuses hoidmine
- 
- 
-
-
- Andmekaitse järelevalveasutuse töötaja on kohustatud hoidma saladuses 
- talle tööülesannete täitmisel teatavaks saanud ärisaladust ning 
- isikuandmeid ja seda ka pärast riigiga olnud teenistussuhete lõppemist.
- 
- 
-
-
- § 30. Andmekaitse järelevalveasutuse õigused ja kohustused
- 
- 
-
-
- (1) Andmekaitse järelevalveasutusel on õigus:
-1) kontrollida 
- käesoleva seaduse, muude seaduste ja nende alusel kehtestatud 
- õigusaktidega sätestatud isikuandmete töötlemise nõuete täitmist;
-2) registreerida 
- delikaatsete isikuandmete töötlemised käesolevas seaduses kehtestatud 
- korras;
-3) lahendada andmekaitse järelevalveasutusele seoses 
- isikuandmete töötlemisega esitatud avaldusi ja kaebusi;
-4) teha 
- käesoleva seaduse §-s 31 sätestatud korras ettekirjutusi;
-5) nõuda 
- isikutelt asjakohaseid dokumente ja muud vajalikku teavet;
-6) anda 
- isikutele teavet ja korraldada isikuandmete töötlemise ja kaitse alast 
- õpet.
- 
- 
-
-
- (2) Käesoleva paragrahvi lõikes 1 loetletud õigused on samaaegselt ka 
- andmekaitse järelevalveasutuse kohustused.
- 
- 
-
-
- (3) Andmekaitse järelevalveasutuse pädeval ametiisikul on õigus 
- kontrollimiseks takistamatult siseneda isikuandmeid töötleva isiku 
- ametiruumi.
- 
- 
-
-
- (4) Vastutav töötleja ja volitatud töötleja on kohustatud andma 
- andmekaitse järelevalveasutuse pädevale ametiisikule selgitusi ning 
- võimaldama juurdepääsu dokumentidele ja seadmetele, sealhulgas 
- salvestatud andmetele, ja andmetöötluseks kasutatavale tarkvarale, kui 
- see on vajalik isikuandmete töötlemise kontrollimiseks.
- 
- 
-
-
- § 31. Andmekaitse järelevalveasutuse ettekirjutused
- 
- 
-
-
- Andmekaitse järelevalveasutuse ametiisikul on õigus teha vastutavale 
- töötlejale ja volitatud töötlejale järgmisi kohustuslikke kirjalikke 
- ettekirjutusi:
-1) kõrvaldada määratud tähtajaks isikuandmete 
- töötlemise nõuete rikkumine;
-2) võtta määratud 
- tähtajaks kasutusele täiendavad isikuandmete kaitse organisatsioonilised 
- ja tehnilised abinõud;
-3) registreerida määratud tähtajaks 
- delikaatsete isikuandmete töötlemine.
- 
- 
-
-
- § 32. Vastutus käesoleva seaduse nõuete rikkumise eest
- 
- 
-
-
- Käesoleva seaduse nõuete rikkumise eest kannavad isikud distsiplinaar-, 
- haldus- või kriminaalvastutust seaduses ettenähtud korras.
- 
- 
-
-
- 
- 
- 
- 7. peatükk. LÕPPSÄTTED
- 
- 
-
-
- § 33. Haldusõiguserikkumiste seadustiku täiendamine
- 
- 
-
-
- Haldusõiguserikkumiste seadustikus (RT 1992, 29, 396; RT I 1995, 76–78, 
- 1345; 83, 1441; 1996, 3, 56 ja 57; 26, 528; 31, 631; 35, 714) tehakse 
- järgmised täiendused:
- 
- 
-
-
- 1) seadustikku täiendatakse §-ga 1831 
- järgmises sõnastuses:
- 
- 
-
-
- «§ 1831. Isikuandmete töötlemise nõuete rikkumine
- 
- 
-
-
- (1) Vastutava või volitatud töötleja ametiisiku poolt isikuandmete 
- töötlemise lubatavuse nõuete rikkumise või isikuandmete töötlemise 
- nõuete rikkumise või isikuandmete kaitse abinõude mittetäitmise eest – 
- määratakse rahatrahv kümne kuni kahesaja päevapalga ulatuses.
- 
- 
-
-
- (2) Vastutava töötleja pädeva ametiisiku poolt delikaatsete isikuandmete 
- töötlemise registreerimata jätmise eest andmekaitse 
- järelevalveasutuses – määratakse rahatrahv viiekümne kuni kahesaja 
- päevapalga ulatuses.
- 
- 
-
-
- (3) Vastutava või volitatud töötleja ametiisiku poolt isikuandmete 
- töötlemise kontrollimisel teadlikult ebaõigete andmete esitamise eest – 
- määratakse rahatrahv kuni kahesaja päevapalga ulatuses.
- 
- 
-
-
- (4) Isiku nõudmisel:
-1) ebaõigete isikuandmete parandamata 
- jätmise või
-2) ebaseaduslikult töödeldavate isikuandmete 
- sulgemata või kustutamata jätmise eest – määratakse rahatrahv kuni 
- kahekümne päevapalga ulatuses.
- 
- 
-
-
- (5) Isikuandmete töötlemisel muude isiku õiguste rikkumise eest – 
- määratakse rahatrahv kuni kahekümne päevapalga ulatuses.»;
- 
- 
-
-
- 2) paragrahvi 186 lõiget 1 täiendatakse pärast arvu «183» 
- arvuga «1831»;
- 
- 
-
-
- 3) paragrahvi 228 lõiget 1 täiendatakse punktiga 36 järgmises 
- sõnastuses:
- 
- 
-
-
- «36) andmekaitse järelevalveasutus – § 1831.».
- 
- 
-
-
- § 34. Seaduse rakendamine
- 
- 
-
-
- (1) Vabariigi Valitsusel moodustada 1997. aasta 1. jaanuariks 
- andmekaitse järelevalveasutus.
- 
- 
-
-
- (2) Vastutavad töötlejad on kohustatud ühe aasta jooksul viima 
- isikuandmete töötlemised vastavusse käesoleva seadusega ja registreerima 
- delikaatsete isikuandmete töötlemised käesolevas seaduses sätestatud 
- korras.
- 
- 
- 
-
-
-  
- 
- 
-  
- Riigikogu aseesimees Tunne KELAM
+Isikuandmete töötleja on kohustatud isikuandmete töötlemisel järgima järgmisi põhimõtteid:
+1) seaduslikkuse põhimõte – isikuandmeid võib koguda vaid ausal ja seaduslikul teel;
+2) eesmärgikohasuse põhimõte – isikuandmeid võib koguda üksnes määratletud ja õiguspäraste eesmärkide saavutamiseks ning neid ei või töödelda viisil, mis ei ole andmetöötluse eesmärkidega kooskõlas;
+3) minimaalsuse põhimõte – isikuandmeid võib koguda vaid ulatuses, mis on vajalik määratletud eesmärkide saavutamiseks;
+4) kasutuse piiramise põhimõte – isikuandmeid võib muudel eesmärkidel kasutada üksnes andmesubjekti nõusolekul või selleks pädeva organi loal;
+5) andmete kvaliteedi põhimõte – isikuandmed peavad olema ajakohased, täielikud ning vajalikud seatud andmetöötluse eesmärgi saavutamiseks;
+6) turvalisuse põhimõte – isikuandmete kaitseks tuleb rakendada turvameetmeid, et kaitsta neid tahtmatu või volitamata töötlemise, avalikuks tuleku või hävimise eest;
+7) individuaalse osaluse põhimõte – andmesubjekti tuleb teavitada tema kohta kogutavatest andmetest, talle tuleb võimaldada juurdepääs tema kohta käivatele andmetele ja tal on õigus nõuda ebatäpsete või eksitavate andmete parandamist.
+
+§ 7. Isikuandmete töötleja
+
+(1) Isikuandmete töötleja on füüsiline või juriidiline isik, välismaa äriühingu filiaal või riigi- või kohaliku omavalitsuse asutus, kes töötleb või kelle ülesandel töödeldakse isikuandmeid.
+
+(2) Isikuandmete töötleja määrab kindlaks:
+1) isikuandmete töötlemise eesmärgid;
+2) töödeldavate isikuandmete koosseisu;
+3) isikuandmete töötlemise korra ja viisi;
+4) isikuandmete kolmandatele isikutele edastamise lubamise.
+
+(3) Isikuandmete töötleja (edaspidi vastutav töötleja) võib haldusakti või lepinguga volitada isikuandmeid töötlema teist isikut või asutust (edaspidi volitatud töötleja), kui seadusest või määrusest ei tulene teisiti.
+
+(4) Vastutav töötleja annab volitatud töötlejale kohustuslikke juhiseid isikuandmete töötlemiseks ja vastutab selle eest, et volitatud töötleja täidab isikuandmete töötlemise nõudeid. Käesoleva paragrahvi lõikes 2 nimetatud nõuded määrab volitatud töötleja jaoks kindlaks vastutav töötleja.
+
+(5) Volitatud töötleja võib isikuandmete töötlemist edasi volitada üksnes vastutava töötleja kirjalikul nõusolekul ning tingimusel, et ei ületata volitatud töötleja volituste mahtu.
+
+(6) Väljaspool Euroopa Liitu tegutsev isikuandmete töötleja, kes kasutab isikuandmete töötlemiseks Eestis asuvaid seadmeid, on kohustatud määrama kindlaks Eestis asuva esindaja, välja arvatud käesoleva seaduse § 2 lõike 1 punktis 2 nimetatud juhul.
+
+§ 8. Andmesubjekt
+
+Andmesubjekt on isik, kelle isikuandmeid töödeldakse.
+
+§ 9. Kolmas isik
+
+Kolmas isik on füüsiline või juriidiline isik, välismaa äriühingu filiaal või riigi- või kohaliku omavalitsuse asutus, kes ei ole:
+1) isikuandmete töötleja ise;
+2) andmesubjekt;
+3) füüsiline isik, kes isikuandmete töötleja alluvuses töötleb isikuandmeid.
+
+2. peatükk
+ISIKUANDMETE TÖÖTLEMISE LUBATAVUS
+
+§ 10. Isikuandmete töötlemise lubatavus
+
+(1) Isikuandmete töötlemine on lubatud üksnes andmesubjekti nõusolekul, kui seadus ei sätesta teisiti.
+
+(2) Haldusorgan võib isikuandmeid töödelda üksnes avaliku ülesande täitmise käigus seaduse, välislepingu või Euroopa Liidu Nõukogu või Euroopa Komisjoni otsekohalduva õigusaktiga ettenähtud kohustuse täitmiseks.
+
+(3) Käesoleva seaduse § 2 lõikes 3 sätestatud isikuandmete töötlemise tingimused ja korra kehtestab Vabariigi Valitsus määrusega.
+
+§ 11. Isikuandmete avalikustamine
+
+(1) Kui andmesubjekt on oma isikuandmed avalikustanud ise, andnud käesoleva seaduse § 12 kohase nõusoleku nende avalikustamiseks või kui isikuandmed avalikustatakse seaduse, sealhulgas käesoleva paragrahvi lõike 2 alusel, siis ei kohaldata isikuandmete töötlemisele käesoleva seaduse teisi paragrahve.
+
+(2) Isikuandmeid võib ilma andmesubjekti nõusolekuta ajakirjanduslikul eesmärgil töödelda ja avalikustada meedias, kui selleks on ülekaalukas avalik huvi ning see on kooskõlas ajakirjanduseetika põhimõtetega. Andmete avalikustamine ei tohi ülemääraselt kahjustada andmesubjekti õigusi.
+
+(3) Andmesubjektil on õigus igal ajal nõuda isikuandmete avalikustajalt isikuandmete avalikustamise lõpetamist, välja arvatud juhul, kui avalikustamine toimub seaduse alusel või kooskõlas käesoleva paragrahvi lõikega 2 ning andmete jätkuv avalikustamine ei kahjusta ülemääraselt andmesubjekti õigusi. Isikuandmete avalikustajalt ei saa nõuda avalikustamise lõpetamist selliste andmekandjate suhtes, mille üle andmete avalikustajal puudub nõude esitamise ajal kontroll.
+
+(4) Andmesubjektil on õigus igal ajal nõuda avalikustatud isikuandmete töötlejalt isikuandmete töötlemise lõpetamist, kui seadus ei sätesta teisiti ja see on tehniliselt võimalik ega too kaasa ebaproportsionaalselt suuri kulutusi.
+
+(5) Lisaks käesoleva paragrahvi lõigetes 3 ja 4 sätestatule on andmesubjektil õigus esitada käesoleva seaduse §-des 21–23 sätestatud nõudeid.
+
+(6) Isikute krediidivõimelisuse hindamise või muul samasugusel eesmärgil kolmandatele isikutele edastamiseks mõeldud isikuandmete töötlemine on lubatud üksnes juhul, kui:
+1) kolmandal isikul on isikuandmete töötlemiseks õigustatud huvi;
+2) isikuandmete edastaja on tuvastanud kolmanda isiku õigustatud huvi, kontrollinud edastatavate andmete õigsust ning registreerinud andmeedastuse.
+
+(7) Käesoleva paragrahvi lõikes 6 nimetatud eesmärgil andmete kogumine ja kolmandatele isikutele edastamine ei ole lubatud, kui:
+1) tegemist on delikaatsete isikuandmetega;
+2) see kahjustaks ülemääraselt andmesubjekti õigustatud huve;
+3) lepingu rikkumisest on möödunud vähem kui 30 päeva;
+4) kohustuse rikkumise lõppemisest on möödunud rohkem kui kolm aastat.
+
+(8) Kui seadus ei sätesta teisiti, asendab avalikus kohas toimuva heli- või pildimaterjalina jäädvustamise puhul avalikustamise eesmärgil andmesubjekti nõusolekut tema teavitamine sellises vormis, mis võimaldab tal heli- või pildimaterjali jäädvustamise faktist aru saada ja enda jäädvustamist soovi korral vältida. Teavitamiskohustus ei kehti avalike ürituste puhul, mille avalikustamise eesmärgil jäädvustamist võib mõistlikult eeldada.
+
+§ 12. Andmesubjekti nõusolek isikuandmete töötlemiseks
+
+(1) Andmesubjekti tahteavaldus, millega ta lubab oma isikuandmeid töödelda (edaspidi nõusolek), kehtib üksnes juhul, kui see tugineb andmesubjekti vabal tahtel. Nõusolekus peavad olema selgelt määratletud andmed, mille töötlemiseks luba antakse, andmete töötlemise eesmärk ning isikud, kellele andmete edastamine on lubatud, samuti andmete kolmandatele isikutele edastamise tingimused ning andmesubjekti õigused tema isikuandmete edasise töötlemise osas. Vaikimist või tegevusetust nõusolekuks ei loeta. Nõusolek võib olla osaline ja tingimuslik.
+
+(2) Nõusolek peab olema kirjalikku taasesitamist võimaldavas vormis, välja arvatud juhul, kui vorminõude järgmine ei ole andmetöötluse erilise viisi tõttu võimalik. Kui nõusolek antakse koos teise tahteavaldusega, peab isiku nõusolek olema selgelt eristatav.
+
+(3) Enne andmesubjektilt isikuandmete töötlemiseks nõusoleku küsimist peab isikuandmete töötleja andmesubjektile teatavaks tegema isikuandmete töötleja või tema esindaja nime ning isikuandmete töötleja aadressi ja muud kontaktandmed. Kui isikuandmeid töötlevad vastutav töötleja ja volitatud töötleja, siis tehakse teatavaks või kättesaadavaks vastutava ja volitatud töötleja või nende esindajate nimed ning vastutava ja volitatud töötleja aadressid ja muud kontaktandmed.
+
+(4) Delikaatsete isikuandmete töötlemiseks tuleb isikule selgitada, et tegemist on delikaatsete isikuandmetega ning võtta selle kohta kirjalikku taasesitamist võimaldav nõusolek.
+
+(5) Andmesubjektil on õigus igal ajal keelata teda käsitlevate andmete töötlemine tarbijaharjumuste uurimiseks või otseturustuseks ja andmete üleandmine kolmandatele isikutele, kes soovivad neid kasutada tarbijaharjumuste uurimiseks või otseturustuseks.
+
+(6) Andmesubjekti nõusolek kehtib andmesubjekti eluajal ning 30 aastat pärast andmesubjekti surma, kui andmesubjekt ei ole otsustanud teisiti.
+
+(7) Nõusoleku võib andmesubjekt igal ajal tagasi võtta. Nõusoleku tagasivõtmisel ei ole tagasiulatuvat jõudu. Nõusoleku suhtes kohaldatakse täiendavalt tsiviilseadustiku üldosa seaduses tahteavalduse kohta sätestatut.
+
+(8) Vaidluse korral eeldatakse, et andmesubjekt ei ole oma isikuandmete töötlemiseks nõusolekut andnud. Andmesubjekti nõusoleku tõendamise kohustus on isikuandmete töötlejal.
+
+§ 13. Isikuandmete töötlemine pärast andmesubjekti surma
+
+(1) Pärast andmesubjekti surma on andmesubjekti isikuandmete töötlemine lubatud andmesubjekti pärija, abikaasa, alaneja või üleneja sugulase, õe või venna kirjalikul nõusolekul, välja arvatud juhul, kui isikuandmete töötlemiseks nõusolekut ei ole vaja, või juhul, kui andmesubjekti surmast on möödunud 30 aastat. Mitme pärija või muu käesolevas lõikes nimetatud isiku olemasolul on andmesubjekti isikuandmete töötlemine lubatud neist ükskõik kelle nõusolekul, kuid igaühel neist on õigus nimetatud nõusolek tagasi võtta.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud nõusolekut ei ole vaja, kui töödeldavateks isikuandmeteks on üksnes andmesubjekti nimi, sugu, sünni- ja surmaaeg ning surmafakt.
+
+§ 14. Isikuandmete töötlemine andmesubjekti nõusolekuta
+
+(1) Isikuandmete töötlemine on lubatud andmesubjekti nõusolekuta, kui isikuandmeid töödeldakse:
+1) seaduse alusel;
+2) välislepingu või Euroopa Liidu Nõukogu või Euroopa Komisjoni otsekohalduva õigusaktiga ettenähtud ülesande täitmiseks;
+3) üksikjuhtumil andmesubjekti või muu isiku elu, tervise või vabaduse kaitseks, kui andmesubjektilt ei ole võimalik nõusolekut saada;
+4) andmesubjektiga sõlmitud lepingu täitmiseks või lepingu täitmise tagamiseks, välja arvatud delikaatsete isikuandmete töötlemine.
+
+(2) Isikuandmete edastamine või nendele juurdepääsu võimaldamine andmete töötlemiseks kolmandale isikule on lubatud andmesubjekti nõusolekuta:
+1) kui kolmas isik, kellele andmed edastatakse, töötleb isikuandmeid seaduse, välislepingu või Euroopa Liidu Nõukogu või Euroopa Komisjoni otsekohalduva õigusaktiga ettenähtud ülesande täitmiseks;
+2) üksikjuhtumil andmesubjekti või muu isiku elu, tervise või vabaduse kaitseks, kui andmesubjektilt ei ole võimalik nõusolekut saada;
+3) kui kolmas isik taotleb teavet, mis on saadud või loodud seaduses või selle alusel antud õigusaktides sätestatud avalikke ülesandeid täites ja taotletav teave ei sisalda delikaatseid isikuandmeid ning sellele ei ole muul põhjusel kehtestatud juurdepääsupiirangut.
+
+(3) Isikute või vara kaitseks võib isikuandmeid edastavat või salvestavat jälgimisseadmestikku kasutada üksnes juhul, kui sellega ei kahjustata ülemääraselt andmesubjekti õigustatud huve ning kogutavaid andmeid kasutatakse ainult nende kogumise eesmärgist lähtuvalt. Andmesubjekti nõusolekut asendab sellise andmetöötluse korral jälgimisseadmestiku kasutamise fakti ning andmete töötleja nime ja kontaktandmete piisavalt selge teatavakstegemine. Nõue ei laiene jälgimisseadmestiku kasutamisele riigiasutuse poolt seaduses sätestatud alustel ja korras.
+14.11.2013 14:07
+Veaparandus - Parandatud ilmne ebatäpsus sõnas "eesmärgist" Riigi Teataja seaduse § 10 lõike 3 alusel arvestades Riigikogu Kantselei 14.11.2013 taotlust nr 4-14/13-24/11
+
+§ 15. Andmesubjekti teavitamine isikuandmete töötlemisest
+
+(1) Kui isikuandmete allikaks ei ole andmesubjekt, peab isikuandmete töötleja pärast isikuandmete saamist, parandamist või enne isikuandmete edastamist kolmandale isikule tegema andmesubjektile viivitamata teatavaks töödeldavate isikuandmete koosseisu ja allikad ning käesoleva seaduse § 12 lõikes 3 nimetatud andmed.
+
+(2) Andmesubjekti ei ole vaja tema isikuandmete töötlemisest teavitada:
+1) kui andmesubjekt on andnud nõusoleku oma isikuandmete töötlemiseks;
+2) kui andmesubjekt on käesoleva paragrahvi lõikes 1 nimetatud asjaoludest teadlik;
+3) kui isikuandmete töötlemine on ette nähtud seaduses, välislepingus või Euroopa Liidu Nõukogu või Euroopa Komisjoni otsekohalduvas õigusaktis;
+4) kui andmesubjekti teavitamine ei ole võimalik;
+5) käesoleva seaduse § 20 lõikes 1 sätestatud juhtudel.
+
+§ 16. Isikuandmete töötlemine teadusuuringu või riikliku statistika vajadusteks
+
+(1) Andmesubjekti nõusolekuta võib teadusuuringu või riikliku statistika vajadusteks töödelda andmesubjekti kohta käivaid andmeid üksnes kodeeritud kujul. Enne isikuandmete üleandmist teadusuuringu või riikliku statistika vajadustel töötlemiseks asendatakse isiku tuvastamist võimaldavad andmed koodiga. Tagasikodeerimine ja selle võimalus on lubatud ainult täiendavate teadusuuringute või riikliku statistika vajadusteks. Isikuandmete töötleja määrab nimeliselt isiku, kellel on ligipääs tagasikodeerimist võimaldavatele andmetele.
+
+(2) Andmesubjekti tuvastamist võimaldaval kujul on teadusuuringu või riikliku statistika vajadusteks andmesubjekti nõusolekuta tema kohta käivate andmete töötlemine lubatud üksnes juhul, kui pärast tuvastamist võimaldavate andmete eemaldamist ei oleks andmetöötluse eesmärgid enam saavutatavad või oleks nende saavutamine ebamõistlikult raske. Sellisel juhul võib andmesubjekti nõusolekuta isikuandmeid töödelda tingimusel, et selleks on teadusuuringu teostaja hinnangul ülekaalukas avalik huvi ning töödeldavate isikuandmete põhjal ei muudeta tema kohustuste mahtu ega kahjustata muul viisil ülemääraselt andmesubjekti õigusi.
+
+(3) Teadusuuringu või riikliku statistika vajadusteks isikuandmete töötlemine andmesubjekti nõusolekuta on lubatud, kui isikuandmete töötleja on isikuandmete kaitseks võtnud kasutusele piisavad organisatsioonilised, füüsilised ja infotehnilised turvameetmed, delikaatsete isikuandmete puhul on registreerinud nende töötlemise ning Andmekaitse Inspektsioon on enne isikuandmete töötlemise algust kontrollinud käesolevas paragrahvis sätestatud tingimuste täitmist, kuulates vastavas valdkonnas seaduse alusel loodud eetikakomitee olemasolu korral eelnevalt ära ka nimetatud eetikakomitee seisukoha.
+
+(4) Kogutud isikuandmeid on lubatud töödelda teadusuuringu või riikliku statistika vajadusteks, olenemata sellest, millisel eesmärgil neid isikuandmeid algselt koguti. Teadusuuringu või riikliku statistika vajadusteks kogutud isikuandmeid on kodeeritud kujul lubatud säilitada ka hilisemate teadusuuringute või riikliku statistika vajadusteks.
+
+§ 17. Automaatsed otsused
+
+(1) Andmetöötlussüsteemi poolt ilma andmesubjekti osaluseta otsuse (edaspidi automaatne otsus) tegemine, millega hinnatakse tema iseloomuomadusi, võimeid või muid isiksuseomadusi, kui see toob andmesubjektile kaasa õiguslikke tagajärgi või mõjutab teda muul viisil märkimisväärselt, on keelatud, välja arvatud järgmistel juhtudel:
+1) automaatne otsus andmesubjekti suhtes tehakse lepingu sõlmimise või täitmise käigus tingimusel, et andmesubjekti taotlus lepingu sõlmimiseks või täitmiseks rahuldatakse või talle on antud võimalus esitada tehtava otsuse suhtes vastuväide oma õigustatud huvi kaitseks;
+2) automaatse otsuse tegemine on ette nähtud seadusega, kui seaduses on sätestatud meetmed andmesubjekti õigustatud huvide kaitseks.
+
+(2) Andmesubjekti peab enne automaatse otsuse vastuvõtmist teavitama mõistetaval viisil automaatse otsuse vastuvõtmise aluseks olevast andmete töötlemise protsessist ja tingimustest.
+
+§ 18. Isikuandmete edastamine välisriiki
+
+(1) Isikuandmete edastamine Eestist on lubatud üksnes sellisesse riiki, kus on piisav andmekaitse tase.
+
+(2) Isikuandmete edastamine on lubatud Euroopa Liidu liikmesriiki ja Euroopa Majanduspiirkonna lepinguga ühinenud riiki, samuti riiki, mille isikuandmete kaitse taset on Euroopa Komisjon hinnanud piisavaks. Isikuandmete edastamine ei ole lubatud riiki, mille andmekaitse taset on Euroopa Komisjon hinnanud ebapiisavaks.
+
+(3) Välisriiki, mis ei vasta käesoleva paragrahvi lõikes 1 sätestatud tingimusele, võib isikuandmeid edastada üksnes Andmekaitse Inspektsiooni loal, kui:
+1) vastutav töötleja garanteerib konkreetsel juhul andmesubjekti õiguste ja eraelu puutumatuse kaitse selles riigis;
+2) konkreetsel isikuandmete edastamise juhul on selles riigis tagatud piisav andmekaitse tase. Andmekaitse taseme hindamisel tuleb arvesse võtta isikuandmete edastamisega seotud asjaolusid, sealhulgas andmete koosseisu, töötlemise eesmärke ja kestust, andmete edastamise siht- ja lõppriiki ning riigis kehtivat õigust.
+
+(4) Andmekaitse Inspektsioon informeerib Euroopa Komisjoni loa andmisest käesoleva paragrahvi lõikes 3 sätestatud alusel.
+
+(5) Välisriiki, mis ei vasta käesoleva paragrahvi lõikes 1 sätestatud tingimusele, võib isikuandmeid edastada Andmekaitse Inspektsiooni loata, kui:
+1) andmesubjekt on andnud selleks käesoleva seaduse § 12 kohase nõusoleku;
+2) isikuandmed edastatakse käesoleva seaduse § 14 lõike 2 punktides 2 ja 3 sätestatud juhtudel.
+
+3. peatükk
+ANDMESUBJEKTI ÕIGUSED
+
+§ 19. Andmesubjekti õigus saada teavet ja tema kohta käivaid isikuandmeid
+
+(1) Andmesubjekti soovil peab isikuandmete töötleja andmesubjektile teatavaks tegema:
+1) tema kohta käivad isikuandmed;
+2) isikuandmete töötlemise eesmärgid;
+3) isikuandmete koosseisu ja allikad;
+4) kolmandad isikud või nende kategooriad, kellele isikuandmete edastamine on lubatud;
+5) kolmandad isikud, kellele tema isikuandmeid on edastatud;
+6) isikuandmete töötleja või tema esindaja nime ning isikuandmete töötleja aadressi ja muud kontaktandmed.
+
+(2) Andmesubjektil on õigus saada isikuandmete töötlejalt enda kohta käivaid isikuandmeid. Isikuandmed väljastatakse võimaluse korral andmesubjekti soovitud viisil. Andmete väljastamise eest paberkandjal võib isikuandmete töötleja alates 21. leheküljest nõuda tasu kuni kolm krooni iga väljastatud lehekülje eest, kui seadusega ei ole teabe väljastamise eest riigilõivu ette nähtud.
+
+(3) Isikuandmete töötleja on kohustatud andma andmesubjektile teavet ja väljastama nõutavad isikuandmed või põhjendama andmete väljastamisest või teabe andmisest keeldumist avalduse saamise päevale järgneva viie tööpäeva jooksul. Seaduses võib andmesubjektile tema isikuandmete kohta teabe ja isikuandmete väljastamise korra suhtes näha ette erandi.
+
+(4) Pärast andmesubjekti surma on tema kohta käivate isikuandmete suhtes käesolevas peatükis sätestatud õigused andmesubjekti pärijal, abikaasal, alanejal või ülenejal sugulasel, õel või vennal.
+
+§ 20. Teabe ja isikuandmete saamise õiguse piirangud
+
+(1) Andmesubjekti õigust saada teavet ja enda kohta käivaid isikuandmeid isikuandmete töötlemisel piiratakse, kui see võib:
+1) kahjustada teise isiku õigusi ja vabadusi;
+2) ohustada lapse põlvnemise saladuse kaitset;
+3) takistada kuriteo tõkestamist või kurjategija tabamist;
+4) raskendada kriminaalmenetluses tõe väljaselgitamist.
+
+(2) Andmete või teabe andmisest keeldumise otsusest teavitab isikuandmete töötleja andmesubjekti. Kui isikuandmeid töötleb volitatud töötleja, otsustab andmete või teabe andmisest keeldumise vastutav töötleja.
+
+§ 21. Andmesubjekti õigus nõuda isikuandmete töötlemise lõpetamist ning isikuandmete parandamist, sulgemist ja kustutamist
+
+(1) Andmesubjektil on õigus oma isikuandmete töötlejalt nõuda ebaõigete isikuandmete parandamist.
+
+(2) Kui isikuandmete töötlemine ei ole seaduse alusel lubatud, on andmesubjektil õigus nõuda:
+1) isikuandmete töötlemise lõpetamist;
+2) isikuandmete avalikustamise või neile juurdepääsu võimaldamise lõpetamist;
+3) kogutud isikuandmete kustutamist või sulgemist.
+
+(3) Isikuandmete töötleja sooritab käesoleva paragrahvi lõigetes 1 ja 2 sätestatud toimingu andmesubjekti nõudel viivitamata, välja arvatud juhul, kui esinevad käesoleva seaduse § 20 lõikes 1 sätestatud asjaolud või kui andmesubjekti nõue on põhjendamatu. Isikuandmete töötleja teavitab andmesubjekti tema nõude rahuldamisest. Rahuldamata jätmist tuleb andmesubjektile põhjendada.
+
+§ 22. Andmesubjekti õigus pöörduda Andmekaitse Inspektsiooni ja kohtu poole
+
+Kui andmesubjekt leiab, et isikuandmete töötlemisel rikutakse tema õigusi, on tal õigus pöörduda Andmekaitse Inspektsiooni või kohtu poole, kui seaduses ei ole sätestatud teistsugust vaidlustamise korda.
+
+§ 23. Andmesubjekti õigus nõuda kahju hüvitamist
+
+Kui isikuandmete töötlemisel on rikutud andmesubjekti õigusi, on andmesubjektil õigus nõuda temale tekitatud kahju hüvitamist:
+1) riigivastutuse seaduses sätestatud alustel ja korras, kui õigusi rikuti avaliku ülesande täitmise käigus või
+2) võlaõigusseaduses sätestatud alustel ja korras, kui õigusi rikuti eraõiguslikus suhtes.
+
+4. peatükk
+ISIKUANDMETE TÖÖTLEMISE NÕUDED JA ISIKUANDMETE TURVAMEETMED
+
+§ 24. Isikuandmete töötlemise nõuded
+
+Isikuandmete töötleja on isikuandmete töötlemisel kohustatud:
+1) eesmärkide saavutamiseks mittevajalikud isikuandmed viivitamata kustutama või sulgema, kui seadus ei näe ette teisiti;
+2) tagama, et isikuandmed on õiged ja, kui see on eesmärkide saavutamiseks vajalik, viimases seisus;
+3) mittetäielikud ja ebaõiged isikuandmed sulgema ning nende täiendamiseks ja parandamiseks võtma viivitamata kasutusele vajalikud abinõud;
+4) ebaõiged andmed säilitama märkusega nende kasutamise aja kohta koos õigete andmetega;
+5) isikuandmed, mille õigsus on vaidlustatud, sulgema kuni andmete õigsuse kindlakstegemiseni või õigete andmete väljaselgitamiseni;
+6) isikuandmete parandamise korral viivitamata teavitama sellest kolmandaid isikuid, kellelt isikuandmed saadi või kellele isikuandmeid edastati, kui see on tehniliselt võimalik ega too kaasa ebaproportsionaalselt suuri kulutusi.
+
+§ 25. Isikuandmete organisatsioonilised, füüsilised ja infotehnilised turvameetmed
+
+(1) Isikuandmete töötleja on kohustatud kasutusele võtma organisatsioonilised, füüsilised ja infotehnilised turvameetmed isikuandmete kaitseks:
+1) andmete tervikluse osas – juhusliku või tahtliku volitamata muutmise eest;
+2) andmete käideldavuse osas – juhusliku hävimise ja tahtliku hävitamise eest ning õigustatud isikule andmete kättesaadavuse takistamise eest;
+3) andmete konfidentsiaalsuse osas – volitamata töötlemise eest.
+
+(2) Isikuandmete töötleja on isikuandmete töötlemisel kohustatud:
+1) vältima kõrvaliste isikute ligipääsu isikuandmete töötlemiseks kasutatavatele seadmetele;
+2) ära hoidma andmete omavolilist lugemist, kopeerimist ja muutmist andmetöötlussüsteemis, samuti andmekandjate omavolilist teisaldamist;
+3) ära hoidma isikuandmete omavolilist salvestamist, muutmist ja kustutamist ning tagama, et tagantjärele oleks võimalik kindlaks teha, millal, kelle poolt ja milliseid isikuandmeid salvestati, muudeti või kustutati või millal, kelle poolt ja millistele isikuandmetele andmetöötlussüsteemis juurdepääs saadi;
+4) tagama, et igal andmetöötlussüsteemi kasutajal oleks juurdepääs ainult temale töötlemiseks lubatud isikuandmetele ja temale lubatud andmetöötluseks;
+5) tagama andmete olemasolu isikuandmete edastamise kohta: millal, kellele ja millised isikuandmed edastati, samuti selliste andmete muutusteta säilimise;
+6) tagama, et isikuandmete edastamisel andmesidevahenditega ja andmekandjate transportimisel ei toimuks isikuandmete omavolilist lugemist, kopeerimist, muutmist või kustutamist;
+7) kujundama ettevõtte, asutuse või ühenduse töökorralduse niisuguseks, et see võimaldaks täita andmekaitse nõudeid.
+
+(3) Isikuandmete töötleja on kohustatud pidama arvestust isikuandmete töötlemisel kasutatavate tema kontrolli all olevate seadmete ja tarkvara üle, dokumenteerides järgmised andmed:
+1) seadme nimetus, tüüp ja asukoht ning seadme valmistaja nimi;
+2) tarkvara nimetus, versioon, valmistaja nimi ja kontaktandmed.
+
+§ 26. Isikuandmeid töötlevatele isikutele esitatavad nõuded
+
+(1) Füüsiline isik, kes isikuandmete töötleja alluvuses töötleb isikuandmeid, on kohustatud neid töötlema käesolevas seaduses lubatud eesmärkidel ja tingimustel ning vastutava töötleja antud juhiste ja korralduste kohaselt.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud isik on kohustatud hoidma saladuses talle tööülesannete täitmisel teatavaks saanud isikuandmeid ka pärast töötlemisega seotud tööülesannete täitmist või töö- või teenistussuhte lõppemist.
+
+(3) Isikuandmete töötleja on kohustatud tagama oma alluvuses isikuandmeid töötlevate isikute väljaõppe isikuandmete kaitse alal.
+
+5. peatükk
+DELIKAATSETE ISIKUANDMETE TÖÖTLEMISE REGISTREERIMINE
+
+§ 27. Delikaatsete isikuandmete töötlemise registreerimise kohustus
+
+(1) Kui isikuandmete töötleja ei ole määranud kindlaks käesoleva seaduse §-s 30 sätestatud isikuandmete kaitse eest vastutavat isikut, on isikuandmete töötleja kohustatud registreerima delikaatsete isikuandmete töötlemise Andmekaitse Inspektsioonis. Kui isikuandmeid töötleb volitatud töötleja, esitab käesolevas peatükis sätestatud taotlusi vastutav töötleja.
+
+(2) Isiku majandustegevust ei registreerita ega anta talle tegevusluba või litsentsi tegevusalal, millega kaasneb delikaatsete isikuandmete töötlemine, kui isikuandmete töötleja ei ole registreerinud delikaatsete isikuandmete töötlemist Andmekaitse Inspektsioonis või määranud isikuandmete kaitse eest vastutavat isikut.
+
+(3) Delikaatsete isikuandmete töötlemine registreeritakse viieks aastaks. Isikuandmete töötleja on kohustatud vähemalt kolm kuud enne registreeringu tähtaja möödumist esitama uue registreerimistaotluse.
+
+(4) Delikaatsete isikuandmete töötlemine on keelatud, kui:
+1) Andmekaitse Inspektsioon ei ole delikaatsete isikuandmete töötlemist registreerinud, välja arvatud käesoleva seaduse § 30 lõikes 1 nimetatud juhul;
+2) delikaatsete isikuandmete töötlemise registreeringu tähtaeg on möödunud;
+3) Andmekaitse Inspektsioon on delikaatsete isikuandmete töötlemise peatanud või keelanud.
+
+(5) Andmekaitse Inspektsioon keeldub delikaatsete isikuandmete töötlemise registreerimisest, kui:
+1) töötlemiseks puudub seaduslik alus;
+2) töötlemise tingimus ei vasta käesolevas seaduses, muus seaduses või selle alusel kehtestatud õigusaktis sätestatud nõudele;
+3) rakendatud isikuandmete organisatsioonilised, füüsilised ja infotehnilised turvameetmed ei taga käesoleva seaduse §-s 25 sätestatud nõuete täitmist.
+
+§ 28. Registreerimistaotlus
+
+(1) Registreerimistaotlus esitatakse Andmekaitse Inspektsioonile isikuandmete töötlejate registrisse kandmiseks vähemalt üks kuu enne delikaatsete isikuandmete töötlemise algust.
+
+(2) Registreerimistaotluses esitatakse:
+1) isikuandmete töötleja, sealhulgas volitatud töötleja nimi, registri- või isikukood, tegevuskoht, asu- või elukoht ja muud kontaktandmed;
+2) viide isikuandmete töötlemise õiguslikule alusele;
+3) isikuandmete töötlemise eesmärgid;
+4) isikuandmete koosseis;
+5) isikute kategooriad, kelle andmeid töödeldakse;
+6) isikuandmete allikad;
+7) isikud või nende kategooriad, kellele isikuandmete edastamine on lubatud;
+8) isikuandmete töötlemise koht või kohad;
+9) isikuandmete välisriiki edastamise tingimused;
+10) käesoleva seaduse § 25 lõikes 2 nimetatud isikuandmete organisatsiooniliste, füüsiliste ja infotehniliste turvameetmete üksikasjalik kirjeldus;
+11) käesoleva seaduse § 16 lõike 3 alusel antud eetikakomitee seisukoht, kui see on olemas.
+
+§ 29. Registreerimistaotluse menetlus
+
+(1) Andmekaitse Inspektsioon otsustab delikaatsete isikuandmete töötlemise registreerimise või registreerimisest keeldumise 20 tööpäeva jooksul registreerimistaotluse esitamise päevast arvates.
+
+(2) Andmekaitse Inspektsioon võib kohapeal kontrollida valmisolekut delikaatsete isikuandmete töötlemiseks. Sel juhul pikeneb registreerimistaotluse lahendamise tähtaeg kümne tööpäeva võrra. Kontrollimise tulemusena võib Andmekaitse Inspektsioon anda soovitusi isikuandmete organisatsiooniliste, füüsiliste ja infotehniliste turvameetmete rakendamiseks ja tõhustamiseks.
+
+(3) Isikuandmete töötleja õigus delikaatsete isikuandmete töötlemiseks tekib käesoleva paragrahvi lõikes 1 nimetatud otsuses määratud tähtpäevast. Kui otsuses on tähtpäev määramata, on isikuandmete töötlejal delikaatsete isikuandmete töötlemise õigus alates tema isikuandmete töötlejate registrisse kandmisele järgnevast päevast.
+
+(4) Delikaatsete isikuandmete töötlemise registreerimise otsus loetakse vastutavale töötlejale kättetoimetatuks Andmekaitse Inspektsiooni veebilehel avalikustamisega. Registreerimisest keeldumise otsuse kohta tehakse märge isikuandmete töötlejate registrisse ning otsus tehakse taotlejale teatavaks selle kättetoimetamisega.
+
+(5) Isikuandmete töötleja on kohustatud isikuandmete töötlejate registrisse kantavate andmete muutmise või täiendamise registreerima Andmekaitse Inspektsioonis. Andmete muutmise või täiendamise registreerimisele kohaldatakse isikuandmete töötlemise registreerimise tähtaegade kohta sätestatut.
+
+§ 30. Isikuandmete kaitse eest vastutav isik
+
+(1) Isikuandmete töötleja ei ole kohustatud registreerima delikaatsete isikuandmete töötlemist Andmekaitse Inspektsioonis, kui ta on määranud isikuandmete kaitse eest vastutava isiku. Isikuandmete kaitse eest vastutava isiku määramisest ja tema volituste lõppemisest tuleb viivitamata teavitada Andmekaitse Inspektsiooni. Isikuandmete kaitse eest vastutava isiku määramisel tuleb Andmekaitse Inspektsioonile teatada tema nimi ja kontaktandmed.
+
+(2) Isikuandmete kaitse eest vastutav isik on oma tegevuses sõltumatu isikuandmete töötlejast ning kontrollib, et isikuandmete töötleja töötleb isikuandmeid käesoleva seaduse ja teiste õigusaktide kohaselt.
+
+(3) Isikuandmete kaitse eest vastutav isik peab isikuandmete töötleja andmetöötlemiste registrit, milles peavad sisalduma käesoleva seaduse § 28 lõike 2 punktides 1–7 nimetatud andmed.
+
+(4) Kui isikuandmete kaitse eest vastutav isik on isikuandmete töötlejat teavitanud avastatud rikkumisest isikuandmete töötlemisel ning isikuandmete töötleja ei võta viivitamata tarvitusele meetmeid rikkumise kõrvaldamiseks, teavitab isikuandmete kaitse eest vastutav isik avastatud rikkumisest Andmekaitse Inspektsiooni.
+
+(5) Kui isikuandmete kaitse eest vastutav isik kahtleb, millised nõuded on isikuandmete töötlemisele kohaldatavad või milliseid turvameetmeid tuleb isikuandmete töötlemisel rakendada, peab ta enne isikuandmete töötlemise alustamist küsima selle kohta Andmekaitse Inspektsiooni arvamust.
+
+§ 31. Isikuandmete töötlejate ja isikuandmete kaitse eest vastutavate isikute register
+
+(1) Isikuandmete töötlejate ja isikuandmete kaitse eest vastutavate isikute register on Andmekaitse Inspektsiooni peetav andmekogu, kus registreeritakse delikaatsete isikuandmete töötlemise registreerimist ja isikuandmete kaitse eest vastutavate isikute määramist puudutavad andmed.
+
+(2) Andmekaitse Inspektsioonile esitatud isikuandmete organisatsioonilisi, füüsilisi ja infotehnilisi turvameetmeid käsitlev teave, samuti teave isikuandmete sulgemise, kustutamise ja hävitamise tingimuste kohta on asutusesiseseks kasutamiseks mõeldud teave.
+
+(3) Register on Andmekaitse Inspektsiooni veebilehe vahendusel avalikult kasutatav, välja arvatud käesoleva paragrahvi lõikes 2 nimetatud teave ning teave, mis käsitleb isikuandmete töötlemist julgeolekuasutustes.
+
+(4) Registriandmetel on informatiivne tähendus. Delikaatsete isikuandmete töötlemise registreerimist kajastavatel kannetel on õiguslik tähendus.
+
+(5) Käesoleva paragrahvi lõikes 1 sätestatud registri pidamise korra kehtestab Vabariigi Valitsus.
+
+6. peatükk
+JÄRELEVALVE
+
+§ 32. Järelevalve
+
+(1) Käesoleva seaduse ja selle alusel kehtestatud õigusaktide järgimist kontrollib Andmekaitse Inspektsioon.
+
+(2) Andmekaitse Inspektsioon on käesolevast seadusest tulenevate ülesannete täitmisel sõltumatu ja tegutseb, lähtudes käesolevast seadusest, muudest seadustest ja nende alusel kehtestatud õigusaktidest.
+
+(3) Isikuandmeid sisaldava riigisaladuse töötlemise üle teostab järelevalvet Andmekaitse Inspektsioon käesoleva seaduse § 2 lõikes 3 sätestatud juhtudel ja ulatuses.
+
+§ 33. Andmekaitse Inspektsiooni ülesanded
+
+(1) Andmekaitse Inspektsioon:
+1) kontrollib käesolevas seaduses sätestatud nõuete täitmist;
+2) rakendab seadustes ettenähtud alustel, ulatuses ja korras haldussundi;
+3) algatab vajaduse korral väärteomenetluse ja kohaldab karistust;
+4) teeb koostööd rahvusvaheliste andmekaitse järelevalve organisatsioonidega ja välisriikide andmekaitse järelevalve asutuste ning välisriikide muude pädevate asutuste või isikutega;
+5) annab soovituslikke juhiseid käesoleva seaduse rakendamiseks;
+6) täidab muid seadustest tulenevaid ülesandeid.
+
+(2) Andmekaitse Inspektsioonil on oma ülesannete täitmisel kõik käesolevas seaduses ning selle alusel antud õigusaktides sätestatud õigused, sealhulgas õigus:
+1) peatada isikuandmete töötlemine;
+2) nõuda ebaõigete isikuandmete parandamist;
+3) keelata isikuandmete töötlemine;
+4) nõuda isikuandmete sulgemist või töötlemise lõpetamist, sealhulgas hävitamist või edastamist arhiivi;
+5) rakendada isiku õiguste ja vabaduste kahjustamise ärahoidmiseks vajaduse korral asendustäitmise ja sunniraha seaduses sätestatud korras viivitamata isikuandmete kaitseks organisatsioonilisi, füüsilisi ja infotehnilisi turvameetmeid, välja arvatud juhul, kui isikuandmeid töötleb riigiasutus;
+6) nõuda isikutelt asjakohaseid dokumente ja muud vajalikku teavet ning teha dokumentidest koopiaid.
+
+(3) Käesoleva paragrahvi lõike 2 punktides 1, 3 ja 4 sätestatut kohaldatakse riigiasutuse suhtes üksnes juhul, kui kohaldamata jätmine tooks kaasa andmesubjekti õiguste olulise kahjustamise.
+
+(4) Andmekaitse Inspektsiooni pädeval ametiisikul on õigus kontrollimiseks takistamatult siseneda isikuandmete töötleja territooriumile või ruumi, saada juurdepääs isikuandmete töötleja dokumentidele ja seadmetele, samuti salvestatud andmetele ning andmetöötluseks kasutatavale tarkvarale.
+
+(5) Andmekaitse Inspektsioon võib järelevalvemenetluse algatada kaebuse alusel või omal algatusel.
+
+§ 34. Andmekaitse Inspektsiooni juhile esitatavad nõuded
+
+(1) Andmekaitse Inspektsiooni juhina võib töötada juhtimiskogemusega kõrgharidusega isik, kellel on piisavad teadmised isikuandmete kaitse õiguslikust regulatsioonist ja infosüsteemidest.
+
+(2) Andmekaitse Inspektsiooni juhiks ei saa olla isik, kes on süüdi mõistetud tahtliku kuriteo toimepanemise eest või vabastatud kõrgharidust nõudvalt töökohalt või ametist seoses sobimatusega ametikohal edasi töötada.
+
+(3) Andmekaitse Inspektsiooni juht ei tohi ametisoleku ajal osaleda erakondade tegevuses, töötada muudel palgalistel töö- või ametikohtadel, välja arvatud pedagoogiline ja teadustöö.
+
+§ 35. Andmekaitse Inspektsiooni juhi kandidaadi julgeolekukontroll
+
+(1) Andmekaitse Inspektsiooni juhi kandidaat peab enne Andmekaitse Inspektsiooni juhiks nimetamist läbima julgeolekukontrolli, välja arvatud juhul, kui tal on kehtiv juurdepääsuluba täiesti salajase taseme riigisaladusele juurdepääsuks või kui ta on kandidaadiks saamise ajal ametikohal, millel on ametikohajärgne õigus juurdepääsuks kõigile riigisaladuse tasemetele.
+
+(2) Andmekaitse Inspektsiooni juhi kandidaadi julgeolekukontrolli teostab Kaitsepolitseiamet julgeolekuasutuste seaduses ettenähtud korras.
+
+(3) Julgeolekukontrolli läbimiseks täidab Andmekaitse Inspektsiooni juhi kandidaat riigisaladusele juurdepääsu loa taotleja ankeedi ja allkirjastab nõusoleku, millega lubab julgeolekukontrolli teostaval asutusel saada julgeolekukontrolli teostamise ajal enda kohta teavet füüsilistelt ja juriidilistelt isikutelt ning riigi- ja kohaliku omavalitsuse asutustelt ja organitelt, ning esitab need Justiitsministeeriumi kaudu Kaitsepolitseiametile.
+
+(4) Kaitsepolitseiamet edastab julgeolekukontrolli tulemusena kogutud andmed justiitsministrile kolme kuu jooksul arvates käesoleva paragrahvi lõikes 3 nimetatud dokumentide saamisest, lisades oma arvamuse Andmekaitse Inspektsiooni juhi kandidaadi vastavuse kohta riigisaladusele juurdepääsu loa saamise tingimustele.
+
+(5) Kui Andmekaitse Inspektsiooni juhi volitused on lõppenud ennetähtaegselt, tuleb julgeolekukontroll Andmekaitse Inspektsiooni juhi kandidaadi suhtes teostada ühe kuu jooksul arvates käesoleva paragrahvi lõikes 3 nimetatud dokumentide saamisest. Vabariigi Valitsuse julgeolekukomisjoni loal võib julgeolekukontrolli teostamise tähtaega pikendada ühe kuu võrra, kui esineb riigisaladuse ja salastatud välisteabe seaduse § 33 lõike 4 punktis 1 või 2 nimetatud asjaolu või on ühe kuu jooksul võimalik punktis 3 või 4 nimetatud asjaolu ilmnemine.
+
+(6) Teostatud julgeolekukontrolli käigus kogutud andmetele tuginedes võib Andmekaitse Inspektsiooni juhi kandidaadi ametisse nimetada üheksa kuu jooksul arvates ajast, kui Kaitsepolitseiamet julgeolekukontrolli käigus kogutud teabe justiitsministrile edastas. Nimetatud tähtajast hiljem võib Andmekaitse Inspektsiooni juhi kandidaadi ametisse nimetada pärast uue julgeolekukontrolli läbimist.
+
+§ 36. Andmekaitse Inspektsiooni juhi ametisse nimetamine ja ametist vabastamine
+
+(1) Andmekaitse Inspektsiooni juhi nimetab justiitsministri ettepanekul viieks aastaks ametisse Vabariigi Valitsus, olles eelnevalt ära kuulanud Riigikogu põhiseaduskomisjoni seisukoha.
+
+(2) Andmekaitse Inspektsiooni peadirektori võib ametist vabastada:
+1) omal soovil;
+2) ametiaja lõppemise tõttu;
+3) distsiplinaarsüüteo eest;
+4) pikaajalise töövõimetuse tõttu;
+5) süüdimõistva kohtuotsuse jõustumisel;
+6) kui ilmneb asjaolu, mis seaduse kohaselt välistab isiku peadirektoriks nimetamise.
+
+(3) Andmekaitse Inspektsiooni juhi vabastab ametist Vabariigi Valitsus justiitsministri ettepanekul, olles eelnevalt ära kuulanud Riigikogu põhiseaduskomisjoni seisukoha. Riigikogu põhiseaduskomisjoni seisukoha küsimine ei ole vajalik, kui vabastamine toimub käesoleva paragrahvi lõike 2 punktide 1, 2, 5 või 6 alusel. Kui Riigikogu põhiseaduskomisjoni seisukohaga ei arvestata, peab seda põhjendama.
+
+§ 37. Andmekaitse Inspektsiooni ametniku kohustused
+
+Andmekaitse Inspektsiooni ametnik on kohustatud:
+1) juhinduma käesolevast seadusest, muudest seadustest ja nende alusel kehtestatud õigusaktidest;
+2) hoidma saladuses talle tööülesannete täitmisel teatavaks saanud juurdepääsupiiranguga teavet ning isikuandmeid tähtajatult;
+3) esitama kontrollitava isiku nõudmisel ametitõendi;
+4) koostama järelevalve tulemuse kohta kontrollakti;
+5) selgitama isikuandmete töötlemise nõuete rikkumise korral isikuandmete töötlejale või tema esindajale õigusaktide rikkumise olemust ning nõudma rikkumise lõpetamist;
+6) tegema isikuandmete töötlemise nõuete rikkumise korral ettekirjutuse või algatama väärteomenetluse.
+
+§ 38. Kaebuse läbivaatamise tähtaeg
+
+(1) Andmekaitse Inspektsioon lahendab kaebuse 30 päeva jooksul kaebuse Andmekaitse Inspektsioonile esitamisest arvates.
+
+(2) Kaebuse lahendamiseks vajalike asjaolude täiendavaks selgitamiseks võib Andmekaitse Inspektsioon kaebuse läbivaatamise tähtaega pikendada kuni 60 päeva võrra. Tähtaja pikendamisest tuleb kaebuse esitajale kirjalikult teatada.
+
+§ 39. Kontrollakt
+
+(1) Isikuandmete töötlemise nõuete täitmise kontrollimise kohta koostatakse kontrollakt.
+
+(2) Kontrollaktis märgitakse:
+1) akti koostanud isiku ees- ja perekonnanimi ning ametinimetus;
+2) akti adressaadi ees- ja perekonnanimi ning aadress või juriidilise isiku nimi ja postiaadress;
+3) kontrolltoimingu sisu (õiguslik alus, tuvastatud asjaolud, vastutava või volitatud töötleja või tema esindaja selgitused ja muud asjas tähtsust omavad asjaolud);
+4) akti koostamise aeg ja koht;
+5) akti koostanud isiku allkiri.
+
+§ 40. Andmekaitse Inspektsiooni ettekirjutus
+
+(1) Käesoleva seaduse täitmise tagamiseks on Andmekaitse Inspektsiooni ametiisikul õigus teha isikuandmete töötlejale ettekirjutusi ja vastu võtta otsuseid.
+
+(2) Käesoleva paragrahvi lõikes 1 nimetatud ettekirjutuse mittetäitmisel võib Andmekaitse Inspektsioon rakendada sunniraha asendustäitmise ja sunniraha seaduses sätestatud korras. Sunniraha ülemmäär on 150 000 krooni. Sunniraha ei rakendata riigiasutuse suhtes.
+
+(3) Andmekaitse Inspektsiooni otsused ja ettekirjutused isikuandmete töötlemise õiguse peatamise, lõpetamise ning keelamise kohta kantakse isikuandmete töötlejate registrisse.
+
+(4) Kui riigiasutusest isikuandmete töötleja ei ole Andmekaitse Inspektsiooni ettekirjutust selles määratud tähtaja jooksul täitnud, pöördub Andmekaitse Inspektsioon halduskohtumenetluse seadustikus sätestatud korras protestiga halduskohtusse.
+
+§ 41. Andmekaitse Inspektsiooni ettekanne käesoleva seaduse täitmise kohta
+
+(1) Andmekaitse Inspektsioon esitab iga aasta 1. aprilliks käesoleva seaduse täitmise kohta ettekande Riigikogu põhiseaduskomisjonile ja õiguskantslerile.
+
+(2) Ettekandes esitatakse ülevaade eelmise kalendriaasta olulisematest käesoleva seaduse täitmise ja rakendamisega seotud asjaoludest.
+
+(3) Ettekanne avalikustatakse Andmekaitse Inspektsiooni veebilehel.
+
+(4) Käesoleva paragrahvi lõikes 1 nimetatud korralisele ettekandele lisaks võib Andmekaitse Inspektsiooni juht esitada Riigikogu põhiseaduskomisjonile ettekandeid käesoleva seaduse täitmise üle teostatud järelevalve käigus ilmnenud oluliste, ulatusliku mõjuga või kiiret lahendamist vajavate probleemide kohta.
+
+7. peatükk
+VASTUTUS
+
+§ 42. Delikaatsete isikuandmete töötlemise registreerimiskohustuse ja isikuandmete välisriiki edastamise nõuete ning andmesubjekti teavitamise kohustuse rikkumine
+
+(1) Delikaatsete isikuandmete töötlemise registreerimiskohustuse, isikuandmete kaitse turvameetmete või isikuandmete töötlemise muude nõuete eiramise eest –
+
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahatrahviga kuni 500 000 krooni.
+
+(3) Käesolevas paragrahvis sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.
+
+(4) Käesolevas paragrahvis sätestatud väärtegude kohtuväline menetleja on Andmekaitse Inspektsioon.
+
+§ 43. Isikuandmete kaitse turvameetmete ja isikuandmete töötlemise nõuete rikkumine
+
+(1) Käesolevas seaduses ettenähtud isikuandmete kaitse turvameetmete või isikuandmete töötlemise muude nõuete rikkumise eest, kui isikule on rikkumise kõrvaldamiseks tehtud Andmekaitse Inspektsiooni poolt käesoleva seaduse § 40 alusel ettekirjutus ja seda ei ole täidetud, –
+
+karistatakse rahatrahviga kuni 300 trahviühikut.
+
+(2) Sama teo eest, kui selle on toime pannud juriidiline isik, –
+
+karistatakse rahatrahviga kuni 500 000 krooni.
+
+§ 44. Menetlus
+
+(1) Käesoleva seaduse §-des 42 ja 43 sätestatud väärtegudele kohaldatakse karistusseadustiku üldosa ja väärteomenetluse seadustiku sätteid.
+
+(2) Käesoleva seaduse §-des 42 ja 43 sätestatud väärtegude kohtuväline menetleja on Andmekaitse Inspektsioon.
+
+8. peatükk
+RAKENDUSSÄTTED
+
+§ 45. Seaduse rakendamine
+
+Enne käesoleva seaduse jõustumist kogutud isikuandmete töötlemine tuleb viia vastavusse käesoleva seadusega ühe aasta jooksul käesoleva seaduse jõustumisest arvates.
+
+§ 46. Isikuandmete kaitse seaduse kehtetuks tunnistamine
+
+Isikuandmete kaitse seadus (RT I 2003, 26, 158; 2007, 11, 53) tunnistatakse kehtetuks.
+
+§ 47. Advokatuuriseaduse muutmine
+
+Advokatuuriseaduse (RT I 2001, 36, 201; 2005, 71, 549) § 41 lõiget 1 täiendatakse punktiga 41 järgmises sõnastuses:
+
+« 41) töötlema lepingu või seaduse alusel saadud muu isiku kui kliendi isikuandmeid, sealhulgas delikaatseid isikuandmeid ilma nende isikute nõusolekuta, kui see on vajalik õigusteenuse osutamiseks».
+
+§ 48. Arhiiviseaduse muutmine
+
+Arhiiviseaduses (RT I 1998, 36/37, 552; 2004, 28, 188) tehakse järgmised muudatused:
+
+1) paragrahvi 40 lõiget 2 täiendatakse pärast sõnu «avaliku teabe seaduse» sõnadega «, isikuandmete kaitse seaduse»;
+
+2) paragrahvi 42 lõige 2 muudetakse ja sõnastatakse järgmiselt:
+
+« (2) Isikuandmeid sisaldavale arhivaalile on kolmandal isikul juurdepääs andmesubjekti kirjalikul nõusolekul. Juurdepääsu ei võimaldata nendele arhivaalis sisalduvatele isikuandmetele, millele juurdepääsuks isikul nõusolek puudub.»;
+
+3) paragrahvi 42 täiendatakse lõigetega 21 ja 22 järgmises sõnastuses:
+
+« (21) Pärast andmesubjekti surma on tema isikuandmeid sisaldavale arhivaalile juurdepääs andmesubjekti pärijal, abikaasal, alanejal ja ülenejal sugulasel, õel ja vennal või nende nõusolekul kolmandal isikul. Mitme pärija või muu käesolevas lõikes nimetatud isiku olemasolul on andmesubjekti isikuandmeid sisaldavale arhivaalile juurdepääs lubatud neist ükskõik kelle nõusolekul, kuid igaühel neist on õigus nimetatud nõusolek tagasi võtta. Nõusolekut ei ole vaja juhul, kui andmesubjekti surmast on möödunud 30 aastat või arhivaalis sisalduvateks isikuandmeteks on üksnes andmesubjekti nimi, sugu, sünni- ja surmaaeg ning surma fakt.
+
+(22) Käesoleva paragrahvi lõigetes 2 ja 21 sätestatud nõusolekut ei ole vaja isikuandmete kaitse seaduse § 14 lõigetes 1 ja 2 ning §-s 16 sätestatud juhtudel.»
+
+§ 49. Asendustäitmise ja sunniraha seaduse muutmine
+
+Asendustäitmise ja sunniraha seaduse (RT I 2001, 50, 283; 2005, 39, 308) § 5 lõiget 1 täiendatakse kolmanda lausega järgmises sõnastuses:
+
+«Sunnivahendit ei rakendata riigiasutuse suhtes.»
+
+§ 50. Digitaalallkirja seaduse muutmine
+
+Digitaalallkirja seaduse (RT I 2000, 26, 150; 2003, 88, 594) § 41 lõikes 3 asendatakse sõnad «andmekogude seaduses ja isikuandmete kaitse seaduses (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833)» sõnadega «avaliku teabe seaduses ning isikuandmete kaitse seaduses».
+
+§ 51. Eesti Haigekassa seaduse muutmine
+
+Eesti Haigekassa seaduse (RT I 2000, 57, 374; 2006, 56, 418) § 2 lõike 2 punkt 3 muudetakse ja sõnastatakse järgmiselt:
+
+« 3) peab ravikindlustushüvitiste võimaldamiseks ja käesolevast seadusest ning ravikindlustuse seadusest tulenevate muude ülesannete täitmiseks ravikindlustuse andmekogu kooskõlas isikuandmete kaitse seaduse ja avaliku teabe seadusega;».
+
+§ 52. Haldusmenetluse seaduse muutmine
+
+Haldusmenetluse seaduse (RT I 2001, 58, 354; 2005, 39, 308) § 7 lõikest 3 jäetakse välja sõnad «, sealhulgas eraelulised isikuandmed».
+
+§ 53. Karistusregistri seaduse muutmine
+
+Karistusregistri seaduses (RT I 1997, 87, 1467; 2006, 29, 224) tehakse järgmised muudatused:
+
+1) paragrahvist 13 jäetakse välja sõnad «andmekogude seaduses (RT I 1997, 28, 423) ja» ning isikuandmete kaitse seaduse avaldamismärge;
+
+2) seaduse neljandat peatükki täiendatakse §-ga 281 järgmises sõnastuses:
+
+« § 281. Isikuandmete avalikustamise lõpetamine
+
+Pärast isiku karistusandmete kustutamist karistusregistrist on isikul õigus isikuandmete kaitse seaduse § 21 lõike 2 punktis 2 ettenähtud korras nõuda avalikustatud kohtulahendites või muudes karistusregistrisse kandmise aluseks olnud ametnike avalikustatud otsustes oma nime asendamist initsiaalide või tähemärgiga. Käesolevas paragrahvis sätestatud õigust ei ole isikul, kes on süüdi mõistetud mõne karistusseadustiku §-des 89–93, 95–112 ja 114, § 133 lõikes 2, § 134 lõikes 2, §-s 135, §-des 141 ja 142, § 143 lõikes 2, §-des 145, 146, 175–179, 184, 185, 187, 237, 255, 256, 268, 394, 403–405, 414, 415 ja 418 sätestatud süüteo toimepanemise eest.»
+
+§ 54. Kindlustustegevuse seaduse muutmine
+
+Kindlustustegevuse seaduses (RT I 2004, 90, 616; 2007, 4, 20) tehakse järgmised muudatused:
+
+1) paragrahvi 54 lõige 2 muudetakse ja sõnastatakse järgmiselt:
+
+« (2) Kindlustusvõtjaga sõlmitud lepingu täitmiseks või lepingu täitmise tagamiseks on kindlustusandjal õigus töödelda kindlustusvõtja poolt määratud soodustatud või kindlustatud isiku järgmisi isikuandmeid ilma tema nõusolekuta:
+1) nimi;
+2) isikukood;
+3) elukohaandmed.»;
+
+2) paragrahvi 54 täiendatakse lõikega 21 järgmises sõnastuses:
+
+« (21) Pärast soodustatud või kindlustatud isiku muutmist või vastava kindlustuslepingu lõppemist on lõikes 2 toodud isikuandmete töötlemine ilma soodustatud või kindlustatud isiku nõusolekuta lubatud vaid lepingu täitmiseks, lepingu täitmise tagamiseks või kindlustusandjale seadusega pandud kohustuse täitmiseks.»;
+
+3) paragrahvi 136 lõige 2 tunnistatakse kehtetuks.
+
+§ 55. Krediidiasutuste seaduse muutmine
+
+Krediidiasutuste seaduses (RT I 1999, 23, 349; 2006, 63, 467) tehakse järgmised muudatused:
+
+1) paragrahvi 88 lõike 51 punkt 2 muudetakse ja sõnastatakse järgmiselt:
+
+« 2) krediidiasutusega samasse konsolideerimisgruppi kuuluvale finantseerimisasutusele ja teisele krediidiasutusele, kes vajab andmeid kliendi maksekohustuste täitmise ajaloo kohta krediidiriski kapitalinõuete arvutamiseks ja vastutustundliku laenamise põhimõtte rakendamiseks. Kliendi kohustuse rikkumisega seotud andmeid on lubatud edastada, kui kohustuse rikkumise lõppemisest ei ole möödunud rohkem kui seitse aastat ja kliendi kohustuse rikkumisega seotud isikuandmeid, kui kohustuse rikkumise lõppemisest ei ole möödunud rohkem kui viis aastat.»;
+
+2) paragrahvi 89 lõige 22 muudetakse ja sõnastatakse järgmiselt:
+
+« (22) Isikuandmete kaitse seaduse § 12 kohaselt isikuandmete töötlemiseks vajalik nõusolek võib sisalduda ka tüüptingimustes.»;
+
+3) paragrahvi 89 täiendatakse lõikega 23 järgmises sõnastuses:
+
+« (23) Tüüptingimusele, millega krediidiasutus jätab endale õiguse käesoleva paragrahvi lõikes 22 nimetatud tüüptingimust muuta, kohaldatakse võlaõigusseaduse § 43 lõikes 2 sätestatut. Tüüptingimuse muutmine loetakse andmesubjekti suhtes ebamõistlikuks eelkõige juhul, kui muudatusega antakse krediidiasutusele õigus töödelda isikuandmeid ulatuses, mida andmesubjekt ei võinud lepingu eesmärki arvestades mõistlikult oodata.»
+
+§ 56. Kutseseaduse muutmine
+
+Kutseseaduse (RT I 2001, 3, 7; 2003, 83, 559) § 11 lõikest 3 jäetakse välja sõnad «andmekogude seadusele (RT I 1997, 28, 423; 1998, 36/37, 552; 1999, 10, 155; 2000, 50, 317; 57, 373; 92, 597),» ning isikuandmete kaitse seaduse avaldamismärge.
+
+§ 57. Liikluskindlustuse seaduse muutmine
+
+Liikluskindlustuse seaduse (RT I 2001, 43, 238; 2006, 21, 163) § 66 lõike 3 teine lause muudetakse ja sõnastatakse järgmiselt:
+
+«Andmebaasi peetakse kooskõlas isikuandmete kaitse seaduse ja avaliku teabe seadusega.»
+
+§ 58. Põllumajandusloenduse seaduse muutmine
+
+Põllumajandusloenduse seaduse (RT I 2000, 35, 217) § 18 tekst muudetakse ja sõnastatakse järgmiselt:
+
+«Loenduse korraldamisel on riigi ja kohalike omavalitsuste andmekogude pidajad kohustatud Statistikaameti nõudmisel esitama riigi ja kohalike omavalitsuste andmekogudes olevaid loenduse korraldamiseks vajalikke andmeid kooskõlas isikuandmete kaitse seaduse, avaliku teabe seaduse ning nende alusel kehtestatud õigusaktidega.»
+
+§ 59. Rahapesu ja terrorismi rahastamise tõkestamise seaduse muutmine
+
+Rahapesu ja terrorismi rahastamise tõkestamise seaduse (RT I 1998, 110, 1811; 2007, 2, 7) §-st 20 jäetakse välja sõnad «andmekogude seaduses ja».
+
+§ 60. Rahvastikuregistri seaduse muutmine
+
+Rahvastikuregistri seaduse (RT I 2000, 50, 317; 2006, 26, 191) § 5 lõige 1 muudetakse ja sõnastatakse järgmiselt:
+
+« (1) Rahvastikuregistri pidamisele kohaldatakse isikuandmete kaitse seadust ning avaliku teabe seadust käesolevas seaduses sätestatud erisustega.»
+
+§ 61. Rahvatervise seaduse muutmine
+
+Rahvatervise seaduse (RT I 1995, 57, 978; 2007, 1, 1) § 8 lõike 1 punktis 12 asendatakse sõnad «isikuandmete kaitse seaduse (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317; 92, 597; 104, 685; 2001, 50, 283) ja andmekogude seadusega (RT I 1997, 28, 423; 1998, 36/37, 552; 1999, 10, 155; 2000, 50, 317; 57, 373; 92, 597; 2001, 7, 17; 17, 77)» sõnadega «isikuandmete kaitse seaduse ja avaliku teabe seadusega».
+
+§ 62. Ravikindlustuse seaduse muutmine
+
+Ravikindlustuse seaduse (RT I 2002, 62, 377; 2007, 4, 17) § 20 lõike 2 punktis 5 asendatakse sõnad «isikuandmete kaitse seaduse (RT I 1996, 48, 944; 1998, 59, 941; 111, 1833; 2000, 50, 317; 92, 597; 104, 685; 2001, 50, 283) §-le 22» sõnadega «isikuandmete kaitse seadusele ja avaliku teabe seadusele».
+
+§ 63. Riiklike peretoetuste seaduse muutmine
+
+Riiklike peretoetuste seaduse (RT I 2001, 95, 587; 2006, 55, 409) § 31 lõige 2 muudetakse ja sõnastatakse järgmiselt:
+
+« (2) Andmete kandmine registrisse ja andmete saamine registrist toimub vastavalt avaliku teabe seadusele ja isikuandmete kaitse seadusele.»
+
+§ 64. Riikliku pensionikindlustuse seaduse muutmine
+
+Riikliku pensionikindlustuse seaduse (RT I 2001, 100, 648; 2006, 49, 370) §-s 52 asendatakse sõnad «andmekogude seadusele» sõnadega «avaliku teabe seadusele» ning jäetakse välja isikuandmete kaitse seaduse ja rahvastikuregistri seaduse avaldamismärge.
+
+§ 65. Riikliku statistika seaduse muutmine
+
+Riikliku statistika seaduses (RT I 1997, 51, 822; 2004, 30, 204) tehakse järgmised muudatused:
+
+1) paragrahvi 41 lõike 1 esimesest lausest jäetakse välja sõna «eraelulisi,»;
+
+2) paragrahvi 41 lõige 4 muudetakse ja sõnastatakse järgmiselt:
+
+« (4) Riikliku statistilise vaatluse korraldajal on õigus töödelda isikuandmeid riikliku statistika tootmiseks isikuandmete kaitse seaduse §-s 16 ettenähtud alustel ja korras.»;
+
+3) paragrahvi 41 lõikest 6 jäetakse välja sõnad «vastutav ja volitatud»;
+
+4) paragrahvi 5 täiendatakse lõikega 4 järgmises sõnastuses:
+
+« (4) Kui riikliku statistilise vaatluse korraldamiseks kogutud andmed kodeeritakse isikuandmete kaitse seaduses ettenähtud juhtudel ja korras, tuleb taaskodeerimise võimalus säilitada vähemalt 100 aastat. Tuleb tagada taaskodeerimise metaandmestik ning selle arhiveerimine.»;
+
+5) paragrahvi 9 lõike 2 teine lause muudetakse ja sõnastatakse järgmiselt:
+
+«Andmesubjekti tuvastamist võimaldavaid andmeid võib andmesubjekti nõusolekuta edastada kooskõlas isikuandmete kaitse seaduse §-ga 16.»;
+
+6) paragrahvi 113 lõikes 3 asendatakse sõna «Andmekaitseinspektsioon» sõnadega «Andmekaitse Inspektsioon».
+
+§ 66. Taimede paljundamise ja sordikaitse seaduse muutmine
+
+Taimede paljundamise ja sordikaitse seaduse (RT I 2005, 70, 540; 2007, 6, 32) § 61 lõikes 2 asendatakse sõnad «isikuandmete kaitse seaduses nimetatud eraeluliste isikuandmete» sõnadega «seaduse alusel asutusesiseseks kasutamiseks tunnistatud andmete».
+
+§ 67. Tervishoiuteenuste korraldamise seaduse muutmine
+
+Tervishoiuteenuste korraldamise seadust (RT I 2001, 50, 284; 2006, 58, 439) täiendatakse §-ga 41 järgmises sõnastuses:
+
+« § 41. Isikuandmete töötlemine
+
+(1) Tervishoiuteenuse osutajal, kellel on seadusest tulenev saladuse hoidmise kohustus, on õigus andmesubjekti nõusolekuta töödelda tervishoiuteenuse osutamiseks vajalikke isikuandmeid, sealhulgas delikaatseid isikuandmeid.
+
+(2) Haiglas viibiva andmesubjekti terviseseisundit kajastavate andmete edastamine või nendele juurdepääs on lubatud tema lähedastele, välja arvatud juhul, kui
+1) andmesubjekt on andmetele juurdepääsu või nende edastamise keelanud;
+2) uurimist teostav organ on andmetele juurdepääsu või nende edastamise keelanud kuriteo tõkestamise, kurjategija tabamise või kriminaalmenetluses tõe väljaselgitamise huvides.»
+
+§ 68. Töötuskindlustuse seaduse muutmine
+
+Töötuskindlustuse seaduse (RT I 2001, 59, 359; 2006, 31, 236) § 35 lõike 4 teine lause muudetakse ja sõnastatakse järgmiselt:
+
+«Andmekogu pidamisele kohaldatakse isikuandmete kaitse seadust ja avaliku teabe seadust.»
+
+§ 69. Vanemahüvitise seaduse muutmine
+
+Vanemahüvitise seaduse (RT I 2003, 82, 549; 2006, 55, 409) § 8 lõige 4 muudetakse ja sõnastatakse järgmiselt:
+
+« (4) Andmete registrisse kandmisele ja registrist andmete saamisele kohaldatakse isikuandmete kaitse seadust ja avaliku teabe seadust.»
+
+§ 70. Vereseaduse muutmine
+
+Vereseaduse (RT I 2005, 13, 63; 2006, 27, 196) §-s 15 tehakse järgmised muudatused:
+
+1) lõike 2 esimene lause muudetakse ja sõnastatakse järgmiselt:
+
+«Vereteenistuse infosüsteemile ja selle pidamisele kohaldatakse avaliku teabe seaduses ja isikuandmete kaitse seaduses sätestatut käesolevas seaduses sätestatud erisustega.»;
+
+2) lõige 6 tunnistatakse kehtetuks.
+
+§ 71. Välismaalaste seaduse muutmine
+
+Välismaalaste seaduse (RT I 1993, 44, 637; 2007, 9, 44) § 174 lõikest 1 jäetakse välja sõnad «eraelulisi ja».
+
+§ 72. Välismaalasele rahvusvahelise kaitse andmise seaduse muutmine
+
+Välismaalasele rahvusvahelise kaitse andmise seaduse (RT I 2006, 2, 3; 2006, 21, 159) § 131 tekst muudetakse ja sõnastatakse järgmiselt:
+
+« (1) Käesolevas seaduses sätestatud menetlustes võivad Kodakondsus- ja Migratsiooniamet, piirivalveasutus, Sotsiaalministeerium ja tema valitsemisala asutused, esmane vastuvõtukeskus ning vastuvõtukeskus töödelda isikuandmeid, sealhulgas delikaatseid isikuandmeid ilma isiku nõusolekuta.
+
+(2) Välismaalane on kohustatud andma pädevatele haldusorganitele käesolevas seaduses sätestatud ülesannete täitmiseks lõikes 1 nimetatud andmeid.»
+
+§ 73. Seaduse jõustumine
+
+Käesolev seadus jõustub 2008. aasta 1. jaanuaril.
+
+1 Euroopa Parlamendi ja nõukogu direktiiv 95/46/EÜ üksikisikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise kohta (EÜT L 281, 23.11.1995, lk 31–50).
+
+	Riigikogu esimees Toomas VAREK
